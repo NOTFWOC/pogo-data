@@ -1,0 +1,4086 @@
+[
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 13,
+    "nameEng": "Wrap",
+    "nameFr": "Ligotage",
+    "nianticID": "WRAP",
+    "powerPVE": 60,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "NORMAL"
+  },
+  {
+    "id": 14,
+    "nameEng": "Hyper Beam",
+    "nameFr": "Ultralaser",
+    "nianticID": "HYPER_BEAM",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -80,
+    "type": "NORMAL"
+  },
+  {
+    "id": 16,
+    "nameEng": "Dark Pulse",
+    "nameFr": "Vibrobscur",
+    "nianticID": "DARK_PULSE",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 18,
+    "nameEng": "Sludge",
+    "nameFr": "Détritus",
+    "nianticID": "SLUDGE",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "POISON"
+  },
+  {
+    "id": 20,
+    "nameEng": "Vise Grip",
+    "nameFr": "Force Poigne",
+    "nianticID": "VICE_GRIP",
+    "powerPVE": 35,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "NORMAL"
+  },
+  {
+    "id": 21,
+    "nameEng": "Flame Wheel",
+    "nameFr": "Roue de Feu",
+    "nianticID": "FLAME_WHEEL",
+    "powerPVE": 55,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "FEU"
+  },
+  {
+    "id": 22,
+    "nameEng": "Megahorn",
+    "nameFr": "Mégacorne",
+    "nianticID": "MEGAHORN",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -55,
+    "type": "INSECTE"
+  },
+  {
+    "id": 24,
+    "nameEng": "Flamethrower",
+    "nameFr": "Lance-Flammes",
+    "nianticID": "FLAMETHROWER",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "FEU"
+  },
+  {
+    "id": 26,
+    "nameEng": "Dig",
+    "nameFr": "Tunnel",
+    "nianticID": "DIG",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -50,
+    "type": "SOL"
+  },
+  {
+    "id": 28,
+    "nameEng": "Cross Chop",
+    "nameFr": "Coup Croix",
+    "nianticID": "CROSS_CHOP",
+    "powerPVE": 50,
+    "energyDeltaPVE": -50,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "COMBAT"
+  },
+  {
+    "id": 30,
+    "nameEng": "Psybeam",
+    "nameFr": "Rafale Psy",
+    "nianticID": "PSYBEAM",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -60,
+    "type": "PSY"
+  },
+  {
+    "id": 31,
+    "nameEng": "Earthquake",
+    "nameFr": "Séisme",
+    "nianticID": "EARTHQUAKE",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -65,
+    "type": "SOL"
+  },
+  {
+    "id": 32,
+    "nameEng": "Stone Edge",
+    "nameFr": "Lame de Roc",
+    "nianticID": "STONE_EDGE",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 100,
+    "energyDeltaPVP": -55,
+    "type": "ROCHE"
+  },
+  {
+    "id": 33,
+    "nameEng": "Ice Punch",
+    "nameFr": "Poing Glace",
+    "nianticID": "ICE_PUNCH",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -40,
+    "type": "GLACE"
+  },
+  {
+    "id": 34,
+    "nameEng": "Heart Stamp",
+    "nameFr": "Crève-Cœur",
+    "nianticID": "HEART_STAMP",
+    "powerPVE": 40,
+    "energyDeltaPVE": -33,
+    "powerPVP": 40,
+    "energyDeltaPVP": -40,
+    "type": "PSY"
+  },
+  {
+    "id": 35,
+    "nameEng": "Discharge",
+    "nameFr": "Coup d’Jus",
+    "nianticID": "DISCHARGE",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -40,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 36,
+    "nameEng": "Flash Cannon",
+    "nameFr": "Luminocanon",
+    "nianticID": "FLASH_CANNON",
+    "powerPVE": 100,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -70,
+    "type": "ACIER"
+  },
+  {
+    "id": 38,
+    "nameEng": "Drill Peck",
+    "nameFr": "Bec Vrille",
+    "nianticID": "DRILL_PECK",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "VOL"
+  },
+  {
+    "id": 39,
+    "nameEng": "Ice Beam",
+    "nameFr": "Laser Glace",
+    "nianticID": "ICE_BEAM",
+    "powerPVE": 95,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "GLACE"
+  },
+  {
+    "id": 40,
+    "nameEng": "Blizzard",
+    "nameFr": "Blizzard",
+    "nianticID": "BLIZZARD",
+    "powerPVE": 130,
+    "energyDeltaPVE": -100,
+    "powerPVP": 140,
+    "energyDeltaPVP": -75,
+    "type": "GLACE"
+  },
+  {
+    "id": 42,
+    "nameEng": "Heat Wave",
+    "nameFr": "Canicule",
+    "nianticID": "HEAT_WAVE",
+    "powerPVE": 95,
+    "energyDeltaPVE": -100,
+    "powerPVP": 75,
+    "energyDeltaPVP": -45,
+    "type": "FEU"
+  },
+  {
+    "id": 45,
+    "nameEng": "Aerial Ace",
+    "nameFr": "Aéropique",
+    "nianticID": "AERIAL_ACE",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "VOL"
+  },
+  {
+    "id": 46,
+    "nameEng": "Drill Run",
+    "nameFr": "Tunnelier",
+    "nianticID": "DRILL_RUN",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "SOL"
+  },
+  {
+    "id": 47,
+    "nameEng": "Petal Blizzard",
+    "nameFr": "Tempête Florale",
+    "nianticID": "PETAL_BLIZZARD",
+    "powerPVE": 110,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -65,
+    "type": "PLANTE"
+  },
+  {
+    "id": 48,
+    "nameEng": "Mega Drain",
+    "nameFr": "Méga-Sangsue",
+    "nianticID": "MEGA_DRAIN",
+    "powerPVE": 25,
+    "energyDeltaPVE": -50,
+    "powerPVP": 25,
+    "energyDeltaPVP": -55,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 49,
+    "nameEng": "Bug Buzz",
+    "nameFr": "Bourdon",
+    "nianticID": "BUG_BUZZ",
+    "powerPVE": 95,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -60,
+    "type": "INSECTE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 50,
+    "nameEng": "Poison Fang",
+    "nameFr": "Crochet Venin",
+    "nianticID": "POISON_FANG",
+    "powerPVE": 30,
+    "energyDeltaPVE": -33,
+    "powerPVP": 45,
+    "energyDeltaPVP": -40,
+    "type": "POISON"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 51,
+    "nameEng": "Night Slash",
+    "nameFr": "Tranche-Nuit",
+    "nianticID": "NIGHT_SLASH",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -35,
+    "type": "TENEBRES"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 53,
+    "nameEng": "Bubble Beam",
+    "nameFr": "Bulles d’O",
+    "nianticID": "BUBBLE_BEAM",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 25,
+    "energyDeltaPVP": -40,
+    "type": "EAU"
+  },
+  {
+    "id": 54,
+    "nameEng": "Submission",
+    "nameFr": "Sacrifice",
+    "nianticID": "SUBMISSION",
+    "powerPVE": 55,
+    "energyDeltaPVE": -50,
+    "powerPVP": 60,
+    "energyDeltaPVP": -50,
+    "type": "COMBAT"
+  },
+  {
+    "id": 56,
+    "nameEng": "Low Sweep",
+    "nameFr": "Balayette",
+    "nianticID": "LOW_SWEEP",
+    "powerPVE": 40,
+    "energyDeltaPVE": -33,
+    "powerPVP": 40,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "id": 57,
+    "nameEng": "Aqua Jet",
+    "nameFr": "Aqua-Jet",
+    "nianticID": "AQUA_JET",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "EAU"
+  },
+  {
+    "id": 58,
+    "nameEng": "Aqua Tail",
+    "nameFr": "Hydro-Queue",
+    "nianticID": "AQUA_TAIL",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "EAU"
+  },
+  {
+    "id": 59,
+    "nameEng": "Seed Bomb",
+    "nameFr": "Canon Graine",
+    "nianticID": "SEED_BOMB",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -40,
+    "type": "PLANTE"
+  },
+  {
+    "id": 60,
+    "nameEng": "Psyshock",
+    "nameFr": "Choc Psy",
+    "nianticID": "PSYSHOCK",
+    "powerPVE": 60,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "PSY"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Défense attaquant": 1,
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 62,
+    "nameEng": "Ancient Power",
+    "nameFr": "Pouvoir Antique",
+    "nianticID": "ANCIENT_POWER",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "ROCHE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 63,
+    "nameEng": "Rock Tomb",
+    "nameFr": "Tomberoche",
+    "nianticID": "ROCK_TOMB",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 75,
+    "energyDeltaPVP": -50,
+    "type": "ROCHE"
+  },
+  {
+    "id": 64,
+    "nameEng": "Rock Slide",
+    "nameFr": "Éboulement",
+    "nianticID": "ROCK_SLIDE",
+    "powerPVE": 75,
+    "energyDeltaPVE": -50,
+    "powerPVP": 75,
+    "energyDeltaPVP": -45,
+    "type": "ROCHE"
+  },
+  {
+    "id": 65,
+    "nameEng": "Power Gem",
+    "nameFr": "Rayon Gemme",
+    "nianticID": "POWER_GEM",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 85,
+    "energyDeltaPVP": -50,
+    "type": "ROCHE"
+  },
+  {
+    "id": 66,
+    "nameEng": "Shadow Sneak",
+    "nameFr": "Ombre Portée",
+    "nianticID": "SHADOW_SNEAK",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 75,
+    "energyDeltaPVP": -50,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 67,
+    "nameEng": "Shadow Punch",
+    "nameFr": "Poing Ombre",
+    "nianticID": "SHADOW_PUNCH",
+    "powerPVE": 35,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "SPECTRE"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Défense attaquant": 1,
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 69,
+    "nameEng": "Ominous Wind",
+    "nameFr": "Vent Mauvais",
+    "nianticID": "OMINOUS_WIND",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 45,
+    "energyDeltaPVP": -45,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 70,
+    "nameEng": "Shadow Ball",
+    "nameFr": "Ball’Ombre",
+    "nianticID": "SHADOW_BALL",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -50,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 72,
+    "nameEng": "Magnet Bomb",
+    "nameFr": "Bombe Aimant",
+    "nianticID": "MAGNET_BOMB",
+    "powerPVE": 75,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -45,
+    "type": "ACIER"
+  },
+  {
+    "id": 74,
+    "nameEng": "Iron Head",
+    "nameFr": "Tête de Fer",
+    "nianticID": "IRON_HEAD",
+    "powerPVE": 60,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -50,
+    "type": "ACIER"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1
+      }
+    },
+    "id": 75,
+    "nameEng": "Parabolic Charge",
+    "nameFr": "Parabocharge",
+    "nianticID": "PARABOLIC_CHARGE",
+    "powerPVE": 70,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -50,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 77,
+    "nameEng": "Thunder Punch",
+    "nameFr": "Poing Éclair",
+    "nianticID": "THUNDER_PUNCH",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -40,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 78,
+    "nameEng": "Thunder",
+    "nameFr": "Fatal-Foudre",
+    "nianticID": "THUNDER",
+    "powerPVE": 100,
+    "energyDeltaPVE": -100,
+    "powerPVP": 100,
+    "energyDeltaPVP": -60,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 79,
+    "nameEng": "Thunderbolt",
+    "nameFr": "Tonnerre",
+    "nianticID": "THUNDERBOLT",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 80,
+    "nameEng": "Twister",
+    "nameFr": "Ouragan",
+    "nianticID": "TWISTER",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "DRAGON"
+  },
+  {
+    "id": 82,
+    "nameEng": "Dragon Pulse",
+    "nameFr": "Draco-Choc",
+    "nianticID": "DRAGON_PULSE",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "DRAGON"
+  },
+  {
+    "id": 83,
+    "nameEng": "Dragon Claw",
+    "nameFr": "Draco-Griffe",
+    "nianticID": "DRAGON_CLAW",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "DRAGON"
+  },
+  {
+    "id": 84,
+    "nameEng": "Disarming Voice",
+    "nameFr": "Voix Enjôleuse",
+    "nianticID": "DISARMING_VOICE",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -45,
+    "type": "FEE"
+  },
+  {
+    "id": 85,
+    "nameEng": "Draining Kiss",
+    "nameFr": "Vampibaiser",
+    "nianticID": "DRAINING_KISS",
+    "powerPVE": 60,
+    "energyDeltaPVE": -50,
+    "powerPVP": 60,
+    "energyDeltaPVP": -55,
+    "type": "FEE"
+  },
+  {
+    "id": 86,
+    "nameEng": "Dazzling Gleam",
+    "nameFr": "Éclat Magique",
+    "nianticID": "DAZZLING_GLEAM",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "FEE"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 87,
+    "nameEng": "Moonblast",
+    "nameFr": "Pouvoir Lunaire",
+    "nianticID": "MOONBLAST",
+    "powerPVE": 130,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -60,
+    "type": "FEE"
+  },
+  {
+    "id": 88,
+    "nameEng": "Play Rough",
+    "nameFr": "Câlinerie",
+    "nianticID": "PLAY_ROUGH",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -60,
+    "type": "FEE"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 2
+      }
+    },
+    "id": 89,
+    "nameEng": "Cross Poison",
+    "nameFr": "Poison Croix",
+    "nianticID": "CROSS_POISON",
+    "powerPVE": 40,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -35,
+    "type": "POISON"
+  },
+  {
+    "id": 90,
+    "nameEng": "Sludge Bomb",
+    "nameFr": "Bombe Beurk",
+    "nianticID": "SLUDGE_BOMB",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "POISON"
+  },
+  {
+    "id": 91,
+    "nameEng": "Sludge Wave",
+    "nameFr": "Cradovague",
+    "nianticID": "SLUDGE_WAVE",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -65,
+    "type": "POISON"
+  },
+  {
+    "id": 92,
+    "nameEng": "Gunk Shot",
+    "nameFr": "Détricanon",
+    "nianticID": "GUNK_SHOT",
+    "powerPVE": 130,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -75,
+    "type": "POISON"
+  },
+  {
+    "id": 94,
+    "nameEng": "Bone Club",
+    "nameFr": "Massd’Os",
+    "nianticID": "BONE_CLUB",
+    "powerPVE": 40,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "SOL"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 95,
+    "nameEng": "Bulldoze",
+    "nameFr": "Piétisol",
+    "nianticID": "BULLDOZE",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 45,
+    "energyDeltaPVP": -45,
+    "type": "SOL"
+  },
+  {
+    "id": 96,
+    "nameEng": "Mud Bomb",
+    "nameFr": "Boue-Bombe",
+    "nianticID": "MUD_BOMB",
+    "powerPVE": 60,
+    "energyDeltaPVE": -33,
+    "powerPVP": 65,
+    "energyDeltaPVP": -45,
+    "type": "SOL"
+  },
+  {
+    "buffData": {
+      "chance": 20,
+      "hm_effect": {
+        "Défense cible": -1,
+        "Attaque cible": -1
+      }
+    },
+    "id": 99,
+    "nameEng": "Signal Beam",
+    "nameFr": "Rayon Signal",
+    "nianticID": "SIGNAL_BEAM",
+    "powerPVE": 75,
+    "energyDeltaPVE": -50,
+    "powerPVP": 75,
+    "energyDeltaPVP": -55,
+    "type": "INSECTE"
+  },
+  {
+    "id": 100,
+    "nameEng": "X-Scissor",
+    "nameFr": "Plaie Croix",
+    "nianticID": "X_SCISSOR",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 65,
+    "energyDeltaPVP": -40,
+    "type": "INSECTE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 101,
+    "nameEng": "Flame Charge",
+    "nameFr": "Nitrocharge",
+    "nianticID": "FLAME_CHARGE",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 65,
+    "energyDeltaPVP": -50,
+    "type": "FEU"
+  },
+  {
+    "id": 102,
+    "nameEng": "Flame Burst",
+    "nameFr": "Rebondifeu",
+    "nianticID": "FLAME_BURST",
+    "powerPVE": 70,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -55,
+    "type": "FEU"
+  },
+  {
+    "id": 103,
+    "nameEng": "Fire Blast",
+    "nameFr": "Déflagration",
+    "nianticID": "FIRE_BLAST",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 140,
+    "energyDeltaPVP": -80,
+    "type": "FEU"
+  },
+  {
+    "id": 104,
+    "nameEng": "Brine",
+    "nameFr": "Saumure",
+    "nianticID": "BRINE",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 60,
+    "energyDeltaPVP": -50,
+    "type": "EAU"
+  },
+  {
+    "id": 105,
+    "nameEng": "Water Pulse",
+    "nameFr": "Vibraqua",
+    "nianticID": "WATER_PULSE",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 106,
+    "nameEng": "Scald",
+    "nameFr": "Ébullition",
+    "nianticID": "SCALD",
+    "powerPVE": 75,
+    "energyDeltaPVE": -50,
+    "powerPVP": 85,
+    "energyDeltaPVP": -50,
+    "type": "EAU"
+  },
+  {
+    "id": 107,
+    "nameEng": "Hydro Pump",
+    "nameFr": "Hydrocanon",
+    "nianticID": "HYDRO_PUMP",
+    "powerPVE": 135,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -75,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 108,
+    "nameEng": "Psychic",
+    "nameFr": "Psyko",
+    "nianticID": "PSYCHIC",
+    "powerPVE": 95,
+    "energyDeltaPVE": -50,
+    "powerPVP": 75,
+    "energyDeltaPVP": -55,
+    "type": "PSY"
+  },
+  {
+    "id": 109,
+    "nameEng": "Psystrike",
+    "nameFr": "Frappe Psy",
+    "nianticID": "PSYSTRIKE",
+    "powerPVE": 95,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -45,
+    "type": "PSY"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 111,
+    "nameEng": "Icy Wind",
+    "nameFr": "Vent Glace",
+    "nianticID": "ICY_WIND",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "GLACE"
+  },
+  {
+    "id": 114,
+    "nameEng": "Giga Drain",
+    "nameFr": "Giga-Sangsue",
+    "nianticID": "GIGA_DRAIN",
+    "powerPVE": 50,
+    "energyDeltaPVE": -100,
+    "powerPVP": 50,
+    "energyDeltaPVP": -80,
+    "type": "PLANTE"
+  },
+  {
+    "id": 115,
+    "nameEng": "Fire Punch",
+    "nameFr": "Poing Feu",
+    "nianticID": "FIRE_PUNCH",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -40,
+    "type": "FEU"
+  },
+  {
+    "id": 116,
+    "nameEng": "Solar Beam",
+    "nameFr": "Lance-Soleil",
+    "nianticID": "SOLAR_BEAM",
+    "powerPVE": 180,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -80,
+    "type": "PLANTE"
+  },
+  {
+    "id": 117,
+    "nameEng": "Leaf Blade",
+    "nameFr": "Lame Feuille",
+    "nianticID": "LEAF_BLADE",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -35,
+    "type": "PLANTE"
+  },
+  {
+    "id": 118,
+    "nameEng": "Power Whip",
+    "nameFr": "Mégafouet",
+    "nianticID": "POWER_WHIP",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -50,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 121,
+    "nameEng": "Air Cutter",
+    "nameFr": "Tranch’Air",
+    "nianticID": "AIR_CUTTER",
+    "powerPVE": 55,
+    "energyDeltaPVE": -50,
+    "powerPVP": 45,
+    "energyDeltaPVP": -35,
+    "type": "VOL"
+  },
+  {
+    "id": 122,
+    "nameEng": "Hurricane",
+    "nameFr": "Vent Violent",
+    "nianticID": "HURRICANE",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -65,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 123,
+    "nameEng": "Brick Break",
+    "nameFr": "Casse-Brique",
+    "nianticID": "BRICK_BREAK",
+    "powerPVE": 40,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "id": 125,
+    "nameEng": "Swift",
+    "nameFr": "Météores",
+    "nianticID": "SWIFT",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "NORMAL"
+  },
+  {
+    "id": 126,
+    "nameEng": "Horn Attack",
+    "nameFr": "Koud’Korne",
+    "nianticID": "HORN_ATTACK",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 40,
+    "energyDeltaPVP": -35,
+    "type": "NORMAL"
+  },
+  {
+    "id": 127,
+    "nameEng": "Stomp",
+    "nameFr": "Écrasement",
+    "nianticID": "STOMP",
+    "powerPVE": 50,
+    "energyDeltaPVE": -50,
+    "powerPVP": 55,
+    "energyDeltaPVP": -40,
+    "type": "NORMAL"
+  },
+  {
+    "id": 129,
+    "nameEng": "Hyper Fang",
+    "nameFr": "Croc de Mort",
+    "nianticID": "HYPER_FANG",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "NORMAL"
+  },
+  {
+    "id": 131,
+    "nameEng": "Body Slam",
+    "nameFr": "Plaquage",
+    "nianticID": "BODY_SLAM",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "NORMAL"
+  },
+  {
+    "id": 132,
+    "nameEng": "Rest",
+    "nameFr": "Repos",
+    "nianticID": "REST",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -35,
+    "type": "NORMAL"
+  },
+  {
+    "id": 133,
+    "nameEng": "Struggle",
+    "nameFr": "Lutte",
+    "nianticID": "STRUGGLE",
+    "powerPVE": 35,
+    "energyDeltaPVE": 0,
+    "powerPVP": 35,
+    "energyDeltaPVP": -100,
+    "type": "NORMAL"
+  },
+  {
+    "id": 134,
+    "nameEng": "Scald",
+    "nameFr": "Ébullition",
+    "nianticID": "SCALD_BLASTOISE",
+    "powerPVE": 50,
+    "energyDeltaPVE": -100,
+    "powerPVP": 50,
+    "energyDeltaPVP": -80,
+    "type": "EAU"
+  },
+  {
+    "id": 135,
+    "nameEng": "Hydro Pump",
+    "nameFr": "Hydrocanon",
+    "nianticID": "HYDRO_PUMP_BLASTOISE",
+    "powerPVE": 90,
+    "energyDeltaPVE": -100,
+    "powerPVP": 90,
+    "energyDeltaPVP": -80,
+    "type": "EAU"
+  },
+  {
+    "id": 136,
+    "nameEng": "Wrap",
+    "nameFr": "Ligotage",
+    "nianticID": "WRAP_GREEN",
+    "powerPVE": 25,
+    "energyDeltaPVE": -33,
+    "powerPVP": 25,
+    "energyDeltaPVP": -45,
+    "type": "NORMAL"
+  },
+  {
+    "id": 137,
+    "nameEng": "Wrap",
+    "nameFr": "Ligotage",
+    "nianticID": "WRAP_PINK",
+    "powerPVE": 25,
+    "energyDeltaPVE": -33,
+    "powerPVP": 25,
+    "energyDeltaPVP": -45,
+    "type": "NORMAL"
+  },
+  {
+    "id": 200,
+    "nameEng": "Fury Cutter",
+    "nameFr": "Taillade",
+    "nianticID": "FURY_CUTTER_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 8,
+    "powerPVP": 3,
+    "energyDeltaPVP": 7,
+    "type": "INSECTE"
+  },
+  {
+    "id": 201,
+    "nameEng": "Bug Bite",
+    "nameFr": "Piqûre",
+    "nianticID": "BUG_BITE_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 6,
+    "powerPVP": 4,
+    "energyDeltaPVP": 7,
+    "type": "INSECTE"
+  },
+  {
+    "id": 202,
+    "nameEng": "Bite",
+    "nameFr": "Morsure",
+    "nianticID": "BITE_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 4,
+    "powerPVP": 4,
+    "energyDeltaPVP": 17,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 203,
+    "nameEng": "Sucker Punch",
+    "nameFr": "Coup Bas",
+    "nianticID": "SUCKER_PUNCH_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 6,
+    "powerPVP": 8,
+    "energyDeltaPVP": 7,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 204,
+    "nameEng": "Dragon Breath",
+    "nameFr": "Draco-Souffle",
+    "nianticID": "DRAGON_BREATH_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 4,
+    "powerPVP": 3,
+    "energyDeltaPVP": 16,
+    "type": "DRAGON"
+  },
+  {
+    "id": 205,
+    "nameEng": "Thunder Shock",
+    "nameFr": "Éclair",
+    "nianticID": "THUNDER_SHOCK_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 7,
+    "powerPVP": 4,
+    "energyDeltaPVP": 9,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 206,
+    "nameEng": "Spark",
+    "nameFr": "Étincelle",
+    "nianticID": "SPARK_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 6,
+    "powerPVP": 5,
+    "energyDeltaPVP": 7,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 207,
+    "nameEng": "Low Kick",
+    "nameFr": "Balayage",
+    "nianticID": "LOW_KICK_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 5,
+    "powerPVP": 5,
+    "energyDeltaPVP": 8,
+    "type": "COMBAT"
+  },
+  {
+    "id": 208,
+    "nameEng": "Karate Chop",
+    "nameFr": "Poing Karaté",
+    "nianticID": "KARATE_CHOP_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 13,
+    "powerPVP": 5,
+    "energyDeltaPVP": 9,
+    "type": "COMBAT"
+  },
+  {
+    "id": 209,
+    "nameEng": "Ember",
+    "nameFr": "Flammèche",
+    "nianticID": "EMBER_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 10,
+    "powerPVP": 4,
+    "energyDeltaPVP": 9,
+    "type": "FEU"
+  },
+  {
+    "id": 210,
+    "nameEng": "Wing Attack",
+    "nameFr": "Cru-Ailes",
+    "nianticID": "WING_ATTACK_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 11,
+    "powerPVP": 5,
+    "energyDeltaPVP": 8,
+    "type": "VOL"
+  },
+  {
+    "id": 211,
+    "nameEng": "Peck",
+    "nameFr": "Picpic",
+    "nianticID": "PECK_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 10,
+    "powerPVP": 6,
+    "energyDeltaPVP": 8,
+    "type": "VOL"
+  },
+  {
+    "id": 212,
+    "nameEng": "Lick",
+    "nameFr": "Léchouille",
+    "nianticID": "LICK_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 6,
+    "powerPVP": 3,
+    "energyDeltaPVP": 8,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 213,
+    "nameEng": "Shadow Claw",
+    "nameFr": "Griffe Ombre",
+    "nianticID": "SHADOW_CLAW_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 4,
+    "powerPVP": 6,
+    "energyDeltaPVP": 8,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 214,
+    "nameEng": "Vine Whip",
+    "nameFr": "Fouet Lianes",
+    "nianticID": "VINE_WHIP_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 5,
+    "powerPVP": 5,
+    "energyDeltaPVP": 8,
+    "type": "PLANTE"
+  },
+  {
+    "id": 215,
+    "nameEng": "Razor Leaf",
+    "nameFr": "Tranch’Herbe",
+    "nianticID": "RAZOR_LEAF_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 7,
+    "powerPVP": 9,
+    "energyDeltaPVP": 4,
+    "type": "PLANTE"
+  },
+  {
+    "id": 216,
+    "nameEng": "Mud Shot",
+    "nameFr": "Tir de Boue",
+    "nianticID": "MUD_SHOT_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 6,
+    "powerPVP": 3,
+    "energyDeltaPVP": 9,
+    "type": "SOL"
+  },
+  {
+    "id": 217,
+    "nameEng": "Ice Shard",
+    "nameFr": "Éclats Glace",
+    "nianticID": "ICE_SHARD_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 10,
+    "powerPVP": 9,
+    "energyDeltaPVP": 10,
+    "type": "GLACE"
+  },
+  {
+    "id": 218,
+    "nameEng": "Frost Breath",
+    "nameFr": "Souffle Glacé",
+    "nianticID": "FROST_BREATH_FAST",
+    "powerPVE": 11,
+    "energyDeltaPVE": 9,
+    "powerPVP": 7,
+    "energyDeltaPVP": 5,
+    "type": "GLACE"
+  },
+  {
+    "id": 219,
+    "nameEng": "Quick Attack",
+    "nameFr": "Vive-Attaque",
+    "nianticID": "QUICK_ATTACK_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 13,
+    "powerPVP": 5,
+    "energyDeltaPVP": 8,
+    "type": "NORMAL"
+  },
+  {
+    "id": 220,
+    "nameEng": "Scratch",
+    "nameFr": "Griffe",
+    "nianticID": "SCRATCH_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 4,
+    "powerPVP": 4,
+    "energyDeltaPVP": 2,
+    "type": "NORMAL"
+  },
+  {
+    "id": 221,
+    "nameEng": "Tackle",
+    "nameFr": "Charge",
+    "nianticID": "TACKLE_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 5,
+    "powerPVP": 3,
+    "energyDeltaPVP": 3,
+    "type": "NORMAL"
+  },
+  {
+    "id": 222,
+    "nameEng": "Pound",
+    "nameFr": "Écras’Face",
+    "nianticID": "POUND_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 5,
+    "powerPVP": 4,
+    "energyDeltaPVP": 4,
+    "type": "NORMAL"
+  },
+  {
+    "id": 223,
+    "nameEng": "Cut",
+    "nameFr": "Coupe",
+    "nianticID": "CUT_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 5,
+    "powerPVP": 3,
+    "energyDeltaPVP": 2,
+    "type": "NORMAL"
+  },
+  {
+    "id": 224,
+    "nameEng": "Poison Jab",
+    "nameFr": "Direct Toxik",
+    "nianticID": "POISON_JAB_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 9,
+    "powerPVP": 7,
+    "energyDeltaPVP": 7,
+    "type": "POISON"
+  },
+  {
+    "id": 225,
+    "nameEng": "Acid",
+    "nameFr": "Acide",
+    "nianticID": "ACID_FAST",
+    "powerPVE": 11,
+    "energyDeltaPVE": 10,
+    "powerPVP": 6,
+    "energyDeltaPVP": 8,
+    "type": "POISON"
+  },
+  {
+    "id": 226,
+    "nameEng": "Psycho Cut",
+    "nameFr": "Coupe Psycho",
+    "nianticID": "PSYCHO_CUT_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 7,
+    "powerPVP": 4,
+    "energyDeltaPVP": 9,
+    "type": "PSY"
+  },
+  {
+    "id": 227,
+    "nameEng": "Rock Throw",
+    "nameFr": "Jet-Pierres",
+    "nianticID": "ROCK_THROW_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 8,
+    "powerPVP": 8,
+    "energyDeltaPVP": 5,
+    "type": "ROCHE"
+  },
+  {
+    "id": 228,
+    "nameEng": "Metal Claw",
+    "nameFr": "Griffe Acier",
+    "nianticID": "METAL_CLAW_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 5,
+    "powerPVP": 5,
+    "energyDeltaPVP": 7,
+    "type": "ACIER"
+  },
+  {
+    "id": 229,
+    "nameEng": "Bullet Punch",
+    "nameFr": "Pisto-Poing",
+    "nianticID": "BULLET_PUNCH_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 11,
+    "powerPVP": 7,
+    "energyDeltaPVP": 7,
+    "type": "ACIER"
+  },
+  {
+    "id": 230,
+    "nameEng": "Water Gun",
+    "nameFr": "Pistolet à O",
+    "nianticID": "WATER_GUN_FAST",
+    "powerPVE": 5,
+    "energyDeltaPVE": 5,
+    "powerPVP": 3,
+    "energyDeltaPVP": 11,
+    "type": "EAU"
+  },
+  {
+    "id": 231,
+    "nameEng": "Splash",
+    "nameFr": "Trempette",
+    "nianticID": "SPLASH_FAST",
+    "powerPVE": 0,
+    "energyDeltaPVE": 17,
+    "powerPVP": 0,
+    "energyDeltaPVP": 12,
+    "type": "EAU"
+  },
+  {
+    "id": 232,
+    "nameEng": "Water Gun",
+    "nameFr": "Pistolet à O",
+    "nianticID": "WATER_GUN_FAST_BLASTOISE",
+    "powerPVE": 10,
+    "energyDeltaPVE": 6,
+    "powerPVP": 6,
+    "energyDeltaPVP": 11,
+    "type": "EAU"
+  },
+  {
+    "id": 233,
+    "nameEng": "Mud-Slap",
+    "nameFr": "Coud’Boue",
+    "nianticID": "MUD_SLAP_FAST",
+    "powerPVE": 19,
+    "energyDeltaPVE": 13,
+    "powerPVP": 11,
+    "energyDeltaPVP": 10,
+    "type": "SOL"
+  },
+  {
+    "id": 234,
+    "nameEng": "Zen Headbutt",
+    "nameFr": "Psykoud’Boul",
+    "nianticID": "ZEN_HEADBUTT_FAST",
+    "powerPVE": 11,
+    "energyDeltaPVE": 9,
+    "powerPVP": 8,
+    "energyDeltaPVP": 6,
+    "type": "PSY"
+  },
+  {
+    "id": 235,
+    "nameEng": "Confusion",
+    "nameFr": "Choc Mental",
+    "nianticID": "CONFUSION_FAST",
+    "powerPVE": 19,
+    "energyDeltaPVE": 14,
+    "powerPVP": 16,
+    "energyDeltaPVP": 14,
+    "type": "PSY"
+  },
+  {
+    "id": 236,
+    "nameEng": "Poison Sting",
+    "nameFr": "Dard-Venin",
+    "nianticID": "POISON_STING_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 6,
+    "powerPVP": 4,
+    "energyDeltaPVP": 9,
+    "type": "POISON"
+  },
+  {
+    "id": 237,
+    "nameEng": "Bubble",
+    "nameFr": "Écume",
+    "nianticID": "BUBBLE_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 12,
+    "powerPVP": 8,
+    "energyDeltaPVP": 11,
+    "type": "EAU"
+  },
+  {
+    "id": 238,
+    "nameEng": "Feint Attack",
+    "nameFr": "Feinte",
+    "nianticID": "FEINT_ATTACK_FAST",
+    "powerPVE": 11,
+    "energyDeltaPVE": 10,
+    "powerPVP": 6,
+    "energyDeltaPVP": 6,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 239,
+    "nameEng": "Steel Wing",
+    "nameFr": "Ailes d’Acier",
+    "nianticID": "STEEL_WING_FAST",
+    "powerPVE": 14,
+    "energyDeltaPVE": 8,
+    "powerPVP": 7,
+    "energyDeltaPVP": 5,
+    "type": "ACIER"
+  },
+  {
+    "id": 240,
+    "nameEng": "Fire Fang",
+    "nameFr": "Crocs Feu",
+    "nianticID": "FIRE_FANG_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 9,
+    "powerPVP": 8,
+    "energyDeltaPVP": 6,
+    "type": "FEU"
+  },
+  {
+    "id": 241,
+    "nameEng": "Rock Smash",
+    "nameFr": "Éclate-Roc",
+    "nianticID": "ROCK_SMASH_FAST",
+    "powerPVE": 17,
+    "energyDeltaPVE": 12,
+    "powerPVP": 9,
+    "energyDeltaPVP": 7,
+    "type": "COMBAT"
+  },
+  {
+    "id": 242,
+    "nameEng": "Transform",
+    "nameFr": "Morphing",
+    "nianticID": "TRANSFORM_FAST",
+    "powerPVE": 0,
+    "energyDeltaPVE": 0,
+    "powerPVP": 0,
+    "energyDeltaPVP": 2,
+    "type": "NORMAL"
+  },
+  {
+    "id": 243,
+    "nameEng": "Counter",
+    "nameFr": "Riposte",
+    "nianticID": "COUNTER_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 9,
+    "powerPVP": 8,
+    "energyDeltaPVP": 6,
+    "type": "COMBAT"
+  },
+  {
+    "id": 244,
+    "nameEng": "Powder Snow",
+    "nameFr": "Poudreuse",
+    "nianticID": "POWDER_SNOW_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 15,
+    "powerPVP": 6,
+    "energyDeltaPVP": 8,
+    "type": "GLACE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -2
+      }
+    },
+    "id": 245,
+    "nameEng": "Close Combat",
+    "nameFr": "Close Combat",
+    "nianticID": "CLOSE_COMBAT",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 100,
+    "energyDeltaPVP": -45,
+    "type": "COMBAT"
+  },
+  {
+    "id": 246,
+    "nameEng": "Dynamic Punch",
+    "nameFr": "Dynamo-Poing",
+    "nianticID": "DYNAMIC_PUNCH",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -45,
+    "type": "COMBAT"
+  },
+  {
+    "id": 247,
+    "nameEng": "Focus Blast",
+    "nameFr": "Exploforce",
+    "nianticID": "FOCUS_BLAST",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -75,
+    "type": "COMBAT"
+  },
+  {
+    "id": 248,
+    "nameEng": "Aurora Beam",
+    "nameFr": "Onde Boréale",
+    "nianticID": "AURORA_BEAM",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -60,
+    "type": "GLACE"
+  },
+  {
+    "id": 249,
+    "nameEng": "Charge Beam",
+    "nameFr": "Rayon Chargé",
+    "nianticID": "CHARGE_BEAM_FAST",
+    "powerPVE": 7,
+    "energyDeltaPVE": 14,
+    "powerPVP": 5,
+    "energyDeltaPVP": 11,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 250,
+    "nameEng": "Volt Switch",
+    "nameFr": "Change Éclair",
+    "nianticID": "VOLT_SWITCH_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 20,
+    "powerPVP": 14,
+    "energyDeltaPVP": 16,
+    "type": "ELECTRIK"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -2
+      }
+    },
+    "id": 251,
+    "nameEng": "Wild Charge",
+    "nameFr": "Éclair Fou",
+    "nianticID": "WILD_CHARGE",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -45,
+    "type": "ELECTRIK"
+  },
+  {
+    "buffData": {
+      "chance": 33,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 252,
+    "nameEng": "Zap Cannon",
+    "nameFr": "Élecanon",
+    "nianticID": "ZAP_CANNON",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -80,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 253,
+    "nameEng": "Dragon Tail",
+    "nameFr": "Draco-Queue",
+    "nianticID": "DRAGON_TAIL_FAST",
+    "powerPVE": 14,
+    "energyDeltaPVE": 8,
+    "powerPVP": 9,
+    "energyDeltaPVP": 12,
+    "type": "DRAGON"
+  },
+  {
+    "id": 254,
+    "nameEng": "Avalanche",
+    "nameFr": "Avalanche",
+    "nianticID": "AVALANCHE",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -45,
+    "type": "GLACE"
+  },
+  {
+    "id": 255,
+    "nameEng": "Air Slash",
+    "nameFr": "Lame d’Air",
+    "nianticID": "AIR_SLASH_FAST",
+    "powerPVE": 12,
+    "energyDeltaPVE": 8,
+    "powerPVP": 9,
+    "energyDeltaPVP": 9,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -3
+      }
+    },
+    "id": 256,
+    "nameEng": "Brave Bird",
+    "nameFr": "Rapace",
+    "nianticID": "BRAVE_BIRD",
+    "powerPVE": 130,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -55,
+    "type": "VOL"
+  },
+  {
+    "id": 257,
+    "nameEng": "Sky Attack",
+    "nameFr": "Piqué",
+    "nianticID": "SKY_ATTACK",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 75,
+    "energyDeltaPVP": -50,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 258,
+    "nameEng": "Sand Tomb",
+    "nameFr": "Tourbi-Sable",
+    "nianticID": "SAND_TOMB",
+    "powerPVE": 60,
+    "energyDeltaPVE": -33,
+    "powerPVP": 40,
+    "energyDeltaPVP": -40,
+    "type": "SOL"
+  },
+  {
+    "id": 259,
+    "nameEng": "Rock Blast",
+    "nameFr": "Boule Roc",
+    "nianticID": "ROCK_BLAST",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -40,
+    "type": "ROCHE"
+  },
+  {
+    "id": 260,
+    "nameEng": "Infestation",
+    "nameFr": "Harcèlement",
+    "nianticID": "INFESTATION_FAST",
+    "powerPVE": 9,
+    "energyDeltaPVE": 13,
+    "powerPVP": 6,
+    "energyDeltaPVP": 12,
+    "type": "INSECTE"
+  },
+  {
+    "id": 261,
+    "nameEng": "Struggle Bug",
+    "nameFr": "Survinsecte",
+    "nianticID": "STRUGGLE_BUG_FAST",
+    "powerPVE": 15,
+    "energyDeltaPVE": 15,
+    "powerPVP": 9,
+    "energyDeltaPVP": 8,
+    "type": "INSECTE"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Défense attaquant": 1,
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 262,
+    "nameEng": "Silver Wind",
+    "nameFr": "Vent Argenté",
+    "nianticID": "SILVER_WIND",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "INSECTE"
+  },
+  {
+    "id": 263,
+    "nameEng": "Astonish",
+    "nameFr": "Étonnement",
+    "nianticID": "ASTONISH_FAST",
+    "powerPVE": 7,
+    "energyDeltaPVE": 13,
+    "powerPVP": 12,
+    "energyDeltaPVP": 10,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 264,
+    "nameEng": "Hex",
+    "nameFr": "Châtiment",
+    "nianticID": "HEX_FAST",
+    "powerPVE": 8,
+    "energyDeltaPVE": 13,
+    "powerPVP": 7,
+    "energyDeltaPVP": 13,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 265,
+    "nameEng": "Night Shade",
+    "nameFr": "Ombre Nocturne",
+    "nianticID": "NIGHT_SHADE",
+    "powerPVE": 60,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -45,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 266,
+    "nameEng": "Iron Tail",
+    "nameFr": "Queue de Fer",
+    "nianticID": "IRON_TAIL_FAST",
+    "powerPVE": 14,
+    "energyDeltaPVE": 6,
+    "powerPVP": 10,
+    "energyDeltaPVP": 7,
+    "type": "ACIER"
+  },
+  {
+    "id": 267,
+    "nameEng": "Gyro Ball",
+    "nameFr": "Gyroballe",
+    "nianticID": "GYRO_BALL",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "ACIER"
+  },
+  {
+    "id": 268,
+    "nameEng": "Heavy Slam",
+    "nameFr": "Tacle Lourd",
+    "nianticID": "HEAVY_SLAM",
+    "powerPVE": 70,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -50,
+    "type": "ACIER"
+  },
+  {
+    "id": 269,
+    "nameEng": "Fire Spin",
+    "nameFr": "Danse Flammes",
+    "nianticID": "FIRE_SPIN_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 9,
+    "powerPVP": 11,
+    "energyDeltaPVP": 10,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": -2
+      }
+    },
+    "id": 270,
+    "nameEng": "Overheat",
+    "nameFr": "Surchauffe",
+    "nianticID": "OVERHEAT",
+    "powerPVE": 160,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -55,
+    "type": "FEU"
+  },
+  {
+    "id": 271,
+    "nameEng": "Bullet Seed",
+    "nameFr": "Balle Graine",
+    "nianticID": "BULLET_SEED_FAST",
+    "powerPVE": 7,
+    "energyDeltaPVE": 13,
+    "powerPVP": 5,
+    "energyDeltaPVP": 13,
+    "type": "PLANTE"
+  },
+  {
+    "id": 272,
+    "nameEng": "Grass Knot",
+    "nameFr": "Nœud Herbe",
+    "nianticID": "GRASS_KNOT",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -50,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 273,
+    "nameEng": "Energy Ball",
+    "nameFr": "Éco-Sphère",
+    "nianticID": "ENERGY_BALL",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "PLANTE"
+  },
+  {
+    "id": 274,
+    "nameEng": "Extrasensory",
+    "nameFr": "Extrasenseur",
+    "nianticID": "EXTRASENSORY_FAST",
+    "powerPVE": 11,
+    "energyDeltaPVE": 11,
+    "powerPVP": 8,
+    "energyDeltaPVP": 10,
+    "type": "PSY"
+  },
+  {
+    "id": 275,
+    "nameEng": "Future Sight",
+    "nameFr": "Prescience",
+    "nianticID": "FUTURESIGHT",
+    "powerPVE": 115,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -65,
+    "type": "PSY"
+  },
+  {
+    "id": 276,
+    "nameEng": "Mirror Coat",
+    "nameFr": "Voile Miroir",
+    "nianticID": "MIRROR_COAT",
+    "powerPVE": 60,
+    "energyDeltaPVE": -50,
+    "powerPVP": 60,
+    "energyDeltaPVP": -55,
+    "type": "PSY"
+  },
+  {
+    "id": 277,
+    "nameEng": "Outrage",
+    "nameFr": "Colère",
+    "nianticID": "OUTRAGE",
+    "powerPVE": 110,
+    "energyDeltaPVE": -50,
+    "powerPVP": 110,
+    "energyDeltaPVP": -60,
+    "type": "DRAGON"
+  },
+  {
+    "id": 278,
+    "nameEng": "Snarl",
+    "nameFr": "Aboiement",
+    "nianticID": "SNARL_FAST",
+    "powerPVE": 11,
+    "energyDeltaPVE": 13,
+    "powerPVP": 5,
+    "energyDeltaPVP": 13,
+    "type": "TENEBRES"
+  },
+  {
+    "buffData": {
+      "chance": 20,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 279,
+    "nameEng": "Crunch",
+    "nameFr": "Mâchouille",
+    "nianticID": "CRUNCH",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -45,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 280,
+    "nameEng": "Foul Play",
+    "nameFr": "Tricherie",
+    "nianticID": "FOUL_PLAY",
+    "powerPVE": 70,
+    "energyDeltaPVE": -50,
+    "powerPVP": 65,
+    "energyDeltaPVP": -40,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 281,
+    "nameEng": "Hidden Power",
+    "nameFr": "Puissance Cachée",
+    "nianticID": "HIDDEN_POWER_FAST",
+    "powerPVE": 15,
+    "energyDeltaPVE": 15,
+    "powerPVP": 9,
+    "energyDeltaPVP": 8,
+    "type": "NORMAL"
+  },
+  {
+    "id": 282,
+    "nameEng": "Take Down",
+    "nameFr": "Bélier",
+    "nianticID": "TAKE_DOWN_FAST",
+    "powerPVE": 7,
+    "energyDeltaPVE": 8,
+    "powerPVP": 5,
+    "energyDeltaPVP": 8,
+    "type": "NORMAL"
+  },
+  {
+    "id": 283,
+    "nameEng": "Waterfall",
+    "nameFr": "Cascade",
+    "nianticID": "WATERFALL_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 7,
+    "powerPVP": 11,
+    "energyDeltaPVP": 10,
+    "type": "EAU"
+  },
+  {
+    "id": 284,
+    "nameEng": "Surf",
+    "nameFr": "Surf",
+    "nianticID": "SURF",
+    "powerPVE": 60,
+    "energyDeltaPVE": -50,
+    "powerPVP": 75,
+    "energyDeltaPVP": -45,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": -2
+      }
+    },
+    "id": 285,
+    "nameEng": "Draco Meteor",
+    "nameFr": "Draco-Météore",
+    "nianticID": "DRACO_METEOR",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -65,
+    "type": "DRAGON"
+  },
+  {
+    "id": 286,
+    "nameEng": "Doom Desire",
+    "nameFr": "Carnareket",
+    "nianticID": "DOOM_DESIRE",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 80,
+    "energyDeltaPVP": -40,
+    "type": "ACIER"
+  },
+  {
+    "id": 287,
+    "nameEng": "Yawn",
+    "nameFr": "Bâillement",
+    "nianticID": "YAWN_FAST",
+    "powerPVE": 0,
+    "energyDeltaPVE": 13,
+    "powerPVP": 0,
+    "energyDeltaPVP": 12,
+    "type": "NORMAL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": -2
+      }
+    },
+    "id": 288,
+    "nameEng": "Psycho Boost",
+    "nameFr": "Psycho-Boost",
+    "nianticID": "PSYCHO_BOOST",
+    "powerPVE": 70,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -35,
+    "type": "PSY"
+  },
+  {
+    "id": 289,
+    "nameEng": "Origin Pulse",
+    "nameFr": "Onde Originelle",
+    "nianticID": "ORIGIN_PULSE",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -60,
+    "type": "EAU"
+  },
+  {
+    "id": 290,
+    "nameEng": "Precipice Blades",
+    "nameFr": "Lame Pangéenne",
+    "nianticID": "PRECIPICE_BLADES",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -60,
+    "type": "SOL"
+  },
+  {
+    "id": 291,
+    "nameEng": "Present",
+    "nameFr": "Cadeau",
+    "nianticID": "PRESENT_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 23,
+    "powerPVP": 3,
+    "energyDeltaPVP": 12,
+    "type": "NORMAL"
+  },
+  {
+    "id": 292,
+    "nameEng": "Weather Ball",
+    "nameFr": "Ball’Météo",
+    "nianticID": "WEATHER_BALL_FIRE",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "FEU"
+  },
+  {
+    "id": 293,
+    "nameEng": "Weather Ball",
+    "nameFr": "Ball’Météo",
+    "nianticID": "WEATHER_BALL_ICE",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "GLACE"
+  },
+  {
+    "id": 294,
+    "nameEng": "Weather Ball",
+    "nameFr": "Ball’Météo",
+    "nianticID": "WEATHER_BALL_ROCK",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "ROCHE"
+  },
+  {
+    "id": 295,
+    "nameEng": "Weather Ball",
+    "nameFr": "Ball’Météo",
+    "nianticID": "WEATHER_BALL_WATER",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "EAU"
+  },
+  {
+    "id": 296,
+    "nameEng": "Frenzy Plant",
+    "nameFr": "Végé-Attaque",
+    "nianticID": "FRENZY_PLANT",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -45,
+    "type": "PLANTE"
+  },
+  {
+    "id": 297,
+    "nameEng": "Smack Down",
+    "nameFr": "Anti-Air",
+    "nianticID": "SMACK_DOWN_FAST",
+    "powerPVE": 13,
+    "energyDeltaPVE": 7,
+    "powerPVP": 11,
+    "energyDeltaPVP": 8,
+    "type": "ROCHE"
+  },
+  {
+    "id": 298,
+    "nameEng": "Blast Burn",
+    "nameFr": "Rafale Feu",
+    "nianticID": "BLAST_BURN",
+    "powerPVE": 120,
+    "energyDeltaPVE": -50,
+    "powerPVP": 110,
+    "energyDeltaPVP": -50,
+    "type": "FEU"
+  },
+  {
+    "id": 299,
+    "nameEng": "Hydro Cannon",
+    "nameFr": "Hydroblast",
+    "nianticID": "HYDRO_CANNON",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -40,
+    "type": "EAU"
+  },
+  {
+    "id": 300,
+    "nameEng": "Last Resort",
+    "nameFr": "Dernier Recours",
+    "nianticID": "LAST_RESORT",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "NORMAL"
+  },
+  {
+    "id": 301,
+    "nameEng": "Meteor Mash",
+    "nameFr": "Poing Météore",
+    "nianticID": "METEOR_MASH",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -45,
+    "type": "ACIER"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1
+      }
+    },
+    "id": 302,
+    "nameEng": "Skull Bash",
+    "nameFr": "Coud’Krâne",
+    "nianticID": "SKULL_BASH",
+    "powerPVE": 130,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -75,
+    "type": "NORMAL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -2
+      }
+    },
+    "id": 303,
+    "nameEng": "Acid Spray",
+    "nameFr": "Bombe Acide",
+    "nianticID": "ACID_SPRAY",
+    "powerPVE": 20,
+    "energyDeltaPVE": -50,
+    "powerPVP": 20,
+    "energyDeltaPVP": -45,
+    "type": "POISON"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 304,
+    "nameEng": "Earth Power",
+    "nameFr": "Telluriforce",
+    "nianticID": "EARTH_POWER",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -55,
+    "type": "SOL"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 2
+      }
+    },
+    "id": 305,
+    "nameEng": "Crabhammer",
+    "nameFr": "Pince-Masse",
+    "nianticID": "CRABHAMMER",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 85,
+    "energyDeltaPVP": -50,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 306,
+    "nameEng": "Lunge",
+    "nameFr": "Furie-Bond",
+    "nianticID": "LUNGE",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "INSECTE"
+  },
+  {
+    "id": 307,
+    "nameEng": "Crush Claw",
+    "nameFr": "Éclate Griffe",
+    "nianticID": "CRUSH_CLAW",
+    "powerPVE": 0,
+    "energyDeltaPVE": 0,
+    "powerPVP": 0,
+    "energyDeltaPVP": 0,
+    "type": "NORMAL"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Attaque cible": -2
+      }
+    },
+    "id": 308,
+    "nameEng": "Octazooka",
+    "nameFr": "Octazooka",
+    "nianticID": "OCTAZOOKA",
+    "powerPVE": 55,
+    "energyDeltaPVE": -50,
+    "powerPVP": 50,
+    "energyDeltaPVP": -50,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 309,
+    "nameEng": "Mirror Shot",
+    "nameFr": "Miroi-Tir",
+    "nianticID": "MIRROR_SHOT",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 35,
+    "energyDeltaPVP": -35,
+    "type": "ACIER"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -1,
+        "Attaque attaquant": -1
+      }
+    },
+    "id": 310,
+    "nameEng": "Superpower",
+    "nameFr": "Surpuissance",
+    "nianticID": "SUPER_POWER",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 85,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 311,
+    "nameEng": "Fell Stinger",
+    "nameFr": "Dard Mortel",
+    "nianticID": "FELL_STINGER",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 20,
+    "energyDeltaPVP": -35,
+    "type": "INSECTE"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Attaque cible": -2
+      }
+    },
+    "id": 312,
+    "nameEng": "Leaf Tornado",
+    "nameFr": "Phytomixeur",
+    "nianticID": "LEAF_TORNADO",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 45,
+    "energyDeltaPVP": -40,
+    "type": "PLANTE"
+  },
+  {
+    "id": 313,
+    "nameEng": "Leech Life",
+    "nameFr": "Vampirisme",
+    "nianticID": "LEECH_LIFE",
+    "powerPVE": 0,
+    "energyDeltaPVE": 0,
+    "powerPVP": 0,
+    "energyDeltaPVP": 0,
+    "type": "INSECTE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1
+      }
+    },
+    "id": 314,
+    "nameEng": "Drain Punch",
+    "nameFr": "Vampi-Poing",
+    "nianticID": "DRAIN_PUNCH",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 40,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "buffData": {
+      "chance": 20,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 315,
+    "nameEng": "Shadow Bone",
+    "nameFr": "Os Ombre",
+    "nianticID": "SHADOW_BONE",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "SPECTRE"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 316,
+    "nameEng": "Muddy Water",
+    "nameFr": "Ocroupi",
+    "nianticID": "MUDDY_WATER",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 35,
+    "energyDeltaPVP": -35,
+    "type": "EAU"
+  },
+  {
+    "id": 317,
+    "nameEng": "Blaze Kick",
+    "nameFr": "Pied Brûleur",
+    "nianticID": "BLAZE_KICK",
+    "powerPVE": 40,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -40,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 318,
+    "nameEng": "Razor Shell",
+    "nameFr": "Coqui-Lame",
+    "nianticID": "RAZOR_SHELL",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 35,
+    "energyDeltaPVP": -35,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 319,
+    "nameEng": "Power-Up Punch",
+    "nameFr": "Poing Boost",
+    "nianticID": "POWER_UP_PUNCH",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 20,
+    "energyDeltaPVP": -35,
+    "type": "COMBAT"
+  },
+  {
+    "id": 320,
+    "nameEng": "Charm",
+    "nameFr": "Charme",
+    "nianticID": "CHARM_FAST",
+    "powerPVE": 20,
+    "energyDeltaPVE": 11,
+    "powerPVP": 13,
+    "energyDeltaPVP": 8,
+    "type": "FEE"
+  },
+  {
+    "id": 321,
+    "nameEng": "Giga Impact",
+    "nameFr": "Giga Impact",
+    "nianticID": "GIGA_IMPACT",
+    "powerPVE": 200,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -80,
+    "type": "NORMAL"
+  },
+  {
+    "id": 322,
+    "nameEng": "Frustration",
+    "nameFr": "Frustration",
+    "nianticID": "FRUSTRATION",
+    "powerPVE": 10,
+    "energyDeltaPVE": -33,
+    "powerPVP": 10,
+    "energyDeltaPVP": -70,
+    "type": "NORMAL"
+  },
+  {
+    "id": 323,
+    "nameEng": "Return",
+    "nameFr": "Retour",
+    "nianticID": "RETURN",
+    "powerPVE": 25,
+    "energyDeltaPVE": -33,
+    "powerPVP": 130,
+    "energyDeltaPVP": -70,
+    "type": "NORMAL"
+  },
+  {
+    "id": 324,
+    "nameEng": "Synchronoise",
+    "nameFr": "Synchropeine",
+    "nianticID": "SYNCHRONOISE",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "PSY"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1
+      }
+    },
+    "id": 325,
+    "nameEng": "Lock-On",
+    "nameFr": "Verrouillage",
+    "nianticID": "LOCK_ON_FAST",
+    "powerPVE": 2,
+    "energyDeltaPVE": 10,
+    "powerPVP": 1,
+    "energyDeltaPVP": 5,
+    "type": "NORMAL"
+  },
+  {
+    "id": 326,
+    "nameEng": "Thunder Fang",
+    "nameFr": "Crocs Éclair",
+    "nianticID": "THUNDER_FANG_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 13,
+    "powerPVP": 8,
+    "energyDeltaPVP": 6,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 327,
+    "nameEng": "Ice Fang",
+    "nameFr": "Crocs Givre",
+    "nianticID": "ICE_FANG_FAST",
+    "powerPVE": 12,
+    "energyDeltaPVE": 20,
+    "powerPVP": 8,
+    "energyDeltaPVP": 6,
+    "type": "GLACE"
+  },
+  {
+    "id": 328,
+    "nameEng": "Horn Drill",
+    "nameFr": "Empal’Korne",
+    "nianticID": "HORN_DRILL",
+    "powerPVE": 9000,
+    "energyDeltaPVE": -25,
+    "powerPVP": 0,
+    "energyDeltaPVP": 0,
+    "type": "NORMAL"
+  },
+  {
+    "id": 329,
+    "nameEng": "Fissure",
+    "nameFr": "Abîme",
+    "nianticID": "FISSURE",
+    "powerPVE": 9001,
+    "energyDeltaPVE": -25,
+    "powerPVP": 0,
+    "energyDeltaPVP": 0,
+    "type": "SOL"
+  },
+  {
+    "id": 330,
+    "nameEng": "Sacred Sword",
+    "nameFr": "Lame Sainte",
+    "nianticID": "SACRED_SWORD",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "COMBAT"
+  },
+  {
+    "id": 331,
+    "nameEng": "Flying Press",
+    "nameFr": "Flying Press",
+    "nianticID": "FLYING_PRESS",
+    "powerPVE": 115,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "id": 332,
+    "nameEng": "Aura Sphere",
+    "nameFr": "Aurasphère",
+    "nianticID": "AURA_SPHERE",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "id": 333,
+    "nameEng": "Payback",
+    "nameFr": "Représailles",
+    "nianticID": "PAYBACK",
+    "powerPVE": 95,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -60,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 334,
+    "nameEng": "Rock Wrecker",
+    "nameFr": "Roc-Boulet",
+    "nianticID": "ROCK_WRECKER",
+    "powerPVE": 110,
+    "energyDeltaPVE": -50,
+    "powerPVP": 110,
+    "energyDeltaPVP": -50,
+    "type": "ROCHE"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 2
+      }
+    },
+    "id": 335,
+    "nameEng": "Aeroblast",
+    "nameFr": "Aéroblast",
+    "nianticID": "AEROBLAST",
+    "powerPVE": 180,
+    "energyDeltaPVE": -100,
+    "powerPVP": 170,
+    "energyDeltaPVP": -75,
+    "type": "VOL"
+  },
+  {
+    "id": 336,
+    "nameEng": "Techno Blast",
+    "nameFr": "Techno-Buster",
+    "nianticID": "TECHNO_BLAST_NORMAL",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -55,
+    "type": "NORMAL"
+  },
+  {
+    "id": 337,
+    "nameEng": "Techno Blast",
+    "nameFr": "Techno-Buster",
+    "nianticID": "TECHNO_BLAST_BURN",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -55,
+    "type": "FEU"
+  },
+  {
+    "id": 338,
+    "nameEng": "Techno Blast",
+    "nameFr": "Techno-Buster",
+    "nianticID": "TECHNO_BLAST_CHILL",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -55,
+    "type": "GLACE"
+  },
+  {
+    "id": 339,
+    "nameEng": "Techno Blast",
+    "nameFr": "Techno-Buster",
+    "nianticID": "TECHNO_BLAST_WATER",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -55,
+    "type": "EAU"
+  },
+  {
+    "id": 340,
+    "nameEng": "Techno Blast",
+    "nameFr": "Techno-Buster",
+    "nianticID": "TECHNO_BLAST_SHOCK",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -55,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 341,
+    "nameEng": "Fly",
+    "nameFr": "Vol",
+    "nianticID": "FLY",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -3
+      }
+    },
+    "id": 342,
+    "nameEng": "V-create",
+    "nameFr": "Coup Victoire",
+    "nianticID": "V_CREATE",
+    "powerPVE": 105,
+    "energyDeltaPVE": -33,
+    "powerPVP": 95,
+    "energyDeltaPVP": -40,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": -2
+      }
+    },
+    "id": 343,
+    "nameEng": "Leaf Storm",
+    "nameFr": "Tempête Verte",
+    "nianticID": "LEAF_STORM",
+    "powerPVE": 130,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -55,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Défense cible": -1,
+        "Attaque cible": -1
+      }
+    },
+    "id": 344,
+    "nameEng": "Tri Attack",
+    "nameFr": "Triplattaque",
+    "nianticID": "TRI_ATTACK",
+    "powerPVE": 75,
+    "energyDeltaPVE": -50,
+    "powerPVP": 65,
+    "energyDeltaPVP": -50,
+    "type": "NORMAL"
+  },
+  {
+    "id": 345,
+    "nameEng": "Gust",
+    "nameFr": "Tornade",
+    "nianticID": "GUST_FAST",
+    "powerPVE": 25,
+    "energyDeltaPVE": 20,
+    "powerPVP": 16,
+    "energyDeltaPVP": 12,
+    "type": "VOL"
+  },
+  {
+    "id": 346,
+    "nameEng": "Incinerate",
+    "nameFr": "Calcination",
+    "nianticID": "INCINERATE_FAST",
+    "powerPVE": 32,
+    "energyDeltaPVE": 22,
+    "powerPVP": 20,
+    "energyDeltaPVP": 20,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -2
+      }
+    },
+    "id": 348,
+    "nameEng": "Feather Dance",
+    "nameFr": "Danse Plumes",
+    "nianticID": "FEATHER_DANCE",
+    "powerPVE": 35,
+    "energyDeltaPVE": -50,
+    "powerPVP": 35,
+    "energyDeltaPVP": -50,
+    "type": "VOL"
+  },
+  {
+    "id": 350,
+    "nameEng": "Fairy Wind",
+    "nameFr": "Vent Féérique",
+    "nianticID": "FAIRY_WIND_FAST",
+    "powerPVE": 9,
+    "energyDeltaPVE": 13,
+    "powerPVP": 4,
+    "energyDeltaPVP": 9,
+    "type": "FEE"
+  },
+  {
+    "id": 352,
+    "nameEng": "Weather Ball",
+    "nameFr": "Ball’Météo",
+    "nianticID": "WEATHER_BALL_NORMAL",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "NORMAL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 353,
+    "nameEng": "Psychic Fangs",
+    "nameFr": "Psycho-Croc",
+    "nianticID": "PSYCHIC_FANGS",
+    "powerPVE": 25,
+    "energyDeltaPVE": -33,
+    "powerPVP": 40,
+    "energyDeltaPVP": -35,
+    "type": "PSY"
+  },
+  {
+    "id": 356,
+    "nameEng": "Double Kick",
+    "nameFr": "Double Pied",
+    "nianticID": "DOUBLE_KICK_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 13,
+    "powerPVP": 8,
+    "energyDeltaPVP": 12,
+    "type": "COMBAT"
+  },
+  {
+    "id": 357,
+    "nameEng": "Magical Leaf",
+    "nameFr": "Feuille Magik",
+    "nianticID": "MAGICAL_LEAF_FAST",
+    "powerPVE": 17,
+    "energyDeltaPVE": 17,
+    "powerPVP": 10,
+    "energyDeltaPVP": 10,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 358,
+    "nameEng": "Sacred Fire",
+    "nameFr": "Feu Sacré",
+    "nianticID": "SACRED_FIRE",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -65,
+    "type": "FEU"
+  },
+  {
+    "id": 359,
+    "nameEng": "Icicle Spear",
+    "nameFr": "Stalactite",
+    "nianticID": "ICICLE_SPEAR",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "GLACE"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 2
+      }
+    },
+    "id": 360,
+    "nameEng": "Aeroblast+",
+    "nameFr": "Aéroblast+",
+    "nianticID": "AEROBLAST_PLUS",
+    "powerPVE": 200,
+    "energyDeltaPVE": -100,
+    "powerPVP": 170,
+    "energyDeltaPVP": -75,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 2
+      }
+    },
+    "id": 361,
+    "nameEng": "Aeroblast++",
+    "nameFr": "Aéroblast++",
+    "nianticID": "AEROBLAST_PLUS_PLUS",
+    "powerPVE": 225,
+    "energyDeltaPVE": -100,
+    "powerPVP": 170,
+    "energyDeltaPVP": -75,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 362,
+    "nameEng": "Sacred Fire+",
+    "nameFr": "Feu Sacré+",
+    "nianticID": "SACRED_FIRE_PLUS",
+    "powerPVE": 135,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -65,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 363,
+    "nameEng": "Sacred Fire++",
+    "nameFr": "Feu Sacré++",
+    "nianticID": "SACRED_FIRE_PLUS_PLUS",
+    "powerPVE": 155,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -65,
+    "type": "FEU"
+  },
+  {
+    "id": 364,
+    "nameEng": "Acrobatics",
+    "nameFr": "Acrobatie",
+    "nianticID": "ACROBATICS",
+    "powerPVE": 100,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -55,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 365,
+    "nameEng": "Luster Purge",
+    "nameFr": "Lumi-Éclat",
+    "nianticID": "LUSTER_PURGE",
+    "powerPVE": 100,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -60,
+    "type": "PSY"
+  },
+  {
+    "buffData": {
+      "chance": 50,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 366,
+    "nameEng": "Mist Ball",
+    "nameFr": "Ball’Brume",
+    "nianticID": "MIST_BALL",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -60,
+    "type": "PSY"
+  },
+  {
+    "id": 367,
+    "nameEng": "Brutal Swing",
+    "nameFr": "Centrifugifle",
+    "nianticID": "BRUTAL_SWING",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 368,
+    "nameEng": "Rollout",
+    "nameFr": "Roulade",
+    "nianticID": "ROLLOUT_FAST",
+    "powerPVE": 15,
+    "energyDeltaPVE": 19,
+    "powerPVP": 7,
+    "energyDeltaPVP": 13,
+    "type": "ROCHE"
+  },
+  {
+    "buffData": {
+      "chance": 40,
+      "hm_effect": {
+        "Défense cible": -2
+      }
+    },
+    "id": 369,
+    "nameEng": "Seed Flare",
+    "nameFr": "Fulmigraine",
+    "nianticID": "SEED_FLARE",
+    "powerPVE": 115,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -75,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1,
+        "Défense cible": -1
+      }
+    },
+    "id": 370,
+    "nameEng": "Obstruct",
+    "nameFr": "Blocage",
+    "nianticID": "OBSTRUCT",
+    "powerPVE": 20,
+    "energyDeltaPVE": -33,
+    "powerPVP": 15,
+    "energyDeltaPVP": -40,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 371,
+    "nameEng": "Shadow Force",
+    "nameFr": "Revenant",
+    "nianticID": "SHADOW_FORCE",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -90,
+    "type": "SPECTRE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 372,
+    "nameEng": "Meteor Beam",
+    "nameFr": "Laser Météore",
+    "nianticID": "METEOR_BEAM",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -60,
+    "type": "ROCHE"
+  },
+  {
+    "id": 373,
+    "nameEng": "Water Shuriken",
+    "nameFr": "Sheauriken",
+    "nianticID": "WATER_SHURIKEN_FAST",
+    "powerPVE": 9,
+    "energyDeltaPVE": 14,
+    "powerPVP": 6,
+    "energyDeltaPVP": 14,
+    "type": "EAU"
+  },
+  {
+    "id": 374,
+    "nameEng": "Fusion Bolt",
+    "nameFr": "Éclair Croix",
+    "nianticID": "FUSION_BOLT",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 90,
+    "energyDeltaPVP": -45,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 375,
+    "nameEng": "Fusion Flare",
+    "nameFr": "Flamme Croix",
+    "nianticID": "FUSION_FLARE",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 90,
+    "energyDeltaPVP": -45,
+    "type": "FEU"
+  },
+  {
+    "id": 376,
+    "nameEng": "Poltergeist",
+    "nameFr": "Esprit Frappeur",
+    "nianticID": "POLTERGEIST",
+    "powerPVE": 140,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -75,
+    "type": "SPECTRE"
+  },
+  {
+    "id": 377,
+    "nameEng": "High Horsepower",
+    "nameFr": "Cavalerie Lourde",
+    "nianticID": "HIGH_HORSEPOWER",
+    "powerPVE": 105,
+    "energyDeltaPVE": -100,
+    "powerPVP": 100,
+    "energyDeltaPVP": -60,
+    "type": "SOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 378,
+    "nameEng": "Glaciate",
+    "nameFr": "Ère Glaciaire",
+    "nianticID": "GLACIATE",
+    "powerPVE": 160,
+    "energyDeltaPVE": -100,
+    "powerPVP": 60,
+    "energyDeltaPVP": -40,
+    "type": "GLACE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 379,
+    "nameEng": "Breaking Swipe",
+    "nameFr": "Abattage",
+    "nianticID": "BREAKING_SWIPE",
+    "powerPVE": 45,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -50,
+    "type": "DRAGON"
+  },
+  {
+    "id": 380,
+    "nameEng": "Boomburst",
+    "nameFr": "Bang Sonique",
+    "nianticID": "BOOMBURST",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -70,
+    "type": "NORMAL"
+  },
+  {
+    "id": 381,
+    "nameEng": "Double Iron Bash",
+    "nameFr": "Écrous d’Poing",
+    "nianticID": "DOUBLE_IRON_BASH",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -35,
+    "type": "ACIER"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 382,
+    "nameEng": "Mystical Fire",
+    "nameFr": "Feu Ensorcelé",
+    "nianticID": "MYSTICAL_FIRE",
+    "powerPVE": 60,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 383,
+    "nameEng": "Liquidation",
+    "nameFr": "Aqua-Brèche",
+    "nianticID": "LIQUIDATION",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -45,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -1
+      }
+    },
+    "id": 384,
+    "nameEng": "Dragon Ascent",
+    "nameFr": "Draco Ascension",
+    "nianticID": "DRAGON_ASCENT",
+    "powerPVE": 140,
+    "energyDeltaPVE": -50,
+    "powerPVP": 150,
+    "energyDeltaPVP": -70,
+    "type": "VOL"
+  },
+  {
+    "id": 385,
+    "nameEng": "Leafage",
+    "nameFr": "Feuillage",
+    "nianticID": "LEAFAGE_FAST",
+    "powerPVE": 6,
+    "energyDeltaPVE": 4,
+    "powerPVP": 6,
+    "energyDeltaPVP": 8,
+    "type": "PLANTE"
+  },
+  {
+    "id": 386,
+    "nameEng": "Magma Storm",
+    "nameFr": "Vortex Magma",
+    "nianticID": "MAGMA_STORM",
+    "powerPVE": 75,
+    "energyDeltaPVE": -33,
+    "powerPVP": 65,
+    "energyDeltaPVP": -40,
+    "type": "FEU"
+  },
+  {
+    "id": 387,
+    "nameEng": "Geomancy",
+    "nameFr": "Géo-Contrôle",
+    "nianticID": "GEOMANCY_FAST",
+    "powerPVE": 20,
+    "energyDeltaPVE": 14,
+    "powerPVP": 8,
+    "energyDeltaPVP": 13,
+    "type": "FEE"
+  },
+  {
+    "id": 388,
+    "nameEng": "Spacial Rend",
+    "nameFr": "Spatio-Rift",
+    "nianticID": "SPACIAL_REND",
+    "powerPVE": 160,
+    "energyDeltaPVE": -100,
+    "powerPVP": 95,
+    "energyDeltaPVP": -55,
+    "type": "DRAGON"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1
+      }
+    },
+    "id": 389,
+    "nameEng": "Oblivion Wing",
+    "nameFr": "Mort-Ailes",
+    "nianticID": "OBLIVION_WING",
+    "powerPVE": 85,
+    "energyDeltaPVE": -50,
+    "powerPVP": 85,
+    "energyDeltaPVP": -50,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 390,
+    "nameEng": "Nature’s Madness",
+    "nameFr": "Ire de la Nature",
+    "nianticID": "NATURES_MADNESS",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "FEE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 391,
+    "nameEng": "Triple Axel",
+    "nameFr": "Triple Axel",
+    "nianticID": "TRIPLE_AXEL",
+    "powerPVE": 60,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "GLACE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 392,
+    "nameEng": "Trailblaze",
+    "nameFr": "Désherbaffe",
+    "nianticID": "TRAILBLAZE",
+    "powerPVE": 65,
+    "energyDeltaPVE": -50,
+    "powerPVP": 65,
+    "energyDeltaPVP": -45,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 10,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 393,
+    "nameEng": "Scorching Sands",
+    "nameFr": "Sable Ardent",
+    "nianticID": "SCORCHING_SANDS",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -50,
+    "type": "SOL"
+  },
+  {
+    "id": 394,
+    "nameEng": "Roar of Time",
+    "nameFr": "Hurle-Temps",
+    "nianticID": "ROAR_OF_TIME",
+    "powerPVE": 160,
+    "energyDeltaPVE": -100,
+    "powerPVP": 150,
+    "energyDeltaPVP": -65,
+    "type": "DRAGON"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 395,
+    "nameEng": "Bleakwind Storm",
+    "nameFr": "Typhon Hivernal",
+    "nianticID": "BLEAKWIND_STORM",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "VOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 396,
+    "nameEng": "Sandsear Storm",
+    "nameFr": "Typhon Pyrosable",
+    "nianticID": "SANDSEAR_STORM",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "SOL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 397,
+    "nameEng": "Wildbolt Storm",
+    "nameFr": "Typhon Fulgurant",
+    "nianticID": "WILDBOLT_STORM",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "ELECTRIK"
+  },
+  {
+    "buffData": {
+      "chance": 33,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 398,
+    "nameEng": "Spirit Shackle",
+    "nameFr": "Tisse Ombre",
+    "nianticID": "SPIRIT_SHACKLE",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -40,
+    "type": "SPECTRE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -1
+      }
+    },
+    "id": 399,
+    "nameEng": "Volt Tackle",
+    "nameFr": "Électacle",
+    "nianticID": "VOLT_TACKLE",
+    "powerPVE": 90,
+    "energyDeltaPVE": -33,
+    "powerPVP": 90,
+    "energyDeltaPVP": -40,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 400,
+    "nameEng": "Darkest Lariat",
+    "nameFr": "Dark Lariat",
+    "nianticID": "DARKEST_LARIAT",
+    "powerPVE": 80,
+    "energyDeltaPVE": -50,
+    "powerPVP": 120,
+    "energyDeltaPVP": -60,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 401,
+    "nameEng": "Psywave",
+    "nameFr": "Vague Psy",
+    "nianticID": "PSYWAVE_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 7,
+    "powerPVP": 3,
+    "energyDeltaPVP": 14,
+    "type": "PSY"
+  },
+  {
+    "id": 402,
+    "nameEng": "Metal Sound",
+    "nameFr": "Strido-Son",
+    "nianticID": "METAL_SOUND_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 6,
+    "powerPVP": 5,
+    "energyDeltaPVP": 8,
+    "type": "ACIER"
+  },
+  {
+    "id": 403,
+    "nameEng": "Sand Attack",
+    "nameFr": "Jet de Sable",
+    "nianticID": "SAND_ATTACK_FAST",
+    "powerPVE": 4,
+    "energyDeltaPVE": 7,
+    "powerPVP": 2,
+    "energyDeltaPVP": 5,
+    "type": "SOL"
+  },
+  {
+    "id": 404,
+    "nameEng": "Sunsteel Strike",
+    "nameFr": "Choc Météore",
+    "nianticID": "SUNSTEEL_STRIKE",
+    "powerPVE": 230,
+    "energyDeltaPVE": -100,
+    "powerPVP": 135,
+    "energyDeltaPVP": -65,
+    "type": "ACIER"
+  },
+  {
+    "id": 405,
+    "nameEng": "Moongeist Beam",
+    "nameFr": "Rayon Spectral",
+    "nianticID": "MOONGEIST_BEAM",
+    "powerPVE": 230,
+    "energyDeltaPVE": -100,
+    "powerPVP": 135,
+    "energyDeltaPVP": -65,
+    "type": "SPECTRE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 406,
+    "nameEng": "Aura Wheel",
+    "nameFr": "Roue Libre",
+    "nianticID": "AURA_WHEEL_ELECTRIC",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -45,
+    "type": "ELECTRIK"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 407,
+    "nameEng": "Aura Wheel",
+    "nameFr": "Roue Libre",
+    "nianticID": "AURA_WHEEL_DARK",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 100,
+    "energyDeltaPVP": -45,
+    "type": "TENEBRES"
+  },
+  {
+    "id": 408,
+    "nameEng": "High Jump Kick",
+    "nameFr": "Pied Voltige",
+    "nianticID": "HIGH_JUMP_KICK",
+    "powerPVE": 90,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -55,
+    "type": "COMBAT"
+  },
+  {
+    "id": 462,
+    "nameEng": "Force Palm",
+    "nameFr": "Forte-Paume",
+    "nianticID": "FORCE_PALM_FAST",
+    "powerPVE": 10,
+    "energyDeltaPVE": 16,
+    "powerPVP": 13,
+    "energyDeltaPVP": 10,
+    "type": "COMBAT"
+  },
+  {
+    "id": 463,
+    "nameEng": "Sparkling Aria",
+    "nameFr": "Aria de l’Écume",
+    "nianticID": "SPARKLING_ARIA",
+    "powerPVE": 85,
+    "energyDeltaPVE": -33,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 464,
+    "nameEng": "Rage Fist",
+    "nameFr": "Poing de Colère",
+    "nianticID": "RAGE_FIST",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 50,
+    "energyDeltaPVP": -35,
+    "type": "SPECTRE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 465,
+    "nameEng": "Flower Trick",
+    "nameFr": "Magie Florale",
+    "nianticID": "FLOWER_TRICK",
+    "powerPVE": 75,
+    "energyDeltaPVE": -33,
+    "powerPVP": 30,
+    "energyDeltaPVP": -35,
+    "type": "PLANTE"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 466,
+    "nameEng": "Freeze Shock",
+    "nameFr": "Éclair Gelé",
+    "nianticID": "FREEZE_SHOCK",
+    "powerPVE": 160,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -60,
+    "type": "GLACE"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 467,
+    "nameEng": "Ice Burn",
+    "nameFr": "Feu Glacé",
+    "nianticID": "ICE_BURN",
+    "powerPVE": 90,
+    "energyDeltaPVE": -50,
+    "powerPVP": 120,
+    "energyDeltaPVP": -60,
+    "type": "GLACE"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 468,
+    "nameEng": "Torch Song",
+    "nameFr": "Chant Flamboyant",
+    "nianticID": "TORCH_SONG",
+    "powerPVE": 100,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -45,
+    "type": "FEU"
+  },
+  {
+    "id": 469,
+    "nameEng": "Behemoth Blade",
+    "nameFr": "Gladius Maximus",
+    "nianticID": "BEHEMOTH_BLADE",
+    "powerPVE": 200,
+    "energyDeltaPVE": -100,
+    "powerPVP": 100,
+    "energyDeltaPVP": -55,
+    "type": "ACIER"
+  },
+  {
+    "id": 470,
+    "nameEng": "Behemoth Bash",
+    "nameFr": "Aegis Maxima",
+    "nianticID": "BEHEMOTH_BASH",
+    "powerPVE": 125,
+    "energyDeltaPVE": -50,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "ACIER"
+  },
+  {
+    "buffData": {
+      "chance": 30,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 471,
+    "nameEng": "Upper Hand",
+    "nameFr": "Prio-Parade",
+    "nianticID": "UPPER_HAND",
+    "powerPVE": 50,
+    "energyDeltaPVE": -33,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
+    "type": "COMBAT"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 472,
+    "nameEng": "Thunder Cage",
+    "nameFr": "Voltageôle",
+    "nianticID": "THUNDER_CAGE",
+    "powerPVE": 220,
+    "energyDeltaPVE": -100,
+    "powerPVP": 60,
+    "energyDeltaPVP": -40,
+    "type": "ELECTRIK"
+  },
+  {
+    "id": 482,
+    "nameEng": "Dynamax Cannon",
+    "nameFr": "Canon Dynamax",
+    "nianticID": "DYNAMAX_CANNON",
+    "powerPVE": 215,
+    "energyDeltaPVE": -100,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
+    "type": "DRAGON"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -1
+      }
+    },
+    "id": 484,
+    "nameEng": "Clanging Scales",
+    "nameFr": "Vibrécaille",
+    "nianticID": "CLANGING_SCALES",
+    "powerPVE": 120,
+    "energyDeltaPVE": -100,
+    "powerPVP": 120,
+    "energyDeltaPVP": -45,
+    "type": "DRAGON"
+  },
+  {
+    "id": 485,
+    "nameEng": "Crush Grip",
+    "nameFr": "Presse",
+    "nianticID": "CRUSH_GRIP",
+    "powerPVE": 210,
+    "energyDeltaPVE": -100,
+    "powerPVP": 110,
+    "energyDeltaPVP": -50,
+    "type": "NORMAL"
+  },
+  {
+    "id": 486,
+    "nameEng": "Dragon Energy",
+    "nameFr": "Draco-Énergie",
+    "nianticID": "DRAGON_ENERGY",
+    "powerPVE": 155,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -45,
+    "type": "DRAGON"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque attaquant": 1
+      }
+    },
+    "id": 487,
+    "nameEng": "Aqua Step",
+    "nameFr": "Danse Aquatique",
+    "nianticID": "AQUA_STEP",
+    "powerPVE": 55,
+    "energyDeltaPVE": -33,
+    "powerPVP": 55,
+    "energyDeltaPVP": -40,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 488,
+    "nameEng": "Chilling Water",
+    "nameFr": "Douche Froide",
+    "nianticID": "CHILLING_WATER",
+    "powerPVE": 65,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -45,
+    "type": "EAU"
+  },
+  {
+    "id": 489,
+    "nameEng": "Secret Sword",
+    "nameFr": "Lame Ointe",
+    "nianticID": "SECRET_SWORD",
+    "powerPVE": 120,
+    "energyDeltaPVE": -50,
+    "powerPVP": 70,
+    "energyDeltaPVP": -35,
+    "type": "COMBAT"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 490,
+    "nameEng": "Beak Blast",
+    "nameFr": "Bec-Canon",
+    "nianticID": "BEAK_BLAST",
+    "powerPVE": 125,
+    "energyDeltaPVE": -50,
+    "powerPVP": 110,
+    "energyDeltaPVP": -55,
+    "type": "VOL"
+  },
+  {
+    "id": 491,
+    "nameEng": "Mind Blown",
+    "nameFr": "Caboche-Kaboum",
+    "nianticID": "MIND_BLOWN",
+    "powerPVE": 130,
+    "energyDeltaPVE": -33,
+    "powerPVP": 90,
+    "energyDeltaPVP": -35,
+    "type": "FEU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -1
+      }
+    },
+    "id": 492,
+    "nameEng": "Drum Beating",
+    "nameFr": "Tambour Battant",
+    "nianticID": "DRUM_BEATING",
+    "powerPVE": 115,
+    "energyDeltaPVE": -33,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "PLANTE"
+  },
+  {
+    "id": 493,
+    "nameEng": "PYROBALL",
+    "nameFr": "PYROBALL",
+    "nianticID": "PYROBALL",
+    "powerPVE": 150,
+    "energyDeltaPVE": -100,
+    "powerPVP": 75,
+    "energyDeltaPVP": -40,
+    "type": "FEU"
+  }
+]
