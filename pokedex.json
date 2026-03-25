@@ -5198,8 +5198,8 @@
           }
         ],
         "formImages": {
-          "male": "pm31.icon.png",
-          "maleshiny": "pm31.s.icon.png"
+          "female": "pm31.icon.png",
+          "femaleshiny": "pm31.s.icon.png"
         },
         "a_pokeAttackDatas": [
           {
@@ -86964,8 +86964,8 @@
           {
             "charged": false,
             "legacy": false,
-            "name": "Charme",
-            "type": "FEE"
+            "name": "Châtiment",
+            "type": "SPECTRE"
           },
           {
             "charged": true,
@@ -86982,8 +86982,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ball’Ombre",
-            "type": "SPECTRE"
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": false,
@@ -87024,8 +87024,8 @@
           {
             "charged": false,
             "legacy": false,
-            "name": "Charme",
-            "type": "FEE"
+            "name": "Châtiment",
+            "type": "SPECTRE"
           },
           {
             "charged": true,
@@ -87042,8 +87042,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ball’Ombre",
-            "type": "SPECTRE"
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": false,
@@ -90104,6 +90104,18 @@
             "legacy": false,
             "name": "Exploforce",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ballon Brûlant",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Rafale Feu",
+            "type": "FEU"
           }
         ],
         "avalaibleInPogo": true,
@@ -90168,6 +90180,18 @@
             "legacy": false,
             "name": "Exploforce",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ballon Brûlant",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Rafale Feu",
+            "type": "FEU"
           }
         ],
         "avalaibleInPogo": true,
@@ -92097,6 +92121,168 @@
     "candyToEvolve": 0,
     "id": "842",
     "kmBuddyDistance": 5,
+    "legendary": false,
+    "mythic": false,
+    "tradable": true,
+    "ultraBeast": false,
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "formImages": {
+          "maleshiny": "pm843.s.icon.png",
+          "male": "pm843.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coud’Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tunnel",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piétisol",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Telluriforce",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Giga-Sangsue",
+            "type": "PLANTE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 103,
+        "baseDefense": 123,
+        "baseStamina": 141,
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            "Sandaconda"
+          ],
+          "namesFr": [
+            "Dunaconda"
+          ]
+        },
+        "genericName": "Dunaja",
+        "heightM": 2.2,
+        "nameFormEng": "Silicobra",
+        "nameFormFr": "Dunaja",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "SOL",
+        "typeB": "AAUCUN",
+        "uniqueCode": "843",
+        "weightKg": 7.6
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "843",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "tradable": true,
+    "ultraBeast": false,
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "formImages": {
+          "maleshiny": "pm844.s.icon.png",
+          "male": "pm844.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coud’Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tunnel",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piétisol",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Telluriforce",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Giga-Sangsue",
+            "type": "PLANTE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 202,
+        "baseDefense": 207,
+        "baseStamina": 176,
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Dunaconda",
+        "heightM": 3.8,
+        "nameFormEng": "Sandaconda",
+        "nameFormFr": "Dunaconda",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 2,
+        "typeA": "SOL",
+        "typeB": "AAUCUN",
+        "uniqueCode": "844",
+        "weightKg": 65.5
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "844",
+    "kmBuddyDistance": 3,
     "legendary": false,
     "mythic": false,
     "tradable": true,
