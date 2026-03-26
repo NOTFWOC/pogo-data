@@ -43517,7 +43517,7 @@
         "baseAttack": 179,
         "baseDefense": 309,
         "baseStamina": 190,
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             ""
