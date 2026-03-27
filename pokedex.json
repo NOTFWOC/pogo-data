@@ -9,8 +9,8 @@
               "maleshiny": "pm1.fFALL_2019.s.icon.png"
             },
             "costumeName": "Munja",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "1ha"
           },
           {
@@ -19,8 +19,8 @@
               "maleshiny": "pm1.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "1ch"
           },
           {
@@ -29,8 +29,8 @@
               "maleshiny": "pm1.cSPRING_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Masque Pikachu",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "1gf"
           }
         ],
@@ -117,8 +117,8 @@
               "maleshiny": "pm2.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "2ch"
           }
         ],
@@ -205,8 +205,8 @@
               "female": "pm3.fCOPY_2019.g2.icon.png"
             },
             "costumeName": "Clône",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "3cl"
           },
           {
@@ -217,8 +217,8 @@
               "femaleshiny": "pm3.cJAN_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "3ch"
           }
         ],
@@ -471,8 +471,8 @@
               "maleshiny": "pm4.fFALL_2019.s.icon.png"
             },
             "costumeName": "Osselait",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "4ha"
           },
           {
@@ -481,8 +481,8 @@
               "maleshiny": "pm4.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "4ch"
           },
           {
@@ -491,8 +491,8 @@
               "maleshiny": "pm4.cSPRING_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Masque Pikachu",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "4gf"
           }
         ],
@@ -579,8 +579,8 @@
               "maleshiny": "pm5.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "5ch"
           }
         ],
@@ -672,8 +672,8 @@
               "male": "pm6.fCOPY_2019.icon.png"
             },
             "costumeName": "Clône",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "6cl"
           },
           {
@@ -682,8 +682,8 @@
               "maleshiny": "pm6.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "6ch"
           }
         ],
@@ -1110,8 +1110,8 @@
               "maleshiny": "pm7.cSUMMER_2018.s.icon.png"
             },
             "costumeName": "Lunettes de soleil",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "7lu"
           },
           {
@@ -1120,8 +1120,8 @@
               "maleshiny": "pm7.fFALL_2019.s.icon.png"
             },
             "costumeName": "Tutafeh",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "7ha"
           },
           {
@@ -1130,8 +1130,8 @@
               "maleshiny": "pm7.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "7ch"
           },
           {
@@ -1140,8 +1140,8 @@
               "maleshiny": "pm7.cSPRING_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Masque Pikachu",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "7gf"
           }
         ],
@@ -1228,8 +1228,8 @@
               "maleshiny": "pm8.cSUMMER_2018.s.icon.png"
             },
             "costumeName": "Lunettes de soleil",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "8lu"
           },
           {
@@ -1238,8 +1238,8 @@
               "maleshiny": "pm8.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "8cha"
           }
         ],
@@ -1326,8 +1326,8 @@
               "maleshiny": "pm9.cSUMMER_2018.s.icon.png"
             },
             "costumeName": "Lunettes de soleil",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "9lu"
           },
           {
@@ -1335,8 +1335,8 @@
               "male": "pm9.fCOPY_2019.icon.png"
             },
             "costumeName": "Clône",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "9cl"
           },
           {
@@ -1345,8 +1345,8 @@
               "maleshiny": "pm9.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "9cha"
           }
         ],
@@ -1747,8 +1747,8 @@
               "femaleshiny": "pm12.cFASHION_2021_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "12np"
           }
         ],
@@ -2735,8 +2735,8 @@
               "femaleshiny": "pm20.cJAN_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "20ch"
           }
         ],
@@ -3243,9 +3243,10 @@
               "femaleshiny": "pm25.cHOLIDAY_2016.g2.s.icon.png"
             },
             "costumeName": "Bonnet de Noël",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
-            "uniqueCode": "25no"
+            "avalaibleInPogo": true,
+            "uniqueCode": "25no",
+            "firstAppearanceDate": "25/12/2016"
           },
           {
             "costumeImages": {
@@ -3255,8 +3256,8 @@
               "femaleshiny": "pm25.cANNIVERSARY.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête violet",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ch"
           },
           {
@@ -3267,8 +3268,8 @@
               "femaleshiny": "pm25.cONE_YEAR_ANNIVERSARY.g2.s.icon.png"
             },
             "costumeName": "Casquette de Sacha",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25sa"
           },
           {
@@ -3279,8 +3280,8 @@
               "femaleshiny": "pm25.cHALLOWEEN_2017.g2.s.icon.png"
             },
             "costumeName": "Chapeau de sorcière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ha"
           },
           {
@@ -3291,8 +3292,8 @@
               "femaleshiny": "pm25.cSUMMER_2018.g2.s.icon.png"
             },
             "costumeName": "Estival",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25lu"
           },
           {
@@ -3303,8 +3304,8 @@
               "femaleshiny": "pm25.cFALL_2018.g2.s.icon.png"
             },
             "costumeName": "Fragment",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25hf"
           },
           {
@@ -3315,8 +3316,8 @@
               "femaleshiny": "pm25.cNOVEMBER_2018.g2.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25fl"
           },
           {
@@ -3327,8 +3328,8 @@
               "femaleshiny": "pm25.cFEB_2019.g2.s.icon.png"
             },
             "costumeName": "Détective",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25de"
           },
           {
@@ -3339,8 +3340,8 @@
               "femaleshiny": "pm25.cMAY_2019_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de Luffy (One Piece)",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25op"
           },
           {
@@ -3351,8 +3352,8 @@
               "femaleshiny": "pm25.fFALL_2019.g2.s.icon.png"
             },
             "costumeName": "Mimiqui",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25mi"
           },
           {
@@ -3363,8 +3364,8 @@
               "femaleshiny": "pm25.cWINTER_2018.g2.s.icon.png"
             },
             "costumeName": "Bonnet",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25no2"
           },
           {
@@ -3375,8 +3376,8 @@
               "femaleshiny": "pm25.fCOPY_2019.g2.s.icon.png"
             },
             "costumeName": "Clône",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cl"
           },
           {
@@ -3385,8 +3386,8 @@
               "maleshiny": "pm25.fVS_2019.s.icon.png"
             },
             "costumeName": "Catcheur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ca"
           },
           {
@@ -3397,8 +3398,8 @@
               "femaleshiny": "pm25.cJAN_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête rouge",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ch2"
           },
           {
@@ -3409,8 +3410,8 @@
               "femaleshiny": "pm25.cSAFARI_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Safari",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25sa2"
           },
           {
@@ -3421,8 +3422,8 @@
               "femaleshiny": "pm25.cAPRIL_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Coiffe de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cf"
           },
           {
@@ -3433,8 +3434,8 @@
               "femaleshiny": "pm25.cKANTO_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Dracaufeu",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25dr"
           },
           {
@@ -3445,8 +3446,8 @@
               "femaleshiny": "pm25.cJOHTO_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Noctali",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25nc"
           },
           {
@@ -3457,8 +3458,8 @@
               "femaleshiny": "pm25.cHOENN_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Rayquaza",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ra"
           },
           {
@@ -3469,8 +3470,8 @@
               "femaleshiny": "pm25.cSINNOH_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Lucario",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25lo"
           },
           {
@@ -3481,8 +3482,8 @@
               "femaleshiny": "pm25.fCOSTUME_2020.g2.s.icon.png"
             },
             "costumeName": "Ballons",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ba"
           },
           {
@@ -3493,8 +3494,8 @@
               "femaleshiny": "pm25.cCOSTUME_1.g2.s.icon.png"
             },
             "costumeName": "Casquette Monde",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25tm"
           },
           {
@@ -3505,8 +3506,8 @@
               "femaleshiny": "pm25.fADVENTURE_HAT_2020.g2.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25av"
           },
           {
@@ -3517,8 +3518,8 @@
               "femaleshiny": "pm25.fWINTER_2020.g2.s.icon.png"
             },
             "costumeName": "Carnaval d’hiver",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25no3"
           },
           {
@@ -3529,8 +3530,8 @@
               "femaleshiny": "pm25.cCOSTUME_2.g2.s.icon.png"
             },
             "costumeName": "Chapeau Nouvel An",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ch3"
           },
           {
@@ -3541,8 +3542,8 @@
               "femaleshiny": "pm25.fFLYING_5TH_ANNIV.g2.s.icon.png"
             },
             "costumeName": "Ballons 5ème Anniversaire",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ba5"
           },
           {
@@ -3553,8 +3554,8 @@
               "femaleshiny": "pm25.cGOFEST_2021_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de Meloetta",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gf"
           },
           {
@@ -3563,8 +3564,8 @@
               "maleshiny": "pm25.fROCK_STAR.s.icon.png"
             },
             "costumeName": "Rock Star",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25roc"
           },
           {
@@ -3573,8 +3574,8 @@
               "maleshiny": "pm25.fPOP_STAR.s.icon.png"
             },
             "costumeName": "Pop Star",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25pop"
           },
           {
@@ -3585,8 +3586,8 @@
               "femaleshiny": "pm25.cHALLOWEEN_2021_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chenapan d’Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ha2"
           },
           {
@@ -3597,8 +3598,8 @@
               "femaleshiny": "pm25.fKARIYUSHI.g2.s.icon.png"
             },
             "costumeName": "Kariyushi",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ka"
           },
           {
@@ -3609,8 +3610,8 @@
               "femaleshiny": "pm25.fFLYING_OKINAWA.g2.s.icon.png"
             },
             "costumeName": "Ballons rouges",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ba2"
           },
           {
@@ -3621,8 +3622,8 @@
               "femaleshiny": "pm25.cGOFEST_2022_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Fleurs Shaymin",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gf2"
           },
           {
@@ -3633,8 +3634,8 @@
               "femaleshiny": "pm25.cTCG_2022_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "JCC Pokémon",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25jc"
           },
           {
@@ -3645,8 +3646,8 @@
               "femaleshiny": "pm25.cANNIVERSARY_2022_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Gâteau",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ga"
           },
           {
@@ -3657,8 +3658,8 @@
               "femaleshiny": "pm25.fGOFEST_2022.g2.s.icon.png"
             },
             "costumeName": "Écharpe Shaymin",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ech"
           },
           {
@@ -3669,8 +3670,8 @@
               "femaleshiny": "pm25.fWCS_2022.g2.s.icon.png"
             },
             "costumeName": "Championnats du Monde 2022",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25wc"
           },
           {
@@ -3681,8 +3682,8 @@
               "femaleshiny": "pm25.fFLYING_01.g2.s.icon.png"
             },
             "costumeName": "Ballons verts",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ba3"
           },
           {
@@ -3693,8 +3694,8 @@
               "femaleshiny": "pm25.fFLYING_02.g2.s.icon.png"
             },
             "costumeName": "Ballons violets",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ba4"
           },
           {
@@ -3705,8 +3706,8 @@
               "femaleshiny": "pm25.fTSHIRT_01.g2.s.icon.png"
             },
             "costumeName": "Chemise verte baies",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25tai"
           },
           {
@@ -3717,8 +3718,8 @@
               "femaleshiny": "pm25.fTSHIRT_02.g2.s.icon.png"
             },
             "costumeName": "Chemise mauve fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25sin"
           },
           {
@@ -3729,8 +3730,8 @@
               "femaleshiny": "pm25.cJAN_2023_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Haut-de-forme de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25na"
           },
           {
@@ -3741,8 +3742,8 @@
               "femaleshiny": "pm25.cGOTOUR_2023_BANDANA_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Ruban de Flora",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ban"
           },
           {
@@ -3753,8 +3754,8 @@
               "femaleshiny": "pm25.cGOTOUR_2023_HAT_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de Brice",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25bon"
           },
           {
@@ -3765,8 +3766,8 @@
               "femaleshiny": "pm25.cSPRING_2023.g2.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25fl2"
           },
           {
@@ -3777,8 +3778,8 @@
               "femaleshiny": "pm25.fJEJU.g2.s.icon.png"
             },
             "costumeName": "Chemise bleue agrumes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cbl"
           },
           {
@@ -3789,8 +3790,8 @@
               "femaleshiny": "pm25.fSUMMER_2023_A.g2.s.icon.png"
             },
             "costumeName": "Malachite",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cve"
           },
           {
@@ -3801,8 +3802,8 @@
               "femaleshiny": "pm25.fSUMMER_2023_B.g2.s.icon.png"
             },
             "costumeName": "Aigue-marine",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cbl2"
           },
           {
@@ -3813,8 +3814,8 @@
               "femaleshiny": "pm25.fSUMMER_2023_C.g2.s.icon.png"
             },
             "costumeName": "Quartz",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cro"
           },
           {
@@ -3825,8 +3826,8 @@
               "femaleshiny": "pm25.fSUMMER_2023_D.g2.s.icon.png"
             },
             "costumeName": "Pyrite",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cja"
           },
           {
@@ -3837,8 +3838,8 @@
               "femaleshiny": "pm25.fSUMMER_2023_E.g2.s.icon.png"
             },
             "costumeName": "Améthyste",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cvi"
           },
           {
@@ -3849,8 +3850,8 @@
               "femaleshiny": "pm25.fWCS_2023.g2.s.icon.png"
             },
             "costumeName": "WCS 2023",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25wc2"
           },
           {
@@ -3861,8 +3862,8 @@
               "femaleshiny": "pm25.fFLYING_03.g2.s.icon.png"
             },
             "costumeName": "Ballons oranges",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25fl3"
           },
           {
@@ -3871,8 +3872,8 @@
               "maleshiny": "pm25.fDOCTOR.s.icon.png"
             },
             "costumeName": "Docteur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25doc"
           },
           {
@@ -3883,8 +3884,8 @@
               "femaleshiny": "pm25.cFALL_2023_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ha3"
           },
           {
@@ -3895,8 +3896,8 @@
               "femaleshiny": "pm25.cHOLIDAY_2023.g2.s.icon.png"
             },
             "costumeName": "Vêtements des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25no4"
           },
           {
@@ -3907,8 +3908,8 @@
               "femaleshiny": "pm25.fGOTOUR_2024_A.g2.s.icon.png"
             },
             "costumeName": "Béret de Louka",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gar"
           },
           {
@@ -3919,8 +3920,8 @@
               "femaleshiny": "pm25.fGOTOUR_2024_A_02.g2.s.icon.png"
             },
             "costumeName": "Bonnet de Aurore",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gab"
           },
           {
@@ -3931,8 +3932,8 @@
               "femaleshiny": "pm25.fGOTOUR_2024_B.g2.s.icon.png"
             },
             "costumeName": "Casquette de Aurel",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gbr"
           },
           {
@@ -3943,8 +3944,8 @@
               "femaleshiny": "pm25.fGOTOUR_2024_B_02.g2.s.icon.png"
             },
             "costumeName": "Foulard de Lucia",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gbb"
           },
           {
@@ -3955,8 +3956,8 @@
               "femaleshiny": "pm25.fFLYING_04.g2.s.icon.png"
             },
             "costumeName": "Ballons noirs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ba6"
           },
           {
@@ -3967,8 +3968,8 @@
               "femaleshiny": "pm25.fHORIZONS.g2.s.icon.png"
             },
             "costumeName": "Capitaine",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ber"
           },
           {
@@ -3979,8 +3980,8 @@
               "femaleshiny": "pm25.fTSHIRT_03.g2.s.icon.png"
             },
             "costumeName": "Chemise Batik",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gil"
           },
           {
@@ -3991,8 +3992,8 @@
               "femaleshiny": "pm25.fGOFEST_2024_MTIARA.g2.s.icon.png"
             },
             "costumeName": "Couronne Lune",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25lun"
           },
           {
@@ -4003,8 +4004,8 @@
               "femaleshiny": "pm25.fGOFEST_2024_STIARA.g2.s.icon.png"
             },
             "costumeName": "Couronne Soleil",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25sol"
           },
           {
@@ -4015,8 +4016,8 @@
               "femaleshiny": "pm25.fWCS_2024.g2.s.icon.png"
             },
             "costumeName": "Championnats du Monde 2024",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25wc3"
           },
           {
@@ -4025,8 +4026,8 @@
               "maleshiny": "pm25.fDIWALI_2024.s.icon.png"
             },
             "costumeName": "Sari",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25diw"
           },
           {
@@ -4037,8 +4038,8 @@
               "femaleshiny": "pm25.fGOTOUR_2025_A.g2.s.icon.png"
             },
             "costumeName": "Casquette de Ludwig",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gtcr"
           },
           {
@@ -4049,8 +4050,8 @@
               "femaleshiny": "pm25.fGOTOUR_2025_A_02.g2.s.icon.png"
             },
             "costumeName": "Casquette de Ludvina",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gtcb"
           },
           {
@@ -4061,8 +4062,8 @@
               "femaleshiny": "pm25.fGOTOUR_2025_B.g2.s.icon.png"
             },
             "costumeName": "Visière de Mélis",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gtvr"
           },
           {
@@ -4073,8 +4074,8 @@
               "femaleshiny": "pm25.fGOTOUR_2025_B_02.g2.s.icon.png"
             },
             "costumeName": "Visière d’Écho",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gtvb"
           },
           {
@@ -4083,8 +4084,8 @@
               "maleshiny": "pm25.fKURTA.s.icon.png"
             },
             "costumeName": "Kurta",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25kur"
           },
           {
@@ -4095,8 +4096,8 @@
               "femaleshiny": "pm25.fWCS_2025.g2.s.icon.png"
             },
             "costumeName": "Blouson d’université",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25wc4"
           },
           {
@@ -4107,8 +4108,8 @@
               "femaleshiny": "pm25.fGOFEST_2025_GOGGLES_BLUE.g2.s.icon.png"
             },
             "costumeName": "Accessoires Bleu",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gfgb"
           },
           {
@@ -4119,8 +4120,8 @@
               "femaleshiny": "pm25.fGOFEST_2025_GOGGLES_RED.g2.s.icon.png"
             },
             "costumeName": "Accessoires Rouge",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gflr"
           },
           {
@@ -4131,8 +4132,8 @@
               "femaleshiny": "pm25.fGOFEST_2025_GOGGLES_YELLOW.g2.s.icon.png"
             },
             "costumeName": "Accessoires Jaune",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gflj"
           },
           {
@@ -4143,8 +4144,8 @@
               "femaleshiny": "pm25.fGOFEST_2025_MONOCLE_BLUE.g2.s.icon.png"
             },
             "costumeName": "Monocle Bleu",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gfmb"
           },
           {
@@ -4155,8 +4156,8 @@
               "femaleshiny": "pm25.fGOFEST_2025_MONOCLE_RED.g2.s.icon.png"
             },
             "costumeName": "Monocle Rouge",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gfmr"
           },
           {
@@ -4167,8 +4168,8 @@
               "femaleshiny": "pm25.fGOFEST_2025_MONOCLE_YELLOW.g2.s.icon.png"
             },
             "costumeName": "Monocle Jaune",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25gfmj"
           },
           {
@@ -4179,8 +4180,8 @@
               "femaleshiny": "pm25.cINDONESIA_2025_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Maillot de Football Indonésien",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25si"
           },
           {
@@ -4191,8 +4192,8 @@
               "femaleshiny": "pm25.fGOTOUR_2026_C_02.g2.s.icon.png"
             },
             "costumeName": "Casquette de Serena",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25c2r"
           },
           {
@@ -4203,8 +4204,8 @@
               "femaleshiny": "pm25.fGOTOUR_2026_B_02.g2.s.icon.png"
             },
             "costumeName": "Casquette de Célesta",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25b2b"
           },
           {
@@ -4215,8 +4216,8 @@
               "femaleshiny": "pm25.fGOTOUR_2026_A_02.g2.s.icon.png"
             },
             "costumeName": "Casquette de Leaf",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25a2b"
           },
           {
@@ -4227,8 +4228,8 @@
               "femaleshiny": "pm25.fGOTOUR_2026_A.g2.s.icon.png"
             },
             "costumeName": "Casquette de Red",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25ar"
           },
           {
@@ -4239,8 +4240,8 @@
               "femaleshiny": "pm25.fGOTOUR_2026_B.g2.s.icon.png"
             },
             "costumeName": "Casquette de Luth",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25bjn"
           },
           {
@@ -4251,8 +4252,8 @@
               "femaleshiny": "pm25.fGOTOUR_2026_C.g2.s.icon.png"
             },
             "costumeName": "Casquette de Kalem",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "25cr"
           }
         ],
@@ -4443,8 +4444,8 @@
               "femaleshiny": "pm26.cHOLIDAY_2016.g2.s.icon.png"
             },
             "costumeName": "Bonnet de Noël",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26no"
           },
           {
@@ -4455,8 +4456,8 @@
               "femaleshiny": "pm26.cANNIVERSARY.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête violet",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26ch"
           },
           {
@@ -4467,8 +4468,8 @@
               "femaleshiny": "pm26.cONE_YEAR_ANNIVERSARY.g2.s.icon.png"
             },
             "costumeName": "Casquette de Sacha",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26sa"
           },
           {
@@ -4479,8 +4480,8 @@
               "femaleshiny": "pm26.cHALLOWEEN_2017.g2.s.icon.png"
             },
             "costumeName": "Chapeau de sorcière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26ha"
           },
           {
@@ -4491,8 +4492,8 @@
               "femaleshiny": "pm26.cSUMMER_2018.g2.s.icon.png"
             },
             "costumeName": "Estival",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26lu"
           },
           {
@@ -4503,8 +4504,8 @@
               "femaleshiny": "pm26.cFALL_2018.g2.s.icon.png"
             },
             "costumeName": "Fragment",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26hf"
           },
           {
@@ -4515,8 +4516,8 @@
               "femaleshiny": "pm26.cNOVEMBER_2018.g2.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26fl"
           },
           {
@@ -4527,8 +4528,8 @@
               "femaleshiny": "pm26.cWINTER_2018.g2.s.icon.png"
             },
             "costumeName": "Bonnet",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26no2"
           },
           {
@@ -4539,8 +4540,8 @@
               "femaleshiny": "pm26.cFEB_2019.g2.s.icon.png"
             },
             "costumeName": "Détective",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26de"
           },
           {
@@ -4551,8 +4552,8 @@
               "femaleshiny": "pm26.cCOSTUME_1.g2.s.icon.png"
             },
             "costumeName": "Casquette Monde",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26tm"
           },
           {
@@ -4563,8 +4564,8 @@
               "femaleshiny": "pm26.cCOSTUME_2.g2.s.icon.png"
             },
             "costumeName": "Chapeau Nouvel An",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26ch3"
           },
           {
@@ -4575,8 +4576,8 @@
               "femaleshiny": "pm26.cSPRING_2023.g2.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26fl2"
           },
           {
@@ -4587,8 +4588,8 @@
               "femaleshiny": "pm26.cHOLIDAY_2023.g2.s.icon.png"
             },
             "costumeName": "Vêtements des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "26no3"
           }
         ],
@@ -5301,8 +5302,8 @@
               "femaleshiny": "pm31.cROYAL_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "31co"
           }
         ],
@@ -5488,8 +5489,8 @@
               "maleshiny": "pm33.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "33ch"
           }
         ],
@@ -5569,8 +5570,8 @@
               "male": "pm34.cROYAL_NOEVOLVE.icon.png"
             },
             "costumeName": "Couronne",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "34co"
           }
         ],
@@ -5874,8 +5875,8 @@
               "maleshiny": "pm37.cFALL_2022.s.icon.png"
             },
             "costumeName": "Costume du Festival effrayant",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "37co"
           }
         ],
@@ -6014,8 +6015,8 @@
               "maleshiny": "pm38.cFALL_2022.s.icon.png"
             },
             "costumeName": "Costume du Festival effrayant",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "38co"
           }
         ],
@@ -6232,8 +6233,8 @@
               "maleshiny": "pm39.cJAN_2024.s.icon.png"
             },
             "costumeName": "Ruban",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "39no"
           }
         ],
@@ -6326,8 +6327,8 @@
               "maleshiny": "pm40.cJAN_2024.s.icon.png"
             },
             "costumeName": "Ruban",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "40no"
           }
         ],
@@ -7181,8 +7182,8 @@
               "maleshiny": "pm50.cFALL_2022.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "50ch"
           }
         ],
@@ -7345,8 +7346,8 @@
               "maleshiny": "pm51.cFALL_2022.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "51ch"
           }
         ],
@@ -7945,8 +7946,8 @@
               "maleshiny": "pm54.cHOLIDAY_2023.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "54no"
           },
           {
@@ -7955,8 +7956,8 @@
               "maleshiny": "pm54.fSWIM_2025.s.icon.png"
             },
             "costumeName": "Bouée",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "54bo"
           }
         ],
@@ -8043,8 +8044,8 @@
               "maleshiny": "pm55.cHOLIDAY_2023.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "55no"
           }
         ],
@@ -10586,8 +10587,8 @@
               "maleshiny": "pm77.cSPRING_2023_VALOR.s.icon.png"
             },
             "costumeName": "Accessoire de Candela",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "77col"
           }
         ],
@@ -10667,8 +10668,8 @@
               "maleshiny": "pm77.fGALARIAN.cGOFEST_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de Meloetta",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "77gch"
           }
         ],
@@ -10755,8 +10756,8 @@
               "maleshiny": "pm78.cSPRING_2023_VALOR.s.icon.png"
             },
             "costumeName": "Accessoire de Candela",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "78col"
           }
         ],
@@ -10961,8 +10962,8 @@
               "maleshiny": "pm79.f2020.s.icon.png"
             },
             "costumeName": "Lunettes 2020",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "79lu"
           },
           {
@@ -10971,8 +10972,8 @@
               "maleshiny": "pm79.cPI_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "79de"
           }
         ],
@@ -11127,8 +11128,8 @@
               "maleshiny": "pm80.f2021.s.icon.png"
             },
             "costumeName": "Lunettes 2020",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "80lu"
           }
         ],
@@ -12108,8 +12109,8 @@
               "maleshiny": "pm88.cANNIVERSARY_2024.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "88ch"
           }
         ],
@@ -12236,8 +12237,8 @@
               "maleshiny": "pm89.cANNIVERSARY_2024.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "89ch"
           }
         ],
@@ -12758,8 +12759,8 @@
               "maleshiny": "pm94.fCOSTUME_2020.s.icon.png"
             },
             "costumeName": "Frankenstein",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "94br"
           },
           {
@@ -12768,8 +12769,8 @@
               "maleshiny": "pm94.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "94ch"
           },
           {
@@ -12778,8 +12779,8 @@
               "maleshiny": "pm94.cFALL_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Costume du Festival effrayant",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "94ha"
           },
           {
@@ -12788,8 +12789,8 @@
               "maleshiny": "pm94.cFALL_2023_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "94ha2"
           }
         ],
@@ -14179,8 +14180,8 @@
               "maleshiny": "pm104.cFALL_2023.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "104fl"
           }
         ],
@@ -14267,8 +14268,8 @@
               "maleshiny": "pm105.cFALL_2023.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "105fl"
           }
         ],
@@ -15098,8 +15099,8 @@
               "maleshiny": "pm113.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "113fl"
           }
         ],
@@ -16294,8 +16295,8 @@
               "maleshiny": "pm125.cSPRING_2023_INSTINCT.s.icon.png"
             },
             "costumeName": "Accessoire de Spark",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "125ins"
           }
         ],
@@ -17158,8 +17159,8 @@
               "maleshiny": "pm131.fCOSTUME_2020.s.icon.png"
             },
             "costumeName": "Écharpe",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "131np"
           },
           {
@@ -17168,8 +17169,8 @@
               "maleshiny": "pm131.cSPRING_2023_MYSTIC.s.icon.png"
             },
             "costumeName": "Accessoire de Blanche",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "131ban"
           }
         ],
@@ -17392,8 +17393,8 @@
               "maleshiny": "pm132.fSPRING_2026_A.s.icon.png"
             },
             "costumeName": "Casquette",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "132ble"
           },
           {
@@ -17402,8 +17403,8 @@
               "maleshiny": "pm132.fSPRING_2026_B.s.icon.png"
             },
             "costumeName": "Chapeau",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "132jau"
           }
         ],
@@ -17473,8 +17474,8 @@
               "femaleshiny": "pm133.cNOVEMBER_2018.g2.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133fl"
           },
           {
@@ -17485,8 +17486,8 @@
               "femaleshiny": "pm133.cJAN_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133ch"
           },
           {
@@ -17497,8 +17498,8 @@
               "femaleshiny": "pm133.cHOLIDAY_2022.g2.s.icon.png"
             },
             "costumeName": "Chapeau Noël",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133no"
           },
           {
@@ -17509,8 +17510,8 @@
               "femaleshiny": "pm133.cSPRING_2023.g2.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133fl2"
           },
           {
@@ -17521,8 +17522,8 @@
               "femaleshiny": "pm133.cMAY_2023.g2.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133exp"
           },
           {
@@ -17533,8 +17534,8 @@
               "femaleshiny": "pm133.fGOFEST_2024_MTIARA.g2.s.icon.png"
             },
             "costumeName": "Couronne Lune",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133lun"
           },
           {
@@ -17545,8 +17546,8 @@
               "femaleshiny": "pm133.fGOFEST_2024_STIARA.g2.s.icon.png"
             },
             "costumeName": "Couronne Soleil",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "133sol"
           }
         ],
@@ -17655,8 +17656,8 @@
               "maleshiny": "pm134.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "134fl"
           },
           {
@@ -17665,8 +17666,8 @@
               "maleshiny": "pm134.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "134no"
           },
           {
@@ -17675,8 +17676,8 @@
               "maleshiny": "pm134.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "134fl2"
           },
           {
@@ -17685,8 +17686,8 @@
               "maleshiny": "pm134.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "134exp"
           }
         ],
@@ -17785,8 +17786,8 @@
               "maleshiny": "pm135.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "135fl"
           },
           {
@@ -17795,8 +17796,8 @@
               "maleshiny": "pm135.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "135no"
           },
           {
@@ -17805,8 +17806,8 @@
               "maleshiny": "pm135.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "135fl2"
           },
           {
@@ -17815,8 +17816,8 @@
               "maleshiny": "pm135.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "135exp"
           }
         ],
@@ -17915,8 +17916,8 @@
               "maleshiny": "pm136.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "136fl"
           },
           {
@@ -17925,8 +17926,8 @@
               "maleshiny": "pm136.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "136no"
           },
           {
@@ -17935,8 +17936,8 @@
               "maleshiny": "pm136.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "136fl2"
           },
           {
@@ -17945,8 +17946,8 @@
               "maleshiny": "pm136.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "136exp"
           }
         ],
@@ -18489,8 +18490,8 @@
               "maleshiny": "pm142.fSUMMER_2023.s.icon.png"
             },
             "costumeName": "Sac",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "142sac"
           }
         ],
@@ -18689,8 +18690,8 @@
               "maleshiny": "pm143.cGOFEST_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de cow-boy",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "143ch"
           },
           {
@@ -18699,8 +18700,8 @@
               "maleshiny": "pm143.cNIGHTCAP.s.icon.png"
             },
             "costumeName": "Bonnet de nuit",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "143sl"
           },
           {
@@ -18709,8 +18710,8 @@
               "maleshiny": "pm143.fWILDAREA_2024.s.icon.png"
             },
             "costumeName": "Veste cloutée",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "143roc"
           }
         ],
@@ -19544,8 +19545,8 @@
               "maleshiny": "pm149.cFALL_2023.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "149lu"
           }
         ],
@@ -21367,8 +21368,8 @@
               "maleshiny": "pm163.cJAN_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Tenue du Nouvel An",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "163ch"
           }
         ],
@@ -21437,8 +21438,8 @@
               "maleshiny": "pm164.cJAN_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Tenue du Nouvel An",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "164ch"
           }
         ],
@@ -22088,8 +22089,8 @@
               "maleshiny": "pm172.cHOLIDAY_2016.s.icon.png"
             },
             "costumeName": "Bonnet de Noël",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172no"
           },
           {
@@ -22098,8 +22099,8 @@
               "maleshiny": "pm172.cANNIVERSARY.s.icon.png"
             },
             "costumeName": "Chapeau de fête violet",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172ch"
           },
           {
@@ -22108,8 +22109,8 @@
               "maleshiny": "pm172.cONE_YEAR_ANNIVERSARY.s.icon.png"
             },
             "costumeName": "Casquette de Sacha",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172sa"
           },
           {
@@ -22118,8 +22119,8 @@
               "maleshiny": "pm172.cHALLOWEEN_2017.s.icon.png"
             },
             "costumeName": "Chapeau de sorcière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172ha"
           },
           {
@@ -22128,8 +22129,8 @@
               "maleshiny": "pm172.cSUMMER_2018.s.icon.png"
             },
             "costumeName": "Estival",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172lu"
           },
           {
@@ -22138,8 +22139,8 @@
               "maleshiny": "pm172.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172fl"
           },
           {
@@ -22148,8 +22149,8 @@
               "maleshiny": "pm172.cWINTER_2018.s.icon.png"
             },
             "costumeName": "Bonnet",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172no2"
           },
           {
@@ -22158,8 +22159,8 @@
               "maleshiny": "pm172.cCOSTUME_2.s.icon.png"
             },
             "costumeName": "Chapeau Nouvel An",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172ch3"
           },
           {
@@ -22168,8 +22169,8 @@
               "maleshiny": "pm172.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "172fl2"
           }
         ],
@@ -22434,8 +22435,8 @@
               "maleshiny": "pm175.cAPRIL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "175fl"
           }
         ],
@@ -22528,8 +22529,8 @@
               "maleshiny": "pm176.cAPRIL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "176fl"
           }
         ],
@@ -23400,8 +23401,8 @@
               "femaleshiny": "pm185.fWINTER_2025.g2.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "185gui"
           }
         ],
@@ -24158,8 +24159,8 @@
               "femaleshiny": "pm194.cFALL_2023.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "194bo"
           }
         ],
@@ -24302,8 +24303,8 @@
               "femaleshiny": "pm195.cFALL_2023.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "195bo"
           }
         ],
@@ -24416,8 +24417,8 @@
               "maleshiny": "pm196.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "196fl"
           },
           {
@@ -24426,8 +24427,8 @@
               "maleshiny": "pm196.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "196no"
           },
           {
@@ -24436,8 +24437,8 @@
               "maleshiny": "pm196.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "196fl2"
           },
           {
@@ -24446,8 +24447,8 @@
               "maleshiny": "pm196.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "196exp"
           },
           {
@@ -24456,8 +24457,8 @@
               "maleshiny": "pm196.fGOFEST_2024_SSCARF.s.icon.png"
             },
             "costumeName": "Écharpe de jour",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "196sol"
           }
         ],
@@ -24562,8 +24563,8 @@
               "maleshiny": "pm197.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "197fl"
           },
           {
@@ -24572,8 +24573,8 @@
               "maleshiny": "pm197.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "197no"
           },
           {
@@ -24582,8 +24583,8 @@
               "maleshiny": "pm197.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "197fl2"
           },
           {
@@ -24592,8 +24593,8 @@
               "maleshiny": "pm197.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "197exp"
           },
           {
@@ -24602,8 +24603,8 @@
               "maleshiny": "pm197.fGOFEST_2024_MSCARF.s.icon.png"
             },
             "costumeName": "Écharpe de nuit",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "197lun"
           }
         ],
@@ -24763,8 +24764,8 @@
               "maleshiny": "pm199.f2022.s.icon.png"
             },
             "costumeName": "Lunettes 2020",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "199lu"
           }
         ],
@@ -26336,8 +26337,8 @@
               "femaleshiny": "pm202.cJAN_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "202ch"
           }
         ],
@@ -27750,8 +27751,8 @@
               "femaleshiny": "pm215.cFASHION_2021_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "215lu"
           }
         ],
@@ -27912,8 +27913,8 @@
               "maleshiny": "pm216.cHALLOWEEN_2025.s.icon.png"
             },
             "costumeName": "Chapeau de sorcière",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "216hal"
           }
         ],
@@ -28014,8 +28015,8 @@
               "femaleshiny": "pm217.cHALLOWEEN_2025.g2.s.icon.png"
             },
             "costumeName": "Chapeau de sorcière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "217hal"
           }
         ],
@@ -28759,8 +28760,8 @@
               "maleshiny": "pm225.fWINTER_2020.s.icon.png"
             },
             "costumeName": "Festif",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "225ne"
           }
         ],
@@ -29590,8 +29591,8 @@
               "maleshiny": "pm234.cWINTER_2018.s.icon.png"
             },
             "costumeName": "Festif",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "234no"
           }
         ],
@@ -29882,8 +29883,8 @@
               "maleshiny": "pm238.cFALL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "238ne"
           }
         ],
@@ -29975,8 +29976,8 @@
               "maleshiny": "pm239.cSPRING_2023_INSTINCT.s.icon.png"
             },
             "costumeName": "Accessoire de Spark",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "239ins"
           }
         ],
@@ -30224,8 +30225,8 @@
               "maleshiny": "pm242.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "242fl"
           }
         ],
@@ -32580,8 +32581,8 @@
               "maleshiny": "pm263.fGALARIAN.cGOFEST_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de Meloetta",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "263gch"
           }
         ],
@@ -32803,8 +32804,8 @@
               "maleshiny": "pm265.cJAN_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "265ch"
           }
         ],
@@ -33978,8 +33979,8 @@
               "maleshiny": "pm281.cFALL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "281ch"
           }
         ],
@@ -34086,8 +34087,8 @@
               "maleshiny": "pm282.cGOFEST_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de Meloetta",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "282ch"
           }
         ],
@@ -34610,8 +34611,8 @@
               "maleshiny": "pm287.cSUMMER_2024.s.icon.png"
             },
             "costumeName": "Visière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "287cas"
           }
         ],
@@ -34692,8 +34693,8 @@
               "maleshiny": "pm288.cSUMMER_2024.s.icon.png"
             },
             "costumeName": "Visière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "288cas"
           }
         ],
@@ -34786,8 +34787,8 @@
               "maleshiny": "pm289.cSUMMER_2024.s.icon.png"
             },
             "costumeName": "Visière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "289cas"
           }
         ],
@@ -35811,8 +35812,8 @@
               "maleshiny": "pm302.fCOSTUME_2020.s.icon.png"
             },
             "costumeName": "Funécire",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "302ha"
           }
         ],
@@ -39240,8 +39241,8 @@
               "maleshiny": "pm330.cGOFEST_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau de Meloetta",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "330ch"
           }
         ],
@@ -41648,8 +41649,8 @@
               "maleshiny": "pm355.cFALL_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Cempasúchit",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "355fl"
           }
         ],
@@ -41724,8 +41725,8 @@
               "maleshiny": "pm356.cFALL_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Cempasúchit",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "356fl"
           }
         ],
@@ -41958,8 +41959,8 @@
               "maleshiny": "pm359.cFALL_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "359lu"
           }
         ],
@@ -42443,8 +42444,8 @@
               "maleshiny": "pm363.cHOLIDAY_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Tenue de fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "363no"
           }
         ],
@@ -45069,8 +45070,8 @@
               "maleshiny": "pm387.cGEMS_1_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Béret de Louka",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "387chr"
           },
           {
@@ -45079,8 +45080,8 @@
               "maleshiny": "pm387.cGEMS_2_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau d’Aurore",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "387chb"
           }
         ],
@@ -45335,8 +45336,8 @@
               "maleshiny": "pm390.cGEMS_1_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Béret de Louka",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "390chr"
           },
           {
@@ -45345,8 +45346,8 @@
               "maleshiny": "pm390.cGEMS_2_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau d’Aurore",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "390chb"
           }
         ],
@@ -45589,8 +45590,8 @@
               "maleshiny": "pm393.cHALLOWEEN_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chenapan d’Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "393ha"
           },
           {
@@ -45599,8 +45600,8 @@
               "maleshiny": "pm393.cGEMS_1_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Béret de Louka",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "393chr"
           },
           {
@@ -45609,8 +45610,8 @@
               "maleshiny": "pm393.cGEMS_2_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chapeau d’Aurore",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "393chb"
           }
         ],
@@ -46431,8 +46432,8 @@
               "femaleshiny": "pm403.cFALL_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "403ch"
           }
         ],
@@ -48710,8 +48711,8 @@
               "maleshiny": "pm426.cHALLOWEEN_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Chenapan d’Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "426ha"
           }
         ],
@@ -48767,8 +48768,8 @@
               "maleshiny": "pm427.cAPRIL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "427fl"
           }
         ],
@@ -48849,8 +48850,8 @@
               "maleshiny": "pm428.cAPRIL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "428fl"
           }
         ],
@@ -49880,8 +49881,8 @@
               "maleshiny": "pm440.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "440fl"
           }
         ],
@@ -51183,8 +51184,8 @@
               "femaleshiny": "pm453.cFALL_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "453ch"
           }
         ],
@@ -51281,8 +51282,8 @@
               "femaleshiny": "pm454.cFALL_2020_NOEVOLVE.g2.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "454ch"
           }
         ],
@@ -52399,8 +52400,8 @@
               "maleshiny": "pm466.cSPRING_2023_INSTINCT.s.icon.png"
             },
             "costumeName": "Accessoire de Spark",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "466ins"
           }
         ],
@@ -52566,8 +52567,8 @@
               "maleshiny": "pm468.cAPRIL_2020_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "468fl"
           }
         ],
@@ -52757,8 +52758,8 @@
               "maleshiny": "pm470.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "470fl"
           },
           {
@@ -52767,8 +52768,8 @@
               "maleshiny": "pm470.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "470no"
           },
           {
@@ -52777,8 +52778,8 @@
               "maleshiny": "pm470.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "470fl2"
           },
           {
@@ -52787,8 +52788,8 @@
               "maleshiny": "pm470.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "470exp"
           }
         ],
@@ -52887,8 +52888,8 @@
               "maleshiny": "pm471.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "471fl"
           },
           {
@@ -52897,8 +52898,8 @@
               "maleshiny": "pm471.cHOLIDAY_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "471no2"
           },
           {
@@ -52907,8 +52908,8 @@
               "maleshiny": "pm471.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "471no"
           },
           {
@@ -52917,8 +52918,8 @@
               "maleshiny": "pm471.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "471fl2"
           },
           {
@@ -52927,8 +52928,8 @@
               "maleshiny": "pm471.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "471exp"
           }
         ],
@@ -53560,8 +53561,8 @@
               "maleshiny": "pm477.cFALL_2022_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Cempasúchit",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "477fl"
           }
         ],
@@ -58793,8 +58794,8 @@
               "maleshiny": "pm522.cFASHION_2021_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "522co"
           }
         ],
@@ -60752,8 +60753,8 @@
               "maleshiny": "pm546.cSPRING_2024.s.icon.png"
             },
             "costumeName": "Couronne de Fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "546fl"
           }
         ],
@@ -60828,8 +60829,8 @@
               "maleshiny": "pm547.cSPRING_2024.s.icon.png"
             },
             "costumeName": "Couronne de Fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "547fl"
           }
         ],
@@ -63394,8 +63395,8 @@
               "maleshiny": "pm572.cFASHION_2025.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "572lun"
           }
         ],
@@ -63482,8 +63483,8 @@
               "maleshiny": "pm573.cFASHION_2025.s.icon.png"
             },
             "costumeName": "Costume Fashion",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "573lun"
           }
         ],
@@ -67044,8 +67045,8 @@
               "maleshiny": "pm613.fWINTER_2020.s.icon.png"
             },
             "costumeName": "Festif",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "613ne"
           }
         ],
@@ -67132,8 +67133,8 @@
               "maleshiny": "pm614.fWINTER_2020.s.icon.png"
             },
             "costumeName": "Festif",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "614ne"
           }
         ],
@@ -71476,8 +71477,8 @@
               "maleshiny": "pm656.cFALL_2024.s.icon.png"
             },
             "costumeName": "Costume Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "656ha"
           }
         ],
@@ -71564,8 +71565,8 @@
               "maleshiny": "pm657.cFALL_2024.s.icon.png"
             },
             "costumeName": "Costume Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "657ha"
           }
         ],
@@ -71652,8 +71653,8 @@
               "maleshiny": "pm658.cFALL_2024.s.icon.png"
             },
             "costumeName": "Costume Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "658ha"
           }
         ],
@@ -79847,8 +79848,8 @@
               "maleshiny": "pm700.cNOVEMBER_2018.s.icon.png"
             },
             "costumeName": "Couronne de fleurs",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "700fl"
           },
           {
@@ -79857,8 +79858,8 @@
               "maleshiny": "pm700.cHOLIDAY_2022.s.icon.png"
             },
             "costumeName": "Chapeau de fête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "700no"
           },
           {
@@ -79867,8 +79868,8 @@
               "maleshiny": "pm700.cSPRING_2023.s.icon.png"
             },
             "costumeName": "Fleurs de cerisier",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "700fl2"
           },
           {
@@ -79877,8 +79878,8 @@
               "maleshiny": "pm700.cMAY_2023.s.icon.png"
             },
             "costumeName": "Explorateur",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "700exp"
           }
         ],
@@ -80048,8 +80049,8 @@
               "maleshiny": "pm702.cWINTER_2024.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "702no"
           }
         ],
@@ -80852,8 +80853,8 @@
               "maleshiny": "pm710.fSMALL.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "710mic"
           }
         ],
@@ -80927,8 +80928,8 @@
               "maleshiny": "pm710.fAVERAGE.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "710noc"
           }
         ],
@@ -81002,8 +81003,8 @@
               "maleshiny": "pm710.fLARGE.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "710mac"
           }
         ],
@@ -81077,8 +81078,8 @@
               "maleshiny": "pm710.fSUPER.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "710ulc"
           }
         ],
@@ -81165,8 +81166,8 @@
               "maleshiny": "pm711.fSMALL.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "711mic"
           }
         ],
@@ -81258,8 +81259,8 @@
               "maleshiny": "pm711.fAVERAGE.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "711noc"
           }
         ],
@@ -81351,8 +81352,8 @@
               "maleshiny": "pm711.fLARGE.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "711mac"
           }
         ],
@@ -81444,8 +81445,8 @@
               "maleshiny": "pm711.fSUPER.cFALL_2022.s.icon.png"
             },
             "costumeName": "Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "711ulc"
           }
         ],
@@ -81790,8 +81791,8 @@
               "maleshiny": "pm714.cHALLOWEEN_2025.s.icon.png"
             },
             "costumeName": "Serre-tête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "714ban"
           }
         ],
@@ -81878,8 +81879,8 @@
               "maleshiny": "pm715.cHALLOWEEN_2025.s.icon.png"
             },
             "costumeName": "Serre-tête",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "715ban"
           }
         ],
@@ -82739,8 +82740,8 @@
               "maleshiny": "pm722.cFALL_2024.s.icon.png"
             },
             "costumeName": "Costume Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "722ha"
           }
         ],
@@ -82833,8 +82834,8 @@
               "maleshiny": "pm723.cFALL_2024.s.icon.png"
             },
             "costumeName": "Costume Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "723ha"
           }
         ],
@@ -82933,8 +82934,8 @@
               "maleshiny": "pm724.cFALL_2024.s.icon.png"
             },
             "costumeName": "Costume Halloween",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "724ha"
           }
         ],
@@ -84075,8 +84076,8 @@
               "maleshiny": "pm737.fWINTER_2025.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "737noe"
           }
         ],
@@ -84169,8 +84170,8 @@
               "maleshiny": "pm738.fWINTER_2025.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "738noe"
           }
         ],
@@ -86176,8 +86177,8 @@
               "maleshiny": "pm760.fWILDAREA_2025.s.icon.png"
             },
             "costumeName": "Cape des Terres Sauvages",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "760cap"
           }
         ],
@@ -91774,8 +91775,8 @@
               "maleshiny": "pm831.cWINTER_2024.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "831no"
           }
         ],
@@ -91862,8 +91863,8 @@
               "maleshiny": "pm832.cWINTER_2024.s.icon.png"
             },
             "costumeName": "Tenue des fêtes",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "832no"
           }
         ],
@@ -94658,8 +94659,8 @@
               "male": "pm870.fGOFEST_2025_TRAIN_CONDUCTOR.icon.png"
             },
             "costumeName": "Train",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "870tr"
           }
         ],
@@ -96581,8 +96582,8 @@
               "maleshiny": "pm901.cHALLOWEEN_2025.s.icon.png"
             },
             "costumeName": "Chapeau de sorcière",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "901hal"
           }
         ],
@@ -97088,8 +97089,8 @@
               "maleshiny": "pm907.cHORIZONS_2025_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Épingle de Liko",
-            "avalaibleInPogo": true,
             "costumeShiny": false,
+            "avalaibleInPogo": true,
             "uniqueCode": "907ch"
           }
         ],
@@ -102432,8 +102433,8 @@
               "maleshiny": "pm999.fCOIN_A1.s.icon.png"
             },
             "costumeName": "Pièce du 9e anniversaire",
-            "avalaibleInPogo": true,
             "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "999mar"
           }
         ],
