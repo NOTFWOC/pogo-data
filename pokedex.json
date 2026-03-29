@@ -5423,7 +5423,7 @@
               "femaleshiny": "pm31.cROYAL_NOEVOLVE.s.icon.png"
             },
             "costumeName": "Couronne",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "avalaibleInPogo": true,
             "uniqueCode": "31co",
             "firstAppearanceDate": "10/05/2025"
