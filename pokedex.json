@@ -20548,7 +20548,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -28718,7 +28718,19 @@
         "weightKg": 5.0
       },
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "costumeImages": {
+              "male": "pm222.fSPRING_2026.icon.png",
+              "maleshiny": "pm222.fSPRING_2026.s.icon.png"
+            },
+            "costumeName": "Lunettes rose",
+            "costumeShiny": false,
+            "avalaibleInPogo": false,
+            "uniqueCode": "222lun",
+            "firstAppearanceDate": "14/04/2026"
+          }
+        ],
         "formImages": {
           "male": "pm222.fGALARIAN.icon.png",
           "maleshiny": "pm222.fGALARIAN.s.icon.png"
@@ -31597,7 +31609,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -45022,7 +45034,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -45290,7 +45302,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -55353,7 +55365,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -55425,7 +55437,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -55507,7 +55519,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -55665,7 +55677,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -56829,7 +56841,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -56913,7 +56925,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -70558,7 +70570,7 @@
     "kmBuddyDistance": 20,
     "legendary": true,
     "mythic": false,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -70698,7 +70710,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -70850,7 +70862,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -71218,7 +71230,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -82644,7 +82656,7 @@
     "kmBuddyDistance": 20,
     "legendary": true,
     "mythic": false,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -82784,7 +82796,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -82922,7 +82934,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -83015,7 +83027,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -88977,10 +88989,10 @@
     "candyToEvolve": 0,
     "id": "793",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89055,10 +89067,10 @@
     "candyToEvolve": 0,
     "id": "794",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89133,10 +89145,10 @@
     "candyToEvolve": 0,
     "id": "795",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89211,10 +89223,10 @@
     "candyToEvolve": 0,
     "id": "796",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89289,10 +89301,10 @@
     "candyToEvolve": 0,
     "id": "797",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89379,10 +89391,10 @@
     "candyToEvolve": 0,
     "id": "798",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89457,10 +89469,10 @@
     "candyToEvolve": 0,
     "id": "799",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89766,7 +89778,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -89828,10 +89840,10 @@
     "candyToEvolve": 0,
     "id": "803",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89900,10 +89912,10 @@
     "candyToEvolve": 0,
     "id": "804",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -89976,10 +89988,10 @@
     "candyToEvolve": 0,
     "id": "805",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -90061,10 +90073,10 @@
     "candyToEvolve": 0,
     "id": "806",
     "kmBuddyDistance": 20,
-    "legendary": true,
+    "legendary": false,
     "mythic": false,
     "tradable": true,
-    "ultraBeast": false,
+    "ultraBeast": true,
     "genderlessPercent": 1.0
   },
   {
@@ -90135,7 +90147,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -96250,7 +96262,7 @@
     "kmBuddyDistance": 20,
     "legendary": true,
     "mythic": false,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
@@ -96562,7 +96574,7 @@
     "kmBuddyDistance": 20,
     "legendary": false,
     "mythic": true,
-    "tradable": true,
+    "tradable": false,
     "ultraBeast": false,
     "genderlessPercent": 1.0
   },
