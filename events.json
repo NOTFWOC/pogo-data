@@ -1,0 +1,73 @@
+[
+  {
+    "id": "2ed8282f-bf45-4a1e-934b-cf5b526d1bf1",
+    "name": "Moments électrisants",
+    "startDate": "31/03/2026",
+    "endDate": "06/04/2026",
+    "pokemons": [
+      {
+        "pokemonId": "25",
+        "pokemonNameFr": "Pikachu",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "170",
+        "pokemonNameFr": "Loupio",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "702",
+        "pokemonNameFr": "Dedenne",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "921",
+        "pokemonNameFr": "Pohm",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "81",
+        "pokemonNameFr": "Magnéti",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "179",
+        "pokemonNameFr": "Wattouat",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "595",
+        "pokemonNameFr": "Statitik",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  }
+]
