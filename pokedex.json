@@ -88440,15 +88440,19 @@
             "type": "ELECTRIK"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 177,
         "baseDefense": 199,
         "baseStamina": 146,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Mimiqui",
         "heightM": 0.2,
@@ -88460,66 +88464,6 @@
         "typeA": "SPECTRE",
         "typeB": "FEE",
         "uniqueCode": "778deg",
-        "weightKg": 0.7
-      },
-      {
-        "a_costumeData": [],
-        "formImages": {
-          "maleshiny": "pm778.fBUSTED.s.icon.png",
-          "male": "pm778.fBUSTED.icon.png"
-        },
-        "a_pokeAttackDatas": [
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Griffe Ombre",
-            "type": "SPECTRE"
-          },
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Châtiment",
-            "type": "SPECTRE"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Ombre Portée",
-            "type": "SPECTRE"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Câlinerie",
-            "type": "FEE"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Fatal-Foudre",
-            "type": "ELECTRIK"
-          }
-        ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
-        "baseAttack": 177,
-        "baseDefense": 199,
-        "baseStamina": 146,
-        "dynamax": false,
-        "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
-        },
-        "genericName": "Mimiqui",
-        "heightM": 0.2,
-        "nameFormEng": "Mimikyu Busted Form",
-        "nameFormFr": "Mimiqui Forme Démasquée",
-        "region": "ALOLA",
-        "shadow": false,
-        "stadeEvo": 1,
-        "typeA": "SPECTRE",
-        "typeB": "FEE",
-        "uniqueCode": "778dem",
         "weightKg": 0.7
       }
     ],
@@ -96272,82 +96216,6 @@
         "typeA": "ELECTRIK",
         "typeB": "TENEBRES",
         "uniqueCode": "877ras",
-        "weightKg": 3.0
-      },
-      {
-        "a_costumeData": [],
-        "formImages": {
-          "male": "pm877.fHANGRY.icon.png",
-          "maleshiny": "pm877.fHANGRY.s.icon.png"
-        },
-        "a_pokeAttackDatas": [
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Rayon Chargé",
-            "type": "ELECTRIK"
-          },
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Morsure",
-            "type": "TENEBRES"
-          },
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Éclair",
-            "type": "ELECTRIK"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Canon Graine",
-            "type": "PLANTE"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Colère",
-            "type": "DRAGON"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Roue Libre",
-            "type": "TENEBRES"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Psycho-Croc",
-            "type": "PSY"
-          }
-        ],
-        "avalaibleInPogo": true,
-        "avalaibleShiny": true,
-        "baseAttack": 192,
-        "baseDefense": 121,
-        "baseStamina": 151,
-        "dynamax": false,
-        "evolutionData": {
-          "namesEng": [
-            ""
-          ],
-          "namesFr": [
-            ""
-          ]
-        },
-        "genericName": "Morpeko",
-        "heightM": 0.3,
-        "nameFormEng": "Morpeko Hangry",
-        "nameFormFr": "Morpeko Affamé",
-        "region": "GALAR",
-        "shadow": false,
-        "stadeEvo": 1,
-        "typeA": "ELECTRIK",
-        "typeB": "TENEBRES",
-        "uniqueCode": "877aff",
         "weightKg": 3.0
       }
     ],
