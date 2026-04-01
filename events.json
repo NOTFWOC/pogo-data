@@ -154,9 +154,9 @@
         "costumeName": "Munja",
         "sauvage": false,
         "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
+        "raid": true,
+        "encens": true,
+        "oeuf": true
       }
     ]
   }
