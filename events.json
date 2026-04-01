@@ -69,5 +69,51 @@
         "oeuf": false
       }
     ]
+  },
+  {
+    "id": "864647d9-2a15-4b76-a9d7-66c236e655d5",
+    "name": "Journée Étude aquatique",
+    "startDate": "21/03/2026",
+    "endDate": "21/03/2026",
+    "pokemons": [
+      {
+        "pokemonId": "129",
+        "pokemonNameFr": "Magicarpe",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "170",
+        "pokemonNameFr": "Loupio",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "747",
+        "pokemonNameFr": "Vorastérie",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "1",
+        "pokemonNameFr": "Bulbizarre",
+        "costumeCode": "1ch",
+        "costumeName": "Chapeau de fête",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
   }
 ]
