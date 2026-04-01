@@ -106,7 +106,6 @@
       {
         "pokemonId": "1",
         "pokemonNameFr": "Bulbizarre",
-        "costumeCode": "1ch",
         "costumeName": "Chapeau de fête",
         "sauvage": false,
         "etudeTerrain": false,
@@ -150,13 +149,12 @@
         "oeuf": false
       },
       {
-        "pokemonId": "1",
+        "pokemonId": "1ha",
         "pokemonNameFr": "Bulbizarre",
-        "costumeCode": "1ch",
-        "costumeName": "Chapeau de fête",
+        "costumeName": "Munja",
         "sauvage": false,
         "etudeTerrain": false,
-        "raid": true,
+        "raid": false,
         "encens": false,
         "oeuf": false
       }
