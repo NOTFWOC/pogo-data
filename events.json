@@ -71,14 +71,14 @@
     ]
   },
   {
-    "id": "864647d9-2a15-4b76-a9d7-66c236e655d5",
-    "name": "Journée Étude aquatique",
-    "startDate": "21/03/2026",
-    "endDate": "21/03/2026",
+    "id": "7f2d88be-6f7f-4858-aef2-4edf2aec51ea",
+    "name": "Une aventure oeuf-orique",
+    "startDate": "02/04/2026",
+    "endDate": "06/04/2026",
     "pokemons": [
       {
-        "pokemonId": "129",
-        "pokemonNameFr": "Magicarpe",
+        "pokemonId": "102",
+        "pokemonNameFr": "Noeunoeuf",
         "sauvage": true,
         "etudeTerrain": true,
         "raid": false,
@@ -86,27 +86,135 @@
         "oeuf": false
       },
       {
-        "pokemonId": "170",
-        "pokemonNameFr": "Loupio",
+        "pokemonId": "113",
+        "pokemonNameFr": "Leveinard",
         "sauvage": true,
-        "etudeTerrain": true,
+        "etudeTerrain": false,
         "raid": false,
         "encens": false,
         "oeuf": false
       },
       {
-        "pokemonId": "747",
-        "pokemonNameFr": "Vorastérie",
+        "pokemonId": "659",
+        "pokemonNameFr": "Sapereau",
         "sauvage": true,
-        "etudeTerrain": true,
+        "etudeTerrain": false,
         "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "0c831402-ab19-44e0-b145-5df2248193c6",
+    "name": "Journée de Raids Fashion",
+    "startDate": "04/04/2026",
+    "endDate": "04/04/2026",
+    "pokemons": [
+      {
+        "pokemonId": "12np",
+        "pokemonNameFr": "Papilusion",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
         "encens": false,
         "oeuf": false
       },
       {
-        "pokemonId": "1",
-        "pokemonNameFr": "Bulbizarre",
-        "costumeName": "Chapeau de fête",
+        "pokemonId": "50ch",
+        "pokemonNameFr": "Taupiqueur",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "149lu",
+        "pokemonNameFr": "Dracolosse",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "194bo",
+        "pokemonNameFr": "Axoloto",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "215lu",
+        "pokemonNameFr": "Farfuret",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "281ch",
+        "pokemonNameFr": "Kirlia",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "359lu",
+        "pokemonNameFr": "Absol",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "403ch",
+        "pokemonNameFr": "Lixy",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "453ch",
+        "pokemonNameFr": "Cradopaud",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "522co",
+        "pokemonNameFr": "Zébibron",
+        "costumeName": "Costume Fashion",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "572lun",
+        "pokemonNameFr": "Chinchidou",
+        "costumeName": "Costume Fashion",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -116,47 +224,70 @@
     ]
   },
   {
-    "id": "530dc02a-1a71-4547-9e7d-a5715a00c725",
-    "name": "Journée Étude aquatique (copie)",
-    "startDate": "23/04/2026",
-    "endDate": "23/04/2026",
+    "id": "9558641f-9a2c-4df9-a993-0b4f3b16962d",
+    "name": "Heure Vedette : Magnéti",
+    "startDate": "02/04/2026",
+    "endDate": "02/04/2026",
     "pokemons": [
       {
-        "pokemonId": "129",
-        "pokemonNameFr": "Magicarpe",
+        "pokemonId": "81",
+        "pokemonNameFr": "Magnéti",
         "sauvage": true,
-        "etudeTerrain": true,
+        "etudeTerrain": false,
         "raid": false,
         "encens": false,
         "oeuf": false
-      },
+      }
+    ]
+  },
+  {
+    "id": "47802e08-64fb-48e7-96d3-967e9d5589b7",
+    "name": "Heure Vedette : Loupio",
+    "startDate": "03/04/2026",
+    "endDate": "03/04/2026",
+    "pokemons": [
       {
         "pokemonId": "170",
         "pokemonNameFr": "Loupio",
         "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "747",
-        "pokemonNameFr": "Vorastérie",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "1ha",
-        "pokemonNameFr": "Bulbizarre",
-        "costumeName": "Munja",
-        "sauvage": false,
         "etudeTerrain": false,
-        "raid": true,
-        "encens": true,
-        "oeuf": true
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "9a6f4f38-b41d-49c3-8cda-7a12bb081ccf",
+    "name": "Heure Vedette : Pohm",
+    "startDate": "04/04/2026",
+    "endDate": "04/04/2026",
+    "pokemons": [
+      {
+        "pokemonId": "921",
+        "pokemonNameFr": "Pohm",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "1058a02d-1d28-46f0-ad84-c317e9f7ca07",
+    "name": "Heure Vedette : Dedenne",
+    "startDate": "05/04/2026",
+    "endDate": "05/04/2026",
+    "pokemons": [
+      {
+        "pokemonId": "702",
+        "pokemonNameFr": "Dedenne",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
       }
     ]
   }
