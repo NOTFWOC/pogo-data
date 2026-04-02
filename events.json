@@ -2,8 +2,8 @@
   {
     "id": "2ed8282f-bf45-4a1e-934b-cf5b526d1bf1",
     "name": "Moments électrisants",
-    "startDate": "31/03/2026",
-    "endDate": "06/04/2026",
+    "startDate": "31/03/2026 10:00",
+    "endDate": "06/04/2026 20:00",
     "pokemons": [
       {
         "pokemonId": "25",
@@ -73,8 +73,8 @@
   {
     "id": "7f2d88be-6f7f-4858-aef2-4edf2aec51ea",
     "name": "Une aventure oeuf-orique",
-    "startDate": "02/04/2026",
-    "endDate": "06/04/2026",
+    "startDate": "02/04/2026 10:00",
+    "endDate": "06/04/2026 20:00",
     "pokemons": [
       {
         "pokemonId": "102",
@@ -108,8 +108,8 @@
   {
     "id": "0c831402-ab19-44e0-b145-5df2248193c6",
     "name": "Journée de Raids Fashion",
-    "startDate": "04/04/2026",
-    "endDate": "04/04/2026",
+    "startDate": "04/04/2026 14:00",
+    "endDate": "04/04/2026 17:00",
     "pokemons": [
       {
         "pokemonId": "12np",
@@ -226,8 +226,8 @@
   {
     "id": "9558641f-9a2c-4df9-a993-0b4f3b16962d",
     "name": "Heure Vedette : Magnéti",
-    "startDate": "02/04/2026",
-    "endDate": "02/04/2026",
+    "startDate": "02/04/2026 18:00",
+    "endDate": "02/04/2026 19:00",
     "pokemons": [
       {
         "pokemonId": "81",
@@ -243,8 +243,8 @@
   {
     "id": "47802e08-64fb-48e7-96d3-967e9d5589b7",
     "name": "Heure Vedette : Loupio",
-    "startDate": "03/04/2026",
-    "endDate": "03/04/2026",
+    "startDate": "03/04/2026 18:00",
+    "endDate": "03/04/2026 19:00",
     "pokemons": [
       {
         "pokemonId": "170",
@@ -260,8 +260,8 @@
   {
     "id": "9a6f4f38-b41d-49c3-8cda-7a12bb081ccf",
     "name": "Heure Vedette : Pohm",
-    "startDate": "04/04/2026",
-    "endDate": "04/04/2026",
+    "startDate": "04/04/2026 18:00",
+    "endDate": "04/04/2026 19:00",
     "pokemons": [
       {
         "pokemonId": "921",
@@ -277,8 +277,8 @@
   {
     "id": "1058a02d-1d28-46f0-ad84-c317e9f7ca07",
     "name": "Heure Vedette : Dedenne",
-    "startDate": "05/04/2026",
-    "endDate": "05/04/2026",
+    "startDate": "05/04/2026 18:00",
+    "endDate": "05/04/2026 19:00",
     "pokemons": [
       {
         "pokemonId": "702",
