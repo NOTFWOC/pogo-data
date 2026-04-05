@@ -106,175 +106,6 @@
     ]
   },
   {
-    "id": "0c831402-ab19-44e0-b145-5df2248193c6",
-    "name": "Journée de Raids Fashion",
-    "startDate": "04/04/2026 14:00",
-    "endDate": "04/04/2026 17:00",
-    "pokemons": [
-      {
-        "pokemonId": "12np",
-        "pokemonNameFr": "Papilusion",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "50ch",
-        "pokemonNameFr": "Taupiqueur",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "149lu",
-        "pokemonNameFr": "Dracolosse",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "194bo",
-        "pokemonNameFr": "Axoloto",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "215lu",
-        "pokemonNameFr": "Farfuret",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "281ch",
-        "pokemonNameFr": "Kirlia",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "359lu",
-        "pokemonNameFr": "Absol",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "403ch",
-        "pokemonNameFr": "Lixy",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "453ch",
-        "pokemonNameFr": "Cradopaud",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "522co",
-        "pokemonNameFr": "Zébibron",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "572lun",
-        "pokemonNameFr": "Chinchidou",
-        "costumeName": "Costume Fashion",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "9558641f-9a2c-4df9-a993-0b4f3b16962d",
-    "name": "Heure Vedette : Magnéti",
-    "startDate": "02/04/2026 18:00",
-    "endDate": "02/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "81",
-        "pokemonNameFr": "Magnéti",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "47802e08-64fb-48e7-96d3-967e9d5589b7",
-    "name": "Heure Vedette : Loupio",
-    "startDate": "03/04/2026 18:00",
-    "endDate": "03/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "170",
-        "pokemonNameFr": "Loupio",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "9a6f4f38-b41d-49c3-8cda-7a12bb081ccf",
-    "name": "Heure Vedette : Pohm",
-    "startDate": "04/04/2026 18:00",
-    "endDate": "04/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "921",
-        "pokemonNameFr": "Pohm",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
     "id": "1058a02d-1d28-46f0-ad84-c317e9f7ca07",
     "name": "Heure Vedette : Dedenne",
     "startDate": "05/04/2026 18:00",
@@ -286,6 +117,57 @@
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "028531e1-10b2-42ea-b04e-c3d07796f9dd",
+    "name": "Heure Vedette : Statitik",
+    "startDate": "06/04/2026 18:00",
+    "endDate": "06/04/2026 19:00",
+    "pokemons": [
+      {
+        "pokemonId": "595",
+        "pokemonNameFr": "Statitik",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "f904fefc-ab58-4168-8b7f-1b53750ef475",
+    "name": "Journée de la Communauté Forgerette",
+    "startDate": "11/04/2026 14:00",
+    "endDate": "11/04/2026 17:00",
+    "pokemons": [
+      {
+        "pokemonId": "957",
+        "pokemonNameFr": "Forgerette",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "853dcb73-4c2d-41af-b3da-4aa2d48e6b3d",
+    "name": "Heure de Raids : Kyogre",
+    "startDate": "08/04/2026 18:00",
+    "endDate": "08/04/2026 19:00",
+    "pokemons": [
+      {
+        "pokemonId": "382",
+        "pokemonNameFr": "Kyogre",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
         "encens": false,
         "oeuf": false
       }
