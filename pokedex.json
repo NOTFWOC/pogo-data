@@ -39674,7 +39674,7 @@
         "baseAttack": 162,
         "baseDefense": 78,
         "baseStamina": 128,
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Vibrava"
@@ -39764,7 +39764,7 @@
         "baseAttack": 134,
         "baseDefense": 99,
         "baseStamina": 137,
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Flygon"
@@ -39890,7 +39890,7 @@
         "baseAttack": 205,
         "baseDefense": 168,
         "baseStamina": 190,
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             ""
