@@ -30848,7 +30848,7 @@
         "genericName": "Raikou",
         "heightM": 1.91,
         "infographicData": {
-          "imgShadowInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1462522157623148736/janvier_Raikou_Obscur_journee_de_raid_2026.jpg?ex\u003d696e7f66\u0026is\u003d696d2de6\u0026hm\u003ded582a212ea1eec251b8d062a0282c2a8fa38343e4caa53b76951ebcd8721b17\u0026"
+          "imgShadowInfografic": "https://media.discordapp.net/attachments/753217293756137542/1462522157623148736/janvier_Raikou_Obscur_journee_de_raid_2026.jpg?ex\u003d69d6a5e6\u0026is\u003d69d55466\u0026hm\u003d7f105b4b06e7239d7ce60464e6919b5dcce0f825dd11fc03efcbb09186bc181d\u0026\u003d\u0026format\u003dwebp\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Raikou",
         "nameFormFr": "Raikou",
@@ -31656,7 +31656,8 @@
         "genericName": "Ho-Oh",
         "heightM": 3.81,
         "infographicData": {
-          "imgShadowInfografic": "https://media.discordapp.net/attachments/753217293756137542/1436791634208755712/novembre_Ho-Oh_Boss_de_Raid_2025.jpg?ex\u003d6952263b\u0026is\u003d6950d4bb\u0026hm\u003d71245813d78a07114334b004535de49c5163720143b5f8b9c3fc4660001b98d4"
+          "imgShadowInfografic": "https://media.discordapp.net/attachments/753217293756137542/1436791634208755712/novembre_Ho-Oh_Boss_de_Raid_2025.jpg?ex\u003d6952263b\u0026is\u003d6950d4bb\u0026hm\u003d71245813d78a07114334b004535de49c5163720143b5f8b9c3fc4660001b98d4",
+          "imgDynamaxInfografic": "https://media.discordapp.net/attachments/753217293756137542/1465466143581147217/image-124.png?ex\u003d69d626f3\u0026is\u003d69d4d573\u0026hm\u003d9a114581deedf37ef6b2e1bda13fd6a8f16d0cae7c8316eb2fd75fac1d5ab5e3\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Ho-oh",
         "nameFormFr": "Ho-Oh",
@@ -44941,6 +44942,9 @@
         },
         "genericName": "Kyogre",
         "heightM": 4.5,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1490339759552200735/image-93.png?ex\u003d69d6558f\u0026is\u003d69d5040f\u0026hm\u003da4a63e0808d413a13db9406e0817eeef28b15f1421cb5d63db2d6d6c078b4edf\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Kyogre",
         "nameFormFr": "Kyogre",
         "region": "HOENN",
@@ -55128,11 +55132,18 @@
         "baseStamina": 205,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Dialga",
         "heightM": 5.4,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1468162769563160738/image-287.png?ex\u003d69d6bbe1\u0026is\u003d69d56a61\u0026hm\u003d0a1fb2bb45f22962d57cf57cd5acf936ab4538cb2063bccdb43e9bc0e2fc8458\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Dialga",
         "nameFormFr": "Dialga",
         "region": "SINNOH",
@@ -55271,11 +55282,18 @@
         "baseStamina": 189,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Palkia",
         "heightM": 4.2,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1468162768900456603/image-158.png?ex\u003d69d6bbe1\u0026is\u003d69d56a61\u0026hm\u003df61c1fd1dbd87c5df671eee5fdbe1b0f3a01f6562d61020a26085fe823ac76bc\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Palkia",
         "nameFormFr": "Palkia",
         "region": "SINNOH",
@@ -55762,7 +55780,7 @@
         "genericName": "Cresselia",
         "heightM": 1.5,
         "infographicData": {
-          "imgShadowInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457052671642046485/image-144.png?ex\u003d695a998b\u0026is\u003d6959480b\u0026hm\u003d9eacf9913be4c3d8ffce6277f6c99e296567d6d58b8616fb2c3c406fe71ace85\u0026"
+          "imgShadowInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457052671642046485/image-144.png?ex\u003d69d6868b\u0026is\u003d69d5350b\u0026hm\u003d64242fc63d5666d56fc12f611f38c1ab904c1565b3ed3b107d4cd383bbce4a0c\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1167\u0026height\u003d1167"
         },
         "nameFormEng": "Cresselia",
         "nameFormFr": "Cresselia",
@@ -70420,6 +70438,9 @@
         },
         "genericName": "Boréas",
         "heightM": 1.5,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1465466140376567908/image-280.png?ex\u003d69d626f2\u0026is\u003d69d4d572\u0026hm\u003de5ac05d860e869a8b58bc33fb83fb9c75b0585c53aaaec068efb27b58fe62630\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Tornadus Incarnate",
         "nameFormFr": "Boréas Avatar",
         "region": "UNYS",
@@ -70580,7 +70601,7 @@
         "genericName": "Fulguris",
         "heightM": 1.5,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1459906430449614911/image-81.png?ex\u003d6964fb50\u0026is\u003d6963a9d0\u0026hm\u003dbc18d8fa8fb3795ecd75c670e829bfdc6d417931e9e29676793fdbb3065ff434\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1459906430449614911/image-81.png?ex\u003d69d65c50\u0026is\u003d69d50ad0\u0026hm\u003d2e0c2b154ddf371e97fbef506582918ef2c48bef7a7eee61c943fd1793677fa8\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Thundurus Incarnate",
         "nameFormFr": "Fulguris Avatar",
@@ -70748,7 +70769,7 @@
         "genericName": "Reshiram",
         "heightM": 3.2,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457450495747686643/image-164.png?ex\u003d69649dcc\u0026is\u003d69634c4c\u0026hm\u003dfa7d34c9a6980a019871998124374d713a16a568376f04b88556636393e6b65e\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457450495747686643/image-164.png?ex\u003d69d6a78c\u0026is\u003d69d5560c\u0026hm\u003d90a0b758d3483ed9f879a57d75bc363eca271158d21cc71aa62aac7b2be5428b\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Reshiram",
         "nameFormFr": "Reshiram",
@@ -70840,7 +70861,7 @@
         "genericName": "Zekrom",
         "heightM": 2.9,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457450496297144592/image-151.png?ex\u003d69649dcc\u0026is\u003d69634c4c\u0026hm\u003d9172ed9eef4918a7c542cd46e1582889c4b343b419ba8be77ce1235b4f0284ce\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457450496297144592/image-151.png?ex\u003d69d6a78c\u0026is\u003d69d5560c\u0026hm\u003d057c63ded396cd3478b83d4efd78253ac71ad14cd82849b02e4ead4d95223613\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Zekrom",
         "nameFormFr": "Zekrom",
@@ -71042,7 +71063,7 @@
         "genericName": "Kyurem",
         "heightM": 3.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457450494782869556/image-104.png?ex\u003d69649dcc\u0026is\u003d69634c4c\u0026hm\u003db0d4c5696b29c7e81c5e3da6593122507a67869347e69f669787b9c1abc53e41\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457450494782869556/image-104.png?ex\u003d69d6a78c\u0026is\u003d69d5560c\u0026hm\u003d626e2dc5e6302a9c4f97851cf9ed384a2af249ff1f1e5167f7015840bef69f4c\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Kyurem Black",
         "nameFormFr": "Kyurem Noir",
@@ -71197,7 +71218,7 @@
         "genericName": "Kyurem",
         "heightM": 3.6,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457450495252762820/image-162.png?ex\u003d69649dcc\u0026is\u003d69634c4c\u0026hm\u003d3649a30ba3c4ed8e5ffe08bc36cd6fde0bfdb3e5cd29a55563d6dffa7276f44d\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457450495252762820/image-162.png?ex\u003d69d6a78c\u0026is\u003d69d5560c\u0026hm\u003d0c6fd1fe265eed6ad151c8d004f0dd4991a888a6c77731c4d7ec659d79123de8\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Kyurem White",
         "nameFormFr": "Kyurem Blanc",
@@ -71577,7 +71598,7 @@
         "genericName": "Genesect",
         "heightM": 1.5,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457450494233677966/image-245.png?ex\u003d69649dcb\u0026is\u003d69634c4b\u0026hm\u003d2eab1dc0e18715a92386fb98b62c1da7b1581dbf2c9156c73ac4f35a30cb64fd\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457450494233677966/image-245.png?ex\u003d69d6a78b\u0026is\u003d69d5560b\u0026hm\u003d34ad70fc369cc7d0a25ed00f8c6f2e95d6334a521e787a0323a39ff18688d4ea\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Genesect Burn Drive",
         "nameFormFr": "Genesect Module Pyro",
@@ -71650,7 +71671,7 @@
         "genericName": "Genesect",
         "heightM": 1.5,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1457450493709123785/image-94.png?ex\u003d69649dcb\u0026is\u003d69634c4b\u0026hm\u003d304629d2c83f6fc718c6476ee052d76adab8463f4f16c8bd80ae3a06325251ac\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1457450493709123785/image-94.png?ex\u003d69d6a78b\u0026is\u003d69d5560b\u0026hm\u003d4d1ce30886a713e13c785a8c5119ac8fb99cf591c7e16fc3eddc934599bd3d72\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
         },
         "nameFormEng": "Genesect Chill Drive",
         "nameFormFr": "Genesect Module Cryo",
@@ -89531,11 +89552,18 @@
         "baseStamina": 264,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Solgaleo",
         "heightM": 3.4,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1472686216809021510/image-190.png?ex\u003d69d6b5eb\u0026is\u003d69d5646b\u0026hm\u003dd7652b05db31b14ec73d89ca1f2d8a95e9021cedf0ba48d9744b8a9d4de5de9e\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Solgaleo",
         "nameFormFr": "Solgaleo",
         "region": "ALOLA",
@@ -90800,7 +90828,7 @@
         "genericName": "Pierroteknik",
         "heightM": 1.8,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1454763464580137092/image-198.png?ex\u003d695a2e8e\u0026is\u003d6958dd0e\u0026hm\u003d6a2f2f45a78b0ff69303857256c7d3a73202a72664e17dcfb1d3036621429784\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1454763464580137092/image-198.png?ex\u003d69d6c44e\u0026is\u003d69d572ce\u0026hm\u003dc5d6b22e2a80c29cf1e8ca5b1688455f082e9d35bdf924ad0a9dbca983ac8a37\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1167\u0026height\u003d1167"
         },
         "nameFormEng": "Blacephalon",
         "nameFormFr": "Pierroteknik",
@@ -97359,11 +97387,18 @@
         "baseStamina": 190,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Regieleki",
         "heightM": 1.2,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1485374533572497488/mars_Regieleki_Boss_de_Raid_2026.jpg?ex\u003d69d6ba55\u0026is\u003d69d568d5\u0026hm\u003dca035f5501056cb0210d1eb15495cd69f4293299cd0ef2a17ea49141be22835a\u0026\u003d\u0026format\u003dwebp\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Regieleki",
         "nameFormFr": "Regieleki",
         "region": "GALAR",
@@ -97450,11 +97485,18 @@
         "baseStamina": 400,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Regidrago",
         "heightM": 2.1,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1487865362539216958/avril_Regidrago_Boss_de_Raid_2026-1.jpg?ex\u003d69d68f99\u0026is\u003d69d53e19\u0026hm\u003d3a6bf93f577f0ac7ea920e9422c2d7c8d692982781708dd0640840f87cf6e9ab\u0026\u003d\u0026format\u003dwebp\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Regidrago",
         "nameFormFr": "Regidrago",
         "region": "GALAR",
@@ -98044,6 +98086,9 @@
         },
         "genericName": "Amovénus",
         "heightM": 1.6,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1470334114279329912/image-201.png?ex\u003d69d6b91a\u0026is\u003d69d5679a\u0026hm\u003dab1a67fc73a87789f1392241ec4be046fd3996a93c2e5037fdd5f2208e81b276\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+        },
         "nameFormEng": "Therian Enamorus",
         "nameFormFr": "Amovénus Totémique",
         "region": "HISUI",
