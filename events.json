@@ -1,145 +1,5 @@
 [
   {
-    "id": "2ed8282f-bf45-4a1e-934b-cf5b526d1bf1",
-    "name": "Moments électrisants",
-    "startDate": "31/03/2026 10:00",
-    "endDate": "06/04/2026 20:00",
-    "pokemons": [
-      {
-        "pokemonId": "25",
-        "pokemonNameFr": "Pikachu",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "170",
-        "pokemonNameFr": "Loupio",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "702",
-        "pokemonNameFr": "Dedenne",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "921",
-        "pokemonNameFr": "Pohm",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "81",
-        "pokemonNameFr": "Magnéti",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "179",
-        "pokemonNameFr": "Wattouat",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "595",
-        "pokemonNameFr": "Statitik",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "7f2d88be-6f7f-4858-aef2-4edf2aec51ea",
-    "name": "Une aventure oeuf-orique",
-    "startDate": "02/04/2026 10:00",
-    "endDate": "06/04/2026 20:00",
-    "pokemons": [
-      {
-        "pokemonId": "102",
-        "pokemonNameFr": "Noeunoeuf",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "113",
-        "pokemonNameFr": "Leveinard",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "659",
-        "pokemonNameFr": "Sapereau",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "1058a02d-1d28-46f0-ad84-c317e9f7ca07",
-    "name": "Heure Vedette : Dedenne",
-    "startDate": "05/04/2026 18:00",
-    "endDate": "05/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "702",
-        "pokemonNameFr": "Dedenne",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "028531e1-10b2-42ea-b04e-c3d07796f9dd",
-    "name": "Heure Vedette : Statitik",
-    "startDate": "06/04/2026 18:00",
-    "endDate": "06/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "595",
-        "pokemonNameFr": "Statitik",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
     "id": "f904fefc-ab58-4168-8b7f-1b53750ef475",
     "name": "Journée de la Communauté Forgerette",
     "startDate": "11/04/2026 14:00",
@@ -170,6 +30,72 @@
         "raid": true,
         "encens": false,
         "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "5286c130-fa48-4ee6-9e37-c044db35f0e7",
+    "name": "EVENEMENT TEST",
+    "startDate": "08/04/2026 10:00",
+    "endDate": "30/04/2026 18:00",
+    "pokemons": [
+      {
+        "pokemonId": "1",
+        "pokemonNameFr": "Bulbizarre",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "5",
+        "pokemonNameFr": "Reptincel",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "37co",
+        "pokemonNameFr": "Goupix",
+        "costumeName": "Costume du Festival effrayant",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "723ha",
+        "pokemonNameFr": "Efflèche",
+        "costumeName": "Costume Halloween",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": true,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "870tr",
+        "pokemonNameFr": "Hexadron",
+        "costumeName": "Train",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "356fl",
+        "pokemonNameFr": "Téraclope",
+        "costumeName": "Cempasúchit",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": true,
+        "oeuf": true
       }
     ]
   }
