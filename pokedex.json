@@ -119311,6 +119311,86 @@
         "familyMembers": [
           {
             "stadeEvo": 1,
+            "id": "968"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm968.s.icon.png",
+          "male": "pm968.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Queue de Fer",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coud’Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tomberoche",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Séisme",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tête de Fer",
+            "type": "ACIER"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 161,
+        "baseDefense": 219,
+        "baseStamina": 172,
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Ferdeter",
+        "heightM": 2.5,
+        "nameFormEng": "Orthworm",
+        "nameFormFr": "Ferdeter",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "ACIER",
+        "typeB": "AAUCUN",
+        "uniqueCode": "968",
+        "weightKg": 310.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "968",
+    "kmBuddyDistance": 5,
+    "legendary": false,
+    "mythic": false,
+    "tradable": true,
+    "ultraBeast": false,
+    "familyId": "FAMILY_ORTHWORM",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
             "id": "969"
           },
           {

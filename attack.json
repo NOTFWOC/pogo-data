@@ -4082,5 +4082,16 @@
     "powerPVP": 75,
     "energyDeltaPVP": -40,
     "type": "FEU"
+  },
+  {
+    "id": 494,
+    "nameEng": "GIGATON_HAMMER",
+    "nameFr": "GIGATON_HAMMER",
+    "nianticID": "GIGATON_HAMMER",
+    "powerPVE": 300,
+    "energyDeltaPVE": -100,
+    "powerPVP": 130,
+    "energyDeltaPVP": -60,
+    "type": "ACIER"
   }
 ]
