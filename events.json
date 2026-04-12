@@ -1,39 +1,5 @@
 [
   {
-    "id": "f904fefc-ab58-4168-8b7f-1b53750ef475",
-    "name": "Journée de la Communauté Forgerette",
-    "startDate": "11/04/2026 14:00",
-    "endDate": "11/04/2026 17:00",
-    "pokemons": [
-      {
-        "pokemonId": "957",
-        "pokemonNameFr": "Forgerette",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "853dcb73-4c2d-41af-b3da-4aa2d48e6b3d",
-    "name": "Heure de Raids : Kyogre",
-    "startDate": "08/04/2026 18:00",
-    "endDate": "08/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "382",
-        "pokemonNameFr": "Kyogre",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
     "id": "5286c130-fa48-4ee6-9e37-c044db35f0e7",
     "name": "EVENEMENT TEST",
     "startDate": "08/04/2026 10:00",
@@ -95,6 +61,113 @@
         "etudeTerrain": true,
         "raid": true,
         "encens": true,
+        "oeuf": true
+      }
+    ]
+  },
+  {
+    "id": "30562f77-44d3-4a7b-a0b7-a200b8ace55c",
+    "name": "Semaine Environnement",
+    "startDate": "14/04/2026 10:00",
+    "endDate": "20/04/2026 20:00",
+    "pokemons": [
+      {
+        "pokemonId": "273",
+        "pokemonNameFr": "Grainipiot",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "351no",
+        "pokemonNameFr": "Morphéo Normal",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "843",
+        "pokemonNameFr": "Dunaja",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "960",
+        "pokemonNameFr": "Taupikeau",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "948",
+        "pokemonNameFr": "Terracool",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "131",
+        "pokemonNameFr": "Lokhlass",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "175",
+        "pokemonNameFr": "Togepi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "222lun",
+        "pokemonNameFr": "Corayon de Galar",
+        "costumeName": "Lunettes rose",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "568",
+        "pokemonNameFr": "Miamiasme",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      }
+    ]
+  },
+  {
+    "id": "c8643cff-1c26-42ce-94b8-62a53f13b821",
+    "name": "Journée éclosion Riolu",
+    "startDate": "18/04/2026 14:00",
+    "endDate": "18/04/2026 17:00",
+    "pokemons": [
+      {
+        "pokemonId": "447",
+        "pokemonNameFr": "Riolu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
         "oeuf": true
       }
     ]

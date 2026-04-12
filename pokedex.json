@@ -34045,7 +34045,7 @@
               }
             ],
             "costumeName": "Chapeau de sorcière",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "avalaibleInPogo": true,
             "uniqueCode": "216hal",
             "firstAppearanceDate": "27/10/2025"
@@ -34755,8 +34755,8 @@
               }
             ],
             "costumeName": "Lunettes rose",
-            "costumeShiny": false,
-            "avalaibleInPogo": false,
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
             "uniqueCode": "222lun",
             "firstAppearanceDate": "14/04/2026"
           }
@@ -109780,7 +109780,7 @@
             "type": "PLANTE"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 103,
         "baseDefense": 123,
@@ -109874,15 +109874,19 @@
             "type": "PLANTE"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 202,
         "baseDefense": 207,
         "baseStamina": 176,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Dunaconda",
         "heightM": 3.8,
@@ -118416,7 +118420,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 97,
         "baseDefense": 149,
         "baseStamina": 120,
@@ -118510,14 +118514,18 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 166,
         "baseDefense": 209,
         "baseStamina": 190,
         "dynamax": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Terracruel",
         "heightM": 1.9,
