@@ -171,5 +171,22 @@
         "oeuf": true
       }
     ]
+  },
+  {
+    "id": "47017da5-c15b-4ce5-8b7f-be0139f244b1",
+    "name": "Heure légendaire : Groudon",
+    "startDate": "15/04/2026 18:00",
+    "endDate": "15/04/2026 19:00",
+    "pokemons": [
+      {
+        "pokemonId": "383",
+        "pokemonNameFr": "Groudon",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
   }
 ]

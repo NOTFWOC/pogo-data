@@ -83694,76 +83694,6 @@
         "typeB": "COMBAT",
         "uniqueCode": "647nor",
         "weightKg": 48.5
-      },
-      {
-        "a_costumeData": [],
-        "familyMembers": [
-          {
-            "stadeEvo": 1,
-            "id": "647dec"
-          }
-        ],
-        "formImages": {
-          "male": "pm647.fRESOLUTE.icon.png",
-          "maleshiny": "pm647.fRESOLUTE.s.icon.png"
-        },
-        "a_pokeAttackDatas": [
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Aqua-Jet",
-            "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Close Combat",
-            "type": "COMBAT"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Hydrocanon",
-            "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Plaie Croix",
-            "type": "INSECTE"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Lame Sainte",
-            "type": "COMBAT"
-          }
-        ],
-        "avalaibleInPogo": true,
-        "avalaibleShiny": true,
-        "baseAttack": 260,
-        "baseDefense": 192,
-        "baseStamina": 209,
-        "dynamax": false,
-        "evolutionData": {
-          "namesEng": [
-            ""
-          ],
-          "namesFr": [
-            ""
-          ]
-        },
-        "genericName": "Keldeo",
-        "heightM": 1.4,
-        "nameFormEng": "Keldeo Resolute",
-        "nameFormFr": "Keldeo Décidé",
-        "region": "UNYS",
-        "shadow": false,
-        "stadeEvo": 1,
-        "typeA": "EAU",
-        "typeB": "COMBAT",
-        "uniqueCode": "647dec",
-        "weightKg": 48.5
       }
     ],
     "candyToEvolve": 25,
@@ -92927,10 +92857,6 @@
           {
             "stadeEvo": 3,
             "id": "681par"
-          },
-          {
-            "stadeEvo": 3,
-            "id": "681ass"
           }
         ],
         "formImages": {
@@ -93017,10 +92943,6 @@
           {
             "stadeEvo": 3,
             "id": "681par"
-          },
-          {
-            "stadeEvo": 3,
-            "id": "681ass"
           }
         ],
         "formImages": {
@@ -93073,12 +92995,10 @@
         "dynamax": false,
         "evolutionData": {
           "namesEng": [
-            "Shield Aegislash",
-            "Blade Aegislash"
+            "Shield Aegislash"
           ],
           "namesFr": [
-            "Exagide Parade",
-            "Exagide Assaut"
+            "Exagide Parade"
           ]
         },
         "genericName": "Dimoclès",
@@ -93121,10 +93041,6 @@
           {
             "stadeEvo": 3,
             "id": "681par"
-          },
-          {
-            "stadeEvo": 3,
-            "id": "681ass"
           }
         ],
         "formImages": {
@@ -93187,88 +93103,6 @@
         "typeA": "ACIER",
         "typeB": "SPECTRE",
         "uniqueCode": "681par",
-        "weightKg": 53.0
-      },
-      {
-        "a_costumeData": [],
-        "familyMembers": [
-          {
-            "stadeEvo": 1,
-            "id": "679"
-          },
-          {
-            "stadeEvo": 2,
-            "id": "680"
-          },
-          {
-            "stadeEvo": 3,
-            "id": "681par"
-          },
-          {
-            "stadeEvo": 3,
-            "id": "681ass"
-          }
-        ],
-        "formImages": {
-          "male": "pm681.fBLADE.icon.png",
-          "maleshiny": "pm681.fBLADE.s.icon.png"
-        },
-        "a_pokeAttackDatas": [
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Coupe Psycho",
-            "type": "PSY"
-          },
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Lame d’Air",
-            "type": "VOL"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Luminocanon",
-            "type": "ACIER"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Gyroballe",
-            "type": "ACIER"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Ball’Ombre",
-            "type": "SPECTRE"
-          }
-        ],
-        "avalaibleInPogo": true,
-        "avalaibleShiny": true,
-        "baseAttack": 97,
-        "baseDefense": 272,
-        "baseStamina": 155,
-        "dynamax": false,
-        "evolutionData": {
-          "namesEng": [
-            ""
-          ],
-          "namesFr": [
-            ""
-          ]
-        },
-        "genericName": "Exagide",
-        "heightM": 1.7,
-        "nameFormEng": "Blade Aegislash",
-        "nameFormFr": "Exagide Assaut",
-        "region": "KALOS",
-        "shadow": false,
-        "stadeEvo": 3,
-        "typeA": "ACIER",
-        "typeB": "SPECTRE",
-        "uniqueCode": "681ass",
         "weightKg": 53.0
       }
     ],
