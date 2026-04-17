@@ -83644,7 +83644,7 @@
         "baseDefense": 183,
         "baseStamina": 245,
         "dynamax": false,
-        "tradable": true,
+        "tradable": false,
         "evolutionData": {
           "namesEng": [
             ""
@@ -83813,7 +83813,7 @@
         "baseDefense": 183,
         "baseStamina": 245,
         "dynamax": false,
-        "tradable": true,
+        "tradable": false,
         "evolutionData": {
           "namesEng": [
             ""
@@ -106122,7 +106122,7 @@
         "baseDefense": 220,
         "baseStamina": 200,
         "dynamax": false,
-        "tradable": true,
+        "tradable": false,
         "evolutionData": {
           "namesEng": [
             ""
@@ -106208,7 +106208,7 @@
         "baseDefense": 220,
         "baseStamina": 200,
         "dynamax": false,
-        "tradable": true,
+        "tradable": false,
         "evolutionData": {
           "namesEng": [
             ""
