@@ -156,31 +156,58 @@
     ]
   },
   {
-    "id": "c8643cff-1c26-42ce-94b8-62a53f13b821",
-    "name": "Journée éclosion Riolu",
-    "startDate": "18/04/2026 14:00",
-    "endDate": "18/04/2026 17:00",
+    "id": "47017da5-c15b-4ce5-8b7f-be0139f244b1",
+    "name": "Heure de Raids : Tokorico",
+    "startDate": "22/04/2026 18:00",
+    "endDate": "22/04/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "447",
-        "pokemonNameFr": "Riolu",
+        "pokemonId": "785",
+        "pokemonNameFr": "Tokorico",
         "sauvage": false,
         "etudeTerrain": false,
-        "raid": false,
+        "raid": true,
         "encens": false,
-        "oeuf": true
+        "oeuf": false
       }
     ]
   },
   {
-    "id": "47017da5-c15b-4ce5-8b7f-be0139f244b1",
-    "name": "Heure légendaire : Groudon",
-    "startDate": "15/04/2026 18:00",
-    "endDate": "15/04/2026 19:00",
+    "id": "773e9b66-cb33-467a-8b26-53c30c9b050c",
+    "name": "Journée Combat Max Vois encore plus grand",
+    "startDate": "25/04/2026 14:00",
+    "endDate": "25/04/2026 17:00",
     "pokemons": [
       {
-        "pokemonId": "383",
-        "pokemonNameFr": "Groudon",
+        "pokemonId": "3gig",
+        "pokemonNameFr": "Florizarre Gigamax",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "6gig",
+        "pokemonNameFr": "Dracaufeu Gigamax",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "9gig",
+        "pokemonNameFr": "Tortank Gigamax",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "94gig",
+        "pokemonNameFr": "Ectoplasma Gigamax",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
