@@ -418,7 +418,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "3gig"
+          }
+        ],
         "formImages": {
           "male": "pm3.fGIGANTAMAX.icon.png",
           "maleshiny": "pm3.fGIGANTAMAX.s.icon.png"
@@ -1058,7 +1063,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "6gig"
+          }
+        ],
         "formImages": {
           "male": "pm6.fGIGANTAMAX.icon.png",
           "maleshiny": "pm6.fGIGANTAMAX.s.icon.png"
@@ -1912,7 +1922,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "9gig"
+          }
+        ],
         "formImages": {
           "male": "pm9.fGIGANTAMAX.icon.png",
           "maleshiny": "pm9.fGIGANTAMAX.s.icon.png"
@@ -2372,7 +2387,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "12gig"
+          }
+        ],
         "formImages": {
           "male": "pm12.fGIGANTAMAX.icon.png",
           "maleshiny": "pm12.fGIGANTAMAX.s.icon.png"
@@ -5436,7 +5456,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 2,
+            "id": "25gig"
+          }
+        ],
         "formImages": {
           "maleshiny": "pm25.fGIGANTAMAX.s.icon.png",
           "male": "pm25.fGIGANTAMAX.icon.png"
@@ -11601,7 +11626,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "68gig"
+          }
+        ],
         "formImages": {
           "male": "pm68.fGIGANTAMAX.icon.png",
           "maleshiny": "pm68.fGIGANTAMAX.s.icon.png"
@@ -15625,7 +15655,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "94gig"
+          }
+        ],
         "formImages": {
           "male": "pm94.fGIGANTAMAX.icon.png",
           "maleshiny": "pm94.fGIGANTAMAX.s.icon.png"
@@ -16372,7 +16407,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 2,
+            "id": "99gig"
+          }
+        ],
         "formImages": {
           "male": "pm99.fGIGANTAMAX.icon.png",
           "maleshiny": "pm99.fGIGANTAMAX.s.icon.png"
@@ -23113,7 +23153,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 2,
+            "id": "143gig"
+          }
+        ],
         "formImages": {
           "male": "pm143.fGIGANTAMAX.icon.png",
           "maleshiny": "pm143.fGIGANTAMAX.s.icon.png"
@@ -75595,7 +75640,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 2,
+            "id": "569gig"
+          }
+        ],
         "formImages": {
           "male": "pm569.fGIGANTAMAX.icon.png",
           "maleshiny": "pm569.fGIGANTAMAX.s.icon.png"
@@ -107171,7 +107221,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "812gig"
+          }
+        ],
         "formImages": {
           "male": "pm812.fGIGANTAMAX.icon.png",
           "maleshiny": "pm812.fGIGANTAMAX.s.icon.png"
@@ -107525,7 +107580,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "815gig"
+          }
+        ],
         "formImages": {
           "male": "pm815.fGIGANTAMAX.icon.png",
           "maleshiny": "pm815.fGIGANTAMAX.s.icon.png"
@@ -107863,7 +107923,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "818gig"
+          }
+        ],
         "formImages": {
           "male": "pm818.fGIGANTAMAX.icon.png",
           "maleshiny": "pm818.fGIGANTAMAX.s.icon.png"
@@ -110348,7 +110413,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 2,
+            "id": "849gia"
+          }
+        ],
         "formImages": {
           "male": "pm849.fGIGANTAMAX.icon.png",
           "maleshiny": "pm849.fGIGANTAMAX.s.icon.png"
@@ -110426,7 +110496,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 2,
+            "id": "849gig"
+          }
+        ],
         "formImages": {
           "male": "pm849.fGIGANTAMAX.icon.png",
           "maleshiny": "pm849.fGIGANTAMAX.s.icon.png"
@@ -111741,7 +111816,12 @@
       },
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 3,
+            "id": "861gig"
+          }
+        ],
         "formImages": {
           "male": "pm861.fGIGANTAMAX.icon.png",
           "maleshiny": "pm861.fGIGANTAMAX.s.icon.png"
@@ -119028,6 +119108,12 @@
             "charged": true,
             "legacy": false,
             "name": "Tacle Lourd",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Marteau Mastoc",
             "type": "ACIER"
           }
         ],
