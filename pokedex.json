@@ -489,6 +489,9 @@
         },
         "genericName": "Florizarre Gigamax",
         "heightM": 2.0,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1495493333282324740/avril_florizarre_GMAX_2026-1.jpg?ex\u003d69ed09b3\u0026is\u003d69ebb833\u0026hm\u003d33fb318b3cb0c3c6e4c053e1fadb5d35192571cb88c26f2c4bce471389191112\u0026"
+        },
         "nameFormEng": "Gigantamax Venusaur",
         "nameFormFr": "Florizarre Gigamax",
         "region": "KANTO",
@@ -1160,6 +1163,9 @@
         },
         "genericName": "Dracaufeu Gigamax",
         "heightM": 1.7,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1495493333705953422/avril_Dracaufeu_GMAX_2026-1.jpg?ex\u003d69ed09b3\u0026is\u003d69ebb833\u0026hm\u003d27c37da273beea7a49c0a40b43015866861c7fd6c3cb3569068ba644c40ba24a\u0026"
+        },
         "nameFormEng": "Gigantamax Charizard",
         "nameFormFr": "Dracaufeu Gigamax",
         "region": "KANTO",
@@ -1999,6 +2005,9 @@
         },
         "genericName": "Tortank Gigamax",
         "heightM": 1.6,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1495493334104281308/avril_Tortank_GMAX_2026-1.jpg?ex\u003d69ed09b3\u0026is\u003d69ebb833\u0026hm\u003db8ecbd4fbd83b3bca832d0a21d4ec9b0129854de4cd390a51d498f3a7925645b\u0026"
+        },
         "nameFormEng": "Gigantamax Blastoise",
         "nameFormFr": "Tortank Gigamax",
         "region": "KANTO",
@@ -5533,6 +5542,9 @@
         },
         "genericName": "Pikachu Gigamax",
         "heightM": 0.4,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1485374534596165683/mars_Pikachu_GMAX_2026-1.jpg?ex\u003d69ec7b15\u0026is\u003d69eb2995\u0026hm\u003de51b075fed0a0eec3307bae91eeac9ca9f0c2901a9eec9e3cb6185984a002c30\u0026"
+        },
         "nameFormEng": "Gigantamax Pikachu",
         "nameFormFr": "Pikachu Gigamax",
         "region": "KANTO",
@@ -15756,6 +15768,9 @@
         },
         "genericName": "Ectoplasma Gigamax",
         "heightM": 1.5,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1495493334431432797/avril_Ectoplasma_GMAX_2026-1.jpg?ex\u003d69ed09b3\u0026is\u003d69ebb833\u0026hm\u003d1a7824e9e9d88219ecf5abdd8326833b271efca447600ab50e8a60f101793184\u0026"
+        },
         "nameFormEng": "Gigantamax Gengar",
         "nameFormFr": "Ectoplasma Gigamax",
         "region": "KANTO",
@@ -52804,7 +52819,7 @@
         "baseAttack": 179,
         "baseDefense": 309,
         "baseStamina": 190,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -52816,6 +52831,9 @@
         },
         "genericName": "Regirock",
         "heightM": 1.7,
+        "infographicData": {
+          "imgDynamaxInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1495493332963692554/avril_regirock_DMAX_2026.jpg?ex\u003d69ed09b3\u0026is\u003d69ebb833\u0026hm\u003d7984946ed2da0a873ba6aa1491130d2b0fcf73df9503cabe800428fc3fc9b0d1\u0026"
+        },
         "nameFormEng": "Regirock",
         "nameFormFr": "Regirock",
         "region": "HOENN",
@@ -52911,6 +52929,9 @@
         },
         "genericName": "Regice",
         "heightM": 1.8,
+        "infographicData": {
+          "imgDynamaxInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1485374534168350842/mars_Regice_DMAX_2026-1.jpg?ex\u003d69ec7b15\u0026is\u003d69eb2995\u0026hm\u003ddfc2743374495e168d1abf0e24b4fd647a7e23ea7a581159f4a24348f0c5a20a\u0026"
+        },
         "nameFormEng": "Regice",
         "nameFormFr": "Regice",
         "region": "HOENN",
@@ -53490,7 +53511,7 @@
         "genericName": "Kyogre",
         "heightM": 4.5,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1490339759552200735/image-93.png?ex\u003d69d6558f\u0026is\u003d69d5040f\u0026hm\u003da4a63e0808d413a13db9406e0817eeef28b15f1421cb5d63db2d6d6c078b4edf\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1490339759552200735/image-93.png?ex\u003d69ecbf0f\u0026is\u003d69eb6d8f\u0026hm\u003d1bd2c163e84c9c099e15f54151f589c89fe38e6ce5a9c1f18fd8f63aa29dfc6d\u0026"
         },
         "nameFormEng": "Kyogre",
         "nameFormFr": "Kyogre",
@@ -53666,6 +53687,9 @@
         },
         "genericName": "Groudon",
         "heightM": 3.51,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1492876590235914290/image-270.png?ex\u003d69ecbf2b\u0026is\u003d69eb6dab\u0026hm\u003dc1cd62d60ff01ba31916f2ed931b365a1f42e2bd75eefdb36e315b2794716324\u0026"
+        },
         "nameFormEng": "Groudon",
         "nameFormFr": "Groudon",
         "region": "HOENN",
@@ -104732,7 +104756,7 @@
         "genericName": "Tokorico",
         "heightM": 1.8,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1436791634783240232/novembre_tokorico_Boss_de_Raid_2025.jpg?ex\u003d6952263c\u0026is\u003d6950d4bc\u0026hm\u003de0ac8dc7926750d52a036c639fd8d626775d3ea9922994a89b22e56cef35db7b"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1495685655467130890/avril_Tokorico_Boss_de_Raid_2026.jpg?ex\u003d69ed1410\u0026is\u003d69ebc290\u0026hm\u003d217af7c237e0b51b7199dc42987dc8e514f83080ddb849470428a482537af08a"
         },
         "nameFormEng": "Tapu Koko",
         "nameFormFr": "Tokorico",
@@ -114251,7 +114275,7 @@
         "genericName": "Regieleki",
         "heightM": 1.2,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1485374533572497488/mars_Regieleki_Boss_de_Raid_2026.jpg?ex\u003d69d6ba55\u0026is\u003d69d568d5\u0026hm\u003dca035f5501056cb0210d1eb15495cd69f4293299cd0ef2a17ea49141be22835a\u0026\u003d\u0026format\u003dwebp\u0026width\u003d1151\u0026height\u003d1151"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1485374533572497488/mars_Regieleki_Boss_de_Raid_2026.jpg?ex\u003d69ec7b15\u0026is\u003d69eb2995\u0026hm\u003d40ab7cf825906c56f671cbfe9143ed9c2ace3b91f290014ea1762d31735d2d58\u0026"
         },
         "nameFormEng": "Regieleki",
         "nameFormFr": "Regieleki",
@@ -114355,7 +114379,7 @@
         "genericName": "Regidrago",
         "heightM": 2.1,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1487865362539216958/avril_Regidrago_Boss_de_Raid_2026-1.jpg?ex\u003d69d68f99\u0026is\u003d69d53e19\u0026hm\u003d3a6bf93f577f0ac7ea920e9422c2d7c8d692982781708dd0640840f87cf6e9ab\u0026\u003d\u0026format\u003dwebp\u0026width\u003d1151\u0026height\u003d1151"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1487865362539216958/avril_Regidrago_Boss_de_Raid_2026-1.jpg?ex\u003d69ecf919\u0026is\u003d69eba799\u0026hm\u003d96bbe76bd1a85f1053f3b286b741ee4fc47468117ac6750e2e150c9a26cec156\u0026"
         },
         "nameFormEng": "Regidrago",
         "nameFormFr": "Regidrago",
