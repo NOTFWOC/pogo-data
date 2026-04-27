@@ -104860,7 +104860,7 @@
         "genericName": "Tokopiyon",
         "heightM": 1.2,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1436791635207000114/novembre_tokopiyon_Boss_de_Raid_2025.jpg?ex\u003d6952263c\u0026is\u003d6950d4bc\u0026hm\u003dff499ef4427e04a2347ea6394e399876e7891aba38deb3c39b41ab269c721db4"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1497991129990434917/avril_Tokopiyon_Boss_de_Raid_2026-1.jpg?ex\u003d69ef8874\u0026is\u003d69ee36f4\u0026hm\u003dc9fb1b84625757030d6b8b7d5fe33d53ac546e0c6a6111edace7ff97740efa75\u0026"
         },
         "nameFormEng": "Tapu Lele",
         "nameFormFr": "Tokopiyon",
@@ -119658,16 +119658,20 @@
             "type": "ACIER"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 161,
         "baseDefense": 219,
         "baseStamina": 172,
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Ferdeter",
         "heightM": 2.5,

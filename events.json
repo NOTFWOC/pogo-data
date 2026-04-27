@@ -1,169 +1,13 @@
 [
   {
-    "id": "5286c130-fa48-4ee6-9e37-c044db35f0e7",
-    "name": "EVENEMENT TEST",
-    "startDate": "08/04/2026 10:00",
-    "endDate": "30/04/2026 18:00",
-    "pokemons": [
-      {
-        "pokemonId": "1",
-        "pokemonNameFr": "Bulbizarre",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "5",
-        "pokemonNameFr": "Reptincel",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "37co",
-        "pokemonNameFr": "Goupix",
-        "costumeName": "Costume du Festival effrayant",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "723ha",
-        "pokemonNameFr": "Efflèche",
-        "costumeName": "Costume Halloween",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": true,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "870tr",
-        "pokemonNameFr": "Hexadron",
-        "costumeName": "Train",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "356fl",
-        "pokemonNameFr": "Téraclope",
-        "costumeName": "Cempasúchit",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": true,
-        "oeuf": true
-      }
-    ]
-  },
-  {
-    "id": "30562f77-44d3-4a7b-a0b7-a200b8ace55c",
-    "name": "Semaine Environnement",
-    "startDate": "14/04/2026 10:00",
-    "endDate": "20/04/2026 20:00",
-    "pokemons": [
-      {
-        "pokemonId": "273",
-        "pokemonNameFr": "Grainipiot",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "351no",
-        "pokemonNameFr": "Morphéo Normal",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "843",
-        "pokemonNameFr": "Dunaja",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "960",
-        "pokemonNameFr": "Taupikeau",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "948",
-        "pokemonNameFr": "Terracool",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "131",
-        "pokemonNameFr": "Lokhlass",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "175",
-        "pokemonNameFr": "Togepi",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "222lun",
-        "pokemonNameFr": "Corayon de Galar",
-        "costumeName": "Lunettes rose",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "568",
-        "pokemonNameFr": "Miamiasme",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      }
-    ]
-  },
-  {
     "id": "47017da5-c15b-4ce5-8b7f-be0139f244b1",
-    "name": "Heure de Raids : Tokorico",
-    "startDate": "22/04/2026 18:00",
-    "endDate": "22/04/2026 19:00",
+    "name": "Heure de Raids : Tokopiyo",
+    "startDate": "29/04/2026 18:00",
+    "endDate": "29/04/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "785",
-        "pokemonNameFr": "Tokorico",
+        "pokemonId": "786",
+        "pokemonNameFr": "Tokopiyon",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -173,14 +17,113 @@
     ]
   },
   {
-    "id": "773e9b66-cb33-467a-8b26-53c30c9b050c",
-    "name": "Journée Combat Max Vois encore plus grand",
-    "startDate": "25/04/2026 14:00",
-    "endDate": "25/04/2026 17:00",
+    "id": "82b42064-4898-4cb0-8e1c-85abecc1ab5f",
+    "name": "Volonté de fer",
+    "startDate": "28/04/2026 10:00",
+    "endDate": "03/05/2026 20:00",
     "pokemons": [
       {
-        "pokemonId": "3gig",
-        "pokemonNameFr": "Florizarre Gigamax",
+        "pokemonId": "808",
+        "pokemonNameFr": "Meltan",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": true,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "81",
+        "pokemonNameFr": "Magnéti",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "304",
+        "pokemonNameFr": "Galekid",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "597",
+        "pokemonNameFr": "Grindur",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "624",
+        "pokemonNameFr": "Scalpion",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "204",
+        "pokemonNameFr": "Pomdepik",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "299",
+        "pokemonNameFr": "Tarinor",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "436",
+        "pokemonNameFr": "Archéomire",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "529",
+        "pokemonNameFr": "Rototaupe",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "410",
+        "pokemonNameFr": "Dinoclier",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "679",
+        "pokemonNameFr": "Monorpale",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -188,26 +131,25 @@
         "oeuf": false
       },
       {
-        "pokemonId": "6gig",
-        "pokemonNameFr": "Dracaufeu Gigamax",
+        "pokemonId": "968",
+        "pokemonNameFr": "Ferdeter",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
         "encens": false,
         "oeuf": false
-      },
+      }
+    ]
+  },
+  {
+    "id": "48f95981-22e5-4bab-9a43-da793fb4b1ef",
+    "name": "Journée de Raids Obscurs Entei",
+    "startDate": "02/05/2026 14:00",
+    "endDate": "02/05/2026 17:00",
+    "pokemons": [
       {
-        "pokemonId": "9gig",
-        "pokemonNameFr": "Tortank Gigamax",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "94gig",
-        "pokemonNameFr": "Ectoplasma Gigamax",
+        "pokemonId": "244",
+        "pokemonNameFr": "Entei",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
