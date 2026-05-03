@@ -54,6 +54,14 @@
               {
                 "stadeEvo": 1,
                 "id": "1gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "2gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "3gf"
               }
             ],
             "costumeName": "Masque Pikachu",
@@ -183,6 +191,31 @@
             "avalaibleInPogo": true,
             "uniqueCode": "2ch",
             "firstAppearanceDate": "25/02/2020"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm2.cSPRING_2020_NOEVOLVE.s.icon.png",
+              "male": "pm2.cSPRING_2020_NOEVOLVE.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "1gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "2gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "3gf"
+              }
+            ],
+            "costumeName": "Masque Pikachu",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "2gf",
+            "firstAppearanceDate": "25/072020"
           }
         ],
         "familyMembers": [
@@ -319,6 +352,33 @@
             "avalaibleInPogo": true,
             "uniqueCode": "3cl",
             "firstAppearanceDate": "25/03/2020"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm3.cSPRING_2020_NOEVOLVE.s.icon.png",
+              "female": "pm3.cSPRING_2020_NOEVOLVE.g2.icon.png",
+              "femaleshiny": "pm3.cSPRING_2020_NOEVOLVE.g2.s.icon.png",
+              "male": "pm3.cSPRING_2020_NOEVOLVE.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "1gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "2gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "3gf"
+              }
+            ],
+            "costumeName": "Masque Pikachu",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "3gf",
+            "firstAppearanceDate": "25/07/2020"
           }
         ],
         "familyMembers": [
@@ -663,6 +723,14 @@
               {
                 "stadeEvo": 1,
                 "id": "4gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "5gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "6gf"
               }
             ],
             "costumeName": "Masque Pikachu",
@@ -796,6 +864,31 @@
             "avalaibleInPogo": true,
             "uniqueCode": "5ch",
             "firstAppearanceDate": "25/02/2020"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm5.cSPRING_2020_NOEVOLVE.s.icon.png",
+              "male": "pm5.cSPRING_2020_NOEVOLVE.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "4gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "5gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "6gf"
+              }
+            ],
+            "costumeName": "Masque Pikachu",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "5gf",
+            "firstAppearanceDate": "25/07/2020"
           }
         ],
         "familyMembers": [
@@ -939,6 +1032,31 @@
             "avalaibleInPogo": true,
             "uniqueCode": "6cl",
             "firstAppearanceDate": "25/03/2020"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm6.cSPRING_2020_NOEVOLVE.s.icon.png",
+              "male": "pm6.cSPRING_2020_NOEVOLVE.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "4gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "5gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "6gf"
+              }
+            ],
+            "costumeName": "Masque Pikachu",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "6gf",
+            "firstAppearanceDate": "25/07/2020"
           }
         ],
         "familyMembers": [
@@ -1488,6 +1606,14 @@
               {
                 "stadeEvo": 1,
                 "id": "7gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "8gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "9"
               }
             ],
             "costumeName": "Masque Pikachu",
@@ -1667,6 +1793,31 @@
             "avalaibleInPogo": true,
             "uniqueCode": "8lu",
             "firstAppearanceDate": "08/07/2028"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm8.cSPRING_2020_NOEVOLVE.s.icon.png",
+              "male": "pm8.cSPRING_2020_NOEVOLVE.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "7gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "8gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "9"
+              }
+            ],
+            "costumeName": "Masque Pikachu",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "8gf",
+            "firstAppearanceDate": "25/07/2020"
           }
         ],
         "familyMembers": [
@@ -1825,6 +1976,31 @@
             "avalaibleInPogo": true,
             "uniqueCode": "9lu",
             "firstAppearanceDate": "08/07/2028"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm9.cSPRING_2020_NOEVOLVE.s.icon.png",
+              "male": "pm9.cSPRING_2020_NOEVOLVE.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "7gf"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "8gf"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "9"
+              }
+            ],
+            "costumeName": "Masque Pikachu",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "9",
+            "firstAppearanceDate": "25/07/2020"
           }
         ],
         "familyMembers": [
@@ -5364,6 +5540,34 @@
             "avalaibleInPogo": true,
             "uniqueCode": "25bjn",
             "firstAppearanceDate": "23/02/2026"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fBB_2026.s.icon.png",
+              "female": "pm25.fBB_2026.g2.icon.png",
+              "femaleshiny": "pm25.fBB_2026.g2.s.icon.png",
+              "male": "pm25.fBB_2026.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Maillot de Baseball",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25mbs",
+            "firstAppearanceDate": "03/04/2026"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fVISOR_2026.s.icon.png",
+              "female": "pm25.fVISOR_2026.g2.icon.png",
+              "femaleshiny": "pm25.fVISOR_2026.g2.s.icon.png",
+              "male": "pm25.fVISOR_2026.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Visière de marathon",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25vis",
+            "firstAppearanceDate": "12/05/2026"
           }
         ],
         "familyMembers": [
@@ -83566,7 +83770,7 @@
         "nameFormEng": "Landorus Incarnate",
         "nameFormFr": "Démétéros Avatar",
         "region": "UNYS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "SOL",
         "typeB": "VOL",
@@ -83637,7 +83841,7 @@
         "nameFormEng": "Landorus Therian",
         "nameFormFr": "Démétéros Totémique",
         "region": "UNYS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "SOL",
         "typeB": "VOL",
@@ -94708,7 +94912,7 @@
         "nameFormEng": "Helioptile",
         "nameFormFr": "Galvaran",
         "region": "KALOS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "ELECTRIK",
         "typeB": "NORMAL",
@@ -94802,15 +95006,19 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Iguolta",
         "heightM": 1.0,
         "nameFormEng": "Heliolisk",
         "nameFormFr": "Iguolta",
         "region": "KALOS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "ELECTRIK",
         "typeB": "NORMAL",
@@ -101998,7 +102206,7 @@
         "nameFormEng": "Dewpider",
         "nameFormFr": "Araqua",
         "region": "ALOLA",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "EAU",
         "typeB": "INSECTE",
@@ -102080,15 +102288,19 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Tarenbulle",
         "heightM": 1.8,
         "nameFormEng": "Araquanid",
         "nameFormFr": "Tarenbulle",
         "region": "ALOLA",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "EAU",
         "typeB": "INSECTE",
@@ -102366,7 +102578,7 @@
         "nameFormEng": "Morelull",
         "nameFormFr": "Spododo",
         "region": "ALOLA",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "PLANTE",
         "typeB": "FEE",
@@ -102436,15 +102648,19 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Lampignon",
         "heightM": 1.0,
         "nameFormEng": "Shiinotic",
         "nameFormFr": "Lampignon",
         "region": "ALOLA",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "PLANTE",
         "typeB": "FEE",
@@ -102713,7 +102929,7 @@
         "nameFormEng": "Stufful",
         "nameFormFr": "Nounourson",
         "region": "ALOLA",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "NORMAL",
         "typeB": "COMBAT",
@@ -102808,7 +103024,7 @@
         "nameFormEng": "Bewear",
         "nameFormFr": "Chelours",
         "region": "ALOLA",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "NORMAL",
         "typeB": "COMBAT",
@@ -112493,6 +112709,10 @@
           {
             "stadeEvo": 1,
             "id": "870"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "870meg"
           }
         ],
         "formImages": {
@@ -112540,10 +112760,10 @@
         "tradable": true,
         "evolutionData": {
           "namesEng": [
-            ""
+            "Mega-Falinks"
           ],
           "namesFr": [
-            ""
+            "Méga-Hexadron"
           ]
         },
         "genericName": "Hexadron",
@@ -112556,6 +112776,81 @@
         "typeA": "COMBAT",
         "typeB": "AAUCUN",
         "uniqueCode": "870",
+        "weightKg": 62.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "870"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "870meg"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm870.fMEGA.s.icon.png",
+          "male": "pm870.fMEGA.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclate-Roc",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surpuissance",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Casse-Brique",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mégacorne",
+            "type": "INSECTE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 193,
+        "baseDefense": 170,
+        "baseStamina": 163,
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Méga-Hexadron",
+        "heightM": 3.0,
+        "nameFormEng": "Mega-Falinks",
+        "nameFormFr": "Méga-Hexadron",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 2,
+        "typeA": "COMBAT",
+        "typeB": "AAUCUN",
+        "uniqueCode": "870meg",
         "weightKg": 62.0
       }
     ],
@@ -118936,6 +119231,184 @@
         "familyMembers": [
           {
             "stadeEvo": 1,
+            "id": "955"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "956"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm955.s.icon.png",
+          "male": "pm955.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rafale Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Choc Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 105,
+        "baseDefense": 60,
+        "baseStamina": 102,
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            "Espathra"
+          ],
+          "namesFr": [
+            "Cléopsytra"
+          ]
+        },
+        "genericName": "Flotillon",
+        "heightM": 0.2,
+        "nameFormEng": "Flittle",
+        "nameFormFr": "Flotillon",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "PSY",
+        "typeB": "AAUCUN",
+        "uniqueCode": "955",
+        "weightKg": 1.5
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "955",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false,
+    "familyId": "FAMILY_FLITTLE",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "955"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "956"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm956.s.icon.png",
+          "male": "pm956.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rafale Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Choc Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclat Magique",
+            "type": "FEE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 204,
+        "baseDefense": 127,
+        "baseStamina": 216,
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Cléopsytra",
+        "heightM": 1.9,
+        "nameFormEng": "Espathra",
+        "nameFormFr": "Cléopsytra",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 2,
+        "typeA": "PSY",
+        "typeB": "AAUCUN",
+        "uniqueCode": "956",
+        "weightKg": 90.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "956",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false,
+    "familyId": "FAMILY_FLITTLE",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
             "id": "957"
           },
           {
@@ -119479,7 +119952,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 123,
         "baseDefense": 107,
         "baseStamina": 128,
@@ -119579,15 +120052,19 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 229,
         "baseDefense": 168,
         "baseStamina": 190,
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Vrombotor",
         "heightM": 1.8,

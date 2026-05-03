@@ -1,22 +1,5 @@
 [
   {
-    "id": "47017da5-c15b-4ce5-8b7f-be0139f244b1",
-    "name": "Heure de Raids : Tokopiyo",
-    "startDate": "29/04/2026 18:00",
-    "endDate": "29/04/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "786",
-        "pokemonNameFr": "Tokopiyon",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
     "id": "82b42064-4898-4cb0-8e1c-85abecc1ab5f",
     "name": "Volonté de fer",
     "startDate": "28/04/2026 10:00",
@@ -133,23 +116,6 @@
       {
         "pokemonId": "968",
         "pokemonNameFr": "Ferdeter",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "48f95981-22e5-4bab-9a43-da793fb4b1ef",
-    "name": "Journée de Raids Obscurs Entei",
-    "startDate": "02/05/2026 14:00",
-    "endDate": "02/05/2026 17:00",
-    "pokemons": [
-      {
-        "pokemonId": "244",
-        "pokemonNameFr": "Entei",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
