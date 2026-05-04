@@ -1,124 +1,33 @@
 [
   {
-    "id": "82b42064-4898-4cb0-8e1c-85abecc1ab5f",
-    "name": "Volonté de fer",
-    "startDate": "28/04/2026 10:00",
-    "endDate": "03/05/2026 20:00",
+    "id": "9323ab94-f015-484b-8220-b4494bd26520",
+    "name": "Heure de Raids : Zéroïd",
+    "startDate": "06/05/2026 18:00",
+    "endDate": "06/05/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "808",
-        "pokemonNameFr": "Meltan",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": true,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "81",
-        "pokemonNameFr": "Magnéti",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "304",
-        "pokemonNameFr": "Galekid",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "597",
-        "pokemonNameFr": "Grindur",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "624",
-        "pokemonNameFr": "Scalpion",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "204",
-        "pokemonNameFr": "Pomdepik",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "299",
-        "pokemonNameFr": "Tarinor",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "436",
-        "pokemonNameFr": "Archéomire",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "529",
-        "pokemonNameFr": "Rototaupe",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "374",
-        "pokemonNameFr": "Terhal",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "410",
-        "pokemonNameFr": "Dinoclier",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "679",
-        "pokemonNameFr": "Monorpale",
+        "pokemonId": "793",
+        "pokemonNameFr": "Zéroïd",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
         "encens": false,
         "oeuf": false
-      },
+      }
+    ]
+  },
+  {
+    "id": "06d83a89-70b3-4a7d-9434-9edd3b7aa17c",
+    "name": "Journée de la Communauté Gourmelet",
+    "startDate": "09/05/2026 14:00",
+    "endDate": "09/05/2026 17:00",
+    "pokemons": [
       {
-        "pokemonId": "968",
-        "pokemonNameFr": "Ferdeter",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
+        "pokemonId": "915",
+        "pokemonNameFr": "Gourmelet",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
         "encens": false,
         "oeuf": false
       }
