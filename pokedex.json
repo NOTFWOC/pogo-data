@@ -119274,7 +119274,7 @@
             "type": "PSY"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 105,
         "baseDefense": 60,
@@ -119368,7 +119368,7 @@
             "type": "FEE"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 204,
         "baseDefense": 127,
@@ -119376,8 +119376,12 @@
         "dynamax": false,
         "tradable": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Cléopsytra",
         "heightM": 1.9,
