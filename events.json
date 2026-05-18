@@ -1,80 +1,13 @@
 [
   {
-    "id": "9dacf5bb-e50f-481a-9995-6db54750656a",
-    "name": "Marathon printanier",
-    "startDate": "12/05/2026 10:00",
-    "endDate": "18/05/2026 20:00",
+    "id": "bf8d23b6-fa96-4d17-9175-6d55a2023323",
+    "name": "Journée Super Méga-Raids Hexadron",
+    "startDate": "23/05/2026 14:00",
+    "endDate": "23/05/2026 17:00",
     "pokemons": [
       {
-        "pokemonId": "133fl2",
-        "pokemonNameFr": "Évoli",
-        "costumeName": "Fleurs de cerisier",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "427fl",
-        "pokemonNameFr": "Laporeille",
-        "costumeName": "Couronne de fleurs",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "172fl",
-        "pokemonNameFr": "Pichu",
-        "costumeName": "Couronne de fleurs",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "175fl",
-        "pokemonNameFr": "Togepi",
-        "costumeName": "Couronne de fleurs",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "440fl",
-        "pokemonNameFr": "Ptiravi",
-        "costumeName": "Couronne de fleurs",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      },
-      {
-        "pokemonId": "955",
-        "pokemonNameFr": "Flotillon",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": true
-      }
-    ]
-  },
-  {
-    "id": "d16278bf-2353-4f70-8531-3f6e635a5a62",
-    "name": "Heure de Raids : Cancrelove",
-    "startDate": "13/05/2026 18:00",
-    "endDate": "13/05/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "795",
-        "pokemonNameFr": "Cancrelove",
+        "pokemonId": "870meg",
+        "pokemonNameFr": "Méga-Hexadron",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -84,17 +17,17 @@
     ]
   },
   {
-    "id": "f591c3f8-7970-45af-af09-84bb87fa165e",
-    "name": "Journée de la Communauté Classique Solochi",
-    "startDate": "16/05/2026 14:00",
-    "endDate": "16/05/2026 17:00",
+    "id": "1b8002df-e877-4fcc-8326-f0fa209b2eff",
+    "name": "Heure Legendaire Tokotoro",
+    "startDate": "20/05/2026 18:00",
+    "endDate": "20/05/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "633",
-        "pokemonNameFr": "Solochi",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
+        "pokemonId": "787",
+        "pokemonNameFr": "Tokotoro",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
         "encens": false,
         "oeuf": false
       }

@@ -1613,7 +1613,7 @@
               },
               {
                 "stadeEvo": 3,
-                "id": "9"
+                "id": "9gf"
               }
             ],
             "costumeName": "Masque Pikachu",
@@ -1810,7 +1810,7 @@
               },
               {
                 "stadeEvo": 3,
-                "id": "9"
+                "id": "9gf"
               }
             ],
             "costumeName": "Masque Pikachu",
@@ -1979,8 +1979,8 @@
           },
           {
             "costumeImages": {
-              "maleshiny": "pm9.cSPRING_2020_NOEVOLVE.s.icon.png",
-              "male": "pm9.cSPRING_2020_NOEVOLVE.icon.png"
+              "male": "pm9.cSPRING_2020_NOEVOLVE.icon.png",
+              "maleshiny": "pm9.cSPRING_2020_NOEVOLVE.s.icon.png"
             },
             "familyMembers": [
               {
@@ -1993,13 +1993,13 @@
               },
               {
                 "stadeEvo": 3,
-                "id": "9"
+                "id": "9gf"
               }
             ],
             "costumeName": "Masque Pikachu",
             "costumeShiny": true,
             "avalaibleInPogo": true,
-            "uniqueCode": "9",
+            "uniqueCode": "9gf",
             "firstAppearanceDate": "25/07/2020"
           }
         ],
@@ -112826,8 +112826,8 @@
             "type": "INSECTE"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 193,
         "baseDefense": 170,
         "baseStamina": 163,
