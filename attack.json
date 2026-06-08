@@ -12,7 +12,7 @@
     "nianticID": "WRAP",
     "powerPVE": 60,
     "energyDeltaPVE": -33,
-    "powerPVP": 60,
+    "powerPVP": 70,
     "energyDeltaPVP": -45,
     "type": "NORMAL"
   },
@@ -133,7 +133,7 @@
     "nianticID": "EARTHQUAKE",
     "powerPVE": 140,
     "energyDeltaPVE": -100,
-    "powerPVP": 110,
+    "powerPVP": 120,
     "energyDeltaPVP": -65,
     "type": "SOL"
   },
@@ -189,7 +189,7 @@
     "powerPVE": 100,
     "energyDeltaPVE": -100,
     "powerPVP": 110,
-    "energyDeltaPVP": -70,
+    "energyDeltaPVP": -65,
     "type": "ACIER"
   },
   {
@@ -254,8 +254,8 @@
     "nianticID": "DRILL_RUN",
     "powerPVE": 85,
     "energyDeltaPVE": -50,
-    "powerPVP": 80,
-    "energyDeltaPVP": -45,
+    "powerPVP": 70,
+    "energyDeltaPVP": -40,
     "type": "SOL"
   },
   {
@@ -1020,7 +1020,7 @@
     "powerPVE": 105,
     "energyDeltaPVE": -100,
     "powerPVP": 110,
-    "energyDeltaPVP": -65,
+    "energyDeltaPVP": -60,
     "type": "VOL"
   },
   {
@@ -1887,7 +1887,7 @@
     "nianticID": "SILVER_WIND",
     "powerPVE": 65,
     "energyDeltaPVE": -33,
-    "powerPVP": 60,
+    "powerPVP": 75,
     "energyDeltaPVP": -45,
     "type": "INSECTE"
   },
@@ -2020,8 +2020,8 @@
     "nianticID": "ENERGY_BALL",
     "powerPVE": 90,
     "energyDeltaPVE": -50,
-    "powerPVP": 90,
-    "energyDeltaPVP": -55,
+    "powerPVP": 80,
+    "energyDeltaPVP": -45,
     "type": "PLANTE"
   },
   {
@@ -2398,7 +2398,7 @@
     "powerPVE": 100,
     "energyDeltaPVE": -50,
     "powerPVP": 90,
-    "energyDeltaPVP": -55,
+    "energyDeltaPVP": -50,
     "type": "SOL"
   },
   {
@@ -2646,7 +2646,7 @@
     "nianticID": "CHARM_FAST",
     "powerPVE": 20,
     "energyDeltaPVE": 11,
-    "powerPVP": 13,
+    "powerPVP": 12,
     "energyDeltaPVP": 8,
     "type": "FEE"
   },
@@ -2953,7 +2953,7 @@
     "powerPVE": 25,
     "energyDeltaPVE": 20,
     "powerPVP": 16,
-    "energyDeltaPVP": 12,
+    "energyDeltaPVP": 14,
     "type": "VOL"
   },
   {
@@ -3429,8 +3429,8 @@
     "nianticID": "DRAGON_ASCENT",
     "powerPVE": 140,
     "energyDeltaPVE": -50,
-    "powerPVP": 150,
-    "energyDeltaPVP": -70,
+    "powerPVP": 110,
+    "energyDeltaPVP": -45,
     "type": "VOL"
   },
   {
@@ -4093,5 +4093,33 @@
     "powerPVP": 130,
     "energyDeltaPVP": -60,
     "type": "ACIER"
+  },
+  {
+    "id": 497,
+    "nameEng": "Plasma Fists",
+    "nameFr": "Plasma Punch",
+    "nianticID": "PLASMA_FISTS",
+    "powerPVE": 135,
+    "energyDeltaPVE": -50,
+    "powerPVP": 60,
+    "energyDeltaPVP": -35,
+    "type": "ELECTRIK"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": -1
+      }
+    },
+    "id": 590,
+    "nameEng": "GLAIVE_RUSH",
+    "nameFr": "GLAIVE_RUSH",
+    "nianticID": "GLAIVE_RUSH",
+    "powerPVE": 105,
+    "energyDeltaPVE": -50,
+    "powerPVP": 90,
+    "energyDeltaPVP": -40,
+    "type": "DRAGON"
   }
 ]

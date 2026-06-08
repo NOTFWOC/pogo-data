@@ -2309,7 +2309,25 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "costumeImages": {
+              "maleshiny": "pm10.fGOFEST_2026.s.icon.png",
+              "male": "pm10.fGOFEST_2026.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "10pok"
+              }
+            ],
+            "costumeName": "Chapeau Poké Ball",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "10pok",
+            "firstAppearanceDate": "25/05/2026"
+          }
+        ],
         "familyMembers": [
           {
             "stadeEvo": 1,
@@ -3318,6 +3336,12 @@
             "type": "FEU"
           },
           {
+            "charged": true,
+            "legacy": false,
+            "name": "LEVEL_SETTINGS_GROUP_7",
+            "type": "AAUCUN"
+          },
+          {
             "charged": false,
             "legacy": true,
             "name": "Cru-Ailes",
@@ -3429,6 +3453,12 @@
             "legacy": false,
             "name": "Canicule",
             "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "LEVEL_SETTINGS_GROUP_7",
+            "type": "AAUCUN"
           },
           {
             "charged": false,
@@ -5568,6 +5598,62 @@
             "avalaibleInPogo": true,
             "uniqueCode": "25vis",
             "firstAppearanceDate": "12/05/2026"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fFOSSIL_2026.s.icon.png",
+              "female": "pm25.fFOSSIL_2026.g2.icon.png",
+              "femaleshiny": "pm25.fFOSSIL_2026.g2.s.icon.png",
+              "male": "pm25.fFOSSIL_2026.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Archéologue",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25arc",
+            "firstAppearanceDate": "22/05/2026"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fGOFEST_2026_CAP_BLUE.s.icon.png",
+              "female": "pm25.fGOFEST_2026_CAP_BLUE.g2.icon.png",
+              "femaleshiny": "pm25.fGOFEST_2026_CAP_BLUE.g2.s.icon.png",
+              "male": "pm25.fGOFEST_2026_CAP_BLUE.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Chapeau de la Team Mystic",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25mys",
+            "firstAppearanceDate": "25/05/2026"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fGOFEST_2026_CAP_YELLOW.s.icon.png",
+              "female": "pm25.fGOFEST_2026_CAP_YELLOW.g2.icon.png",
+              "femaleshiny": "pm25.fGOFEST_2026_CAP_YELLOW.g2.s.icon.png",
+              "male": "pm25.fGOFEST_2026_CAP_YELLOW.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Chapeau de la Team Instinct",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25ins",
+            "firstAppearanceDate": "29/05/2026"
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fGOFEST_2026_CAP_RED.s.icon.png",
+              "female": "pm25.fGOFEST_2026_CAP_RED.g2.icon.png",
+              "femaleshiny": "pm25.fGOFEST_2026_CAP_RED.g2.s.icon.png",
+              "male": "pm25.fGOFEST_2026_CAP_RED.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Chapeau de la Team Valor",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25val",
+            "firstAppearanceDate": "29/05/2026"
           }
         ],
         "familyMembers": [
@@ -19332,6 +19418,12 @@
             "type": "EAU"
           },
           {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
             "charged": false,
             "legacy": true,
             "name": "Charge",
@@ -19838,7 +19930,7 @@
         "baseAttack": 198,
         "baseDefense": 158,
         "baseStamina": 163,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -22953,6 +23045,12 @@
             "type": "ROCHE"
           },
           {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
             "charged": false,
             "legacy": true,
             "name": "Taillade",
@@ -23769,6 +23867,12 @@
             "charged": false,
             "legacy": false,
             "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
             "type": "COMBAT"
           },
           {
@@ -24691,8 +24795,8 @@
             "type": "PSY"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 300,
         "baseDefense": 182,
         "baseStamina": 214,
@@ -24800,8 +24904,8 @@
             "type": "PSY"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 300,
         "baseDefense": 182,
         "baseStamina": 214,
@@ -26590,6 +26694,30 @@
         },
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Survinsecte",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Piqûre",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Bourdon",
@@ -26612,6 +26740,12 @@
             "legacy": false,
             "name": "Dynamo-Poing",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -28046,6 +28180,36 @@
             "legacy": false,
             "name": "Picpic",
             "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Mauvais",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Prescience",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Choc Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -33588,6 +33752,12 @@
             "legacy": false,
             "name": "Ébullition",
             "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -35557,6 +35727,12 @@
             "legacy": false,
             "name": "Bulles d’O",
             "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "LEVEL_SETTINGS_GROUP_7",
+            "type": "AAUCUN"
           }
         ],
         "avalaibleInPogo": true,
@@ -36014,6 +36190,12 @@
             "legacy": false,
             "name": "Météores",
             "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
           },
           {
             "charged": false,
@@ -50240,6 +50422,18 @@
             "legacy": false,
             "name": "Ombre Portée",
             "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Dynamo-Poing",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -53219,7 +53413,7 @@
         "baseAttack": 143,
         "baseDefense": 285,
         "baseStamina": 190,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -57686,7 +57880,7 @@
         "baseAttack": 59,
         "baseDefense": 83,
         "baseStamina": 102,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -57798,11 +57992,15 @@
         "baseAttack": 149,
         "baseDefense": 190,
         "baseStamina": 172,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Apireine",
         "heightM": 1.2,
@@ -59131,6 +59329,18 @@
             "legacy": false,
             "name": "Triple Axel",
             "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -59222,6 +59432,18 @@
             "legacy": false,
             "name": "Triple Axel",
             "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -62197,6 +62419,12 @@
             "type": "EAU"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tornade",
+            "type": "VOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vibraqua",
@@ -63032,6 +63260,12 @@
           },
           {
             "charged": true,
+            "legacy": false,
+            "name": "Tunnelier",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
             "legacy": true,
             "name": "Roc-Boulet",
             "type": "ROCHE"
@@ -63242,7 +63476,7 @@
         "baseAttack": 249,
         "baseDefense": 163,
         "baseStamina": 181,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -71281,6 +71515,12 @@
             "type": "ROCHE"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Verrouillage",
+            "type": "NORMAL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Éboulement",
@@ -72122,6 +72362,12 @@
             "type": "POISON"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Forte-Paume",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Dynamo-Poing",
@@ -72384,6 +72630,12 @@
             "legacy": false,
             "name": "Bombe Beurk",
             "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Glace",
+            "type": "GLACE"
           }
         ],
         "avalaibleInPogo": true,
@@ -73229,7 +73481,7 @@
         "baseAttack": 71,
         "baseDefense": 111,
         "baseStamina": 120,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -73351,7 +73603,7 @@
         "baseAttack": 164,
         "baseDefense": 176,
         "baseStamina": 155,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -77080,6 +77332,12 @@
             "type": "VOL"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tornade",
+            "type": "VOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Laser Glace",
@@ -77102,6 +77360,12 @@
             "legacy": false,
             "name": "Vol",
             "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
           }
         ],
         "avalaibleInPogo": true,
@@ -93792,6 +94056,24 @@
         },
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Rayon Chargé",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vent Féérique",
+            "type": "FEE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Pouvoir Lunaire",
@@ -95643,6 +95925,24 @@
         },
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vive-Attaque",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vent Féérique",
+            "type": "FEE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Pouvoir Lunaire",
@@ -95659,6 +95959,12 @@
             "legacy": false,
             "name": "Vampibaiser",
             "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
           },
           {
             "charged": true,
@@ -96114,6 +96420,12 @@
             "type": "NORMAL"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Souffle",
+            "type": "DRAGON"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Draco-Choc",
@@ -96136,6 +96448,12 @@
             "legacy": false,
             "name": "Vibraqua",
             "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plaquage",
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -96186,6 +96504,12 @@
             "type": "NORMAL"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Souffle",
+            "type": "DRAGON"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Draco-Choc",
@@ -96208,6 +96532,12 @@
             "legacy": false,
             "name": "Vibraqua",
             "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plaquage",
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": false,
@@ -106985,9 +107315,15 @@
             "legacy": false,
             "name": "Éclair Fou",
             "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plasma Punch",
+            "type": "ELECTRIK"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 252,
         "baseDefense": 177,
@@ -107152,6 +107488,12 @@
             "charged": true,
             "legacy": false,
             "name": "Surpuissance",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Dynamo-Poing",
             "type": "COMBAT"
           },
           {
@@ -116188,6 +116530,12 @@
             "type": "VOL"
           },
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Aqua-Jet",
@@ -116400,6 +116748,12 @@
             "legacy": false,
             "name": "Plaquage",
             "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": true,
+            "name": "Coud’Boue",
+            "type": "SOL"
           }
         ],
         "avalaibleInPogo": true,
