@@ -1,13 +1,13 @@
 [
   {
     "id": "1b8002df-e877-4fcc-8326-f0fa209b2eff",
-    "name": "Heure Legendaire Zekrom",
-    "startDate": "10/06/2026 18:00",
-    "endDate": "10/06/2026 19:00",
+    "name": "Heure Legendaire Necrozma",
+    "startDate": "17/06/2026 18:00",
+    "endDate": "17/06/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "644",
-        "pokemonNameFr": "Zekrom",
+        "pokemonId": "800",
+        "pokemonNameFr": "Necrozma",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -17,144 +17,35 @@
     ]
   },
   {
-    "id": "bd9ce2fc-eca1-4064-a02e-d14b47bcfbbe",
-    "name": "Quête de victoire de Candela",
-    "startDate": "09/06/2026 10:00",
-    "endDate": "15/06/2026 20:00",
+    "id": "e3a9aec6-83d0-41d8-9079-17927462daae",
+    "name": "Heure Vedette Marcacrin",
+    "startDate": "18/06/2026 18:00",
+    "endDate": "18/06/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "4",
-        "pokemonNameFr": "Salamèche",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "56",
-        "pokemonNameFr": "Férosinge",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "58h",
-        "pokemonNameFr": "Caninos d\u0027Hisui",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "66",
-        "pokemonNameFr": "Machoc",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "77",
-        "pokemonNameFr": "Ponyta",
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
         "encens": false,
         "oeuf": false
-      },
+      }
+    ]
+  },
+  {
+    "id": "79ac5b89-b687-4640-b07f-df199dba2410",
+    "name": "Journée de la Communauté Frigodo",
+    "startDate": "20/06/2026 14:00",
+    "endDate": "20/06/2026 17:00",
+    "pokemons": [
       {
-        "pokemonId": "123",
-        "pokemonNameFr": "Insécateur",
+        "pokemonId": "996",
+        "pokemonNameFr": "Frigodo",
         "sauvage": true,
         "etudeTerrain": true,
         "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "136",
-        "pokemonNameFr": "Pyroli",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "218",
-        "pokemonNameFr": "Limagma",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "661",
-        "pokemonNameFr": "Passerouge",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "68",
-        "pokemonNameFr": "Mackogneur",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "212",
-        "pokemonNameFr": "Cizayox",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "219",
-        "pokemonNameFr": "Volcaropod",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "559",
-        "pokemonNameFr": "Baggiguane",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "679",
-        "pokemonNameFr": "Monorpale",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "744",
-        "pokemonNameFr": "Rocabot",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": true,
-        "encens": false,
+        "encens": true,
         "oeuf": false
       }
     ]

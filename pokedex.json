@@ -35777,6 +35777,10 @@
           {
             "stadeEvo": 1,
             "id": "227"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "227meg"
           }
         ],
         "formImages": {
@@ -35823,8 +35827,12 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            "Mega-Skarmory"
+          ],
+          "namesFr": [
+            "Méga-Airmure"
+          ]
         },
         "genericName": "Airmure",
         "heightM": 1.7,
@@ -35836,6 +35844,81 @@
         "typeA": "ACIER",
         "typeB": "VOL",
         "uniqueCode": "227",
+        "weightKg": 50.5
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "227"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "227meg"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm227.fMEGA.s.icon.png",
+          "male": "pm227.fMEGA.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Ailes d’Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piqué",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Luminocanon",
+            "type": "ACIER"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 148,
+        "baseDefense": 226,
+        "baseStamina": 163,
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Méga-Airmure",
+        "heightM": 1.7,
+        "nameFormEng": "Mega-Skarmory",
+        "nameFormFr": "Méga-Airmure",
+        "region": "JOHTO",
+        "shadow": false,
+        "stadeEvo": 2,
+        "typeA": "ACIER",
+        "typeB": "VOL",
+        "uniqueCode": "227meg",
         "weightKg": 50.5
       }
     ],
@@ -118235,6 +118318,219 @@
     "mythic": false,
     "ultraBeast": false,
     "familyId": "FAMILY_SMOLIV",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "931bla"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm931.fWHITE.s.icon.png",
+          "male": "pm931.fWHITE.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 185,
+        "baseDefense": 105,
+        "baseStamina": 193,
+        "dynamax": false,
+        "tradable": true,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Tapatoès",
+        "heightM": 0.6,
+        "nameFormEng": "Squawkabilly White Plumage",
+        "nameFormFr": "Tapatoès Blanc",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "NORMAL",
+        "typeB": "VOL",
+        "uniqueCode": "931bla",
+        "weightKg": 2.4
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "931ble"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm931.fBLUE.s.icon.png",
+          "male": "pm931.fBLUE.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 185,
+        "baseDefense": 105,
+        "baseStamina": 193,
+        "dynamax": false,
+        "tradable": true,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Tapatoès",
+        "heightM": 0.6,
+        "nameFormEng": "Squawkabilly Blue Plumage",
+        "nameFormFr": "Tapatoès Bleu",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "NORMAL",
+        "typeB": "VOL",
+        "uniqueCode": "931ble",
+        "weightKg": 2.4
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "931jau"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm931.fYELLOW.s.icon.png",
+          "male": "pm931.fYELLOW.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 185,
+        "baseDefense": 105,
+        "baseStamina": 193,
+        "dynamax": false,
+        "tradable": true,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Tapatoès",
+        "heightM": 0.6,
+        "nameFormEng": "Squawkabilly Yellow Plumage",
+        "nameFormFr": "Tapatoès Jaune",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "NORMAL",
+        "typeB": "VOL",
+        "uniqueCode": "931jau",
+        "weightKg": 2.4
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "931ver"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm931.fGREEN.s.icon.png",
+          "male": "pm931.fGREEN.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 185,
+        "baseDefense": 105,
+        "baseStamina": 193,
+        "dynamax": false,
+        "tradable": true,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Tapatoès",
+        "heightM": 0.6,
+        "nameFormEng": "Squawkabilly Green Plumage",
+        "nameFormFr": "Tapatoès Vert",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "NORMAL",
+        "typeB": "VOL",
+        "uniqueCode": "931ver",
+        "weightKg": 2.4
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "931",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false,
+    "familyId": "FAMILY_SQUAWKABILLY",
     "malePercent": 0.5,
     "femalePercent": 0.5
   },
