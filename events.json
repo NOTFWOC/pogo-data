@@ -1,13 +1,13 @@
 [
   {
     "id": "1b8002df-e877-4fcc-8326-f0fa209b2eff",
-    "name": "Heure Legendaire Necrozma",
-    "startDate": "17/06/2026 18:00",
-    "endDate": "17/06/2026 19:00",
+    "name": "Heure Legendaire Katagami",
+    "startDate": "24/06/2026 18:00",
+    "endDate": "24/06/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "800",
-        "pokemonNameFr": "Necrozma",
+        "pokemonId": "798",
+        "pokemonNameFr": "Katagami",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -18,13 +18,13 @@
   },
   {
     "id": "e3a9aec6-83d0-41d8-9079-17927462daae",
-    "name": "Heure Vedette Marcacrin",
-    "startDate": "18/06/2026 18:00",
-    "endDate": "18/06/2026 19:00",
+    "name": "Heure Vedette Goélise",
+    "startDate": "25/06/2026 18:00",
+    "endDate": "25/06/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "220",
-        "pokemonNameFr": "Marcacrin",
+        "pokemonId": "278",
+        "pokemonNameFr": "Goélise",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
@@ -34,18 +34,134 @@
     ]
   },
   {
-    "id": "79ac5b89-b687-4640-b07f-df199dba2410",
-    "name": "Journée de la Communauté Frigodo",
-    "startDate": "20/06/2026 14:00",
-    "endDate": "20/06/2026 17:00",
+    "id": "a448a949-b34f-4a18-a11b-88d4a8bbfec4",
+    "name": "Taxi volant",
+    "startDate": "23/06/2026 10:00",
+    "endDate": "29/06/2026 20:00",
     "pokemons": [
       {
-        "pokemonId": "996",
-        "pokemonNameFr": "Frigodo",
+        "pokemonId": "163",
+        "pokemonNameFr": "Hoothoot",
         "sauvage": true,
         "etudeTerrain": true,
         "raid": false,
-        "encens": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "821",
+        "pokemonNameFr": "Minisange",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "931bla",
+        "pokemonNameFr": "Tapatoès Blanc",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "21",
+        "pokemonNameFr": "Piafabec",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "931ver",
+        "pokemonNameFr": "Tapatoès Vert",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "940",
+        "pokemonNameFr": "Zapétrel",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "333",
+        "pokemonNameFr": "Tylton",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "396",
+        "pokemonNameFr": "Étourmi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "629",
+        "pokemonNameFr": "Vostourno",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "628h",
+        "pokemonNameFr": "Gueriaigle d\u0027Hisui",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "822",
+        "pokemonNameFr": "Bleuseille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "962",
+        "pokemonNameFr": "Lestombaile",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "7eef5788-a041-45fd-accb-70ea03b070f5",
+    "name": "Journée de Super Méga Raids Airmure",
+    "startDate": "27/06/2026 14:00",
+    "endDate": "27/06/2026 17:00",
+    "pokemons": [
+      {
+        "pokemonId": "227",
+        "pokemonNameFr": "Airmure",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
         "oeuf": false
       }
     ]
