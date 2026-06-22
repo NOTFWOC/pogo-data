@@ -58,26 +58,8 @@
         "oeuf": false
       },
       {
-        "pokemonId": "931bla",
-        "pokemonNameFr": "Tapatoès Blanc",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
         "pokemonId": "21",
         "pokemonNameFr": "Piafabec",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "931ver",
-        "pokemonNameFr": "Tapatoès Vert",
         "sauvage": false,
         "etudeTerrain": true,
         "raid": false,
