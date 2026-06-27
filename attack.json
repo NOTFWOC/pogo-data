@@ -4121,5 +4121,22 @@
     "powerPVP": 90,
     "energyDeltaPVP": -40,
     "type": "DRAGON"
+  },
+  {
+    "buffData": {
+      "chance": 12,
+      "hm_effect": {
+        "Attaque attaquant": 2
+      }
+    },
+    "id": 592,
+    "nameEng": "SNIPE_SHOT",
+    "nameFr": "SNIPE_SHOT",
+    "nianticID": "SNIPE_SHOT",
+    "powerPVE": 100,
+    "energyDeltaPVE": -33,
+    "powerPVP": 65,
+    "energyDeltaPVP": -35,
+    "type": "EAU"
   }
 ]

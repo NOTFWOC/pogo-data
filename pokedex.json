@@ -14871,7 +14871,7 @@
         "nameFormEng": "Seel",
         "nameFormFr": "Otaria",
         "region": "KANTO",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "EAU",
         "typeB": "AAUCUN",
@@ -14977,15 +14977,19 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Lamantine",
         "heightM": 1.7,
         "nameFormEng": "Dewgong",
         "nameFormFr": "Lamantine",
         "region": "KANTO",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "EAU",
         "typeB": "GLACE",
@@ -26433,7 +26437,7 @@
         "baseAttack": 67,
         "baseDefense": 88,
         "baseStamina": 155,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -26448,7 +26452,7 @@
         "nameFormEng": "Hoothoot",
         "nameFormFr": "Hoothoot",
         "region": "JOHTO",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "NORMAL",
         "typeB": "VOL",
@@ -26549,7 +26553,7 @@
         "baseAttack": 145,
         "baseDefense": 156,
         "baseStamina": 225,
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -26564,7 +26568,7 @@
         "nameFormEng": "Noctowl",
         "nameFormFr": "Noarfang",
         "region": "JOHTO",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "NORMAL",
         "typeB": "VOL",
@@ -35894,8 +35898,8 @@
             "type": "ACIER"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 148,
         "baseDefense": 226,
         "baseStamina": 163,
@@ -80599,7 +80603,7 @@
         "nameFormEng": "Axew",
         "nameFormFr": "Coupenotte",
         "region": "UNYS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "DRAGON",
         "typeB": "AAUCUN",
@@ -80691,7 +80695,7 @@
         "nameFormEng": "Fraxure",
         "nameFormFr": "Incisache",
         "region": "UNYS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "DRAGON",
         "typeB": "AAUCUN",
@@ -80783,15 +80787,19 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Tranchodon",
         "heightM": 1.8,
         "nameFormEng": "Haxorus",
         "nameFormFr": "Tranchodon",
         "region": "UNYS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 3,
         "typeA": "DRAGON",
         "typeB": "AAUCUN",
@@ -83968,7 +83976,7 @@
         "nameFormEng": "Reshiram",
         "nameFormFr": "Reshiram",
         "region": "UNYS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "DRAGON",
         "typeB": "FEU",
@@ -98348,7 +98356,7 @@
         "nameFormEng": "Noibat",
         "nameFormFr": "Sonistrelle",
         "region": "KALOS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "VOL",
         "typeB": "DRAGON",
@@ -98470,7 +98478,7 @@
         "nameFormEng": "Noivern",
         "nameFormFr": "Bruyverne",
         "region": "KALOS",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "VOL",
         "typeB": "DRAGON",
@@ -108964,7 +108972,7 @@
         "nameFormEng": "Rookidee",
         "nameFormFr": "Minisange",
         "region": "GALAR",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 1,
         "typeA": "VOL",
         "typeB": "AAUCUN",
@@ -109056,7 +109064,7 @@
         "nameFormEng": "Corvisquire",
         "nameFormFr": "Bleuseille",
         "region": "GALAR",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 2,
         "typeA": "VOL",
         "typeB": "AAUCUN",
@@ -109160,7 +109168,7 @@
         "nameFormEng": "Corviknight",
         "nameFormFr": "Corvaillus",
         "region": "GALAR",
-        "shadow": false,
+        "shadow": true,
         "stadeEvo": 3,
         "typeA": "VOL",
         "typeB": "ACIER",
@@ -122599,6 +122607,12 @@
             "legacy": false,
             "name": "Vent Glace",
             "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "GLAIVE_RUSH",
+            "type": "DRAGON"
           }
         ],
         "avalaibleInPogo": true,
