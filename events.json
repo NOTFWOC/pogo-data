@@ -1,13 +1,31 @@
 [
   {
     "id": "1b8002df-e877-4fcc-8326-f0fa209b2eff",
-    "name": "Heure Legendaire Katagami",
-    "startDate": "24/06/2026 18:00",
-    "endDate": "24/06/2026 19:00",
+    "name": "Heure Legendaire Artikodin Electho et Sulfura",
+    "startDate": "01/07/2026 18:00",
+    "endDate": "01/07/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "798",
-        "pokemonNameFr": "Katagami",
+        "pokemonId": "144",
+        "pokemonNameFr": "Artikodin",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "145",
+        "pokemonNameFr": "Électhor",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "146",
+        "pokemonNameFr": "Sulfura",
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
@@ -18,13 +36,13 @@
   },
   {
     "id": "e3a9aec6-83d0-41d8-9079-17927462daae",
-    "name": "Heure Vedette Goélise",
-    "startDate": "25/06/2026 18:00",
-    "endDate": "25/06/2026 19:00",
+    "name": "Heure Vedette Roucool",
+    "startDate": "02/07/2026 18:00",
+    "endDate": "02/07/2026 19:00",
     "pokemons": [
       {
-        "pokemonId": "278",
-        "pokemonNameFr": "Goélise",
+        "pokemonId": "16",
+        "pokemonNameFr": "Roucool",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
@@ -34,106 +52,17 @@
     ]
   },
   {
-    "id": "a448a949-b34f-4a18-a11b-88d4a8bbfec4",
-    "name": "Taxi volant",
-    "startDate": "23/06/2026 10:00",
-    "endDate": "29/06/2026 20:00",
+    "id": "7c751965-13ed-4c8c-a6cc-39fb68b86cc0",
+    "name": "Journée de la Communauté Larméléon",
+    "startDate": "04/07/2026 14:00",
+    "endDate": "04/07/2026 17:00",
     "pokemons": [
       {
-        "pokemonId": "163",
-        "pokemonNameFr": "Hoothoot",
+        "pokemonId": "816",
+        "pokemonNameFr": "Larméléon",
         "sauvage": true,
         "etudeTerrain": true,
         "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "821",
-        "pokemonNameFr": "Minisange",
-        "sauvage": true,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "21",
-        "pokemonNameFr": "Piafabec",
-        "sauvage": false,
-        "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "333",
-        "pokemonNameFr": "Tylton",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "396",
-        "pokemonNameFr": "Étourmi",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "629",
-        "pokemonNameFr": "Vostourno",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "628h",
-        "pokemonNameFr": "Gueriaigle d\u0027Hisui",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "822",
-        "pokemonNameFr": "Bleuseille",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "962",
-        "pokemonNameFr": "Lestombaile",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
-        "encens": false,
-        "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "7eef5788-a041-45fd-accb-70ea03b070f5",
-    "name": "Journée de Super Méga Raids Airmure",
-    "startDate": "27/06/2026 14:00",
-    "endDate": "27/06/2026 17:00",
-    "pokemons": [
-      {
-        "pokemonId": "227",
-        "pokemonNameFr": "Airmure",
-        "sauvage": false,
-        "etudeTerrain": false,
-        "raid": true,
         "encens": false,
         "oeuf": false
       }
