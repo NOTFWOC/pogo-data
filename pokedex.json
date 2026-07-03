@@ -109569,7 +109569,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 132,
         "baseDefense": 79,
         "baseStamina": 137,
@@ -109656,7 +109656,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 186,
         "baseDefense": 113,
         "baseStamina": 163,
@@ -109749,7 +109749,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 262,
         "baseDefense": 142,
         "baseStamina": 172,
@@ -109757,8 +109757,12 @@
         "dynamax": true,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Lézargus",
         "heightM": 1.9,
@@ -123949,14 +123953,31 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "999mar"
+                "id": "999an1"
               }
             ],
             "costumeName": "Pièce du 9e anniversaire",
             "costumeShiny": true,
             "avalaibleInPogo": true,
-            "uniqueCode": "999mar",
+            "uniqueCode": "999an1",
             "firstAppearanceDate": "01/07/2025"
+          },
+          {
+            "costumeImages": {
+              "male": "pm999.fCOIN_A2_2026.icon.png",
+              "maleshiny": "pm999.fCOIN_A2_2026.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "999an2"
+              }
+            ],
+            "costumeName": "Pièce du 10eme anniversaire",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "999an2",
+            "firstAppearanceDate": "04/07/2026"
           }
         ],
         "familyMembers": [
