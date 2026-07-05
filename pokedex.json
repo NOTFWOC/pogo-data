@@ -5704,6 +5704,14 @@
           {
             "stadeEvo": 3,
             "id": "26"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megx"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megy"
           }
         ],
         "formImages": {
@@ -6210,6 +6218,14 @@
           {
             "stadeEvo": 3,
             "id": "26"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megx"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megy"
           }
         ],
         "formImages": {
@@ -6296,10 +6312,12 @@
         "tradable": true,
         "evolutionData": {
           "namesEng": [
-            ""
+            "Mega-Raichu X",
+            "Mega-Raichu Y"
           ],
           "namesFr": [
-            ""
+            "Méga-Raichu X",
+            "Méga-Raichu Y"
           ]
         },
         "genericName": "Raichu",
@@ -6410,6 +6428,250 @@
         "typeB": "PSY",
         "uniqueCode": "26a",
         "weightKg": 21.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "172"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "25"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megx"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megy"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm26.fMEGA_X.s.icon.png",
+          "male": "pm26.fMEGA_X.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Change Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étincelle",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Casse-Brique",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclair Fou",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coud’Krâne",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Désherbaffe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 193,
+        "baseDefense": 151,
+        "baseStamina": 155,
+        "descriptionDex": "Pour voler, il prend la forme de la lettre X et émet une décharge électrique de 50 millions de volts à partir de ses oreilles et de sa double queue.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Méga-Raichu X",
+        "heightM": 0.8,
+        "nameFormEng": "Mega-Raichu X",
+        "nameFormFr": "Méga-Raichu X",
+        "region": "KANTO",
+        "shadow": false,
+        "stadeEvo": 3,
+        "typeA": "ELECTRIK",
+        "typeB": "AAUCUN",
+        "uniqueCode": "26megx",
+        "weightKg": 30.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "172"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "25"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megx"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megy"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm26.fMEGA_Y.s.icon.png",
+          "male": "pm26.fMEGA_Y.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Change Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étincelle",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Casse-Brique",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclair Fou",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coud’Krâne",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Désherbaffe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 193,
+        "baseDefense": 151,
+        "baseStamina": 155,
+        "descriptionDex": "Il émet de l’électricité depuis les extrémités de sa queue et des poils en zigzag qui ont poussé sous ses tempes. Le courant forme un Y sur son corps.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Méga-Raichu Y",
+        "heightM": 0.8,
+        "nameFormEng": "Mega-Raichu Y",
+        "nameFormFr": "Méga-Raichu Y",
+        "region": "KANTO",
+        "shadow": false,
+        "stadeEvo": 3,
+        "typeA": "ELECTRIK",
+        "typeB": "AAUCUN",
+        "uniqueCode": "26megy",
+        "weightKg": 30.0
       }
     ],
     "candyToEvolve": 0,
@@ -27733,6 +27995,14 @@
           {
             "stadeEvo": 3,
             "id": "26"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megx"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "26megy"
           }
         ],
         "formImages": {
@@ -109746,6 +110016,18 @@
             "legacy": false,
             "name": "Ball’Ombre",
             "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "SNIPE_SHOT",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Hydroblast",
+            "type": "EAU"
           }
         ],
         "avalaibleInPogo": true,
@@ -109818,6 +110100,18 @@
             "legacy": false,
             "name": "Ball’Ombre",
             "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "SNIPE_SHOT",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Hydroblast",
+            "type": "EAU"
           }
         ],
         "avalaibleInPogo": true,
