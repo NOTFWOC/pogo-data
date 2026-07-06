@@ -1,10 +1,283 @@
 [
   {
-    "id": "1b8002df-e877-4fcc-8326-f0fa209b2eff",
-    "name": "Heure Legendaire Artikodin Electho et Sulfura",
-    "startDate": "01/07/2026 18:00",
-    "endDate": "01/07/2026 19:00",
+    "id": "d4f0c128-625d-4a7b-91c4-448bd7493c80",
+    "name": "Voie des légendes",
+    "startDate": "06/07/2026 00:01",
+    "endDate": "07/07/2026 23:59",
     "pokemons": [
+      {
+        "pokemonId": "13",
+        "pokemonNameFr": "Aspicot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "16",
+        "pokemonNameFr": "Roucool",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "63",
+        "pokemonNameFr": "Abra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "92",
+        "pokemonNameFr": "Fantominus",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "127",
+        "pokemonNameFr": "Scarabrute",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "142",
+        "pokemonNameFr": "Ptéra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "179",
+        "pokemonNameFr": "Wattouat",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "246",
+        "pokemonNameFr": "Embrylex",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "280",
+        "pokemonNameFr": "Tarsal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "371",
+        "pokemonNameFr": "Draby",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "443",
+        "pokemonNameFr": "Griknot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "447",
+        "pokemonNameFr": "Riolu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "531",
+        "pokemonNameFr": "Nanméouïe",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "636",
+        "pokemonNameFr": "Pyronille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "1gf",
+        "pokemonNameFr": "Bulbizarre",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "4gf",
+        "pokemonNameFr": "Salamèche",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "7gf",
+        "pokemonNameFr": "Carapuce",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "214",
+        "pokemonNameFr": "Scarhino",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "439",
+        "pokemonNameFr": "Mime Jr.",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "357",
+        "pokemonNameFr": "Tropius",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "610",
+        "pokemonNameFr": "Coupenotte",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "704",
+        "pokemonNameFr": "Mucuscule",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "782",
+        "pokemonNameFr": "Bébécaille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "848",
+        "pokemonNameFr": "Toxizap",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "996",
+        "pokemonNameFr": "Frigodo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
       {
         "pokemonId": "144",
         "pokemonNameFr": "Artikodin",
@@ -31,38 +304,1884 @@
         "raid": true,
         "encens": false,
         "oeuf": false
-      }
-    ]
-  },
-  {
-    "id": "e3a9aec6-83d0-41d8-9079-17927462daae",
-    "name": "Heure Vedette Roucool",
-    "startDate": "02/07/2026 18:00",
-    "endDate": "02/07/2026 19:00",
-    "pokemons": [
+      },
       {
-        "pokemonId": "16",
-        "pokemonNameFr": "Roucool",
-        "sauvage": true,
+        "pokemonId": "244",
+        "pokemonNameFr": "Entei",
+        "sauvage": false,
         "etudeTerrain": false,
-        "raid": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "245",
+        "pokemonNameFr": "Suicune",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "249",
+        "pokemonNameFr": "Lugia",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "250",
+        "pokemonNameFr": "Ho-Oh",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "377",
+        "pokemonNameFr": "Regirock",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "378",
+        "pokemonNameFr": "Regice",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "379",
+        "pokemonNameFr": "Registeel",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "380",
+        "pokemonNameFr": "Latias",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "381",
+        "pokemonNameFr": "Latios",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "382",
+        "pokemonNameFr": "Kyogre",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "383",
+        "pokemonNameFr": "Groudon",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "384",
+        "pokemonNameFr": "Rayquaza",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "386att",
+        "pokemonNameFr": "Deoxys Forme Attaque",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "386def",
+        "pokemonNameFr": "Deoxys Forme Défense",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "386nor",
+        "pokemonNameFr": "Deoxys Forme Normale",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "386vit",
+        "pokemonNameFr": "Deoxys Forme Vitesse",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "480",
+        "pokemonNameFr": "Créhelf",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "481",
+        "pokemonNameFr": "Créfollet",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "482",
+        "pokemonNameFr": "Créfadet",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "483",
+        "pokemonNameFr": "Dialga",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "483ori",
+        "pokemonNameFr": "Dialga Originel",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "484",
+        "pokemonNameFr": "Palkia",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "484ori",
+        "pokemonNameFr": "Palkia Originel",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "485",
+        "pokemonNameFr": "Heatran",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "486",
+        "pokemonNameFr": "Regigigas",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "487alt",
+        "pokemonNameFr": "Giratina Forme Alternative",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "487ori",
+        "pokemonNameFr": "Giratina Forme Originelle",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "488",
+        "pokemonNameFr": "Cresselia",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "491",
+        "pokemonNameFr": "Darkrai",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "638",
+        "pokemonNameFr": "Cobaltium",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "639",
+        "pokemonNameFr": "Terrakium",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "640",
+        "pokemonNameFr": "Viridium",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "641ava",
+        "pokemonNameFr": "Boréas Avatar",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "641tot",
+        "pokemonNameFr": "Boréas Totémique",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "642ava",
+        "pokemonNameFr": "Fulguris Avatar",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "642tot",
+        "pokemonNameFr": "Fulguris Totémique",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "643",
+        "pokemonNameFr": "Reshiram",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "644",
+        "pokemonNameFr": "Zekrom",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "645ava",
+        "pokemonNameFr": "Démétéros Avatar",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "645tot",
+        "pokemonNameFr": "Démétéros Totémique",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "646",
+        "pokemonNameFr": "Kyurem",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "649pyr",
+        "pokemonNameFr": "Genesect Module Pyro",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "649cry",
+        "pokemonNameFr": "Genesect Module Cryo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "649aqu",
+        "pokemonNameFr": "Genesect Module Aqua",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "649cho",
+        "pokemonNameFr": "Genesect Module Choc",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "716",
+        "pokemonNameFr": "Xerneas",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "717",
+        "pokemonNameFr": "Yveltal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "785",
+        "pokemonNameFr": "Tokorico",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "786",
+        "pokemonNameFr": "Tokopiyon",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "787",
+        "pokemonNameFr": "Tokotoro",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "788",
+        "pokemonNameFr": "Tokopisco",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "791",
+        "pokemonNameFr": "Solgaleo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "792",
+        "pokemonNameFr": "Lunala",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "793",
+        "pokemonNameFr": "Zéroïd",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "794",
+        "pokemonNameFr": "Mouscoto",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "795",
+        "pokemonNameFr": "Cancrelove",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "797",
+        "pokemonNameFr": "Bamboiselle",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "798",
+        "pokemonNameFr": "Katagami",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "799",
+        "pokemonNameFr": "Engloutyran",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "800",
+        "pokemonNameFr": "Necrozma",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "805",
+        "pokemonNameFr": "Ama-Ama",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "806",
+        "pokemonNameFr": "Pierroteknik",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "888her",
+        "pokemonNameFr": "Zacian Héros Aguerri",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "889bou",
+        "pokemonNameFr": "Zamazenta Bouclier Suprême",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "894",
+        "pokemonNameFr": "Regieleki",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "895",
+        "pokemonNameFr": "Regidrago",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "905ava",
+        "pokemonNameFr": "Amovénus Avatar",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "905tot",
+        "pokemonNameFr": "Amovénus Totémique",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "373",
+        "pokemonNameFr": "Drattak",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
         "encens": false,
         "oeuf": false
       }
     ]
   },
   {
-    "id": "7c751965-13ed-4c8c-a6cc-39fb68b86cc0",
-    "name": "Journée de la Communauté Larméléon",
-    "startDate": "04/07/2026 14:00",
-    "endDate": "04/07/2026 17:00",
+    "id": "6560ee15-0e38-4ac1-8894-a0b95590f852",
+    "name": "Voie des légendes",
+    "startDate": "07/07/2026 00:01",
+    "endDate": "07/07/2026 23:59",
     "pokemons": [
       {
-        "pokemonId": "816",
-        "pokemonNameFr": "Larméléon",
-        "sauvage": true,
-        "etudeTerrain": true,
+        "pokemonId": "13",
+        "pokemonNameFr": "Aspicot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "16",
+        "pokemonNameFr": "Roucool",
+        "sauvage": false,
+        "etudeTerrain": false,
         "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "63",
+        "pokemonNameFr": "Abra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "92",
+        "pokemonNameFr": "Fantominus",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "127",
+        "pokemonNameFr": "Scarabrute",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "142",
+        "pokemonNameFr": "Ptéra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "179",
+        "pokemonNameFr": "Wattouat",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "246",
+        "pokemonNameFr": "Embrylex",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "280",
+        "pokemonNameFr": "Tarsal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "371",
+        "pokemonNameFr": "Draby",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "443",
+        "pokemonNameFr": "Griknot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "447",
+        "pokemonNameFr": "Riolu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "531",
+        "pokemonNameFr": "Nanméouïe",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "636",
+        "pokemonNameFr": "Pyronille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "1gf",
+        "pokemonNameFr": "Bulbizarre",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "4gf",
+        "pokemonNameFr": "Salamèche",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "7gf",
+        "pokemonNameFr": "Carapuce",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "214",
+        "pokemonNameFr": "Scarhino",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "439",
+        "pokemonNameFr": "Mime Jr.",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "610",
+        "pokemonNameFr": "Coupenotte",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "704",
+        "pokemonNameFr": "Mucuscule",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "782",
+        "pokemonNameFr": "Bébécaille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "848",
+        "pokemonNameFr": "Toxizap",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "996",
+        "pokemonNameFr": "Frigodo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "357",
+        "pokemonNameFr": "Tropius",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "644",
+        "pokemonNameFr": "Zekrom",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "646bla",
+        "pokemonNameFr": "Kyurem Blanc",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "800ail",
+        "pokemonNameFr": "Necrozma Ailes de l\u0027Aurore",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "248",
+        "pokemonNameFr": "Tyranocif",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "e5dabe48-896e-4755-a057-8cc184f9e556",
+    "name": "Voie des légendes",
+    "startDate": "08/07/2026 00:01",
+    "endDate": "08/07/2026 23:59",
+    "pokemons": [
+      {
+        "pokemonId": "13",
+        "pokemonNameFr": "Aspicot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "16",
+        "pokemonNameFr": "Roucool",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "63",
+        "pokemonNameFr": "Abra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "92",
+        "pokemonNameFr": "Fantominus",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "127",
+        "pokemonNameFr": "Scarabrute",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "142",
+        "pokemonNameFr": "Ptéra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "179",
+        "pokemonNameFr": "Wattouat",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "246",
+        "pokemonNameFr": "Embrylex",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "280",
+        "pokemonNameFr": "Tarsal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "371",
+        "pokemonNameFr": "Draby",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "443",
+        "pokemonNameFr": "Griknot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "447",
+        "pokemonNameFr": "Riolu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "531",
+        "pokemonNameFr": "Nanméouïe",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "636",
+        "pokemonNameFr": "Pyronille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "1gf",
+        "pokemonNameFr": "Bulbizarre",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "4gf",
+        "pokemonNameFr": "Salamèche",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "7gf",
+        "pokemonNameFr": "Carapuce",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "214",
+        "pokemonNameFr": "Scarhino",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "439",
+        "pokemonNameFr": "Mime Jr.",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "610",
+        "pokemonNameFr": "Coupenotte",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "704",
+        "pokemonNameFr": "Mucuscule",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "782",
+        "pokemonNameFr": "Bébécaille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "848",
+        "pokemonNameFr": "Toxizap",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "996",
+        "pokemonNameFr": "Frigodo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "357",
+        "pokemonNameFr": "Tropius",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "643",
+        "pokemonNameFr": "Reshiram",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "646noi",
+        "pokemonNameFr": "Kyurem Noir",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "800cri",
+        "pokemonNameFr": "Necrozma Crinière du Couchant",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "282",
+        "pokemonNameFr": "Gardevoir",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "e67d5c59-bcb1-4c40-92b0-3a214e4320f3",
+    "name": "Voie des légendes",
+    "startDate": "09/07/2026 00:01",
+    "endDate": "09/07/2026 23:59",
+    "pokemons": [
+      {
+        "pokemonId": "13",
+        "pokemonNameFr": "Aspicot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "16",
+        "pokemonNameFr": "Roucool",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "63",
+        "pokemonNameFr": "Abra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "92",
+        "pokemonNameFr": "Fantominus",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "127",
+        "pokemonNameFr": "Scarabrute",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "142",
+        "pokemonNameFr": "Ptéra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "179",
+        "pokemonNameFr": "Wattouat",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "246",
+        "pokemonNameFr": "Embrylex",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "280",
+        "pokemonNameFr": "Tarsal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "371",
+        "pokemonNameFr": "Draby",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "443",
+        "pokemonNameFr": "Griknot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "447",
+        "pokemonNameFr": "Riolu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "531",
+        "pokemonNameFr": "Nanméouïe",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "636",
+        "pokemonNameFr": "Pyronille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "1gf",
+        "pokemonNameFr": "Bulbizarre",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "4gf",
+        "pokemonNameFr": "Salamèche",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "7gf",
+        "pokemonNameFr": "Carapuce",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "214",
+        "pokemonNameFr": "Scarhino",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "439",
+        "pokemonNameFr": "Mime Jr.",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "610",
+        "pokemonNameFr": "Coupenotte",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "704",
+        "pokemonNameFr": "Mucuscule",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "782",
+        "pokemonNameFr": "Bébécaille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "848",
+        "pokemonNameFr": "Toxizap",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "996",
+        "pokemonNameFr": "Frigodo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "357",
+        "pokemonNameFr": "Tropius",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "888her",
+        "pokemonNameFr": "Zacian Héros Aguerri",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "889bou",
+        "pokemonNameFr": "Zamazenta Bouclier Suprême",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "94",
+        "pokemonNameFr": "Ectoplasma",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
+  },
+  {
+    "id": "0ea773b2-c8f8-4d59-89a9-d4a0774fe597",
+    "name": "Voie des légendes",
+    "startDate": "10/07/2026 00:01",
+    "endDate": "10/07/2026 23:59",
+    "pokemons": [
+      {
+        "pokemonId": "13",
+        "pokemonNameFr": "Aspicot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "16",
+        "pokemonNameFr": "Roucool",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "63",
+        "pokemonNameFr": "Abra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "92",
+        "pokemonNameFr": "Fantominus",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "127",
+        "pokemonNameFr": "Scarabrute",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "142",
+        "pokemonNameFr": "Ptéra",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "179",
+        "pokemonNameFr": "Wattouat",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "246",
+        "pokemonNameFr": "Embrylex",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "280",
+        "pokemonNameFr": "Tarsal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "371",
+        "pokemonNameFr": "Draby",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "443",
+        "pokemonNameFr": "Griknot",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "447",
+        "pokemonNameFr": "Riolu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "531",
+        "pokemonNameFr": "Nanméouïe",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "636",
+        "pokemonNameFr": "Pyronille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "1gf",
+        "pokemonNameFr": "Bulbizarre",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "4gf",
+        "pokemonNameFr": "Salamèche",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "7gf",
+        "pokemonNameFr": "Carapuce",
+        "costumeName": "Masque Pikachu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "214",
+        "pokemonNameFr": "Scarhino",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "439",
+        "pokemonNameFr": "Mime Jr.",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "610",
+        "pokemonNameFr": "Coupenotte",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "704",
+        "pokemonNameFr": "Mucuscule",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "782",
+        "pokemonNameFr": "Bébécaille",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "848",
+        "pokemonNameFr": "Toxizap",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "996",
+        "pokemonNameFr": "Frigodo",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "357",
+        "pokemonNameFr": "Tropius",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": true
+      },
+      {
+        "pokemonId": "382pri",
+        "pokemonNameFr": "Primo Kyogre",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "383pri",
+        "pokemonNameFr": "Primo Groudon",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "483ori",
+        "pokemonNameFr": "Dialga Originel",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "484ori",
+        "pokemonNameFr": "Palkia Originel",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
         "encens": false,
         "oeuf": false
       }
