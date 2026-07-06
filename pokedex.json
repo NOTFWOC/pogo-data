@@ -5706,11 +5706,11 @@
             "id": "26"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megx"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megy"
           }
         ],
@@ -6220,11 +6220,11 @@
             "id": "26"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megx"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megy"
           }
         ],
@@ -6445,11 +6445,11 @@
             "id": "26"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megx"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megy"
           }
         ],
@@ -6547,7 +6547,7 @@
         "nameFormFr": "Méga-Raichu X",
         "region": "KANTO",
         "shadow": false,
-        "stadeEvo": 3,
+        "stadeEvo": 4,
         "typeA": "ELECTRIK",
         "typeB": "AAUCUN",
         "uniqueCode": "26megx",
@@ -6569,11 +6569,11 @@
             "id": "26"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megx"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megy"
           }
         ],
@@ -6658,8 +6658,12 @@
         "dynamax": false,
         "tradable": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Méga-Raichu Y",
         "heightM": 0.8,
@@ -6667,7 +6671,7 @@
         "nameFormFr": "Méga-Raichu Y",
         "region": "KANTO",
         "shadow": false,
-        "stadeEvo": 3,
+        "stadeEvo": 4,
         "typeA": "ELECTRIK",
         "typeB": "AAUCUN",
         "uniqueCode": "26megy",
@@ -21843,7 +21847,7 @@
           },
           {
             "costumeImages": {
-              "male": "pm133.cMAY_2023.icon.png",
+              "male": "pm133.cMay_2023.icon.png",
               "female": "pm133.cMAY_2023.g2.icon.png",
               "maleshiny": "pm133.cMAY_2023.s.icon.png",
               "femaleshiny": "pm133.cMAY_2023.g2.s.icon.png"
@@ -27997,11 +28001,11 @@
             "id": "26"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megx"
           },
           {
-            "stadeEvo": 3,
+            "stadeEvo": 4,
             "id": "26megy"
           }
         ],
