@@ -35968,7 +35968,7 @@
         "heightM": 0.61,
         "nameFormEng": "Galarian Corsola",
         "nameFormFr": "Corayon de Galar",
-        "region": "JOHTO",
+        "region": "GALAR",
         "shadow": false,
         "stadeEvo": 1,
         "typeA": "SPECTRE",
@@ -74945,7 +74945,7 @@
         "heightM": 1.2,
         "nameFormEng": "Hisuian Lilligant",
         "nameFormFr": "Fragilady de Hisui",
-        "region": "UNYS",
+        "region": "HISUI",
         "shadow": false,
         "stadeEvo": 2,
         "typeA": "PLANTE",
@@ -77551,8 +77551,12 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Zoroark",
         "heightM": 1.6,
@@ -98116,7 +98120,7 @@
         "heightM": 2.0,
         "nameFormEng": "Hisuian Goodra",
         "nameFormFr": "Muplodocus de Hisui",
-        "region": "KALOS",
+        "region": "HISUI",
         "shadow": false,
         "stadeEvo": 3,
         "typeA": "DRAGON",
@@ -99527,8 +99531,12 @@
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Séracrawl",
         "heightM": 1.4,
