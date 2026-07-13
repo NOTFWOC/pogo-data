@@ -6525,8 +6525,8 @@
             "type": "ELECTRIK"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 193,
         "baseDefense": 151,
         "baseStamina": 155,
@@ -6649,8 +6649,8 @@
             "type": "ELECTRIK"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 193,
         "baseDefense": 151,
         "baseStamina": 155,
