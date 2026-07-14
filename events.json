@@ -1,10 +1,30 @@
 [
   {
     "id": "07a34fbd-2f98-45c0-a2f9-2351f88e7729",
-    "name": "Célébration de Pikachu anniversaire spécial",
+    "name": "Célébration de Pikachu anniversaire célébration 1",
     "startDate": "13/07/2026 10:00",
-    "endDate": "20/07/2026 20:00",
+    "endDate": "15/07/2026 10:00",
     "pokemons": [
+      {
+        "pokemonId": "25ha",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Chapeau de sorcière",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25ha2",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Chenapan d’Halloween",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
       {
         "pokemonId": "25ha3",
         "pokemonNameFr": "Pikachu",
@@ -16,9 +36,19 @@
         "oeuf": false
       },
       {
-        "pokemonId": "25no3",
+        "pokemonId": "25ch3",
         "pokemonNameFr": "Pikachu",
-        "costumeName": "Carnaval d’hiver",
+        "costumeName": "Chapeau Nouvel An",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25ch",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Chapeau de fête violet",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
@@ -29,36 +59,6 @@
         "pokemonId": "25lu",
         "pokemonNameFr": "Pikachu",
         "costumeName": "Estival",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "25gflr",
-        "pokemonNameFr": "Pikachu",
-        "costumeName": "Accessoires Rouge",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "25gfgb",
-        "pokemonNameFr": "Pikachu",
-        "costumeName": "Accessoires Bleu",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false
-      },
-      {
-        "pokemonId": "25gflj",
-        "pokemonNameFr": "Pikachu",
-        "costumeName": "Accessoires Jaune",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
@@ -86,9 +86,9 @@
         "oeuf": false
       },
       {
-        "pokemonId": "25cro",
+        "pokemonId": "25gfgb",
         "pokemonNameFr": "Pikachu",
-        "costumeName": "Quartz",
+        "costumeName": "Accessoires Bleu",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
@@ -96,9 +96,19 @@
         "oeuf": false
       },
       {
-        "pokemonId": "25cja",
+        "pokemonId": "25gflr",
         "pokemonNameFr": "Pikachu",
-        "costumeName": "Pyrite",
+        "costumeName": "Accessoires Rouge",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gflj",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Accessoires Jaune",
         "sauvage": true,
         "etudeTerrain": false,
         "raid": false,
@@ -170,7 +180,7 @@
         "pokemonNameFr": "Pikachu",
         "costumeName": "Championnats du Monde 2022",
         "sauvage": false,
-        "etudeTerrain": false,
+        "etudeTerrain": true,
         "raid": true,
         "encens": false,
         "oeuf": false
@@ -196,9 +206,9 @@
         "oeuf": false
       },
       {
-        "pokemonId": "25ban",
+        "pokemonId": "25a2b",
         "pokemonNameFr": "Pikachu",
-        "costumeName": "Ruban de Flora",
+        "costumeName": "Casquette de Leaf",
         "sauvage": false,
         "etudeTerrain": true,
         "raid": false,
@@ -216,9 +226,9 @@
         "oeuf": false
       },
       {
-        "pokemonId": "25a2b",
+        "pokemonId": "25ban",
         "pokemonNameFr": "Pikachu",
-        "costumeName": "Casquette de Leaf",
+        "costumeName": "Ruban de Flora",
         "sauvage": false,
         "etudeTerrain": true,
         "raid": false,
