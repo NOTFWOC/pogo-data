@@ -4138,5 +4138,50 @@
     "powerPVP": 65,
     "energyDeltaPVP": -35,
     "type": "EAU"
+  },
+  {
+    "id": 593,
+    "nameEng": "DIVE",
+    "nameFr": "DIVE",
+    "nianticID": "DIVE",
+    "powerPVE": 70,
+    "energyDeltaPVE": -33,
+    "powerPVP": 50,
+    "energyDeltaPVP": -40,
+    "type": "EAU"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense cible": -1
+      }
+    },
+    "id": 594,
+    "nameEng": "GULP_MISSILE_GULPING",
+    "nameFr": "GULP_MISSILE_GULPING",
+    "nianticID": "GULP_MISSILE_GULPING",
+    "powerPVE": 0,
+    "energyDeltaPVE": 0,
+    "powerPVP": 1,
+    "energyDeltaPVP": -1,
+    "type": "NORMAL"
+  },
+  {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Attaque cible": -2
+      }
+    },
+    "id": 595,
+    "nameEng": "GULP_MISSILE_GORGING",
+    "nameFr": "GULP_MISSILE_GORGING",
+    "nianticID": "GULP_MISSILE_GORGING",
+    "powerPVE": 0,
+    "energyDeltaPVE": 0,
+    "powerPVP": 1,
+    "energyDeltaPVP": -2,
+    "type": "NORMAL"
   }
 ]

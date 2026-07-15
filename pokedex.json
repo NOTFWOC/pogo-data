@@ -6006,7 +6006,7 @@
         "baseAttack": 112,
         "baseDefense": 96,
         "baseStamina": 111,
-        "descriptionDex": "Chaque fois que Pikachu découvre quelque chose de nouveau, il envoie un arc électrique. Lorsqu’on tombe sur une Baie carbonisée, ça signifie sans doute qu’un de ces Pokémon a envoyé une charge trop forte.",
+        "descriptionDex": "L’énergie du phénomène Gigamax l’a tellement fait grossir que sa queue touche le ciel.",
         "dynamax": false,
         "tradable": true,
         "evolutionData": {
@@ -19941,6 +19941,10 @@
           {
             "stadeEvo": 2,
             "id": "121"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "121meg"
           }
         ],
         "formImages": {
@@ -20029,6 +20033,10 @@
           {
             "stadeEvo": 2,
             "id": "121"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "121meg"
           }
         ],
         "formImages": {
@@ -20119,10 +20127,10 @@
         "tradable": true,
         "evolutionData": {
           "namesEng": [
-            ""
+            "Mega-Starmie"
           ],
           "namesFr": [
-            ""
+            "Méga-Staross"
           ]
         },
         "genericName": "Staross",
@@ -20135,6 +20143,128 @@
         "typeA": "EAU",
         "typeB": "PSY",
         "uniqueCode": "121",
+        "weightKg": 80.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "120"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "121"
+          },
+          {
+            "stadeEvo": 3,
+            "id": "121meg"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm121.fMEGA.s.icon.png",
+          "male": "pm121.fMEGA.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Puissance Cachée",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vague Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Laser Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rafale Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": true,
+            "name": "Charge",
+            "type": "NORMAL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 210,
+        "baseDefense": 184,
+        "baseStamina": 155,
+        "descriptionDex": "Ses mouvements sont devenus plus humains. On ne sait pas s’il cherche à communiquer, ou s’il essaie de remplacer l’humanité.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Méga-Staross",
+        "heightM": 1.1,
+        "nameFormEng": "Mega-Starmie",
+        "nameFormFr": "Méga-Staross",
+        "region": "KANTO",
+        "shadow": false,
+        "stadeEvo": 3,
+        "typeA": "EAU",
+        "typeB": "PSY",
+        "uniqueCode": "121meg",
         "weightKg": 80.0
       }
     ],
@@ -84896,7 +85026,7 @@
         "baseDefense": 93,
         "baseStamina": 141,
         "descriptionDex": "Comme il ne voit rien, il perçoit son environnement en mordant et en fonçant à tout va.",
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -84989,7 +85119,7 @@
         "baseDefense": 135,
         "baseStamina": 176,
         "descriptionDex": "Quand il a mangé tout ce qui traînait sur son territoire, il migre vers d’autres horizons. Ses 2 têtes s’entendent mal.",
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -85094,7 +85224,7 @@
         "baseDefense": 188,
         "baseStamina": 211,
         "descriptionDex": "Un Pokémon effrayant. Ses trois têtes dévorent tout ce qui bouge jusqu’à satiété.",
-        "dynamax": false,
+        "dynamax": true,
         "tradable": true,
         "evolutionData": {
           "namesEng": [
@@ -113468,6 +113598,435 @@
     "mythic": false,
     "ultraBeast": false,
     "familyId": "FAMILY_SILICOBRA",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "845"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm845.s.icon.png",
+          "male": "pm845.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "DIVE",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 173,
+        "baseDefense": 163,
+        "baseStamina": 172,
+        "descriptionDex": "Il est assez puissant pour terrasser un ennemi d\u0027un seul coup, mais il est tellement nigaud qu\u0027il oublie contre qui il se bat.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Nigosier",
+        "heightM": 0.8,
+        "nameFormEng": "Cramorant",
+        "nameFormFr": "Nigosier",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "VOL",
+        "typeB": "EAU",
+        "uniqueCode": "845",
+        "weightKg": 18.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "845gtou"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm845.fGULPING.s.icon.png",
+          "male": "pm845.fGULPING.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "DIVE",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 173,
+        "baseDefense": 163,
+        "baseStamina": 172,
+        "descriptionDex": "Ce glouton a essayé d\u0027avaler tout rond un Embrochet bien gras, mais ce dernier est resté coincé dans sa gorge.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Nigosier",
+        "heightM": 0.8,
+        "nameFormEng": "Cramorant Gulping Form",
+        "nameFormFr": "Nigosier Gobe-Tout",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "VOL",
+        "typeB": "EAU",
+        "uniqueCode": "845gtou",
+        "weightKg": 18.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "845gchu"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm845.fGORGING.s.icon.png",
+          "male": "pm845.fGORGING.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "DIVE",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 173,
+        "baseDefense": 163,
+        "baseStamina": 172,
+        "descriptionDex": "Il s\u0027est coincé un Pikachu dans la gorge par erreur. Il a du mal à respirer, mais cela ne le dérange pas vraiment.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "genericName": "Nigosier",
+        "heightM": 0.8,
+        "nameFormEng": "Cramorant Gorging Form",
+        "nameFormFr": "Nigosier Gobe-Chu",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "VOL",
+        "typeB": "EAU",
+        "uniqueCode": "845gchu",
+        "weightKg": 18.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "845",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false,
+    "familyId": "FAMILY_CRAMORANT",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "846"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "847"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm846.s.icon.png",
+          "male": "pm846.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cascade",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mâchouille",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 118,
+        "baseDefense": 72,
+        "baseStamina": 121,
+        "descriptionDex": "Sa mâchoire fine et aiguisée fait sa fierté. À peine voit-il le moindre mouvement qu\u0027il fonce dans sa direction.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [
+            "Barraskewda"
+          ],
+          "namesFr": [
+            "Hastacuda"
+          ]
+        },
+        "genericName": "Embrochet",
+        "heightM": 0.5,
+        "nameFormEng": "Arrokuda",
+        "nameFormFr": "Embrochet",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 1,
+        "typeA": "EAU",
+        "typeB": "AAUCUN",
+        "uniqueCode": "846",
+        "weightKg": 1.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "846",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false,
+    "familyId": "FAMILY_ARROKUDA",
+    "malePercent": 0.5,
+    "femalePercent": 0.5
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "846"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "847"
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm847.s.icon.png",
+          "male": "pm847.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cascade",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mâchouille",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 258,
+        "baseDefense": 127,
+        "baseStamina": 156,
+        "descriptionDex": "Sa mâchoire pointue comme une lance est aussi dure que l\u0027acier, et sa chair serait, contre toute attente, succulente.",
+        "dynamax": false,
+        "tradable": false,
+        "evolutionData": {
+          "namesEng": [],
+          "namesFr": []
+        },
+        "genericName": "Hastacuda",
+        "heightM": 1.3,
+        "nameFormEng": "Barraskewda",
+        "nameFormFr": "Hastacuda",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 2,
+        "typeA": "EAU",
+        "typeB": "AAUCUN",
+        "uniqueCode": "847",
+        "weightKg": 30.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "id": "847",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false,
+    "familyId": "FAMILY_ARROKUDA",
     "malePercent": 0.5,
     "femalePercent": 0.5
   },
