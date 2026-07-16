@@ -44282,6 +44282,10 @@
           {
             "stadeEvo": 2,
             "id": "291"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "292"
           }
         ],
         "formImages": {
@@ -44330,10 +44334,12 @@
         "tradable": true,
         "evolutionData": {
           "namesEng": [
-            "Ninjask"
+            "Ninjask",
+            "Shedinja"
           ],
           "namesFr": [
-            "Ninjask"
+            "Ninjask",
+            "Munja"
           ]
         },
         "genericName": "Ningale",
@@ -44371,6 +44377,10 @@
           {
             "stadeEvo": 2,
             "id": "291"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "292"
           }
         ],
         "formImages": {
@@ -44440,7 +44450,20 @@
     "a_formDatas": [
       {
         "a_costumeData": [],
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "stadeEvo": 1,
+            "id": "290"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "291"
+          },
+          {
+            "stadeEvo": 2,
+            "id": "292"
+          }
+        ],
         "formImages": {
           "male": "pm292.icon.png",
           "maleshiny": "pm292.s.icon.png"
