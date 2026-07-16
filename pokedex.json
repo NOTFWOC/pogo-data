@@ -6407,93 +6407,6 @@
           {
             "charged": false,
             "legacy": false,
-            "name": "Éclair",
-            "type": "ELECTRIK"
-          },
-          {
-            "charged": false,
-            "legacy": false,
-            "name": "Vive-Attaque",
-            "type": "NORMAL"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Coup d’Jus",
-            "type": "ELECTRIK"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Tonnerre",
-            "type": "ELECTRIK"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Éclair Fou",
-            "type": "ELECTRIK"
-          },
-          {
-            "charged": false,
-            "legacy": true,
-            "name": "Cadeau",
-            "type": "NORMAL"
-          },
-          {
-            "charged": true,
-            "legacy": true,
-            "name": "Surf",
-            "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": true,
-            "name": "Fatal-Foudre",
-            "type": "ELECTRIK"
-          }
-        ],
-        "avalaibleInPogo": true,
-        "avalaibleShiny": true,
-        "baseAttack": 112,
-        "baseDefense": 96,
-        "baseStamina": 111,
-        "descriptionDex": "Chaque fois que Pikachu découvre quelque chose de nouveau, il envoie un arc électrique. Lorsqu’on tombe sur une Baie carbonisée, ça signifie sans doute qu’un de ces Pokémon a envoyé une charge trop forte.",
-        "dynamax": true,
-        "tradable": true,
-        "evolutionData": {
-          "namesEng": [
-            "Mega-Raichu X",
-            "Mega-Raichu Y"
-          ],
-          "namesFr": [
-            "Méga-Raichu X",
-            "Méga-Raichu Y"
-          ]
-        },
-        "genericName": "Raichu",
-        "heightM": 0.4,
-        "nameFormEng": "Raichu",
-        "nameFormFr": "Raichu",
-        "region": "KANTO",
-        "shadow": false,
-        "stadeEvo": 3,
-        "typeA": "ELECTRIK",
-        "typeB": "AAUCUN",
-        "uniqueCode": "26",
-        "weightKg": 6.0
-      },
-      {
-        "a_costumeData": [],
-        "familyMembers": [],
-        "formImages": {
-          "male": "pm26.fALOLA.icon.png",
-          "maleshiny": "pm26.fALOLA.s.icon.png"
-        },
-        "a_pokeAttackDatas": [
-          {
-            "charged": false,
-            "legacy": false,
             "name": "Change Éclair",
             "type": "ELECTRIK"
           },
@@ -6563,6 +6476,105 @@
         "baseAttack": 193,
         "baseDefense": 151,
         "baseStamina": 155,
+        "descriptionDex": "Chaque fois que Pikachu découvre quelque chose de nouveau, il envoie un arc électrique. Lorsqu’on tombe sur une Baie carbonisée, ça signifie sans doute qu’un de ces Pokémon a envoyé une charge trop forte.",
+        "dynamax": true,
+        "tradable": true,
+        "evolutionData": {
+          "namesEng": [
+            "Mega-Raichu X",
+            "Mega-Raichu Y"
+          ],
+          "namesFr": [
+            "Méga-Raichu X",
+            "Méga-Raichu Y"
+          ]
+        },
+        "genericName": "Raichu",
+        "heightM": 0.8,
+        "nameFormEng": "Raichu",
+        "nameFormFr": "Raichu",
+        "region": "KANTO",
+        "shadow": false,
+        "stadeEvo": 3,
+        "typeA": "ELECTRIK",
+        "typeB": "AAUCUN",
+        "uniqueCode": "26",
+        "weightKg": 30.0
+      },
+      {
+        "a_costumeData": [],
+        "familyMembers": [],
+        "formImages": {
+          "male": "pm26.fALOLA.icon.png",
+          "maleshiny": "pm26.fALOLA.s.icon.png"
+        },
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Change Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étincelle",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclair Fou",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nœud Herbe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Désherbaffe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Choc Psy",
+            "type": "PSY"
+          }
+        ],
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
+        "baseAttack": 201,
+        "baseDefense": 154,
+        "baseStamina": 155,
         "descriptionDex": "Si ses joues contiennent trop d’électricité, Raichu plante sa queue dans le sol pour se décharger. On trouve des parcelles de terre brûlée à proximité du nid de ce Pokémon.",
         "dynamax": false,
         "tradable": true,
@@ -6575,16 +6587,16 @@
           ]
         },
         "genericName": "Raichu",
-        "heightM": 0.8,
+        "heightM": 0.7,
         "nameFormEng": "Alolan Raichu",
         "nameFormFr": "Raichu d\u0027Alola",
         "region": "ALOLA",
         "shadow": false,
         "stadeEvo": 3,
         "typeA": "ELECTRIK",
-        "typeB": "AAUCUN",
+        "typeB": "PSY",
         "uniqueCode": "26a",
-        "weightKg": 30.0
+        "weightKg": 21.0
       },
       {
         "a_costumeData": [],
@@ -6835,7 +6847,7 @@
         "weightKg": 30.0
       }
     ],
-    "candyToEvolve": 50,
+    "candyToEvolve": 0,
     "id": "26",
     "kmBuddyDistance": 1,
     "legendary": false,
@@ -99731,9 +99743,9 @@
         ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
-        "baseAttack": 122,
-        "baseDefense": 124,
-        "baseStamina": 127,
+        "baseAttack": 121,
+        "baseDefense": 123,
+        "baseStamina": 135,
         "descriptionDex": "Ce Pokémon est né du mariage d\u0027un esprit piégé dans le monde des vivants et d\u0027une citrouille. Il commence à s\u0027animer au coucher du soleil.",
         "dynamax": false,
         "tradable": true,
@@ -99746,7 +99758,7 @@
           ]
         },
         "genericName": "Pitrouille",
-        "heightM": 0.3,
+        "heightM": 0.4,
         "nameFormEng": "Average Pumpkaboo",
         "nameFormFr": "Pitrouille Normale",
         "region": "KALOS",
@@ -99755,7 +99767,7 @@
         "typeA": "SPECTRE",
         "typeB": "PLANTE",
         "uniqueCode": "710nor",
-        "weightKg": 3.5
+        "weightKg": 5.0
       },
       {
         "a_costumeData": [
@@ -99830,9 +99842,9 @@
         ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
-        "baseAttack": 122,
-        "baseDefense": 124,
-        "baseStamina": 127,
+        "baseAttack": 120,
+        "baseDefense": 122,
+        "baseStamina": 144,
         "descriptionDex": "Ce Pokémon est né du mariage d\u0027un esprit piégé dans le monde des vivants et d\u0027une citrouille. Il commence à s\u0027animer au coucher du soleil.",
         "dynamax": false,
         "tradable": true,
@@ -99845,7 +99857,7 @@
           ]
         },
         "genericName": "Pitrouille",
-        "heightM": 0.3,
+        "heightM": 0.5,
         "nameFormEng": "Large Pumpkaboo",
         "nameFormFr": "Pitrouille Maxi",
         "region": "KALOS",
@@ -99854,7 +99866,7 @@
         "typeA": "SPECTRE",
         "typeB": "PLANTE",
         "uniqueCode": "710max",
-        "weightKg": 3.5
+        "weightKg": 7.5
       },
       {
         "a_costumeData": [
@@ -99929,9 +99941,9 @@
         ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
-        "baseAttack": 122,
-        "baseDefense": 124,
-        "baseStamina": 127,
+        "baseAttack": 118,
+        "baseDefense": 120,
+        "baseStamina": 153,
         "descriptionDex": "Ce Pokémon est né du mariage d\u0027un esprit piégé dans le monde des vivants et d\u0027une citrouille. Il commence à s\u0027animer au coucher du soleil.",
         "dynamax": false,
         "tradable": true,
@@ -99944,7 +99956,7 @@
           ]
         },
         "genericName": "Pitrouille",
-        "heightM": 0.3,
+        "heightM": 0.8,
         "nameFormEng": "Super Pumpkaboo",
         "nameFormFr": "Pitrouille Ultra",
         "region": "KALOS",
@@ -99953,7 +99965,7 @@
         "typeA": "SPECTRE",
         "typeB": "PLANTE",
         "uniqueCode": "710ult",
-        "weightKg": 3.5
+        "weightKg": 15.0
       }
     ],
     "candyToEvolve": 0,
@@ -100176,9 +100188,9 @@
         ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
-        "baseAttack": 171,
-        "baseDefense": 219,
-        "baseStamina": 146,
+        "baseAttack": 175,
+        "baseDefense": 213,
+        "baseStamina": 163,
         "descriptionDex": "Les nuits de nouvelle lune, ce Pokémon erre dans les rues en chantant d\u0027une voix lugubre. Ceux qui l\u0027entendent sont maudits.",
         "dynamax": false,
         "tradable": true,
@@ -100191,7 +100203,7 @@
           ]
         },
         "genericName": "Banshitrouye",
-        "heightM": 0.7,
+        "heightM": 0.9,
         "nameFormEng": "Average Gourgeist",
         "nameFormFr": "Banshitrouye Normale",
         "region": "KALOS",
@@ -100200,7 +100212,7 @@
         "typeA": "SPECTRE",
         "typeB": "PLANTE",
         "uniqueCode": "711nor",
-        "weightKg": 9.5
+        "weightKg": 12.5
       },
       {
         "a_costumeData": [
@@ -100293,9 +100305,9 @@
         ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
-        "baseAttack": 171,
-        "baseDefense": 219,
-        "baseStamina": 146,
+        "baseAttack": 179,
+        "baseDefense": 206,
+        "baseStamina": 181,
         "descriptionDex": "Les nuits de nouvelle lune, ce Pokémon erre dans les rues en chantant d\u0027une voix lugubre. Ceux qui l\u0027entendent sont maudits.",
         "dynamax": false,
         "tradable": true,
@@ -100308,7 +100320,7 @@
           ]
         },
         "genericName": "Banshitrouye",
-        "heightM": 0.7,
+        "heightM": 1.1,
         "nameFormEng": "Large Gourgeist",
         "nameFormFr": "Banshitrouye Maxi",
         "region": "KALOS",
@@ -100317,7 +100329,7 @@
         "typeA": "SPECTRE",
         "typeB": "PLANTE",
         "uniqueCode": "711max",
-        "weightKg": 9.5
+        "weightKg": 14.0
       },
       {
         "a_costumeData": [
@@ -100410,9 +100422,9 @@
         ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
-        "baseAttack": 171,
-        "baseDefense": 219,
-        "baseStamina": 146,
+        "baseAttack": 182,
+        "baseDefense": 200,
+        "baseStamina": 198,
         "descriptionDex": "Les nuits de nouvelle lune, ce Pokémon erre dans les rues en chantant d\u0027une voix lugubre. Ceux qui l\u0027entendent sont maudits.",
         "dynamax": false,
         "tradable": true,
@@ -100425,7 +100437,7 @@
           ]
         },
         "genericName": "Banshitrouye",
-        "heightM": 0.7,
+        "heightM": 1.7,
         "nameFormEng": "Super Gourgeist",
         "nameFormFr": "Banshitrouye Ultra",
         "region": "KALOS",
@@ -100434,7 +100446,7 @@
         "typeA": "SPECTRE",
         "typeB": "PLANTE",
         "uniqueCode": "711ult",
-        "weightKg": 9.5
+        "weightKg": 39.0
       }
     ],
     "candyToEvolve": 0,
@@ -113685,8 +113697,12 @@
         "dynamax": false,
         "tradable": false,
         "evolutionData": {
-          "namesEng": [],
-          "namesFr": []
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
         },
         "genericName": "Nigosier",
         "heightM": 0.8,
