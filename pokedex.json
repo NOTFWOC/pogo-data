@@ -5,24 +5,6 @@
         "a_costumeData": [
           {
             "costumeImages": {
-              "male": "pm1.fFALL_2019.icon.png",
-              "maleshiny": "pm1.fFALL_2019.s.icon.png"
-            },
-            "familyMembers": [
-              {
-                "stadeEvo": 1,
-                "id": "1ha"
-              }
-            ],
-            "costumeName": "Munja",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "1ha",
-            "firstAppearanceDate": "17/10/2019",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm1.cJAN_2020_NOEVOLVE.icon.png",
               "maleshiny": "pm1.cJAN_2020_NOEVOLVE.s.icon.png"
             },
@@ -71,6 +53,24 @@
             "avalaibleInPogo": true,
             "uniqueCode": "1gf",
             "firstAppearanceDate": "25/07/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm1.fFALL_2019.icon.png",
+              "maleshiny": "pm1.fFALL_2019.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "1ha"
+              }
+            ],
+            "costumeName": "Munja",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "1ha",
+            "firstAppearanceDate": "17/10/2019",
             "pokedexOrder": 0
           }
         ],
@@ -351,19 +351,6 @@
           },
           {
             "costumeImages": {
-              "male": "pm3.fCOPY_2019.icon.png",
-              "female": "pm3.fCOPY_2019.g2.icon.png"
-            },
-            "familyMembers": [],
-            "costumeName": "Clône",
-            "costumeShiny": false,
-            "avalaibleInPogo": true,
-            "uniqueCode": "3cl",
-            "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm3.cSPRING_2020_NOEVOLVE.icon.png",
               "female": "pm3.cSPRING_2020_NOEVOLVE.g2.icon.png",
               "maleshiny": "pm3.cSPRING_2020_NOEVOLVE.s.icon.png",
@@ -388,6 +375,19 @@
             "avalaibleInPogo": true,
             "uniqueCode": "3gf",
             "firstAppearanceDate": "25/07/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm3.fCOPY_2019.icon.png",
+              "female": "pm3.fCOPY_2019.g2.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Clône",
+            "costumeShiny": false,
+            "avalaibleInPogo": true,
+            "uniqueCode": "3cl",
+            "firstAppearanceDate": "25/03/2020",
             "pokedexOrder": 0
           }
         ],
@@ -687,24 +687,6 @@
         "a_costumeData": [
           {
             "costumeImages": {
-              "male": "pm4.fFALL_2019.icon.png",
-              "maleshiny": "pm4.fFALL_2019.s.icon.png"
-            },
-            "familyMembers": [
-              {
-                "stadeEvo": 1,
-                "id": "4ha"
-              }
-            ],
-            "costumeName": "Osselait",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "4ha",
-            "firstAppearanceDate": "17/10/2019",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm4.cJAN_2020_NOEVOLVE.icon.png",
               "maleshiny": "pm4.cJAN_2020_NOEVOLVE.s.icon.png"
             },
@@ -753,6 +735,24 @@
             "avalaibleInPogo": true,
             "uniqueCode": "4gf",
             "firstAppearanceDate": "25/07/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm4.fFALL_2019.icon.png",
+              "maleshiny": "pm4.fFALL_2019.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "4ha"
+              }
+            ],
+            "costumeName": "Osselait",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "4ha",
+            "firstAppearanceDate": "17/10/2019",
             "pokedexOrder": 0
           }
         ],
@@ -1045,18 +1045,6 @@
           },
           {
             "costumeImages": {
-              "male": "pm6.fCOPY_2019.icon.png"
-            },
-            "familyMembers": [],
-            "costumeName": "Clône",
-            "costumeShiny": false,
-            "avalaibleInPogo": true,
-            "uniqueCode": "6cl",
-            "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm6.cSPRING_2020_NOEVOLVE.icon.png",
               "maleshiny": "pm6.cSPRING_2020_NOEVOLVE.s.icon.png"
             },
@@ -1079,6 +1067,18 @@
             "avalaibleInPogo": true,
             "uniqueCode": "6gf",
             "firstAppearanceDate": "25/07/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm6.fCOPY_2019.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Clône",
+            "costumeShiny": false,
+            "avalaibleInPogo": true,
+            "uniqueCode": "6cl",
+            "firstAppearanceDate": "25/03/2020",
             "pokedexOrder": 0
           }
         ],
@@ -1584,20 +1584,28 @@
         "a_costumeData": [
           {
             "costumeImages": {
-              "male": "pm7.fFALL_2019.icon.png",
-              "maleshiny": "pm7.fFALL_2019.s.icon.png"
+              "male": "pm7.cSUMMER_2018.icon.png",
+              "maleshiny": "pm7.cSUMMER_2018.s.icon.png"
             },
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "7ha"
+                "id": "7lu"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "8lu"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "9lu"
               }
             ],
-            "costumeName": "Tutafeh",
+            "costumeName": "Lunettes de soleil",
             "costumeShiny": true,
             "avalaibleInPogo": true,
-            "uniqueCode": "7ha",
-            "firstAppearanceDate": "17/10/2019",
+            "uniqueCode": "7lu",
+            "firstAppearanceDate": "08/07/2028",
             "pokedexOrder": 0
           },
           {
@@ -1654,28 +1662,20 @@
           },
           {
             "costumeImages": {
-              "male": "pm7.cSUMMER_2018.icon.png",
-              "maleshiny": "pm7.cSUMMER_2018.s.icon.png"
+              "male": "pm7.fFALL_2019.icon.png",
+              "maleshiny": "pm7.fFALL_2019.s.icon.png"
             },
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "7lu"
-              },
-              {
-                "stadeEvo": 2,
-                "id": "8lu"
-              },
-              {
-                "stadeEvo": 3,
-                "id": "9lu"
+                "id": "7ha"
               }
             ],
-            "costumeName": "Lunettes de soleil",
+            "costumeName": "Tutafeh",
             "costumeShiny": true,
             "avalaibleInPogo": true,
-            "uniqueCode": "7lu",
-            "firstAppearanceDate": "08/07/2028",
+            "uniqueCode": "7ha",
+            "firstAppearanceDate": "17/10/2019",
             "pokedexOrder": 0
           }
         ],
@@ -1778,32 +1778,6 @@
         "a_costumeData": [
           {
             "costumeImages": {
-              "male": "pm8.cJAN_2020_NOEVOLVE.icon.png",
-              "maleshiny": "pm8.cJAN_2020_NOEVOLVE.s.icon.png"
-            },
-            "familyMembers": [
-              {
-                "stadeEvo": 1,
-                "id": "7ch"
-              },
-              {
-                "stadeEvo": 2,
-                "id": "8cha"
-              },
-              {
-                "stadeEvo": 3,
-                "id": "9cha"
-              }
-            ],
-            "costumeName": "Chapeau de fête",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "8cha",
-            "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm8.cSUMMER_2018.icon.png",
               "maleshiny": "pm8.cSUMMER_2018.s.icon.png"
             },
@@ -1826,6 +1800,32 @@
             "avalaibleInPogo": true,
             "uniqueCode": "8lu",
             "firstAppearanceDate": "08/07/2028",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm8.cJAN_2020_NOEVOLVE.icon.png",
+              "maleshiny": "pm8.cJAN_2020_NOEVOLVE.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "7ch"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "8cha"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "9cha"
+              }
+            ],
+            "costumeName": "Chapeau de fête",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "8cha",
+            "firstAppearanceDate": "25/02/2020",
             "pokedexOrder": 0
           },
           {
@@ -1954,44 +1954,6 @@
         "a_costumeData": [
           {
             "costumeImages": {
-              "male": "pm9.cJAN_2020_NOEVOLVE.icon.png",
-              "maleshiny": "pm9.cJAN_2020_NOEVOLVE.s.icon.png"
-            },
-            "familyMembers": [
-              {
-                "stadeEvo": 1,
-                "id": "7ch"
-              },
-              {
-                "stadeEvo": 2,
-                "id": "8cha"
-              },
-              {
-                "stadeEvo": 3,
-                "id": "9cha"
-              }
-            ],
-            "costumeName": "Chapeau de fête",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "9cha",
-            "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
-              "male": "pm9.fCOPY_2019.icon.png"
-            },
-            "familyMembers": [],
-            "costumeName": "Clône",
-            "costumeShiny": false,
-            "avalaibleInPogo": true,
-            "uniqueCode": "9cl",
-            "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm9.cSUMMER_2018.icon.png",
               "maleshiny": "pm9.cSUMMER_2018.s.icon.png"
             },
@@ -2018,6 +1980,32 @@
           },
           {
             "costumeImages": {
+              "male": "pm9.cJAN_2020_NOEVOLVE.icon.png",
+              "maleshiny": "pm9.cJAN_2020_NOEVOLVE.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "7ch"
+              },
+              {
+                "stadeEvo": 2,
+                "id": "8cha"
+              },
+              {
+                "stadeEvo": 3,
+                "id": "9cha"
+              }
+            ],
+            "costumeName": "Chapeau de fête",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "9cha",
+            "firstAppearanceDate": "25/02/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
               "male": "pm9.cSPRING_2020_NOEVOLVE.icon.png",
               "maleshiny": "pm9.cSPRING_2020_NOEVOLVE.s.icon.png"
             },
@@ -2040,6 +2028,18 @@
             "avalaibleInPogo": true,
             "uniqueCode": "9gf",
             "firstAppearanceDate": "25/07/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm9.fCOPY_2019.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Clône",
+            "costumeShiny": false,
+            "avalaibleInPogo": true,
+            "uniqueCode": "9cl",
+            "firstAppearanceDate": "25/03/2020",
             "pokedexOrder": 0
           }
         ],
@@ -16418,19 +16418,6 @@
           },
           {
             "costumeImages": {
-              "male": "pm94.fCOSTUME_2020.icon.png",
-              "maleshiny": "pm94.fCOSTUME_2020.s.icon.png"
-            },
-            "familyMembers": [],
-            "costumeName": "Frankenstein",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "94br",
-            "firstAppearanceDate": "24/10/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm94.cFALL_2022_NOEVOLVE.icon.png",
               "maleshiny": "pm94.cFALL_2022_NOEVOLVE.s.icon.png"
             },
@@ -16453,6 +16440,19 @@
             "avalaibleInPogo": true,
             "uniqueCode": "94ha2",
             "firstAppearanceDate": "26/10/2023",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm94.fCOSTUME_2020.icon.png",
+              "maleshiny": "pm94.fCOSTUME_2020.s.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "Frankenstein",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "94br",
+            "firstAppearanceDate": "24/10/2020",
             "pokedexOrder": 0
           }
         ],
@@ -22290,26 +22290,6 @@
           },
           {
             "costumeImages": {
-              "male": "pm133.fGOFEST_2024_MTIARA.icon.png",
-              "female": "pm133.fGOFEST_2024_MTIARA.g2.icon.png",
-              "maleshiny": "pm133.fGOFEST_2024_MTIARA.s.icon.png",
-              "femaleshiny": "pm133.fGOFEST_2024_MTIARA.g2.s.icon.png"
-            },
-            "familyMembers": [
-              {
-                "stadeEvo": 1,
-                "id": "133lun"
-              }
-            ],
-            "costumeName": "Couronne Lune",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "133lun",
-            "firstAppearanceDate": "30/05/2024",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
               "male": "pm133.fGOFEST_2024_STIARA.icon.png",
               "female": "pm133.fGOFEST_2024_STIARA.g2.icon.png",
               "maleshiny": "pm133.fGOFEST_2024_STIARA.s.icon.png",
@@ -22325,6 +22305,26 @@
             "costumeShiny": true,
             "avalaibleInPogo": true,
             "uniqueCode": "133sol",
+            "firstAppearanceDate": "30/05/2024",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm133.fGOFEST_2024_MTIARA.icon.png",
+              "female": "pm133.fGOFEST_2024_MTIARA.g2.icon.png",
+              "maleshiny": "pm133.fGOFEST_2024_MTIARA.s.icon.png",
+              "femaleshiny": "pm133.fGOFEST_2024_MTIARA.g2.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "133lun"
+              }
+            ],
+            "costumeName": "Couronne Lune",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "133lun",
             "firstAppearanceDate": "30/05/2024",
             "pokedexOrder": 0
           }
