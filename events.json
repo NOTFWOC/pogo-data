@@ -604,5 +604,283 @@
         "oeuf": false
       }
     ]
+  },
+  {
+    "id": "c8889884-425d-45e6-bfdb-47162eb3bb4d",
+    "name": "Célébration de Pikachu anniversaire célébration 3",
+    "startDate": "18/07/2026 10:00",
+    "endDate": "20/07/2026 10:00",
+    "pokemons": [
+      {
+        "pokemonId": "25fl",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Couronne de fleurs",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25cf",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Coiffe de fleurs",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25ga",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Gâteau",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25na",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Haut-de-forme de fête",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25fl2",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Fleurs de cerisier",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25ba5",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Ballons 5ème Anniversaire",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25sol",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Couronne Soleil",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25lun",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Couronne Lune",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gflr",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Accessoires Rouge",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gfgb",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Accessoires Bleu",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gflj",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Accessoires Jaune",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25sa2",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Safari",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25wc",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Championnats du Monde 2022",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gfmr",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Monocle Rouge",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gfmb",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Monocle Bleu",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gfmj",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Monocle Jaune",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25cvi",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Améthyste",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25wc2",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Championnats du Monde 2023",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25wc3",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Championnats du Monde 2024",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25wc4",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Blouson d’université",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": true,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25ech",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Écharpe Shaymin",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gtcr",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Casquette de Ludwig",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gtvr",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Visière de Mélis",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gtcb",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Casquette de Ludvina",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25gtvb",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Visière d’Écho",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25cr",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Casquette de Kalem",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      },
+      {
+        "pokemonId": "25c2r",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Casquette de Serena",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false
+      }
+    ]
   }
 ]
