@@ -22135,6 +22135,26 @@
               {
                 "stadeEvo": 1,
                 "id": "133ch"
+              }
+            ],
+            "costumeName": "Chapeau de fête rouge",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "133ch",
+            "firstAppearanceDate": "25/02/2020",
+            "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "male": "pm133.cHOLIDAY_2022.icon.png",
+              "female": "pm133.cHOLIDAY_2022.g2.icon.png",
+              "maleshiny": "pm133.cHOLIDAY_2022.s.icon.png",
+              "femaleshiny": "pm133.cHOLIDAY_2022.g2.s.icon.png"
+            },
+            "familyMembers": [
+              {
+                "stadeEvo": 1,
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -22170,26 +22190,6 @@
               }
             ],
             "costumeName": "Chapeau de fête",
-            "costumeShiny": true,
-            "avalaibleInPogo": true,
-            "uniqueCode": "133ch",
-            "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0
-          },
-          {
-            "costumeImages": {
-              "male": "pm133.cHOLIDAY_2022.icon.png",
-              "female": "pm133.cHOLIDAY_2022.g2.icon.png",
-              "maleshiny": "pm133.cHOLIDAY_2022.s.icon.png",
-              "femaleshiny": "pm133.cHOLIDAY_2022.g2.s.icon.png"
-            },
-            "familyMembers": [
-              {
-                "stadeEvo": 1,
-                "id": "133no"
-              }
-            ],
-            "costumeName": "Chapeau Noël",
             "costumeShiny": true,
             "avalaibleInPogo": true,
             "uniqueCode": "133no",
@@ -22538,7 +22538,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -22868,7 +22868,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -23198,7 +23198,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -31257,7 +31257,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -31606,7 +31606,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -65739,7 +65739,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -66082,7 +66082,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
@@ -98256,7 +98256,7 @@
             "familyMembers": [
               {
                 "stadeEvo": 1,
-                "id": "133ch"
+                "id": "133no"
               },
               {
                 "stadeEvo": 2,
