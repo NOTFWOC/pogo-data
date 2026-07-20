@@ -5834,13 +5834,13 @@
           },
           {
             "costumeImages": {
-              "maleshiny": "pm25.fANNIVERSARY_2026.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026.icon.png",
               "female": "pm25.fANNIVERSARY_2026.g2.icon.png",
-              "femaleshiny": "pm25.fANNIVERSARY_2026.g2.s.icon.png",
-              "male": "pm25.fANNIVERSARY_2026.icon.png"
+              "maleshiny": "pm25.fANNIVERSARY_2026.s.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026.g2.s.icon.png"
             },
             "familyMembers": [],
-            "costumeName": "assistant du Professeur Willow",
+            "costumeName": "Assistant du Professeur Willow",
             "costumeShiny": true,
             "avalaibleInPogo": true,
             "uniqueCode": "25wil",
