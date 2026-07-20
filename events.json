@@ -1,5 +1,238 @@
 [
   {
+    "id": "103dccd0-313d-4399-ac3e-72444a11fd24",
+    "name": "Ultra Bonus : Édition 10 anniversaire ! (copie)",
+    "startDate": "25/07/2026 10:00",
+    "endDate": "27/07/2026 20:00",
+    "pokemons": [
+      {
+        "pokemonId": "722",
+        "pokemonNameFr": "Brindibou",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "725",
+        "pokemonNameFr": "Flamiaou",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "728",
+        "pokemonNameFr": "Otaquin",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "810",
+        "pokemonNameFr": "Ouistempo",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "813",
+        "pokemonNameFr": "Flambino",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "816",
+        "pokemonNameFr": "Larméléon",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "906",
+        "pokemonNameFr": "Poussacha",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "909",
+        "pokemonNameFr": "Chochodile",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "912",
+        "pokemonNameFr": "Coiffeton",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
+    "id": "39645107-1c9c-425b-9b59-67ec90d852c7",
+    "name": "Heure vedette Évoli",
+    "startDate": "23/07/2026 18:00",
+    "endDate": "23/07/2026 19:00",
+    "pokemons": [
+      {
+        "pokemonId": "133",
+        "pokemonNameFr": "Évoli",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
+    "id": "1cfb320d-c486-4474-bb89-bf23d5dbc549",
+    "name": "Ultra Bonus : Édition 10 anniversaire !",
+    "startDate": "23/07/2026 10:00",
+    "endDate": "25/07/2026 10:00",
+    "pokemons": [
+      {
+        "pokemonId": "387",
+        "pokemonNameFr": "Tortipouss",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "390",
+        "pokemonNameFr": "Ouisticram",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "393",
+        "pokemonNameFr": "Tiplouf",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "495",
+        "pokemonNameFr": "Vipélierre",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "498",
+        "pokemonNameFr": "Gruikui",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "501",
+        "pokemonNameFr": "Moustillon",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "650",
+        "pokemonNameFr": "Marisson",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "653",
+        "pokemonNameFr": "Feunnec",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "656",
+        "pokemonNameFr": "Grenousse",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
     "id": "89164907-5615-422b-969b-f953cca3812c",
     "name": "Heure de Raids Solgaleo",
     "startDate": "22/07/2026 18:00",
@@ -11,6 +244,181 @@
         "sauvage": false,
         "etudeTerrain": false,
         "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
+    "id": "6b126de7-6d62-4b09-bc5a-67477d327e71",
+    "name": "Ultra Bonus : Édition 10 anniversaire !",
+    "startDate": "21/07/2026 10:00",
+    "endDate": "27/07/2026 20:00",
+    "pokemons": [
+      {
+        "pokemonId": "88ch",
+        "pokemonNameFr": "Tadmorv",
+        "costumeName": "Chapeau de fête",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "20ch",
+        "pokemonNameFr": "Rattatac",
+        "costumeName": "Chapeau de fête",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "33ch",
+        "pokemonNameFr": "Nidorino",
+        "costumeName": "Chapeau de fête",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "94ch",
+        "pokemonNameFr": "Ectoplasma",
+        "costumeName": "Chapeau de fête",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "202ch",
+        "pokemonNameFr": "Qulbutoké",
+        "costumeName": "Chapeau de fête",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
+    "id": "b72ed449-1dcd-43e6-bbed-739bf377d82f",
+    "name": "Ultra Bonus : Édition 10 anniversaire !",
+    "startDate": "21/07/2026 10:00",
+    "endDate": "23/07/2026 10:00",
+    "pokemons": [
+      {
+        "pokemonId": "1",
+        "pokemonNameFr": "Bulbizarre",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "4",
+        "pokemonNameFr": "Salamèche",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "7",
+        "pokemonNameFr": "Carapuce",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "152",
+        "pokemonNameFr": "Germignon",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "155",
+        "pokemonNameFr": "Héricendre",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "158",
+        "pokemonNameFr": "Kaiminus",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
         "encens": false,
         "oeuf": false,
         "combatDynamax": false,
@@ -1101,25 +1509,6 @@
         "costumeName": "Chapeau de Meloetta",
         "sauvage": false,
         "etudeTerrain": true,
-        "raid": false,
-        "encens": false,
-        "oeuf": false,
-        "combatDynamax": false,
-        "photobomb": false
-      }
-    ]
-  },
-  {
-    "id": "39645107-1c9c-425b-9b59-67ec90d852c7",
-    "name": "Heure vedette Évoli",
-    "startDate": "23/07/2026 18:00",
-    "endDate": "23/07/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "133",
-        "pokemonNameFr": "Évoli",
-        "sauvage": true,
-        "etudeTerrain": false,
         "raid": false,
         "encens": false,
         "oeuf": false,
