@@ -5831,6 +5831,21 @@
             "uniqueCode": "25ins",
             "firstAppearanceDate": "29/05/2026",
             "pokedexOrder": 0
+          },
+          {
+            "costumeImages": {
+              "maleshiny": "pm25.fANNIVERSARY_2026.s.icon.png",
+              "female": "pm25.fANNIVERSARY_2026.g2.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026.g2.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026.icon.png"
+            },
+            "familyMembers": [],
+            "costumeName": "assistant du Professeur Willow",
+            "costumeShiny": true,
+            "avalaibleInPogo": true,
+            "uniqueCode": "25wil",
+            "firstAppearanceDate": "21/07/2026",
+            "pokedexOrder": 0
           }
         ],
         "familyMembers": [
@@ -108572,7 +108587,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 255,
         "baseDefense": 191,
         "baseStamina": 264,
@@ -108590,7 +108605,7 @@
         "genericName": "Solgaleo",
         "heightM": 3.4,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1472686216809021510/image-190.png?ex\u003d69d6b5eb\u0026is\u003d69d5646b\u0026hm\u003dd7652b05db31b14ec73d89ca1f2d8a95e9021cedf0ba48d9744b8a9d4de5de9e\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1528456937061224498/juillet_Solgaleo_Boss_de_Raid_2026.jpg?ex\u003d6a5e5df3\u0026is\u003d6a5d0c73\u0026hm\u003d681e176cad9da5938814d6e9d4165efe508df9546b44f40b74f65341d751b286\u0026"
         },
         "nameFormEng": "Solgaleo",
         "nameFormFr": "Solgaleo",
