@@ -712,6 +712,18 @@
         "oeuf": false,
         "combatDynamax": false,
         "photobomb": false
+      },
+      {
+        "pokemonId": "25wil",
+        "pokemonNameFr": "Pikachu",
+        "costumeName": "Assistant du Professeur Willow",
+        "sauvage": false,
+        "etudeTerrain": false,
+        "raid": true,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
       }
     ]
   },
