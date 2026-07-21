@@ -442,7 +442,7 @@
         "encens": false,
         "oeuf": false,
         "combatDynamax": false,
-        "photobomb": false
+        "photobomb": true
       }
     ]
   },
