@@ -1,24 +1,5 @@
 [
   {
-    "id": "39645107-1c9c-425b-9b59-67ec90d852c7",
-    "name": "Heure vedette Évoli",
-    "startDate": "23/07/2026 18:00",
-    "endDate": "23/07/2026 19:00",
-    "pokemons": [
-      {
-        "pokemonId": "133",
-        "pokemonNameFr": "Évoli",
-        "sauvage": true,
-        "etudeTerrain": false,
-        "raid": false,
-        "encens": false,
-        "oeuf": false,
-        "combatDynamax": false,
-        "photobomb": false
-      }
-    ]
-  },
-  {
     "id": "69c29bec-7756-4c64-9bb2-59368d251dc2",
     "name": "Ultra Bonus : Édition 10 anniversaire !",
     "startDate": "25/07/2026 10:00",
@@ -324,6 +305,330 @@
     ]
   },
   {
+    "id": "39645107-1c9c-425b-9b59-67ec90d852c7",
+    "name": "Heure vedette Évoli",
+    "startDate": "23/07/2026 18:00",
+    "endDate": "23/07/2026 19:00",
+    "pokemons": [
+      {
+        "pokemonId": "133",
+        "pokemonNameFr": "Évoli",
+        "sauvage": true,
+        "etudeTerrain": false,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
+    "id": "d325a5af-e0b7-4bd5-99f1-171f8010639c",
+    "name": "Ultra Bonus : Édition 10 anniversaire !",
+    "startDate": "23/07/2026 10:00",
+    "endDate": "25/07/2026 10:00",
+    "pokemons": [
+      {
+        "pokemonId": "1",
+        "pokemonNameFr": "Bulbizarre",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "4",
+        "pokemonNameFr": "Salamèche",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "7",
+        "pokemonNameFr": "Carapuce",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "152",
+        "pokemonNameFr": "Germignon",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "155",
+        "pokemonNameFr": "Héricendre",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "158",
+        "pokemonNameFr": "Kaiminus",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "252",
+        "pokemonNameFr": "Arcko",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "255",
+        "pokemonNameFr": "Poussifeu",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "258",
+        "pokemonNameFr": "Gobou",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "387",
+        "pokemonNameFr": "Tortipouss",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "390",
+        "pokemonNameFr": "Ouisticram",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "393",
+        "pokemonNameFr": "Tiplouf",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "495",
+        "pokemonNameFr": "Vipélierre",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "498",
+        "pokemonNameFr": "Gruikui",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "501",
+        "pokemonNameFr": "Moustillon",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "650",
+        "pokemonNameFr": "Marisson",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "653",
+        "pokemonNameFr": "Feunnec",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "656",
+        "pokemonNameFr": "Grenousse",
+        "sauvage": true,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "722",
+        "pokemonNameFr": "Brindibou",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "725",
+        "pokemonNameFr": "Flamiaou",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "728",
+        "pokemonNameFr": "Otaquin",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "810",
+        "pokemonNameFr": "Ouistempo",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "813",
+        "pokemonNameFr": "Flambino",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "816",
+        "pokemonNameFr": "Larméléon",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "906",
+        "pokemonNameFr": "Poussacha",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "909",
+        "pokemonNameFr": "Chochodile",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      },
+      {
+        "pokemonId": "912",
+        "pokemonNameFr": "Coiffeton",
+        "sauvage": false,
+        "etudeTerrain": true,
+        "raid": false,
+        "encens": false,
+        "oeuf": false,
+        "combatDynamax": false,
+        "photobomb": false
+      }
+    ]
+  },
+  {
     "id": "89164907-5615-422b-969b-f953cca3812c",
     "name": "Heure de Raids Solgaleo",
     "startDate": "22/07/2026 18:00",
@@ -496,7 +801,7 @@
       {
         "pokemonId": "255",
         "pokemonNameFr": "Poussifeu",
-        "sauvage": false,
+        "sauvage": true,
         "etudeTerrain": true,
         "raid": false,
         "encens": false,
@@ -507,7 +812,7 @@
       {
         "pokemonId": "258",
         "pokemonNameFr": "Gobou",
-        "sauvage": false,
+        "sauvage": true,
         "etudeTerrain": true,
         "raid": false,
         "encens": false,
