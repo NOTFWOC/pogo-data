@@ -1618,7 +1618,7 @@
             "costumeShiny": true,
             "familyMembers": [
               {
-                "id": "7ch",
+                "id": "7cha",
                 "stadeEvo": 1
               },
               {
@@ -1632,7 +1632,7 @@
             ],
             "firstAppearanceDate": "25/02/2020",
             "pokedexOrder": 0,
-            "uniqueCode": "7ch"
+            "uniqueCode": "7cha"
           },
           {
             "avalaibleInPogo": true,
@@ -1812,7 +1812,7 @@
             "costumeShiny": true,
             "familyMembers": [
               {
-                "id": "7ch",
+                "id": "7cha",
                 "stadeEvo": 1
               },
               {
@@ -1988,7 +1988,7 @@
             "costumeShiny": true,
             "familyMembers": [
               {
-                "id": "7ch",
+                "id": "7cha",
                 "stadeEvo": 1
               },
               {
@@ -2936,8 +2936,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -3044,8 +3044,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -7688,6 +7688,18 @@
         ],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Dard-Venin",
+            "type": "POISON"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Koud’Korne",
@@ -8253,6 +8265,30 @@
             "legacy": false,
             "name": "Poudreuse",
             "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Laser Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Blizzard",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Météo",
+            "type": "GLACE"
           }
         ],
         "avalaibleInPogo": true,
@@ -8615,6 +8651,18 @@
             "charged": true,
             "legacy": false,
             "name": "Météores",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Plaquage",
             "type": "NORMAL"
           }
         ],
@@ -9343,8 +9391,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -9432,8 +9480,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -10459,6 +10507,30 @@
           },
           {
             "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Représailles",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
             "legacy": true,
             "name": "Tranche-Nuit",
             "type": "TENEBRES"
@@ -10876,6 +10948,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Poing Karaté",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe",
+            "type": "NORMAL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -11654,6 +11738,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclate-Roc",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -15665,6 +15767,18 @@
         ],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coud’Boue",
+            "type": "SOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Détritus",
@@ -15728,6 +15842,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -16034,6 +16160,30 @@
             "legacy": false,
             "name": "Charge",
             "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bulles d’O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibraqua",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coqui-Lame",
+            "type": "EAU"
           }
         ],
         "avalaibleInPogo": true,
@@ -17303,8 +17453,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -17397,8 +17547,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -17748,6 +17898,24 @@
             "legacy": false,
             "name": "Charge",
             "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Météores",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclair Fou",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éco-Sphère",
+            "type": "PLANTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -18405,6 +18573,30 @@
           },
           {
             "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Balayette",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame de Roc",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pied Brûleur",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
             "legacy": true,
             "name": "Écrasement",
             "type": "NORMAL"
@@ -18791,6 +18983,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Harcèlement",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -20493,6 +20703,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Tranche-Nuit",
@@ -20501,8 +20723,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -20945,8 +21167,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -21039,8 +21261,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -21198,6 +21420,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Double Pied",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Tête de Fer",
@@ -21264,6 +21504,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Double Pied",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Tête de Fer",
@@ -21329,6 +21587,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Double Pied",
+            "type": "COMBAT"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -23716,6 +23992,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Pouvoir Antique",
@@ -25150,6 +25438,30 @@
             "legacy": false,
             "name": "Queue de Fer",
             "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ligotage",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydro-Queue",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Choc",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plaquage",
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -25232,6 +25544,24 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Ailes d’Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Souffle",
+            "type": "DRAGON"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -25334,6 +25664,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Ailes d’Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Souffle",
+            "type": "DRAGON"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -26755,6 +27103,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Flammèche",
+            "type": "FEU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Poing Feu",
@@ -27361,6 +27721,24 @@
             "legacy": false,
             "name": "Picpic",
             "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piqué",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -30124,6 +30502,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Hydrocanon",
@@ -30999,6 +31389,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Cradovague",
@@ -31788,6 +32190,18 @@
             "charged": false,
             "legacy": false,
             "name": "Aboiement",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
             "type": "TENEBRES"
           },
           {
@@ -33941,6 +34355,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Double Pied",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Psyko",
@@ -34324,6 +34756,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cru-Ailes",
+            "type": "VOL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -35010,8 +35454,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -35098,8 +35542,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -35614,8 +36058,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -36830,6 +37274,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cru-Ailes",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -38498,6 +38960,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Écrasement",
@@ -40126,6 +40606,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Lame Feuille",
@@ -40215,6 +40707,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -40857,6 +41361,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Boue-Bombe",
@@ -40941,6 +41457,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -41031,6 +41559,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -41331,6 +41871,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclate-Roc",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet de Sable",
+            "type": "SOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Tunnel",
@@ -41506,6 +42064,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet de Sable",
+            "type": "SOL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -42267,6 +42843,30 @@
             "legacy": false,
             "name": "Tranch’Herbe",
             "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bulles d’O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Laser Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nœud Herbe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ébullition",
+            "type": "EAU"
           }
         ],
         "avalaibleInPogo": true,
@@ -42331,6 +42931,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tranch’Herbe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -42547,6 +43165,24 @@
             "charged": false,
             "legacy": false,
             "name": "Feinte",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame Feuille",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nœud Herbe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
             "type": "TENEBRES"
           }
         ],
@@ -42815,6 +43451,24 @@
             "legacy": false,
             "name": "Ailes d’Acier",
             "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piqué",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -44398,6 +45052,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Acier",
+            "type": "ACIER"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Ball’Ombre",
@@ -45850,6 +46516,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Strido-Son",
+            "type": "ACIER"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -50096,6 +50780,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Ombre",
+            "type": "SPECTRE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Close Combat",
@@ -50168,6 +50864,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Queue de Fer",
+            "type": "ACIER"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -51335,6 +52043,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Survinsecte",
+            "type": "INSECTE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Poison Croix",
@@ -52113,6 +52833,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Ombre",
+            "type": "SPECTRE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Ball’Ombre",
@@ -52180,6 +52912,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Ombre",
+            "type": "SPECTRE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -52289,6 +53033,18 @@
         ],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vent Mauvais",
@@ -52396,6 +53152,18 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Feinte",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -54123,6 +54891,30 @@
             "legacy": false,
             "name": "Draco-Souffle",
             "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Choc",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ouragan",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mâchouille",
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -54191,6 +54983,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -54287,6 +55097,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -54577,6 +55405,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Pisto-Poing",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Psyko",
@@ -54660,6 +55506,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pisto-Poing",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -55630,6 +56494,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Séisme",
@@ -55708,6 +56584,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -57387,7 +58275,44 @@
     "a_formDatas": [
       {
         "a_costumeData": [],
-        "a_pokeAttackDatas": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vive-Attaque",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet de Sable",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          }
+        ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
         "baseAttack": 101,
@@ -57984,8 +58909,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -59649,8 +60574,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -60711,6 +61636,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vent Mauvais",
@@ -60800,7 +61737,44 @@
             "uniqueCode": "426ha"
           }
         ],
-        "a_pokeAttackDatas": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Mauvais",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Feu Ensorcelé",
+            "type": "FEU"
+          }
+        ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
         "baseAttack": 180,
@@ -61325,6 +62299,30 @@
             "legacy": false,
             "name": "Aboiement",
             "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piqué",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -61747,6 +62745,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -63372,6 +64382,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet de Sable",
+            "type": "SOL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Tunnel",
@@ -63920,6 +64948,30 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Dard-Venin",
+            "type": "POISON"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -65277,6 +66329,30 @@
             "legacy": false,
             "name": "Balayage",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclair Fou",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Glace",
+            "type": "GLACE"
           },
           {
             "charged": true,
@@ -67055,6 +68131,18 @@
         ],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vent Mauvais",
@@ -67488,6 +68576,30 @@
             "legacy": false,
             "name": "Éclair",
             "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Mauvais",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tonnerre",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tempête Verte",
+            "type": "PLANTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -71230,6 +72342,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Hydro-Queue",
@@ -71244,8 +72368,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -71310,6 +72434,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cascade",
+            "type": "EAU"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -71429,8 +72565,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -71672,6 +72808,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet de Sable",
+            "type": "SOL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -72046,6 +73200,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Aboiement",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -74471,6 +75637,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vibraqua",
@@ -74552,6 +75730,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vibraqua",
@@ -74632,6 +75822,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -75106,8 +76308,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -75415,8 +76617,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -75510,6 +76712,18 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tranch’Herbe",
+            "type": "PLANTE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -75711,6 +76925,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Puissance Cachée",
+            "type": "NORMAL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -76622,6 +77848,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Calcination",
+            "type": "FEU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Surchauffe",
@@ -76691,6 +77935,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Calcination",
+            "type": "FEU"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -77026,8 +78288,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -77095,6 +78357,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Anti-Air",
+            "type": "ROCHE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Boule Roc",
@@ -77103,8 +78377,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -78347,6 +79621,30 @@
             "legacy": false,
             "name": "Feinte",
             "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -78405,6 +79703,30 @@
             "legacy": false,
             "name": "Aboiement",
             "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -78476,6 +79798,30 @@
             "legacy": false,
             "name": "Aboiement",
             "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bombe Beurk",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -78534,6 +79880,30 @@
             "legacy": false,
             "name": "Aboiement",
             "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bombe Beurk",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -79004,6 +80374,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -80675,8 +82057,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -81774,6 +83156,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Rayon Chargé",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Strido-Son",
+            "type": "ACIER"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Force Poigne",
@@ -81853,6 +83253,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Rayon Chargé",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Strido-Son",
+            "type": "ACIER"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -82412,6 +83830,30 @@
             "charged": false,
             "legacy": false,
             "name": "Flammèche",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nitrocharge",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rebondifeu",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Canicule",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Feu Ensorcelé",
             "type": "FEU"
           }
         ],
@@ -83567,6 +85009,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Acier",
+            "type": "ACIER"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Séisme",
@@ -84159,8 +85613,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -84252,8 +85706,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -84792,6 +86246,30 @@
             "legacy": false,
             "name": "Lame d’Air",
             "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
           }
         ],
         "avalaibleInPogo": true,
@@ -84951,8 +86429,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -86335,7 +87813,44 @@
     "a_formDatas": [
       {
         "a_costumeData": [],
-        "a_pokeAttackDatas": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet-Pierres",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Telluriforce",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Colère",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éboulement",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Exploforce",
+            "type": "COMBAT"
+          }
+        ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
         "baseAttack": 261,
@@ -86377,6 +87892,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Extrasenseur",
+            "type": "PSY"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -86732,6 +88259,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Aqua-Jet",
@@ -86752,8 +88291,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -86998,8 +88537,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -87079,8 +88618,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -87160,8 +88699,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -87238,8 +88777,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -87316,8 +88855,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -88471,6 +90010,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vive-Attaque",
+            "type": "NORMAL"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Tunnel",
@@ -88570,6 +90121,30 @@
             "legacy": false,
             "name": "Vive-Attaque",
             "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Canicule",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Météores",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -88651,6 +90226,30 @@
             "legacy": false,
             "name": "Ailes d’Acier",
             "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Canicule",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nitrocharge",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -93315,6 +94914,30 @@
             "legacy": false,
             "name": "Calcination",
             "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nitrocharge",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Soleil",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surchauffe",
+            "type": "FEU"
           }
         ],
         "avalaibleInPogo": true,
@@ -96454,6 +98077,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Rayon Chargé",
+            "type": "ELECTRIK"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Vampibaiser",
@@ -96707,7 +98342,50 @@
     "a_formDatas": [
       {
         "a_costumeData": [],
-        "a_pokeAttackDatas": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vent Féérique",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éco-Sphère",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vampibaiser",
+            "type": "FEE"
+          }
+        ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
         "baseAttack": 168,
@@ -97936,6 +99614,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet-Pierres",
+            "type": "ROCHE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Mâchouille",
@@ -98041,6 +99737,30 @@
             "legacy": false,
             "name": "Souffle Glacé",
             "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Météo",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Onde Boréale",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tonnerre",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -98583,8 +100303,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -101201,6 +102921,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Colère",
@@ -101273,6 +103011,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Colère",
@@ -101344,6 +103100,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -102737,6 +104511,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Aqua-Jet",
@@ -102817,6 +104603,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cascade",
+            "type": "EAU"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -103400,8 +105198,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -103507,8 +105305,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -103626,8 +105424,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -104877,6 +106675,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Saumure",
@@ -105461,8 +107271,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -105975,6 +107785,24 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Ombre",
+            "type": "SPECTRE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -106747,8 +108575,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -107035,6 +108863,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bâillement",
+            "type": "NORMAL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -107495,6 +109335,30 @@
             "legacy": false,
             "name": "Extrasenseur",
             "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Colère",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Choc",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Météores",
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -109238,8 +111102,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -109702,6 +111566,36 @@
             "legacy": false,
             "name": "Griffe Ombre",
             "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éboulement",
+            "type": "ROCHE"
           }
         ],
         "avalaibleInPogo": true,
@@ -109756,6 +111650,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -109832,6 +111738,18 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -111459,6 +113377,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Plaquage",
@@ -112090,6 +114026,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Survinsecte",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coupe Psycho",
+            "type": "PSY"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Bourdon",
@@ -112649,6 +114603,24 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Double Pied",
+            "type": "COMBAT"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -115722,6 +117694,30 @@
             "legacy": false,
             "name": "Balayage",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Boost",
+            "type": "COMBAT"
           }
         ],
         "avalaibleInPogo": true,
@@ -115789,6 +117785,30 @@
             "charged": false,
             "legacy": false,
             "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Boost",
             "type": "COMBAT"
           }
         ],
@@ -116157,6 +118177,30 @@
             "legacy": false,
             "name": "Taillade",
             "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame Feuille",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tranche-Nuit",
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -118286,6 +120330,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Verrouillage",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Change Éclair",
+            "type": "ELECTRIK"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
@@ -118472,6 +120534,24 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Écrasement",
@@ -118575,8 +120655,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -118678,6 +120758,24 @@
           }
         ],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclate-Roc",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Anti-Air",
+            "type": "ROCHE"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -118822,8 +120920,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -120277,8 +122375,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -120372,8 +122470,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -120467,8 +122565,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -120562,8 +122660,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
@@ -121254,6 +123352,18 @@
         "a_costumeData": [],
         "a_pokeAttackDatas": [
           {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
             "charged": true,
             "legacy": false,
             "name": "Plaquage",
@@ -121745,6 +123855,24 @@
             "legacy": false,
             "name": "Lame d’Air",
             "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -121798,6 +123926,24 @@
             "charged": false,
             "legacy": false,
             "name": "Lame d’Air",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
             "type": "VOL"
           }
         ],
@@ -121853,6 +123999,24 @@
             "legacy": false,
             "name": "Lame d’Air",
             "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
           }
         ],
         "avalaibleInPogo": true,
@@ -121906,6 +124070,24 @@
             "charged": false,
             "legacy": false,
             "name": "Lame d’Air",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
             "type": "VOL"
           }
         ],
@@ -122624,6 +124806,24 @@
       {
         "a_costumeData": [],
         "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coup Bas",
+            "type": "TENEBRES"
+          },
           {
             "charged": true,
             "legacy": false,
@@ -123521,6 +125721,18 @@
             "legacy": false,
             "name": "Éclate-Roc",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Luminocanon",
+            "type": "ACIER"
           }
         ],
         "avalaibleInPogo": true,
@@ -123595,6 +125807,18 @@
             "legacy": false,
             "name": "Éclate-Roc",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Luminocanon",
+            "type": "ACIER"
           }
         ],
         "avalaibleInPogo": true,
@@ -123957,6 +126181,30 @@
             "legacy": false,
             "name": "Coup Bas",
             "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Représailles",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tomberoche",
+            "type": "ROCHE"
           }
         ],
         "avalaibleInPogo": true,
@@ -124673,6 +126921,24 @@
             "legacy": false,
             "name": "Double Pied",
             "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Prio-Parade",
+            "type": "COMBAT"
           }
         ],
         "avalaibleInPogo": true,
@@ -125283,6 +127549,36 @@
           },
           {
             "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Balayette",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tranche-Nuit",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
             "legacy": true,
             "name": "Poing de Colère",
             "type": "SPECTRE"
@@ -125699,8 +127995,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ligotage",
-            "type": "ELECTRIK"
+            "name": "Méga-Sangsue",
+            "type": "PLANTE"
           },
           {
             "charged": true,
