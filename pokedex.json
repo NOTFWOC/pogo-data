@@ -38364,7 +38364,1316 @@
     "a_formDatas": [
       {
         "a_costumeData": [],
-        "a_pokeAttackDatas": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charge",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Taillade",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Piqûre",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coup Bas",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Souffle",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étincelle",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Poing Karaté",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Flammèche",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cru-Ailes",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Picpic",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Léchouille",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Fouet Lianes",
+            "type": "PLANTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tranch’Herbe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tir de Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclats Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Souffle Glacé",
+            "type": "GLACE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vive-Attaque",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écras’Face",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coupe",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Acide",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coupe Psycho",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet-Pierres",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pisto-Poing",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Trempette",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Coud’Boue",
+            "type": "SOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Choc Mental",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Dard-Venin",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Feinte",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Ailes d’Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Éclate-Roc",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Poudreuse",
+            "type": "GLACE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Rayon Chargé",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Change Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Lame d’Air",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Harcèlement",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Survinsecte",
+            "type": "INSECTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Queue de Fer",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Danse Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Extrasenseur",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Aboiement",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Puissance Cachée",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cascade",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bâillement",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cadeau",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Verrouillage",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Crocs Givre",
+            "type": "GLACE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Tornade",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Calcination",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ligotage",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ultralaser",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibrobscur",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Détritus",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Force Poigne",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Roue de Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mégacorne",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tunnel",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coup Croix",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rafale Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Séisme",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame de Roc",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coup d’Jus",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Luminocanon",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bec Vrille",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Laser Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Blizzard",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Canicule",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tunnelier",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tempête Florale",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bourdon",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Crochet Venin",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tranche-Nuit",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bulles d’O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Sacrifice",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Balayette",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydro-Queue",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Canon Graine",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Choc Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tomberoche",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éboulement",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Portée",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Mauvais",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bombe Aimant",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tête de Fer",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Fatal-Foudre",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tonnerre",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ouragan",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Choc",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Griffe",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Voix Enjôleuse",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vampibaiser",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclat Magique",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Lunaire",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poison Croix",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bombe Beurk",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Cradovague",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Détricanon",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Massd’Os",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piétisol",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Boue-Bombe",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Signal",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plaie Croix",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nitrocharge",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rebondifeu",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Déflagration",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vibraqua",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Glace",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Soleil",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame Feuille",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mégafouet",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tranch’Air",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Violent",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Casse-Brique",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Météores",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Koud’Korne",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Écrasement",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Croc de Mort",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plaquage",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Dynamo-Poing",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Exploforce",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Onde Boréale",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclair Fou",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Élecanon",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Avalanche",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Piqué",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tourbi-Sable",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Boule Roc",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vent Argenté",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Gyroballe",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tacle Lourd",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surchauffe",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nœud Herbe",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éco-Sphère",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Prescience",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Voile Miroir",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Colère",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mâchouille",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Météore",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psycho-Boost",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Végé-Attaque",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rafale Feu",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydroblast",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Dernier Recours",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Météore",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Saumure",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ébullition",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Frappe Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Carnareket",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Météo",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Météo",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Météo",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Météo",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coud’Krâne",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Bombe Acide",
+            "type": "POISON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Telluriforce",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pince-Masse",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Furie-Bond",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Octazooka",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Miroi-Tir",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surpuissance",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Dard Mortel",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Phytomixeur",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Os Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ocroupi",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pied Brûleur",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Boost",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Giga Impact",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Synchropeine",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame Sainte",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Flying Press",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aurasphère",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Représailles",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Roc-Boulet",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéroblast",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Techno-Buster",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Techno-Buster",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Techno-Buster",
+            "type": "GLACE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Techno-Buster",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Techno-Buster",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Coup Victoire",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Triplattaque",
+            "type": "NORMAL"
+          }
+        ],
         "avalaibleInPogo": true,
         "avalaibleShiny": true,
         "baseAttack": 40,
