@@ -426,7 +426,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -524,7 +524,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -611,7 +611,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -3790,7 +3790,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -3868,7 +3868,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -4147,7 +4147,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -4254,7 +4254,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -8318,7 +8318,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -8818,7 +8818,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -10220,7 +10220,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -10302,7 +10302,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -10472,7 +10472,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -10651,7 +10651,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -12809,7 +12809,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -13226,7 +13226,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -15830,7 +15830,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -16018,7 +16018,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -16118,7 +16118,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -16427,7 +16427,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -16536,7 +16536,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -16740,7 +16740,7 @@
             "charged": true,
             "legacy": true,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -16866,7 +16866,7 @@
             "charged": true,
             "legacy": true,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -16983,7 +16983,7 @@
             "charged": true,
             "legacy": true,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -17875,7 +17875,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -18857,7 +18857,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -18875,7 +18875,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -18958,7 +18958,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -18970,7 +18970,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -19065,7 +19065,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -19135,13 +19135,13 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -19462,7 +19462,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -23838,7 +23838,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -24395,7 +24395,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -24495,7 +24495,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -24630,7 +24630,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -24736,7 +24736,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -25394,7 +25394,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -25491,7 +25491,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -25620,7 +25620,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -25740,7 +25740,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -25909,7 +25909,7 @@
             "charged": true,
             "legacy": true,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -26111,7 +26111,7 @@
             "charged": true,
             "legacy": true,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -26227,7 +26227,7 @@
             "charged": true,
             "legacy": true,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -26415,7 +26415,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -26511,7 +26511,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -27680,7 +27680,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -32262,7 +32262,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -32397,7 +32397,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -32728,7 +32728,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -35438,7 +35438,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -36377,7 +36377,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -37640,7 +37640,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -38247,7 +38247,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -38837,25 +38837,25 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -40485,7 +40485,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -41694,7 +41694,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -42660,7 +42660,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -42757,7 +42757,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -42872,7 +42872,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -42974,7 +42974,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -46248,7 +46248,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -49383,7 +49383,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           },
           {
             "charged": true,
@@ -49504,7 +49504,7 @@
             "charged": true,
             "legacy": false,
             "name": "Détritus",
-            "type": "FEE"
+            "type": "POISON"
           }
         ],
         "avalaibleInPogo": true,
@@ -49968,7 +49968,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -51777,7 +51777,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -52267,7 +52267,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -53617,13 +53617,13 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -54841,7 +54841,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -54929,7 +54929,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -57221,7 +57221,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -58365,7 +58365,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -58509,7 +58509,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -60115,7 +60115,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -60587,7 +60587,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -62420,7 +62420,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -62500,7 +62500,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -62941,7 +62941,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -63369,7 +63369,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -63473,7 +63473,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -63596,7 +63596,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -63691,7 +63691,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -63952,7 +63952,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -67353,7 +67353,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -69069,7 +69069,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -69533,7 +69533,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -71407,7 +71407,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -71665,7 +71665,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -71737,7 +71737,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -71809,7 +71809,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -71881,7 +71881,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -71953,7 +71953,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72025,7 +72025,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72097,7 +72097,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72169,7 +72169,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72241,7 +72241,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72313,7 +72313,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72385,7 +72385,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72457,7 +72457,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72529,7 +72529,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72601,7 +72601,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72673,7 +72673,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72745,7 +72745,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72817,7 +72817,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -72889,7 +72889,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -73075,7 +73075,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -73168,7 +73168,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -73947,7 +73947,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -74514,7 +74514,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -74603,7 +74603,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -75590,7 +75590,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -76571,7 +76571,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -76653,7 +76653,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -78410,7 +78410,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -80141,7 +80141,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -80300,7 +80300,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -81013,7 +81013,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -81095,7 +81095,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -81490,7 +81490,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -82989,7 +82989,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -83077,7 +83077,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -83165,7 +83165,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -83253,7 +83253,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -84650,7 +84650,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -85039,7 +85039,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -85128,7 +85128,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -86716,7 +86716,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -87070,7 +87070,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -87538,7 +87538,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -87626,7 +87626,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -87989,7 +87989,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -88082,7 +88082,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -88659,13 +88659,13 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -89847,7 +89847,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -89925,7 +89925,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": false,
@@ -90249,7 +90249,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -91490,7 +91490,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -96390,7 +96390,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98258,7 +98258,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98342,7 +98342,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98426,7 +98426,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98510,7 +98510,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98594,7 +98594,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98678,7 +98678,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98762,7 +98762,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98846,7 +98846,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -98930,7 +98930,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -99014,7 +99014,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -100036,7 +100036,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -100128,7 +100128,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -100708,7 +100708,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -101326,7 +101326,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -104293,7 +104293,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -104311,7 +104311,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -104419,7 +104419,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -104509,7 +104509,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -104599,7 +104599,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -104918,7 +104918,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -105781,7 +105781,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -110914,7 +110914,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -112751,7 +112751,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -112838,7 +112838,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -112925,7 +112925,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -113662,7 +113662,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -116931,7 +116931,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -117026,7 +117026,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -118346,7 +118346,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -118422,7 +118422,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -118516,7 +118516,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -118598,7 +118598,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -118974,7 +118974,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -119066,7 +119066,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -119164,7 +119164,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -119256,7 +119256,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -119352,7 +119352,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -120570,7 +120570,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -121348,7 +121348,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -121733,7 +121733,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -121810,7 +121810,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -121897,7 +121897,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ultralaser",
-            "type": "PSY"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -122475,7 +122475,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
@@ -124138,7 +124138,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -126744,7 +126744,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
@@ -126833,7 +126833,7 @@
             "charged": true,
             "legacy": false,
             "name": "Ligotage",
-            "type": "ELECTRIK"
+            "type": "NORMAL"
           },
           {
             "charged": true,
@@ -129443,7 +129443,7 @@
             "charged": true,
             "legacy": false,
             "name": "Vibrobscur",
-            "type": "DRAGON"
+            "type": "TENEBRES"
           },
           {
             "charged": true,
