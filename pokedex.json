@@ -2936,8 +2936,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -3044,8 +3044,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -4146,8 +4146,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -5896,6 +5896,54 @@
             "legacy": true,
             "name": "Fatal-Foudre",
             "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Câlinerie",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Électacle",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vampibaiser",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Météore",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Flying Press",
+            "type": "COMBAT"
           }
         ],
         "avalaibleInPogo": true,
@@ -9391,8 +9439,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -9480,8 +9528,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -12760,8 +12808,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -13177,8 +13225,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -17453,8 +17501,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -17547,8 +17595,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -18826,8 +18874,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -20723,8 +20771,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -21167,8 +21215,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -21261,8 +21309,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -25345,8 +25393,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -25840,6 +25888,12 @@
             "type": "FEU"
           },
           {
+            "charged": false,
+            "legacy": true,
+            "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": true,
             "name": "Frappe Psy",
@@ -26036,6 +26090,12 @@
             "type": "FEU"
           },
           {
+            "charged": false,
+            "legacy": true,
+            "name": "Riposte",
+            "type": "COMBAT"
+          },
+          {
             "charged": true,
             "legacy": true,
             "name": "Frappe Psy",
@@ -26144,6 +26204,12 @@
             "legacy": false,
             "name": "Lance-Flammes",
             "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": true,
+            "name": "Riposte",
+            "type": "COMBAT"
           },
           {
             "charged": true,
@@ -35454,8 +35520,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -35542,8 +35608,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -36058,8 +36124,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -52200,8 +52266,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -53556,8 +53622,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -60218,8 +60284,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -61883,8 +61949,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -63885,8 +63951,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -73008,8 +73074,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -73101,8 +73167,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -73677,8 +73743,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -73874,8 +73940,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -77617,8 +77683,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -77926,8 +77992,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -79597,8 +79663,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -79686,8 +79752,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -83366,8 +83432,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -86922,8 +86988,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -87015,8 +87081,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -87738,8 +87804,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -89600,8 +89666,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -89646,6 +89712,90 @@
         "typeA": "EAU",
         "typeB": "COMBAT",
         "uniqueCode": "647nor",
+        "weightKg": 48.5
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Direct Toxik",
+            "type": "POISON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aqua-Jet",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Plaie Croix",
+            "type": "INSECTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lame Ointe",
+            "type": "COMBAT"
+          }
+        ],
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
+        "baseAttack": 260,
+        "baseDefense": 192,
+        "baseStamina": 209,
+        "descriptionDex": "Bien décidé à se battre, Keldeo a changé de forme grâce à l’énergie qui parcourt maintenant tout son corps.\n",
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            ""
+          ],
+          "namesFr": [
+            ""
+          ]
+        },
+        "familyMembers": [
+          {
+            "id": "647dec",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm647.fRESOLUTE.s.icon.png",
+          "male": "pm647.fRESOLUTE.icon.png"
+        },
+        "genericName": "Keldeo",
+        "heightM": 1.4,
+        "nameFormEng": "Keldeo Resolute",
+        "nameFormFr": "Keldeo Décidé",
+        "region": "UNYS",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "EAU",
+        "typeB": "COMBAT",
+        "uniqueCode": "647dec",
         "weightKg": 48.5
       }
     ],
@@ -89846,8 +89996,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -89927,8 +90077,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -90008,8 +90158,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -90086,8 +90236,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -90164,8 +90314,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -101612,8 +101762,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -106507,8 +106657,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -106614,8 +106764,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -106733,8 +106883,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -108580,8 +108730,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -109884,8 +110034,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -110763,8 +110913,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -112411,8 +112561,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -116780,8 +116930,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -116875,8 +117025,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -121964,8 +122114,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -122229,8 +122379,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           }
         ],
         "avalaibleInPogo": true,
@@ -123684,8 +123834,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -123779,8 +123929,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -123874,8 +124024,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -123969,8 +124119,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -126593,8 +126743,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
@@ -126682,8 +126832,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Giga-Sangsue",
-            "type": "PLANTE"
+            "name": "Ligotage",
+            "type": "ELECTRIK"
           },
           {
             "charged": true,
@@ -129304,8 +129454,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Méga-Sangsue",
-            "type": "PLANTE"
+            "name": "Plaie Croix",
+            "type": "INSECTE"
           },
           {
             "charged": true,
@@ -129625,7 +129775,7 @@
           {
             "charged": true,
             "legacy": true,
-            "name": "GLAIVE_RUSH",
+            "name": "Charge Glaive",
             "type": "DRAGON"
           }
         ],
