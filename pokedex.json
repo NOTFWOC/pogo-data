@@ -53537,7 +53537,7 @@
         "baseDefense": 85,
         "baseStamina": 85,
         "descriptionDex": "Les nageoires de Barpau sont abîmées et déchirées dès sa naissance. Ce Pokémon est généralement ignoré à cause de son apparence miséreuse. Il peut vivre dans la mer ou en eau douce.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Milotic"
@@ -53638,7 +53638,7 @@
         "baseDefense": 219,
         "baseStamina": 216,
         "descriptionDex": "Certains prétendent que Milobellus est le plus beau de tous les Pokémon. Il a le pouvoir d’apaiser certaines émotions comme la colère ou l’hostilité, afin d’éviter les querelles inutiles.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             ""
