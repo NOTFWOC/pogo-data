@@ -52,7 +52,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "1gf"
           },
           {
@@ -70,7 +70,7 @@
               }
             ],
             "firstAppearanceDate": "17/10/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "1ha"
           }
         ],
@@ -220,7 +220,7 @@
               }
             ],
             "firstAppearanceDate": "25/072020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "2gf"
           }
         ],
@@ -374,7 +374,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "3gf"
           },
           {
@@ -385,9 +385,14 @@
             },
             "costumeName": "Clône",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "3cl",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "3cl"
           }
         ],
@@ -734,7 +739,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "4gf"
           },
           {
@@ -752,7 +757,7 @@
               }
             ],
             "firstAppearanceDate": "17/10/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "4ha"
           }
         ],
@@ -906,7 +911,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "5gf"
           }
         ],
@@ -1066,7 +1071,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "6gf"
           },
           {
@@ -1076,9 +1081,14 @@
             },
             "costumeName": "Clône",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "6cl",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "6cl"
           }
         ],
@@ -1631,7 +1641,7 @@
               }
             ],
             "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "7cha"
           },
           {
@@ -1657,7 +1667,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "7gf"
           },
           {
@@ -1675,7 +1685,7 @@
               }
             ],
             "firstAppearanceDate": "17/10/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "7ha"
           }
         ],
@@ -1825,7 +1835,7 @@
               }
             ],
             "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "8cha"
           },
           {
@@ -1851,7 +1861,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "8gf"
           }
         ],
@@ -2001,7 +2011,7 @@
               }
             ],
             "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "9cha"
           },
           {
@@ -2027,7 +2037,7 @@
               }
             ],
             "firstAppearanceDate": "25/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "9gf"
           },
           {
@@ -2037,9 +2047,14 @@
             },
             "costumeName": "Clône",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "9cl",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "9cl"
           }
         ],
@@ -2544,7 +2559,12 @@
             },
             "costumeName": "Costume Fashion",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "12np",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "21/09/2021",
             "pokedexOrder": 0,
             "uniqueCode": "12np"
@@ -3755,7 +3775,12 @@
             },
             "costumeName": "Chapeau de fête",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "20ch",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "02/01/2020",
             "pokedexOrder": 0,
             "uniqueCode": "20ch"
@@ -4385,7 +4410,7 @@
               }
             ],
             "firstAppearanceDate": "26/02/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "25ch"
           },
           {
@@ -4413,7 +4438,7 @@
               }
             ],
             "firstAppearanceDate": "06/06/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "25sa"
           },
           {
@@ -4441,7 +4466,7 @@
               }
             ],
             "firstAppearanceDate": "20/10/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "25ha"
           },
           {
@@ -4469,7 +4494,7 @@
               }
             ],
             "firstAppearanceDate": "05/07/2018",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "25lu"
           },
           {
@@ -4482,9 +4507,14 @@
             },
             "costumeName": "Fragment",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25hf",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "05/10/2018",
-            "pokedexOrder": 0,
+            "pokedexOrder": 5,
             "uniqueCode": "25hf"
           },
           {
@@ -4512,7 +4542,7 @@
               }
             ],
             "firstAppearanceDate": "26/02/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 6,
             "uniqueCode": "25fl"
           },
           {
@@ -4540,7 +4570,7 @@
               }
             ],
             "firstAppearanceDate": "24/12/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 7,
             "uniqueCode": "25no2"
           },
           {
@@ -4553,9 +4583,14 @@
             },
             "costumeName": "Détective",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25de",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "07/05/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 8,
             "uniqueCode": "25de"
           },
           {
@@ -4568,9 +4603,14 @@
             },
             "costumeName": "Chapeau de Luffy (One Piece)",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25op",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "22/07/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 9,
             "uniqueCode": "25op"
           },
           {
@@ -4583,9 +4623,14 @@
             },
             "costumeName": "Chapeau de fête rouge",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ch2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 10,
             "uniqueCode": "25ch2"
           },
           {
@@ -4598,9 +4643,14 @@
             },
             "costumeName": "Coiffe de fleurs",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cf",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "09/04/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 11,
             "uniqueCode": "25cf"
           },
           {
@@ -4613,9 +4663,14 @@
             },
             "costumeName": "Safari",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25sa2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "12/11/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 12,
             "uniqueCode": "25sa2"
           },
           {
@@ -4628,9 +4683,14 @@
             },
             "costumeName": "Ballons rouges",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ba2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "03/05/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 13,
             "uniqueCode": "25ba2"
           },
           {
@@ -4643,9 +4703,14 @@
             },
             "costumeName": "Kariyushi",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ka",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "03/05/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 14,
             "uniqueCode": "25ka"
           },
           {
@@ -4658,9 +4723,14 @@
             },
             "costumeName": "Dracaufeu",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25dr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/05/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 15,
             "uniqueCode": "25dr"
           },
           {
@@ -4673,9 +4743,14 @@
             },
             "costumeName": "Noctali",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25nc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/05/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 16,
             "uniqueCode": "25nc"
           },
           {
@@ -4688,9 +4763,14 @@
             },
             "costumeName": "Rayquaza",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ra",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/05/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 17,
             "uniqueCode": "25ra"
           },
           {
@@ -4703,9 +4783,14 @@
             },
             "costumeName": "Lucario",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25lo",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/05/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 18,
             "uniqueCode": "25lo"
           },
           {
@@ -4718,9 +4803,14 @@
             },
             "costumeName": "Casquette Monde",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25tm",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "06/10/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 19,
             "uniqueCode": "25tm"
           },
           {
@@ -4748,7 +4838,7 @@
               }
             ],
             "firstAppearanceDate": "31/12/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 20,
             "uniqueCode": "25ch3"
           },
           {
@@ -4761,9 +4851,14 @@
             },
             "costumeName": "Chapeau de Meloetta",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gf",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/07/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 21,
             "uniqueCode": "25gf"
           },
           {
@@ -4776,9 +4871,14 @@
             },
             "costumeName": "Chenapan d’Halloween",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ha2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "15/10/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 22,
             "uniqueCode": "25ha2"
           },
           {
@@ -4791,9 +4891,14 @@
             },
             "costumeName": "JCC Pokémon",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25jc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "16/06/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 23,
             "uniqueCode": "25jc"
           },
           {
@@ -4806,9 +4911,14 @@
             },
             "costumeName": "Fleurs Shaymin",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gf2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "04/06/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 24,
             "uniqueCode": "25gf2"
           },
           {
@@ -4821,9 +4931,14 @@
             },
             "costumeName": "Gâteau",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ga",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "06/07/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 25,
             "uniqueCode": "25ga"
           },
           {
@@ -4836,9 +4951,14 @@
             },
             "costumeName": "Haut-de-forme de fête",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25na",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "31/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 26,
             "uniqueCode": "25na"
           },
           {
@@ -4851,9 +4971,14 @@
             },
             "costumeName": "Ruban de Flora",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ban",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "18/02/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 27,
             "uniqueCode": "25ban"
           },
           {
@@ -4866,9 +4991,14 @@
             },
             "costumeName": "Chapeau de Brice",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25bon",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "18/02/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 28,
             "uniqueCode": "25bon"
           },
           {
@@ -4896,7 +5026,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 29,
             "uniqueCode": "25fl2"
           },
           {
@@ -4909,9 +5039,14 @@
             },
             "costumeName": "Ballons oranges",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25fl3",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "28/07/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 30,
             "uniqueCode": "25fl3"
           },
           {
@@ -4924,9 +5059,14 @@
             },
             "costumeName": "Chemise bleue agrumes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cbl",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "28/07/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 31,
             "uniqueCode": "25cbl"
           },
           {
@@ -4939,9 +5079,14 @@
             },
             "costumeName": "Détective 2",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25det2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "05/10/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 32,
             "uniqueCode": "25det2"
           },
           {
@@ -4954,9 +5099,14 @@
             },
             "costumeName": "Halloween",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ha3",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "26/10/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 33,
             "uniqueCode": "25ha3"
           },
           {
@@ -4969,9 +5119,14 @@
             },
             "costumeName": "Vêtements des fêtes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25no4",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "18/12/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 34,
             "uniqueCode": "25no4"
           },
           {
@@ -4984,9 +5139,14 @@
             },
             "costumeName": "Maillot de Football Indonésien",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25si",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "04/08/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 35,
             "uniqueCode": "25si"
           },
           {
@@ -4999,9 +5159,14 @@
             },
             "costumeName": "Mimiqui",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25mi",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/10/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 36,
             "uniqueCode": "25mi"
           },
           {
@@ -5012,9 +5177,14 @@
             },
             "costumeName": "Catcheur",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ca",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "31/12/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 37,
             "uniqueCode": "25ca"
           },
           {
@@ -5027,9 +5197,14 @@
             },
             "costumeName": "Clône",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cl",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "25/03/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 38,
             "uniqueCode": "25cl"
           },
           {
@@ -5042,9 +5217,14 @@
             },
             "costumeName": "Ballons",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ba",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "03/07/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 39,
             "uniqueCode": "25ba"
           },
           {
@@ -5057,9 +5237,14 @@
             },
             "costumeName": "Explorateur",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25av",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "14/12/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 40,
             "uniqueCode": "25av"
           },
           {
@@ -5072,9 +5257,14 @@
             },
             "costumeName": "Carnaval d’hiver",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25no3",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "22/12/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 41,
             "uniqueCode": "25no3"
           },
           {
@@ -5085,9 +5275,14 @@
             },
             "costumeName": "Pop Star",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25pop",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/07/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 42,
             "uniqueCode": "25pop"
           },
           {
@@ -5098,9 +5293,14 @@
             },
             "costumeName": "Rock Star",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25roc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/07/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 43,
             "uniqueCode": "25roc"
           },
           {
@@ -5113,9 +5313,14 @@
             },
             "costumeName": "Ballons 5ème Anniversaire",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ba5",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "06/07/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 44,
             "uniqueCode": "25ba5"
           },
           {
@@ -5128,9 +5333,14 @@
             },
             "costumeName": "Écharpe Shaymin",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ech",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "27/08/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 45,
             "uniqueCode": "25ech"
           },
           {
@@ -5143,9 +5353,14 @@
             },
             "costumeName": "Ballons violets",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ba4",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "11/10/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 46,
             "uniqueCode": "25ba4"
           },
           {
@@ -5158,9 +5373,14 @@
             },
             "costumeName": "Chemise mauve fleurs",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25sin",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "11/11/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 47,
             "uniqueCode": "25sin"
           },
           {
@@ -5173,9 +5393,14 @@
             },
             "costumeName": "Ballons verts",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ba3",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "12/10/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 48,
             "uniqueCode": "25ba3"
           },
           {
@@ -5188,9 +5413,14 @@
             },
             "costumeName": "Chemise verte baies",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25tai",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "14/10/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 49,
             "uniqueCode": "25tai"
           },
           {
@@ -5203,9 +5433,14 @@
             },
             "costumeName": "Championnats du Monde 2022",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25wc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "18/08/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 50,
             "uniqueCode": "25wc"
           },
           {
@@ -5218,9 +5453,14 @@
             },
             "costumeName": "Béret de Louka",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gar",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/02/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 51,
             "uniqueCode": "25gar"
           },
           {
@@ -5233,9 +5473,14 @@
             },
             "costumeName": "Casquette de Aurel",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gbr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/02/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 52,
             "uniqueCode": "25gbr"
           },
           {
@@ -5248,9 +5493,14 @@
             },
             "costumeName": "Bonnet de Aurore",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gab",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/02/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 53,
             "uniqueCode": "25gab"
           },
           {
@@ -5263,9 +5513,14 @@
             },
             "costumeName": "Foulard de Lucia",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gbb",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "17/02/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 54,
             "uniqueCode": "25gbb"
           },
           {
@@ -5276,9 +5531,14 @@
             },
             "costumeName": "Docteur",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25doc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "29/02/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 55,
             "uniqueCode": "25doc"
           },
           {
@@ -5291,9 +5551,14 @@
             },
             "costumeName": "Chemise Batik",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gil",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "02/03/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 56,
             "uniqueCode": "25gil"
           },
           {
@@ -5306,9 +5571,14 @@
             },
             "costumeName": "Ballons noirs",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ba6",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "02/03/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 57,
             "uniqueCode": "25ba6"
           },
           {
@@ -5321,9 +5591,14 @@
             },
             "costumeName": "Capitaine",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ber",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "05/03/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 58,
             "uniqueCode": "25ber"
           },
           {
@@ -5336,9 +5611,14 @@
             },
             "costumeName": "Couronne Soleil",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25sol",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "30/05/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 59,
             "uniqueCode": "25sol"
           },
           {
@@ -5351,9 +5631,14 @@
             },
             "costumeName": "Couronne Lune",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25lun",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "30/05/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 60,
             "uniqueCode": "25lun"
           },
           {
@@ -5364,9 +5649,14 @@
             },
             "costumeName": "Sari",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25diw",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "04/11/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 61,
             "uniqueCode": "25diw"
           },
           {
@@ -5379,9 +5669,14 @@
             },
             "costumeName": "Casquette de Ludwig",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gtcr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/03/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 62,
             "uniqueCode": "25gtcr"
           },
           {
@@ -5394,9 +5689,14 @@
             },
             "costumeName": "Visière de Mélis",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gtvr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/03/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 63,
             "uniqueCode": "25gtvr"
           },
           {
@@ -5409,9 +5709,14 @@
             },
             "costumeName": "Casquette de Ludvina",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gtcb",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/03/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 64,
             "uniqueCode": "25gtcb"
           },
           {
@@ -5424,9 +5729,14 @@
             },
             "costumeName": "Visière d’Écho",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gtvb",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/03/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 65,
             "uniqueCode": "25gtvb"
           },
           {
@@ -5437,9 +5747,14 @@
             },
             "costumeName": "Kurta",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25kur",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "13/03/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 66,
             "uniqueCode": "25kur"
           },
           {
@@ -5452,9 +5767,14 @@
             },
             "costumeName": "Accessoires Rouge",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gflr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "28/06/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 67,
             "uniqueCode": "25gflr"
           },
           {
@@ -5467,9 +5787,14 @@
             },
             "costumeName": "Accessoires Bleu",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gfgb",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "28/06/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 68,
             "uniqueCode": "25gfgb"
           },
           {
@@ -5482,9 +5807,14 @@
             },
             "costumeName": "Accessoires Jaune",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gflj",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "28/06/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 69,
             "uniqueCode": "25gflj"
           },
           {
@@ -5497,9 +5827,14 @@
             },
             "costumeName": "Monocle Rouge",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gfmr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "29/05/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 70,
             "uniqueCode": "25gfmr"
           },
           {
@@ -5512,9 +5847,14 @@
             },
             "costumeName": "Monocle Bleu",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gfmb",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "29/05/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 71,
             "uniqueCode": "25gfmb"
           },
           {
@@ -5527,9 +5867,14 @@
             },
             "costumeName": "Monocle Jaune",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25gfmj",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "29/05/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 72,
             "uniqueCode": "25gfmj"
           },
           {
@@ -5542,9 +5887,14 @@
             },
             "costumeName": "Malachite",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cve",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "26/08/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 73,
             "uniqueCode": "25cve"
           },
           {
@@ -5557,9 +5907,14 @@
             },
             "costumeName": "Aigue-marine",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cbl2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "26/08/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 74,
             "uniqueCode": "25cbl2"
           },
           {
@@ -5572,9 +5927,14 @@
             },
             "costumeName": "Quartz",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cro",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "26/08/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 75,
             "uniqueCode": "25cro"
           },
           {
@@ -5587,9 +5947,14 @@
             },
             "costumeName": "Pyrite",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cja",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "26/08/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 76,
             "uniqueCode": "25cja"
           },
           {
@@ -5602,9 +5967,14 @@
             },
             "costumeName": "Améthyste",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cvi",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "04/08/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 77,
             "uniqueCode": "25cvi"
           },
           {
@@ -5617,9 +5987,14 @@
             },
             "costumeName": "Championnats du Monde 2023",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25wc2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "11/08/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 78,
             "uniqueCode": "25wc2"
           },
           {
@@ -5632,9 +6007,14 @@
             },
             "costumeName": "Championnats du Monde 2024",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25wc3",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "16/08/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 79,
             "uniqueCode": "25wc3"
           },
           {
@@ -5647,9 +6027,14 @@
             },
             "costumeName": "Blouson d’université",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25wc4",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "15/08/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 80,
             "uniqueCode": "25wc4"
           },
           {
@@ -5662,9 +6047,14 @@
             },
             "costumeName": "Casquette de Red",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ar",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "23/02/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 81,
             "uniqueCode": "25ar"
           },
           {
@@ -5677,9 +6067,14 @@
             },
             "costumeName": "Casquette de Leaf",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25a2b",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "23/02/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 82,
             "uniqueCode": "25a2b"
           },
           {
@@ -5692,9 +6087,14 @@
             },
             "costumeName": "Casquette de Luth",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25bjn",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "23/02/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 83,
             "uniqueCode": "25bjn"
           },
           {
@@ -5707,9 +6107,14 @@
             },
             "costumeName": "Casquette de Célesta",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25b2b",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "23/02/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 84,
             "uniqueCode": "25b2b"
           },
           {
@@ -5722,9 +6127,14 @@
             },
             "costumeName": "Maillot de Baseball",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25mbs",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "03/04/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 85,
             "uniqueCode": "25mbs"
           },
           {
@@ -5737,9 +6147,14 @@
             },
             "costumeName": "Archéologue",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25arc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "22/05/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 86,
             "uniqueCode": "25arc"
           },
           {
@@ -5752,9 +6167,14 @@
             },
             "costumeName": "Casquette de Kalem",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25cr",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "20/02/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 87,
             "uniqueCode": "25cr"
           },
           {
@@ -5767,9 +6187,14 @@
             },
             "costumeName": "Casquette de Serena",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25c2r",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "20/02/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 88,
             "uniqueCode": "25c2r"
           },
           {
@@ -5782,9 +6207,14 @@
             },
             "costumeName": "Visière de marathon",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25vis",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "12/05/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 89,
             "uniqueCode": "25vis"
           },
           {
@@ -5797,9 +6227,14 @@
             },
             "costumeName": "Chapeau de la Team Mystic",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25mys",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "25/05/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 90,
             "uniqueCode": "25mys"
           },
           {
@@ -5812,9 +6247,14 @@
             },
             "costumeName": "Chapeau de la Team Valor",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25val",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "29/05/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 91,
             "uniqueCode": "25val"
           },
           {
@@ -5827,9 +6267,14 @@
             },
             "costumeName": "Chapeau de la Team Instinct",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25ins",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "29/05/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 92,
             "uniqueCode": "25ins"
           },
           {
@@ -5842,9 +6287,14 @@
             },
             "costumeName": "Assistant du Professeur Willow",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "25wil",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "21/07/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 93,
             "uniqueCode": "25wil"
           }
         ],
@@ -6163,7 +6613,7 @@
               }
             ],
             "firstAppearanceDate": "26/02/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "26ch"
           },
           {
@@ -6191,7 +6641,7 @@
               }
             ],
             "firstAppearanceDate": "06/06/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "26sa"
           },
           {
@@ -6219,7 +6669,7 @@
               }
             ],
             "firstAppearanceDate": "20/10/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "26ha"
           },
           {
@@ -6247,7 +6697,7 @@
               }
             ],
             "firstAppearanceDate": "05/07/2018",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "26lu"
           },
           {
@@ -6260,9 +6710,14 @@
             },
             "costumeName": "Fragment",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "26hf",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "05/10/2018",
-            "pokedexOrder": 0,
+            "pokedexOrder": 5,
             "uniqueCode": "26hf"
           },
           {
@@ -6290,7 +6745,7 @@
               }
             ],
             "firstAppearanceDate": "26/02/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 6,
             "uniqueCode": "26fl"
           },
           {
@@ -6318,7 +6773,7 @@
               }
             ],
             "firstAppearanceDate": "24/12/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 7,
             "uniqueCode": "26no2"
           },
           {
@@ -6331,9 +6786,14 @@
             },
             "costumeName": "Détective",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "26de",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "07/05/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 8,
             "uniqueCode": "26de"
           },
           {
@@ -6346,9 +6806,14 @@
             },
             "costumeName": "Casquette Monde",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "26tm",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "06/10/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 9,
             "uniqueCode": "26tm"
           },
           {
@@ -6376,7 +6841,7 @@
               }
             ],
             "firstAppearanceDate": "31/12/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 10,
             "uniqueCode": "26ch3"
           },
           {
@@ -6404,7 +6869,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 11,
             "uniqueCode": "26fl2"
           },
           {
@@ -6417,9 +6882,14 @@
             },
             "costumeName": "Détective 2",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "26det2",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "05/10/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 12,
             "uniqueCode": "26det2"
           },
           {
@@ -6432,9 +6902,14 @@
             },
             "costumeName": "Vêtements des fêtes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "26no3",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "18/12/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 13,
             "uniqueCode": "26no3"
           }
         ],
@@ -7506,7 +7981,12 @@
             },
             "costumeName": "Couronne",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "31co",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "10/05/2025",
             "pokedexOrder": 0,
             "uniqueCode": "31co"
@@ -7728,7 +8208,12 @@
             },
             "costumeName": "Chapeau de fête",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "33ch",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/03/2020",
             "pokedexOrder": 0,
             "uniqueCode": "33ch"
@@ -7840,7 +8325,12 @@
             },
             "costumeName": "Couronne",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "34co",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "10/05/2025",
             "pokedexOrder": 0,
             "uniqueCode": "34co"
@@ -8658,7 +9148,12 @@
             },
             "costumeName": "Ruban",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "39no",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/01/2024",
             "pokedexOrder": 0,
             "uniqueCode": "39no"
@@ -8783,7 +9278,12 @@
             },
             "costumeName": "Ruban",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "40no",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "01/01/2024",
             "pokedexOrder": 0,
             "uniqueCode": "40no"
@@ -10766,7 +11266,7 @@
               }
             ],
             "firstAppearanceDate": "09/09/2025",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "54bo"
           }
         ],
@@ -14444,7 +14944,7 @@
               }
             ],
             "firstAppearanceDate": "05/10/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "79de"
           }
         ],
@@ -16636,7 +17136,12 @@
             },
             "costumeName": "Chapeau de fête",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "94ch",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "01/03/2020",
             "pokedexOrder": 0,
             "uniqueCode": "94ch"
@@ -16649,9 +17154,14 @@
             },
             "costumeName": "Costume du Festival effrayant",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "94ha",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "27/10/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "94ha"
           },
           {
@@ -16662,9 +17172,14 @@
             },
             "costumeName": "Halloween",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "94ha2",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "26/10/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "94ha2"
           },
           {
@@ -16675,9 +17190,14 @@
             },
             "costumeName": "Frankenstein",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "94br",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "24/10/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "94br"
           }
         ],
@@ -22075,7 +22595,7 @@
               }
             ],
             "firstAppearanceDate": "13/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "131ban"
           }
         ],
@@ -22341,7 +22861,7 @@
               }
             ],
             "firstAppearanceDate": "10/03/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "132jau"
           }
         ],
@@ -22480,7 +23000,7 @@
               }
             ],
             "firstAppearanceDate": "25/02/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "133ch"
           },
           {
@@ -22532,7 +23052,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "133no"
           },
           {
@@ -22584,7 +23104,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "133fl2"
           },
           {
@@ -22636,7 +23156,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "133exp"
           },
           {
@@ -22656,7 +23176,7 @@
               }
             ],
             "firstAppearanceDate": "30/05/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 5,
             "uniqueCode": "133sol"
           },
           {
@@ -22676,7 +23196,7 @@
               }
             ],
             "firstAppearanceDate": "30/05/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 6,
             "uniqueCode": "133lun"
           }
         ],
@@ -22916,7 +23436,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "134no"
           },
           {
@@ -22966,7 +23486,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "134fl2"
           },
           {
@@ -23016,7 +23536,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "134exp"
           }
         ],
@@ -23246,7 +23766,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "135no"
           },
           {
@@ -23296,7 +23816,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "135fl2"
           },
           {
@@ -23346,7 +23866,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "135exp"
           }
         ],
@@ -23576,7 +24096,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "136no"
           },
           {
@@ -23626,7 +24146,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "136fl2"
           },
           {
@@ -23676,7 +24196,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "136exp"
           }
         ],
@@ -24575,7 +25095,12 @@
             },
             "costumeName": "Chapeau de cow-boy",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "143ch",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "01/07/2022",
             "pokedexOrder": 0,
             "uniqueCode": "143ch"
@@ -24588,9 +25113,14 @@
             },
             "costumeName": "Bonnet de nuit",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "143sl",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "14/07/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "143sl"
           },
           {
@@ -24601,9 +25131,14 @@
             },
             "costumeName": "Veste cloutée",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "143roc",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "16/11/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "143roc"
           }
         ],
@@ -25585,7 +26120,12 @@
             },
             "costumeName": "Costume Fashion",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "149lu",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "15/11/2023",
             "pokedexOrder": 0,
             "uniqueCode": "149lu"
@@ -28722,7 +29262,7 @@
               }
             ],
             "firstAppearanceDate": "26/02/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "172ch"
           },
           {
@@ -28748,7 +29288,7 @@
               }
             ],
             "firstAppearanceDate": "06/06/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "172sa"
           },
           {
@@ -28774,7 +29314,7 @@
               }
             ],
             "firstAppearanceDate": "20/10/2017",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "172ha"
           },
           {
@@ -28800,7 +29340,7 @@
               }
             ],
             "firstAppearanceDate": "05/07/2018",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "172lu"
           },
           {
@@ -28826,7 +29366,7 @@
               }
             ],
             "firstAppearanceDate": "26/02/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 5,
             "uniqueCode": "172fl"
           },
           {
@@ -28852,7 +29392,7 @@
               }
             ],
             "firstAppearanceDate": "24/12/2019",
-            "pokedexOrder": 0,
+            "pokedexOrder": 6,
             "uniqueCode": "172no2"
           },
           {
@@ -28878,7 +29418,7 @@
               }
             ],
             "firstAppearanceDate": "31/12/2020",
-            "pokedexOrder": 0,
+            "pokedexOrder": 7,
             "uniqueCode": "172ch3"
           },
           {
@@ -28904,7 +29444,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 8,
             "uniqueCode": "172fl2"
           }
         ],
@@ -30451,7 +30991,12 @@
             },
             "costumeName": "Tenue des fêtes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "185gui",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "18/12/2025",
             "pokedexOrder": 0,
             "uniqueCode": "185gui"
@@ -31779,7 +32324,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "196no"
           },
           {
@@ -31829,7 +32374,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "196fl2"
           },
           {
@@ -31879,7 +32424,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "196exp"
           },
           {
@@ -31890,9 +32435,14 @@
             },
             "costumeName": "Écharpe de jour",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "196sol",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "13/07/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "196sol"
           }
         ],
@@ -32128,7 +32678,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "197no"
           },
           {
@@ -32178,7 +32728,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "197fl2"
           },
           {
@@ -32228,7 +32778,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "197exp"
           },
           {
@@ -32239,9 +32789,14 @@
             },
             "costumeName": "Écharpe de nuit",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "197lun",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "13/07/2024",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "197lun"
           }
         ],
@@ -34328,7 +34883,12 @@
             },
             "costumeName": "Chapeau de fête",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "202ch",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "02/01/2020",
             "pokedexOrder": 0,
             "uniqueCode": "202ch"
@@ -45200,7 +45760,12 @@
             },
             "costumeName": "Costume Fashion",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "281ch",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "02/10/2020",
             "pokedexOrder": 0,
             "uniqueCode": "281ch"
@@ -45339,7 +45904,12 @@
             },
             "costumeName": "Chapeau de Meloetta",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "282ch",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "17/07/2021",
             "pokedexOrder": 0,
             "uniqueCode": "282ch"
@@ -51512,7 +52082,12 @@
             },
             "costumeName": "Chapeau de Meloetta",
             "costumeShiny": false,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "330ch",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "17/07/2021",
             "pokedexOrder": 0,
             "uniqueCode": "330ch"
@@ -58669,7 +59244,7 @@
               }
             ],
             "firstAppearanceDate": "16/11/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "387chb"
           }
         ],
@@ -59003,7 +59578,7 @@
               }
             ],
             "firstAppearanceDate": "16/11/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "390chb"
           }
         ],
@@ -59325,7 +59900,7 @@
               }
             ],
             "firstAppearanceDate": "16/11/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "393chr"
           },
           {
@@ -59343,7 +59918,7 @@
               }
             ],
             "firstAppearanceDate": "16/11/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "393chb"
           }
         ],
@@ -63106,7 +63681,12 @@
             },
             "costumeName": "Chenapan d’Halloween",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "426ha",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "15/10/2021",
             "pokedexOrder": 0,
             "uniqueCode": "426ha"
@@ -68244,7 +68824,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "470no"
           },
           {
@@ -68294,7 +68874,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "470fl2"
           },
           {
@@ -68344,7 +68924,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "470exp"
           }
         ],
@@ -68535,9 +69115,14 @@
             },
             "costumeName": "Tenue des fêtes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "471no2",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "16/12/2021",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "471no2"
           },
           {
@@ -68587,7 +69172,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "471no"
           },
           {
@@ -68637,7 +69222,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "471fl2"
           },
           {
@@ -68687,7 +69272,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 4,
             "uniqueCode": "471exp"
           }
         ],
@@ -101489,7 +102074,7 @@
               }
             ],
             "firstAppearanceDate": "23/12/2022",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "700no"
           },
           {
@@ -101539,7 +102124,7 @@
               }
             ],
             "firstAppearanceDate": "04/04/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 2,
             "uniqueCode": "700fl2"
           },
           {
@@ -101589,7 +102174,7 @@
               }
             ],
             "firstAppearanceDate": "04/11/2023",
-            "pokedexOrder": 0,
+            "pokedexOrder": 3,
             "uniqueCode": "700exp"
           }
         ],
@@ -106742,7 +107327,12 @@
             },
             "costumeName": "Tenue des fêtes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "737noe",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "18/12/2025",
             "pokedexOrder": 0,
             "uniqueCode": "737noe"
@@ -106855,7 +107445,12 @@
             },
             "costumeName": "Tenue des fêtes",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "738noe",
+                "stadeEvo": 3
+              }
+            ],
             "firstAppearanceDate": "18/12/2025",
             "pokedexOrder": 0,
             "uniqueCode": "738noe"
@@ -109237,7 +109832,12 @@
             },
             "costumeName": "Cape des Terres Sauvages",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "760cap",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "07/11/2025",
             "pokedexOrder": 0,
             "uniqueCode": "760cap"
@@ -122817,7 +123417,12 @@
             },
             "costumeName": "Épingle de Liko",
             "costumeShiny": true,
-            "familyMembers": [],
+            "familyMembers": [
+              {
+                "id": "907ch",
+                "stadeEvo": 2
+              }
+            ],
             "firstAppearanceDate": "16/04/2025",
             "pokedexOrder": 0,
             "uniqueCode": "907ch"
@@ -129873,7 +130478,7 @@
               }
             ],
             "firstAppearanceDate": "04/07/2026",
-            "pokedexOrder": 0,
+            "pokedexOrder": 1,
             "uniqueCode": "999an2"
           }
         ],
