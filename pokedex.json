@@ -45879,7 +45879,10 @@
         "typeA": "PSY",
         "typeB": "FEE",
         "uniqueCode": "281",
-        "weightKg": 20.2
+        "weightKg": 20.2,
+        "evolutionGenderRequirements": {
+          "Gallame": "MALE_ONLY"
+        }
       }
     ],
     "candyToEvolve": 0,
@@ -55747,7 +55750,10 @@
         "typeA": "GLACE",
         "typeB": "AAUCUN",
         "uniqueCode": "361",
-        "weightKg": 16.8
+        "weightKg": 16.8,
+        "evolutionGenderRequirements": {
+          "Momartik": "FEMALE_ONLY"
+        }
       }
     ],
     "candyToEvolve": 0,
@@ -61886,7 +61892,11 @@
         "typeA": "INSECTE",
         "typeB": "AAUCUN",
         "uniqueCode": "412pla",
-        "weightKg": 3.4
+        "weightKg": 3.4,
+        "evolutionGenderRequirements": {
+          "Cheniselle Cape Plante": "FEMALE_ONLY",
+          "Papilord": "MALE_ONLY"
+        }
       },
       {
         "a_costumeData": [],
@@ -61956,7 +61966,11 @@
         "typeA": "INSECTE",
         "typeB": "AAUCUN",
         "uniqueCode": "412sab",
-        "weightKg": 3.4
+        "weightKg": 3.4,
+        "evolutionGenderRequirements": {
+          "Cheniselle Cape Sable": "FEMALE_ONLY",
+          "Papilord": "MALE_ONLY"
+        }
       },
       {
         "a_costumeData": [],
@@ -62026,7 +62040,11 @@
         "typeA": "INSECTE",
         "typeB": "AAUCUN",
         "uniqueCode": "412dec",
-        "weightKg": 3.4
+        "weightKg": 3.4,
+        "evolutionGenderRequirements": {
+          "Cheniselle Cape Déchet": "FEMALE_ONLY",
+          "Papilord": "MALE_ONLY"
+        }
       }
     ],
     "candyToEvolve": 25,
@@ -62467,7 +62485,10 @@
         "typeA": "INSECTE",
         "typeB": "VOL",
         "uniqueCode": "415",
-        "weightKg": 5.5
+        "weightKg": 5.5,
+        "evolutionGenderRequirements": {
+          "Apireine": "FEMALE_ONLY"
+        }
       }
     ],
     "candyToEvolve": 25,
@@ -109624,7 +109645,10 @@
         "typeA": "POISON",
         "typeB": "FEU",
         "uniqueCode": "757",
-        "weightKg": 4.8
+        "weightKg": 4.8,
+        "evolutionGenderRequirements": {
+          "Malamandre": "FEMALE_ONLY"
+        }
       }
     ],
     "candyToEvolve": 0,
