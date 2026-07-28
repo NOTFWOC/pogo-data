@@ -1,5 +1,24 @@
 [
   {
+    "endDate": "01/08/2026 17:00",
+    "id": "74ab6de4-7670-4a57-801b-760f1f6898b3",
+    "name": "Journée Combats Max Gorythmic Gigamax",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "812gig",
+        "pokemonNameFr": "Gorythmic Gigamax",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "01/08/2026 14:00"
+  },
+  {
     "endDate": "30/07/2026 19:00",
     "id": "6fdd36c1-d19e-4dca-b4c6-37523801ea5b",
     "name": "Heure vedette Keunotor",
@@ -2181,22 +2200,33 @@
     "startDate": "13/07/2026 10:00"
   },
   {
-    "endDate": "01/08/2026 17:00",
-    "id": "74ab6de4-7670-4a57-801b-760f1f6898b3",
-    "name": "Journée Combats Max Gorythmic Gigamax",
+    "endDate": "28/07/2026 20:00",
+    "id": "21805fd2-f3ad-4639-8bf8-57d649410c79",
+    "name": "Choisis ton parcours Chemin féérique",
     "pokemons": [
       {
-        "combatDynamax": true,
+        "combatDynamax": false,
         "encens": false,
-        "etudeTerrain": false,
+        "etudeTerrain": true,
         "oeuf": false,
         "photobomb": false,
-        "pokemonId": "812gig",
-        "pokemonNameFr": "Gorythmic Gigamax",
+        "pokemonId": "755",
+        "pokemonNameFr": "Spododo",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "859",
+        "pokemonNameFr": "Grimalin",
         "raid": false,
         "sauvage": false
       }
     ],
-    "startDate": "01/08/2026 14:00"
+    "startDate": "28/07/2026 10:00"
   }
 ]
