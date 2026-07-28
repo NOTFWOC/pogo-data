@@ -1,5 +1,62 @@
 [
   {
+    "endDate": "30/07/2026 19:00",
+    "id": "6fdd36c1-d19e-4dca-b4c6-37523801ea5b",
+    "name": "Heure vedette Keunotor",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "399",
+        "pokemonNameFr": "Keunotor",
+        "raid": false,
+        "sauvage": true
+      }
+    ],
+    "startDate": "30/07/2026 18:00"
+  },
+  {
+    "endDate": "29/07/2026 19:00",
+    "id": "c4a87edb-12ab-4b2e-aae8-71dea4d4366d",
+    "name": "Heure de Raids Kyurem",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "646",
+        "pokemonNameFr": "Kyurem",
+        "raid": true,
+        "sauvage": false
+      }
+    ],
+    "startDate": "29/07/2026 18:00"
+  },
+  {
+    "endDate": "27/07/2026 21:00",
+    "id": "82ff26c1-b173-4689-a364-709dd53393a5",
+    "name": "Lundynamax Barpau",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "349",
+        "pokemonNameFr": "Barpau",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "27/07/2026 06:00"
+  },
+  {
     "endDate": "27/07/2026 20:00",
     "id": "69c29bec-7756-4c64-9bb2-59368d251dc2",
     "name": "Ultra Bonus : Édition 10 anniversaire !",
@@ -2124,9 +2181,9 @@
     "startDate": "13/07/2026 10:00"
   },
   {
-    "endDate": "27/07/2026 21:00",
-    "id": "82ff26c1-b173-4689-a364-709dd53393a5",
-    "name": "Lundynamax Barpau",
+    "endDate": "01/08/2026 17:00",
+    "id": "74ab6de4-7670-4a57-801b-760f1f6898b3",
+    "name": "Journée Combats Max Gorythmic Gigamax",
     "pokemons": [
       {
         "combatDynamax": true,
@@ -2134,12 +2191,12 @@
         "etudeTerrain": false,
         "oeuf": false,
         "photobomb": false,
-        "pokemonId": "349",
-        "pokemonNameFr": "Barpau",
+        "pokemonId": "812gig",
+        "pokemonNameFr": "Gorythmic Gigamax",
         "raid": false,
         "sauvage": false
       }
     ],
-    "startDate": "27/07/2026 06:00"
+    "startDate": "01/08/2026 14:00"
   }
 ]
