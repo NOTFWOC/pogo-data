@@ -57,6 +57,36 @@
     "startDate": "29/07/2026 18:00"
   },
   {
+    "endDate": "03/08/2026 20:00",
+    "id": "21805fd2-f3ad-4639-8bf8-57d649410c79",
+    "name": "Choisis ton parcours Chemin féérique",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "755",
+        "pokemonNameFr": "Spododo",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "859",
+        "pokemonNameFr": "Grimalin",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "28/07/2026 10:00"
+  },
+  {
     "endDate": "27/07/2026 21:00",
     "id": "82ff26c1-b173-4689-a364-709dd53393a5",
     "name": "Lundynamax Barpau",
@@ -2198,35 +2228,5 @@
       }
     ],
     "startDate": "13/07/2026 10:00"
-  },
-  {
-    "endDate": "28/07/2026 20:00",
-    "id": "21805fd2-f3ad-4639-8bf8-57d649410c79",
-    "name": "Choisis ton parcours Chemin féérique",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": true,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "755",
-        "pokemonNameFr": "Spododo",
-        "raid": false,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": true,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "859",
-        "pokemonNameFr": "Grimalin",
-        "raid": false,
-        "sauvage": false
-      }
-    ],
-    "startDate": "28/07/2026 10:00"
   }
 ]
