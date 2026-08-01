@@ -114680,7 +114680,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 239,
         "baseDefense": 168,
         "baseStamina": 225,
