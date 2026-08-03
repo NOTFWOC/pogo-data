@@ -70838,6 +70838,9 @@
         },
         "genericName": "Créhelf",
         "heightM": 0.3,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940339180703744/image-274.png?ex\u003d6a7250c4\u0026is\u003d6a70ff44\u0026hm\u003dcdaafbdfe9cf952109e27faebd35f22a5c95ea2663e78c6683547241502af444\u0026"
+        },
         "nameFormEng": "Uxie",
         "nameFormFr": "Créhelf",
         "region": "SINNOH",
@@ -70922,6 +70925,9 @@
         },
         "genericName": "Créfollet",
         "heightM": 0.3,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940338778177636/image-263.png?ex\u003d6a7250c3\u0026is\u003d6a70ff43\u0026hm\u003d59f1eed9334c612f801e44a9a81a1c309b09ee86db1a18d83f52cbfe346c6272\u0026"
+        },
         "nameFormEng": "Mesprit",
         "nameFormFr": "Créfollet",
         "region": "SINNOH",
@@ -71006,6 +71012,9 @@
         },
         "genericName": "Créfadet",
         "heightM": 0.3,
+        "infographicData": {
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940338266210416/image-364.png?ex\u003d6a7250c3\u0026is\u003d6a70ff43\u0026hm\u003da7e4717c7b2e509f1abf7354478ccf55ba7daff676ff545694130b0065e6b9a5\u0026"
+        },
         "nameFormEng": "Azelf",
         "nameFormFr": "Créfadet",
         "region": "SINNOH",
@@ -71620,6 +71629,9 @@
         },
         "genericName": "Giratina",
         "heightM": 4.5,
+        "infographicData": {
+          "imgShadowInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940339771969546/image-237.png?ex\u003d6a7250c4\u0026is\u003d6a70ff44\u0026hm\u003d95be7ffc8ffc37bf86c2a68254bb229af700f3747d4b31162b41aae1d466bc6c\u0026"
+        },
         "nameFormEng": "Giratina Altered Forme",
         "nameFormFr": "Giratina Forme Alternative",
         "region": "SINNOH",
