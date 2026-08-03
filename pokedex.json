@@ -21595,7 +21595,7 @@
       }
     ],
     "candyToEvolve": 0,
-    "familyId": "FAMILY_ELECTABUZZ",
+    "familyId": "FAMILY_ELEKID",
     "femalePercent": 0.25,
     "id": "125",
     "kmBuddyDistance": 5,
@@ -21652,7 +21652,7 @@
         "baseDefense": 154,
         "baseStamina": 163,
         "descriptionDex": "Lorsqu’il se bat, Magmar fait jaillir des flammes de son corps pour intimider son adversaire. Les explosions enflammées de ce Pokémon déclenchent des vagues de chaleur qui embrasent la végétation environnante.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Magmortar"
@@ -21694,7 +21694,7 @@
       }
     ],
     "candyToEvolve": 0,
-    "familyId": "FAMILY_MAGMAR",
+    "familyId": "FAMILY_MAGBY",
     "femalePercent": 0.25,
     "id": "126",
     "kmBuddyDistance": 5,
@@ -68385,7 +68385,7 @@
       }
     ],
     "candyToEvolve": 25,
-    "familyId": "FAMILY_ELECTABUZZ",
+    "familyId": "FAMILY_ELEKID",
     "femalePercent": 0.25,
     "id": "466",
     "kmBuddyDistance": 5,
@@ -68454,7 +68454,7 @@
         "baseDefense": 172,
         "baseStamina": 181,
         "descriptionDex": "Il peut terrasser ses ennemis d’une seule boule de feu. Il évite toutefois de s’en servir pour chasser, car sa proie finirait carbonisée.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             ""
@@ -68496,7 +68496,7 @@
       }
     ],
     "candyToEvolve": 25,
-    "familyId": "FAMILY_MAGMAR",
+    "familyId": "FAMILY_MAGBY",
     "femalePercent": 0.25,
     "id": "467",
     "kmBuddyDistance": 5,

@@ -2228,5 +2228,24 @@
       }
     ],
     "startDate": "13/07/2026 10:00"
+  },
+  {
+    "endDate": "03/08/2026 21:00",
+    "id": "b0717555-4ce1-466e-9bad-ffb4483ae3a0",
+    "name": "Lundynamax Magmar",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "126",
+        "pokemonNameFr": "Magmar",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "03/08/2026 06:00"
   }
 ]
