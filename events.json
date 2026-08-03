@@ -357,6 +357,18 @@
         "pokemonNameFr": "Magby",
         "raid": false,
         "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "636",
+        "pokemonNameFr": "Pyronille",
+        "raid": false,
+        "sauvage": false
       }
     ],
     "startDate": "08/08/2026 14:00"
