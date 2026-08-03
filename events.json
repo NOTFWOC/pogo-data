@@ -1,5 +1,1126 @@
 [
   {
+    "endDate": "10/08/2026 20:00",
+    "id": "c9fc4585-d626-4ee2-ae86-384f42771c67",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "77",
+        "pokemonNameFr": "Ponyta",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "10/08/2026 00:00"
+  },
+  {
+    "endDate": "09/08/2026 23:59",
+    "id": "d576e497-cd1b-432e-81eb-6549eb0d6e09",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "218",
+        "pokemonNameFr": "Limagma",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "582",
+        "pokemonNameFr": "Sorbébé",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "09/08/2026 00:00"
+  },
+  {
+    "endDate": "08/08/2026 23:59",
+    "id": "c8c329d9-63a7-498d-a986-49826fafc348",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "77",
+        "pokemonNameFr": "Ponyta",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "08/08/2026 00:00"
+  },
+  {
+    "endDate": "07/08/2026 23:59",
+    "id": "d84dc24c-eb41-4a16-8743-0b8258c63182",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "218",
+        "pokemonNameFr": "Limagma",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "582",
+        "pokemonNameFr": "Sorbébé",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "07/08/2026 00:00"
+  },
+  {
+    "endDate": "06/08/2026 19:00",
+    "id": "ba11cc2f-7088-4445-9782-ae2ec0dcc3a1",
+    "name": "Heure vedette Cadoizo",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "225",
+        "pokemonNameFr": "Cadoizo",
+        "raid": false,
+        "sauvage": true
+      }
+    ],
+    "startDate": "06/08/2026 18:00"
+  },
+  {
+    "endDate": "06/08/2026 23:59",
+    "id": "0b3def4c-cd76-4d86-9fad-d94917a7cc1a",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "77",
+        "pokemonNameFr": "Ponyta",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "06/08/2026 00:00"
+  },
+  {
+    "endDate": "05/08/2026 19:00",
+    "id": "c7aae557-38c7-4b1f-9a6b-be848bc8d1e6",
+    "name": "Heure de Raids Créfollet",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "481",
+        "pokemonNameFr": "Créfollet",
+        "raid": true,
+        "sauvage": false
+      }
+    ],
+    "startDate": "05/08/2026 18:00"
+  },
+  {
+    "endDate": "05/08/2026 23:59",
+    "id": "d61434d0-5a87-47f0-859c-12a9cda6b64f",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "218",
+        "pokemonNameFr": "Limagma",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "582",
+        "pokemonNameFr": "Sorbébé",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "05/08/2026 00:00"
+  },
+  {
+    "endDate": "04/08/2026 23:59",
+    "id": "fdbab0e6-da58-414f-a1ae-094de602ed3e",
+    "name": "Marathon estival Braises arctiques",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37",
+        "pokemonNameFr": "Goupix",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "37a",
+        "pokemonNameFr": "Goupix d\u0027Alola",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "58",
+        "pokemonNameFr": "Caninos",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "77",
+        "pokemonNameFr": "Ponyta",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Visière de marathon",
+        "encens": false,
+        "etudeTerrain": true,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "25vis",
+        "pokemonNameFr": "Pikachu",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "215",
+        "pokemonNameFr": "Farfuret",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "220",
+        "pokemonNameFr": "Marcacrin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "361",
+        "pokemonNameFr": "Stalgamin",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "459",
+        "pokemonNameFr": "Blizzi",
+        "raid": false,
+        "sauvage": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554",
+        "pokemonNameFr": "Darumarond",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "554g",
+        "pokemonNameFr": "Darumarond de Galar",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "850",
+        "pokemonNameFr": "Grillepattes",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "872",
+        "pokemonNameFr": "Frissonille",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "04/08/2026 10:00"
+  },
+  {
+    "endDate": "03/08/2026 21:00",
+    "id": "b0717555-4ce1-466e-9bad-ffb4483ae3a0",
+    "name": "Lundynamax Magmar",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "126",
+        "pokemonNameFr": "Magmar",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "03/08/2026 06:00"
+  },
+  {
     "endDate": "01/08/2026 17:00",
     "id": "74ab6de4-7670-4a57-801b-760f1f6898b3",
     "name": "Journée Combats Max Gorythmic Gigamax",
@@ -2230,22 +3351,33 @@
     "startDate": "13/07/2026 10:00"
   },
   {
-    "endDate": "03/08/2026 21:00",
-    "id": "b0717555-4ce1-466e-9bad-ffb4483ae3a0",
-    "name": "Lundynamax Magmar",
+    "endDate": "08/08/2026 17:00",
+    "id": "e636f7e7-093d-4b7c-ae64-8d90b65aa3d4",
+    "name": "Journée Éclosion Feu et Glace",
     "pokemons": [
       {
-        "combatDynamax": true,
+        "combatDynamax": false,
         "encens": false,
         "etudeTerrain": false,
-        "oeuf": false,
+        "oeuf": true,
         "photobomb": false,
-        "pokemonId": "126",
-        "pokemonNameFr": "Magmar",
+        "pokemonId": "239",
+        "pokemonNameFr": "Élekid",
+        "raid": false,
+        "sauvage": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "240",
+        "pokemonNameFr": "Magby",
         "raid": false,
         "sauvage": false
       }
     ],
-    "startDate": "03/08/2026 06:00"
+    "startDate": "08/08/2026 14:00"
   }
 ]
