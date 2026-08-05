@@ -91065,6 +91065,10 @@
           {
             "id": "652",
             "stadeEvo": 3
+          },
+          {
+            "id": "652meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -91158,6 +91162,10 @@
           {
             "id": "652",
             "stadeEvo": 3
+          },
+          {
+            "id": "652meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -91257,6 +91265,114 @@
         "dynamax": false,
         "evolutionData": {
           "namesEng": [
+            "Mega-Chesnaught"
+          ],
+          "namesFr": [
+            "Méga-Blindépique"
+          ]
+        },
+        "familyMembers": [
+          {
+            "id": "650",
+            "stadeEvo": 1
+          },
+          {
+            "id": "651",
+            "stadeEvo": 2
+          },
+          {
+            "id": "652",
+            "stadeEvo": 3
+          },
+          {
+            "id": "652meg",
+            "stadeEvo": 4
+          }
+        ],
+        "formImages": {
+          "male": "pm652.icon.png",
+          "maleshiny": "pm652.s.icon.png"
+        },
+        "genericName": "Blindépique",
+        "heightM": 1.6,
+        "nameFormEng": "Chesnaught",
+        "nameFormFr": "Blindépique",
+        "region": "KALOS",
+        "shadow": true,
+        "stadeEvo": 3,
+        "tradable": true,
+        "typeA": "PLANTE",
+        "typeB": "COMBAT",
+        "uniqueCode": "652",
+        "weightKg": 90.0
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balayage",
+            "type": "COMBAT"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Fouet Lianes",
+            "type": "PLANTE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Anti-Air",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Gyroballe",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éco-Sphère",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surpuissance",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Soleil",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Éclair",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Végé-Attaque",
+            "type": "PLANTE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 201,
+        "baseDefense": 204,
+        "baseStamina": 204,
+        "descriptionDex": "Son esprit protecteur et sa carapace renforcée partagent la même particularité : leur fermeté hors du commun.",
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
             ""
           ],
           "namesFr": [
@@ -91275,23 +91391,27 @@
           {
             "id": "652",
             "stadeEvo": 3
+          },
+          {
+            "id": "652meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
-          "male": "pm652.icon.png",
-          "maleshiny": "pm652.s.icon.png"
+          "maleshiny": "pm652.fMEGA.s.icon.png",
+          "male": "pm652.fMEGA.icon.png"
         },
-        "genericName": "Blindépique",
+        "genericName": "Méga-Blindépique",
         "heightM": 1.6,
-        "nameFormEng": "Chesnaught",
-        "nameFormFr": "Blindépique",
+        "nameFormEng": "Mega-Chesnaught",
+        "nameFormFr": "Méga-Blindépique",
         "region": "KALOS",
-        "shadow": true,
-        "stadeEvo": 3,
-        "tradable": true,
+        "shadow": false,
+        "stadeEvo": 4,
+        "tradable": false,
         "typeA": "PLANTE",
         "typeB": "COMBAT",
-        "uniqueCode": "652",
+        "uniqueCode": "652meg",
         "weightKg": 90.0
       }
     ],
@@ -91368,6 +91488,10 @@
           {
             "id": "655",
             "stadeEvo": 3
+          },
+          {
+            "id": "655meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -91461,6 +91585,10 @@
           {
             "id": "655",
             "stadeEvo": 3
+          },
+          {
+            "id": "655meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -91566,6 +91694,120 @@
         "dynamax": false,
         "evolutionData": {
           "namesEng": [
+            "Mega-Delphox"
+          ],
+          "namesFr": [
+            "Méga-Goupelin"
+          ]
+        },
+        "familyMembers": [
+          {
+            "id": "653",
+            "stadeEvo": 1
+          },
+          {
+            "id": "654",
+            "stadeEvo": 2
+          },
+          {
+            "id": "655",
+            "stadeEvo": 3
+          },
+          {
+            "id": "655meg",
+            "stadeEvo": 4
+          }
+        ],
+        "formImages": {
+          "male": "pm655.icon.png",
+          "maleshiny": "pm655.s.icon.png"
+        },
+        "genericName": "Goupelin",
+        "heightM": 1.5,
+        "nameFormEng": "Delphox",
+        "nameFormFr": "Goupelin",
+        "region": "KALOS",
+        "shadow": true,
+        "stadeEvo": 3,
+        "tradable": true,
+        "typeA": "FEU",
+        "typeB": "PSY",
+        "uniqueCode": "655",
+        "weightKg": 39.0
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Danse Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Lance-Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nitrocharge",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Déflagration",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Feu Ensorcelé",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Choc Psy",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Rafale Feu",
+            "type": "FEU"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 230,
+        "baseDefense": 189,
+        "baseStamina": 181,
+        "descriptionDex": "Il manipule des branches enflammées pour envoûter ses adversaires, puis réduit ces derniers en cendres avec une énorme boule de feu.",
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
             ""
           ],
           "namesFr": [
@@ -91584,23 +91826,27 @@
           {
             "id": "655",
             "stadeEvo": 3
+          },
+          {
+            "id": "655meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
-          "male": "pm655.icon.png",
-          "maleshiny": "pm655.s.icon.png"
+          "maleshiny": "pm655.fMEGA.s.icon.png",
+          "male": "pm655.fMEGA.icon.png"
         },
-        "genericName": "Goupelin",
+        "genericName": "Méga-Goupelin",
         "heightM": 1.5,
-        "nameFormEng": "Delphox",
-        "nameFormFr": "Goupelin",
+        "nameFormEng": "Mega-Delphox",
+        "nameFormFr": "Méga-Goupelin",
         "region": "KALOS",
-        "shadow": true,
-        "stadeEvo": 3,
-        "tradable": true,
+        "shadow": false,
+        "stadeEvo": 4,
+        "tradable": false,
         "typeA": "FEU",
         "typeB": "PSY",
-        "uniqueCode": "655",
+        "uniqueCode": "655meg",
         "weightKg": 39.0
       }
     ],
@@ -91704,6 +91950,10 @@
           {
             "id": "658",
             "stadeEvo": 3
+          },
+          {
+            "id": "658meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -91824,6 +92074,10 @@
           {
             "id": "658",
             "stadeEvo": 3
+          },
+          {
+            "id": "658meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -91944,6 +92198,108 @@
         "dynamax": false,
         "evolutionData": {
           "namesEng": [
+            "Mega-Greninja"
+          ],
+          "namesFr": [
+            "Méga-Amphinobi"
+          ]
+        },
+        "familyMembers": [
+          {
+            "id": "656",
+            "stadeEvo": 1
+          },
+          {
+            "id": "657",
+            "stadeEvo": 2
+          },
+          {
+            "id": "658",
+            "stadeEvo": 3
+          },
+          {
+            "id": "658meg",
+            "stadeEvo": 4
+          }
+        ],
+        "formImages": {
+          "male": "pm658.icon.png",
+          "maleshiny": "pm658.s.icon.png"
+        },
+        "genericName": "Amphinobi",
+        "heightM": 1.5,
+        "nameFormEng": "Greninja",
+        "nameFormFr": "Amphinobi",
+        "region": "KALOS",
+        "shadow": true,
+        "stadeEvo": 3,
+        "tradable": true,
+        "typeA": "EAU",
+        "typeB": "TENEBRES",
+        "uniqueCode": "658",
+        "weightKg": 40.0
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Feinte",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Écume",
+            "type": "EAU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Sheauriken",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tranche-Nuit",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Aéropique",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surf",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Hydrocanon",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Hydroblast",
+            "type": "EAU"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 223,
+        "baseDefense": 152,
+        "baseStamina": 176,
+        "descriptionDex": "Il fait tournoyer un shuriken géant à toute vitesse pour le faire flotter, puis s’y accroche la tête en bas afin de prendre ses ennemis par surprise.",
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
             ""
           ],
           "namesFr": [
@@ -91962,23 +92318,27 @@
           {
             "id": "658",
             "stadeEvo": 3
+          },
+          {
+            "id": "658meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
-          "male": "pm658.icon.png",
-          "maleshiny": "pm658.s.icon.png"
+          "maleshiny": "pm658.fMEGA.s.icon.png",
+          "male": "pm658.fMEGA.icon.png"
         },
-        "genericName": "Amphinobi",
+        "genericName": "Méga-Amphinobi",
         "heightM": 1.5,
-        "nameFormEng": "Greninja",
-        "nameFormFr": "Amphinobi",
+        "nameFormEng": "Mega-Greninja",
+        "nameFormFr": "Méga-Amphinobi",
         "region": "KALOS",
-        "shadow": true,
-        "stadeEvo": 3,
-        "tradable": true,
+        "shadow": false,
+        "stadeEvo": 4,
+        "tradable": false,
         "typeA": "EAU",
         "typeB": "TENEBRES",
-        "uniqueCode": "658",
+        "uniqueCode": "658meg",
         "weightKg": 40.0
       }
     ],
@@ -115315,7 +115675,7 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "SNIPE_SHOT",
+            "name": "Tir de Précision",
             "type": "EAU"
           },
           {
@@ -115407,7 +115767,7 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "SNIPE_SHOT",
+            "name": "Tir de Précision",
             "type": "EAU"
           },
           {
