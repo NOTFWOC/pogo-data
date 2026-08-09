@@ -1,5 +1,65 @@
 [
   {
+    "endDate": "13/08/2026 19:00",
+    "id": "6fdd36c1-d19e-4dca-b4c6-37523801ea5b",
+    "name": "Heure vedette Chenipotte",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "265",
+        "pokemonNameFr": "Chenipotte",
+        "raid": false,
+        "sauvage": true
+      }
+    ],
+    "startDate": "13/08/2026 18:00"
+  },
+  {
+    "endDate": "12/08/2026 19:00",
+    "id": "5eaf7bbf-125b-42f6-bdb7-9c93064bd1ed",
+    "name": "Heure de Raids Groudon",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "383",
+        "pokemonNameFr": "Groudon",
+        "raid": true,
+        "sauvage": false
+      }
+    ],
+    "startDate": "12/08/2026 18:00"
+  },
+  {
+    "endDate": "10/08/2026 21:00",
+    "id": "6d995655-0dc7-46d6-bc92-c74f38655069",
+    "name": "Lundynamax Terhal",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "374",
+        "pokemonNameFr": "Terhal",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "10/08/2026 06:00"
+  },
+  {
     "endDate": "10/08/2026 20:00",
     "id": "c9fc4585-d626-4ee2-ae86-384f42771c67",
     "name": "Marathon estival Braises arctiques",
@@ -1277,26 +1337,6 @@
       }
     ],
     "startDate": "01/08/2026 14:00"
-  },
-  {
-    "endDate": "30/07/2026 19:00",
-    "id": "6fdd36c1-d19e-4dca-b4c6-37523801ea5b",
-    "name": "Heure vedette Keunotor",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "399",
-        "pokemonNameFr": "Keunotor",
-        "raid": false,
-        "sauvage": true
-      }
-    ],
-    "startDate": "30/07/2026 18:00"
   },
   {
     "endDate": "29/07/2026 19:00",
@@ -3668,5 +3708,25 @@
       }
     ],
     "startDate": "13/07/2026 10:00"
+  },
+  {
+    "endDate": "16/08/2026 17:00",
+    "id": "58438831-451e-4bdd-b035-490b465e2619",
+    "name": "Jour de la communauté Goupilou",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "827",
+        "pokemonNameFr": "Goupilou",
+        "raid": false,
+        "sauvage": true
+      }
+    ],
+    "startDate": "16/08/2026 14:00"
   }
 ]
