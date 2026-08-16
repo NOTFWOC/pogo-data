@@ -1,5 +1,85 @@
 [
   {
+    "endDate": "20/08/2026 19:00",
+    "id": "e58bba08-18e8-4d3e-9b7c-dd36353b2cba",
+    "name": "Heure vedette Magicarpe",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "129",
+        "pokemonNameFr": "Magicarpe",
+        "raid": false,
+        "sauvage": true
+      }
+    ],
+    "startDate": "20/08/2026 18:00"
+  },
+  {
+    "endDate": "19/08/2026 19:00",
+    "id": "a7373ee0-e578-4ab9-8474-edf1468ac07a",
+    "name": "Heure légendaire Lunala",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "792",
+        "pokemonNameFr": "Lunala",
+        "raid": true,
+        "sauvage": false
+      }
+    ],
+    "startDate": "19/08/2026 18:00"
+  },
+  {
+    "endDate": "17/08/2026 19:00",
+    "id": "d46f7a80-82c1-4ae3-b031-2a2b9bc3e630",
+    "name": "Lundynamax Magicarpe",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "129",
+        "pokemonNameFr": "Magicarpe",
+        "raid": false,
+        "sauvage": false
+      }
+    ],
+    "startDate": "17/08/2026 18:00"
+  },
+  {
+    "endDate": "16/08/2026 17:00",
+    "id": "58438831-451e-4bdd-b035-490b465e2619",
+    "name": "Jour de la communauté Goupilou",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "827",
+        "pokemonNameFr": "Goupilou",
+        "raid": false,
+        "sauvage": true
+      }
+    ],
+    "startDate": "16/08/2026 14:00"
+  },
+  {
     "endDate": "13/08/2026 19:00",
     "id": "6fdd36c1-d19e-4dca-b4c6-37523801ea5b",
     "name": "Heure vedette Chenipotte",
@@ -3710,23 +3790,23 @@
     "startDate": "13/07/2026 10:00"
   },
   {
-    "endDate": "16/08/2026 17:00",
-    "id": "58438831-451e-4bdd-b035-490b465e2619",
-    "name": "Jour de la communauté Goupilou",
+    "endDate": "22/08/2026 17:00",
+    "id": "49cfe0d8-a013-4e49-99fe-280d711ad0d1",
+    "name": "Journée de Super Méga Raid Staross",
     "pokemons": [
       {
         "combatDynamax": false,
         "encens": false,
-        "etudeTerrain": true,
+        "etudeTerrain": false,
         "etudePonctuelle": false,
         "oeuf": false,
         "photobomb": false,
-        "pokemonId": "827",
-        "pokemonNameFr": "Goupilou",
-        "raid": false,
-        "sauvage": true
+        "pokemonId": "121meg",
+        "pokemonNameFr": "Méga-Staross",
+        "raid": true,
+        "sauvage": false
       }
     ],
-    "startDate": "16/08/2026 14:00"
+    "startDate": "22/08/2026 11:00"
   }
 ]
