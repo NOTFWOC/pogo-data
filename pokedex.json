@@ -20510,8 +20510,8 @@
             "type": "NORMAL"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 210,
         "baseDefense": 184,
         "baseStamina": 155,
