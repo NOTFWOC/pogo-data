@@ -21690,7 +21690,7 @@
         "baseDefense": 85,
         "baseStamina": 85,
         "descriptionDex": "Magicarpe est un Pokémon ridicule qui ne sait faire que des ronds dans l’eau ou se laisser porter par les courants. Son comportement a donné envie aux savants d’étudier son cas.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Gyarados"
@@ -21815,7 +21815,7 @@
         "baseDefense": 186,
         "baseStamina": 216,
         "descriptionDex": "Quand Magicarpe évolue et devient Léviator, la structure de ses cellules cérébrales est modifiée. On pense que l’extrême violence de ce Pokémon découle de cette modification.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Mega-Gyarados"
