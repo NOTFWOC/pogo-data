@@ -1,5 +1,25 @@
 [
   {
+    "endDate": "22/08/2026 17:00",
+    "id": "49cfe0d8-a013-4e49-99fe-280d711ad0d1",
+    "name": "Journée de Super Méga Raid Staross",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "121meg",
+        "pokemonNameFr": "Méga-Staross",
+        "raid": true,
+        "sauvage": false
+      }
+    ],
+    "startDate": "22/08/2026 11:00"
+  },
+  {
     "endDate": "20/08/2026 19:00",
     "id": "e58bba08-18e8-4d3e-9b7c-dd36353b2cba",
     "name": "Heure vedette Magicarpe",
@@ -40,7 +60,7 @@
     "startDate": "19/08/2026 18:00"
   },
   {
-    "endDate": "17/08/2026 19:00",
+    "endDate": "17/08/2026 21:00",
     "id": "d46f7a80-82c1-4ae3-b031-2a2b9bc3e630",
     "name": "Lundynamax Magicarpe",
     "pokemons": [
@@ -57,7 +77,7 @@
         "sauvage": false
       }
     ],
-    "startDate": "17/08/2026 18:00"
+    "startDate": "17/08/2026 06:00"
   },
   {
     "endDate": "16/08/2026 17:00",
@@ -3045,46 +3065,6 @@
     "startDate": "18/07/2026 10:00"
   },
   {
-    "endDate": "16/07/2026 19:00",
-    "id": "ce020f0c-5546-4080-9483-d9018088db1b",
-    "name": "Heure vedette Nosférapti",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "41",
-        "pokemonNameFr": "Nosferapti",
-        "raid": false,
-        "sauvage": true
-      }
-    ],
-    "startDate": "16/07/2026 18:00"
-  },
-  {
-    "endDate": "15/07/2026 19:00",
-    "id": "bb81063e-99da-49af-8228-dbb88f262b3f",
-    "name": "Heure de Raids Kyogre",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "382",
-        "pokemonNameFr": "Kyogre",
-        "raid": true,
-        "sauvage": false
-      }
-    ],
-    "startDate": "15/07/2026 18:00"
-  },
-  {
     "endDate": "18/07/2026 10:00",
     "id": "d83bc2be-37dd-4b6d-9c6c-ad577533f18b",
     "name": "Célébration de Pikachu anniversaire célébration 2",
@@ -3455,358 +3435,5 @@
       }
     ],
     "startDate": "15/07/2026 10:00"
-  },
-  {
-    "endDate": "15/07/2026 10:00",
-    "id": "07a34fbd-2f98-45c0-a2f9-2351f88e7729",
-    "name": "Célébration de Pikachu anniversaire célébration 1",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "costumeName": "Chapeau de sorcière",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ha",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Chenapan d’Halloween",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ha2",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Halloween",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ha3",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Chapeau Nouvel An",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ch3",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Chapeau de fête violet",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ch",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Estival",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25lu",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Malachite",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25cve",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Aigue-marine",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25cbl2",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Accessoires Bleu",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gfgb",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Accessoires Rouge",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gflr",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Accessoires Jaune",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gflj",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": true
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Monocle Bleu",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gfmb",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Monocle Rouge",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gfmr",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Monocle Jaune",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gfmj",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Safari",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25sa2",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Blouson d’université",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25wc4",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Améthyste",
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25cvi",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Championnats du Monde 2022",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25wc",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Championnats du Monde 2023",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25wc2",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Championnats du Monde 2024",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25wc3",
-        "pokemonNameFr": "Pikachu",
-        "raid": true,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Casquette de Leaf",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25a2b",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Casquette de Célesta",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25b2b",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Ruban de Flora",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ban",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Casquette de Red",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25ar",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": false
-      },
-      {
-        "combatDynamax": false,
-        "costumeName": "Chapeau de Meloetta",
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "25gf",
-        "pokemonNameFr": "Pikachu",
-        "raid": false,
-        "sauvage": false
-      }
-    ],
-    "startDate": "13/07/2026 10:00"
-  },
-  {
-    "endDate": "22/08/2026 17:00",
-    "id": "49cfe0d8-a013-4e49-99fe-280d711ad0d1",
-    "name": "Journée de Super Méga Raid Staross",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "121meg",
-        "pokemonNameFr": "Méga-Staross",
-        "raid": true,
-        "sauvage": false
-      }
-    ],
-    "startDate": "22/08/2026 11:00"
   }
 ]
