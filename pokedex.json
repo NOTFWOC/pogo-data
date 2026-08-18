@@ -7042,7 +7042,12 @@
         "baseStamina": 155,
         "descriptionDex": "Si ses joues contiennent trop d’électricité, Raichu plante sa queue dans le sol pour se décharger. On trouve des parcelles de terre brûlée à proximité du nid de ce Pokémon.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "26a",
+            "stadeEvo": 3
+          }
+        ],
         "formImages": {
           "male": "pm26.fALOLA.icon.png",
           "maleshiny": "pm26.fALOLA.s.icon.png"
@@ -18320,7 +18325,12 @@
         "baseStamina": 216,
         "descriptionDex": "Il utilise son grand cou comme un fouet et assène des coups de tête à son adversaire. Ces attaques l’étourdissent aussi un peu.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "103a",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm103.fALOLA.icon.png",
           "maleshiny": "pm103.fALOLA.s.icon.png"
@@ -18619,7 +18629,12 @@
         "baseStamina": 155,
         "descriptionDex": "Quand il frappe avec son os, des flammes maudites enveloppent sa cible. Rien ne peut éteindre ce feu éternel.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "105a",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm105.fALOLA.icon.png",
           "maleshiny": "pm105.fALOLA.s.icon.png"
@@ -19197,7 +19212,12 @@
         "baseStamina": 163,
         "descriptionDex": "Il aspire les particules polluantes dans l’air et excrète de l’air purifié.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "110g",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm110.fGALARIAN.icon.png",
           "maleshiny": "pm110.fGALARIAN.s.icon.png"
@@ -26978,7 +26998,12 @@
         "baseStamina": 177,
         "descriptionDex": "On dit qu’il purifie les âmes perdues à l’aide de ses flammes avant de les envoyer dans l’au-delà. Je pense que sa forme est influencée par la montagne sacrée située au cœur de Hisui.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "157h",
+            "stadeEvo": 3
+          }
+        ],
         "formImages": {
           "male": "pm157.fHISUIAN.icon.png",
           "maleshiny": "pm157.fHISUIAN.s.icon.png"
@@ -71649,7 +71674,12 @@
         "baseStamina": 207,
         "descriptionDex": "Cette fine lame au tempérament impitoyable est une évolution rare qui ne se produit qu’à Hisui. Ses attaques sont aussi ravageuses que les vagues déferlantes.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "503h",
+            "stadeEvo": 3
+          }
+        ],
         "formImages": {
           "male": "pm503.fHISUIAN.icon.png",
           "maleshiny": "pm503.fHISUIAN.s.icon.png"
@@ -76018,7 +76048,12 @@
         "baseStamina": 172,
         "descriptionDex": "Je spécule que ce Pokémon doit ses jambes musclées à son habitat dans les montagnes couvertes de neige épaisse. La fleur sur sa couronne exhale un parfum stimulant tout être alentour.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "549h",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm549.fHISUIAN.icon.png",
           "maleshiny": "pm549.fHISUIAN.s.icon.png"
@@ -76822,7 +76857,12 @@
         "baseStamina": 233,
         "descriptionDex": "Il entretient des flammes à 1 400 °C dans son corps. De quoi détruire un camion-benne d’un coup de poing !",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "555t",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm555.fZEN.icon.png",
           "maleshiny": "pm555.fZEN.s.icon.png"
@@ -76961,7 +77001,12 @@
         "baseStamina": 233,
         "descriptionDex": "Il conserve sa nourriture dans la boule de neige sur sa tête. Les jours de blizzard, il descend dans les villages habités par les humains.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "555gt",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm555.fGALARIAN_ZEN.icon.png",
           "maleshiny": "pm555.fGALARIAN_ZEN.s.icon.png"
@@ -99035,7 +99080,12 @@
             "Muplodocus de Hisui"
           ]
         },
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "705h",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm705.fHISUIAN.icon.png",
           "maleshiny": "pm705.fHISUIAN.s.icon.png"
@@ -99215,7 +99265,12 @@
         "baseStamina": 207,
         "descriptionDex": "Il peut moduler la rigidité de sa carapace de métal à volonté. Il abhorre la solitude et enrage si un être qu’il affectionne profondément l’abandonne.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "706h",
+            "stadeEvo": 3
+          }
+        ],
         "formImages": {
           "male": "pm706.fHISUIAN.icon.png",
           "maleshiny": "pm706.fHISUIAN.s.icon.png"
@@ -100585,7 +100640,12 @@
         "baseStamina": 216,
         "descriptionDex": "L’armure de glace qui enveloppe sa mâchoire inférieure peut\nbriser des rocs plus durs que l’acier. Il se meut vélocement\nen fendant la neige épaisse des chemins de montagne.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "713h",
+            "stadeEvo": 2
+          }
+        ],
         "formImages": {
           "male": "pm713.fHISUIAN.icon.png",
           "maleshiny": "pm713.fHISUIAN.s.icon.png"
@@ -102117,7 +102177,12 @@
         "baseStamina": 204,
         "descriptionDex": "Les plumes d’Archéduc le protègent de la froideur glaciale de Hisui grâce à l’air logé dans leur tige. Voici une preuve que l’environnement agit sur l’évolution des Pokémon.",
         "dynamax": false,
-        "familyMembers": [],
+        "familyMembers": [
+          {
+            "id": "724h",
+            "stadeEvo": 3
+          }
+        ],
         "formImages": {
           "male": "pm724.fHISUIAN.icon.png",
           "maleshiny": "pm724.fHISUIAN.s.icon.png"
@@ -113140,7 +113205,7 @@
             "type": "EAU"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 173,
         "baseDefense": 163,
@@ -113210,7 +113275,7 @@
             "type": "EAU"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 173,
         "baseDefense": 163,
@@ -113280,7 +113345,7 @@
             "type": "EAU"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 173,
         "baseDefense": 163,
@@ -113458,7 +113523,7 @@
             "type": "COMBAT"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 258,
         "baseDefense": 127,
