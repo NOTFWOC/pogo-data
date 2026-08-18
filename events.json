@@ -14,7 +14,13 @@
         "pokemonId": "121meg",
         "pokemonNameFr": "Méga-Staross",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "22/08/2026 11:00"
@@ -34,7 +40,13 @@
         "pokemonId": "129",
         "pokemonNameFr": "Magicarpe",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "20/08/2026 18:00"
@@ -54,7 +66,13 @@
         "pokemonId": "792",
         "pokemonNameFr": "Lunala",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "19/08/2026 18:00"
@@ -74,7 +92,13 @@
         "pokemonId": "129",
         "pokemonNameFr": "Magicarpe",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "17/08/2026 06:00"
@@ -94,7 +118,13 @@
         "pokemonId": "827",
         "pokemonNameFr": "Goupilou",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "16/08/2026 14:00"
@@ -114,7 +144,13 @@
         "pokemonId": "265",
         "pokemonNameFr": "Chenipotte",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "13/08/2026 18:00"
@@ -134,7 +170,13 @@
         "pokemonId": "383",
         "pokemonNameFr": "Groudon",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "12/08/2026 18:00"
@@ -154,7 +196,13 @@
         "pokemonId": "374",
         "pokemonNameFr": "Terhal",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "10/08/2026 06:00"
@@ -174,7 +222,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -186,7 +240,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -198,7 +258,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -210,7 +276,13 @@
         "pokemonId": "77",
         "pokemonNameFr": "Ponyta",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -223,7 +295,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -235,7 +313,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -247,7 +331,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -259,7 +349,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -271,7 +367,13 @@
         "pokemonId": "459",
         "pokemonNameFr": "Blizzi",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -283,7 +385,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -295,7 +403,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -307,7 +421,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -319,7 +439,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "10/08/2026 00:00"
@@ -339,7 +465,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -351,7 +483,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -363,7 +501,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -376,7 +520,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -388,7 +538,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -400,7 +556,13 @@
         "pokemonId": "218",
         "pokemonNameFr": "Limagma",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -412,7 +574,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -424,7 +592,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -436,7 +610,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -448,7 +628,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -460,7 +646,13 @@
         "pokemonId": "582",
         "pokemonNameFr": "Sorbébé",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -472,7 +664,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -484,7 +682,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "09/08/2026 00:00"
@@ -504,7 +708,13 @@
         "pokemonId": "239",
         "pokemonNameFr": "Élekid",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -516,7 +726,13 @@
         "pokemonId": "240",
         "pokemonNameFr": "Magby",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -528,7 +744,13 @@
         "pokemonId": "636",
         "pokemonNameFr": "Pyronille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "08/08/2026 11:00"
@@ -548,7 +770,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -560,7 +788,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -572,7 +806,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -584,7 +824,13 @@
         "pokemonId": "77",
         "pokemonNameFr": "Ponyta",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -597,7 +843,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -609,7 +861,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -621,7 +879,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -633,7 +897,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -645,7 +915,13 @@
         "pokemonId": "459",
         "pokemonNameFr": "Blizzi",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -657,7 +933,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -669,7 +951,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -681,7 +969,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -693,7 +987,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "08/08/2026 00:00"
@@ -713,7 +1013,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -725,7 +1031,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -737,7 +1049,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -750,7 +1068,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -762,7 +1086,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -774,7 +1104,13 @@
         "pokemonId": "218",
         "pokemonNameFr": "Limagma",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -786,7 +1122,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -798,7 +1140,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -810,7 +1158,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -822,7 +1176,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -834,7 +1194,13 @@
         "pokemonId": "582",
         "pokemonNameFr": "Sorbébé",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -846,7 +1212,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -858,7 +1230,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "07/08/2026 00:00"
@@ -878,7 +1256,13 @@
         "pokemonId": "225",
         "pokemonNameFr": "Cadoizo",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "06/08/2026 18:00"
@@ -898,7 +1282,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -910,7 +1300,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -922,7 +1318,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -934,7 +1336,13 @@
         "pokemonId": "77",
         "pokemonNameFr": "Ponyta",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -947,7 +1355,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -959,7 +1373,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -971,7 +1391,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -983,7 +1409,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -995,7 +1427,13 @@
         "pokemonId": "459",
         "pokemonNameFr": "Blizzi",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1007,7 +1445,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1019,7 +1463,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1031,7 +1481,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1043,7 +1499,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "06/08/2026 00:00"
@@ -1063,7 +1525,13 @@
         "pokemonId": "481",
         "pokemonNameFr": "Créfollet",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "05/08/2026 18:00"
@@ -1083,7 +1551,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1095,7 +1569,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1107,7 +1587,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1120,7 +1606,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1132,7 +1624,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1144,7 +1642,13 @@
         "pokemonId": "218",
         "pokemonNameFr": "Limagma",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1156,7 +1660,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1168,7 +1678,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1180,7 +1696,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1192,7 +1714,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1204,7 +1732,13 @@
         "pokemonId": "582",
         "pokemonNameFr": "Sorbébé",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1216,7 +1750,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1228,7 +1768,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "05/08/2026 00:00"
@@ -1248,7 +1794,13 @@
         "pokemonId": "37",
         "pokemonNameFr": "Goupix",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1260,7 +1812,13 @@
         "pokemonId": "37a",
         "pokemonNameFr": "Goupix d\u0027Alola",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1272,7 +1830,13 @@
         "pokemonId": "58",
         "pokemonNameFr": "Caninos",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1284,7 +1848,13 @@
         "pokemonId": "77",
         "pokemonNameFr": "Ponyta",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1297,7 +1867,13 @@
         "pokemonId": "25vis",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1309,7 +1885,13 @@
         "pokemonId": "215",
         "pokemonNameFr": "Farfuret",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1321,7 +1903,13 @@
         "pokemonId": "220",
         "pokemonNameFr": "Marcacrin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1333,7 +1921,13 @@
         "pokemonId": "361",
         "pokemonNameFr": "Stalgamin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1345,7 +1939,13 @@
         "pokemonId": "459",
         "pokemonNameFr": "Blizzi",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1357,7 +1957,13 @@
         "pokemonId": "554",
         "pokemonNameFr": "Darumarond",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1369,7 +1975,13 @@
         "pokemonId": "554g",
         "pokemonNameFr": "Darumarond de Galar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1381,7 +1993,13 @@
         "pokemonId": "850",
         "pokemonNameFr": "Grillepattes",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1393,7 +2011,13 @@
         "pokemonId": "872",
         "pokemonNameFr": "Frissonille",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "04/08/2026 10:00"
@@ -1413,7 +2037,13 @@
         "pokemonId": "126",
         "pokemonNameFr": "Magmar",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "03/08/2026 06:00"
@@ -1433,7 +2063,13 @@
         "pokemonId": "812gig",
         "pokemonNameFr": "Gorythmic Gigamax",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "01/08/2026 14:00"
@@ -1453,7 +2089,13 @@
         "pokemonId": "646",
         "pokemonNameFr": "Kyurem",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "29/07/2026 18:00"
@@ -1473,7 +2115,13 @@
         "pokemonId": "755",
         "pokemonNameFr": "Spododo",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1485,7 +2133,13 @@
         "pokemonId": "859",
         "pokemonNameFr": "Grimalin",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "28/07/2026 10:00"
@@ -1505,7 +2159,13 @@
         "pokemonId": "349",
         "pokemonNameFr": "Barpau",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "27/07/2026 06:00"
@@ -1525,7 +2185,13 @@
         "pokemonId": "1",
         "pokemonNameFr": "Bulbizarre",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1537,7 +2203,13 @@
         "pokemonId": "4",
         "pokemonNameFr": "Salamèche",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1549,7 +2221,13 @@
         "pokemonId": "7",
         "pokemonNameFr": "Carapuce",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1561,7 +2239,13 @@
         "pokemonId": "152",
         "pokemonNameFr": "Germignon",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1573,7 +2257,13 @@
         "pokemonId": "155",
         "pokemonNameFr": "Héricendre",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1585,7 +2275,13 @@
         "pokemonId": "158",
         "pokemonNameFr": "Kaiminus",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1597,7 +2293,13 @@
         "pokemonId": "252",
         "pokemonNameFr": "Arcko",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1609,7 +2311,13 @@
         "pokemonId": "255",
         "pokemonNameFr": "Poussifeu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1621,7 +2329,13 @@
         "pokemonId": "258",
         "pokemonNameFr": "Gobou",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1633,7 +2347,13 @@
         "pokemonId": "387",
         "pokemonNameFr": "Tortipouss",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1645,7 +2365,13 @@
         "pokemonId": "390",
         "pokemonNameFr": "Ouisticram",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1657,7 +2383,13 @@
         "pokemonId": "393",
         "pokemonNameFr": "Tiplouf",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1669,7 +2401,13 @@
         "pokemonId": "495",
         "pokemonNameFr": "Vipélierre",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1681,7 +2419,13 @@
         "pokemonId": "498",
         "pokemonNameFr": "Gruikui",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1693,7 +2437,13 @@
         "pokemonId": "501",
         "pokemonNameFr": "Moustillon",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1705,7 +2455,13 @@
         "pokemonId": "650",
         "pokemonNameFr": "Marisson",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1717,7 +2473,13 @@
         "pokemonId": "653",
         "pokemonNameFr": "Feunnec",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1729,7 +2491,13 @@
         "pokemonId": "656",
         "pokemonNameFr": "Grenousse",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1741,7 +2509,13 @@
         "pokemonId": "722",
         "pokemonNameFr": "Brindibou",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1753,7 +2527,13 @@
         "pokemonId": "725",
         "pokemonNameFr": "Flamiaou",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1765,7 +2545,13 @@
         "pokemonId": "728",
         "pokemonNameFr": "Otaquin",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1777,7 +2563,13 @@
         "pokemonId": "810",
         "pokemonNameFr": "Ouistempo",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1789,7 +2581,13 @@
         "pokemonId": "813",
         "pokemonNameFr": "Flambino",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1801,7 +2599,13 @@
         "pokemonId": "816",
         "pokemonNameFr": "Larméléon",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1813,7 +2617,13 @@
         "pokemonId": "906",
         "pokemonNameFr": "Poussacha",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1825,7 +2635,13 @@
         "pokemonId": "909",
         "pokemonNameFr": "Chochodile",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1837,7 +2653,13 @@
         "pokemonId": "912",
         "pokemonNameFr": "Coiffeton",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "25/07/2026 10:00"
@@ -1857,7 +2679,13 @@
         "pokemonId": "133",
         "pokemonNameFr": "Évoli",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "23/07/2026 18:00"
@@ -1877,7 +2705,13 @@
         "pokemonId": "1",
         "pokemonNameFr": "Bulbizarre",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1889,7 +2723,13 @@
         "pokemonId": "4",
         "pokemonNameFr": "Salamèche",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1901,7 +2741,13 @@
         "pokemonId": "7",
         "pokemonNameFr": "Carapuce",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1913,7 +2759,13 @@
         "pokemonId": "152",
         "pokemonNameFr": "Germignon",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1925,7 +2777,13 @@
         "pokemonId": "155",
         "pokemonNameFr": "Héricendre",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1937,7 +2795,13 @@
         "pokemonId": "158",
         "pokemonNameFr": "Kaiminus",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1949,7 +2813,13 @@
         "pokemonId": "252",
         "pokemonNameFr": "Arcko",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1961,7 +2831,13 @@
         "pokemonId": "255",
         "pokemonNameFr": "Poussifeu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1973,7 +2849,13 @@
         "pokemonId": "258",
         "pokemonNameFr": "Gobou",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1985,7 +2867,13 @@
         "pokemonId": "387",
         "pokemonNameFr": "Tortipouss",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -1997,7 +2885,13 @@
         "pokemonId": "390",
         "pokemonNameFr": "Ouisticram",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2009,7 +2903,13 @@
         "pokemonId": "393",
         "pokemonNameFr": "Tiplouf",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2021,7 +2921,13 @@
         "pokemonId": "495",
         "pokemonNameFr": "Vipélierre",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2033,7 +2939,13 @@
         "pokemonId": "498",
         "pokemonNameFr": "Gruikui",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2045,7 +2957,13 @@
         "pokemonId": "501",
         "pokemonNameFr": "Moustillon",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2057,7 +2975,13 @@
         "pokemonId": "650",
         "pokemonNameFr": "Marisson",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2069,7 +2993,13 @@
         "pokemonId": "653",
         "pokemonNameFr": "Feunnec",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2081,7 +3011,13 @@
         "pokemonId": "656",
         "pokemonNameFr": "Grenousse",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2093,7 +3029,13 @@
         "pokemonId": "722",
         "pokemonNameFr": "Brindibou",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2105,7 +3047,13 @@
         "pokemonId": "725",
         "pokemonNameFr": "Flamiaou",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2117,7 +3065,13 @@
         "pokemonId": "728",
         "pokemonNameFr": "Otaquin",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2129,7 +3083,13 @@
         "pokemonId": "810",
         "pokemonNameFr": "Ouistempo",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2141,7 +3101,13 @@
         "pokemonId": "813",
         "pokemonNameFr": "Flambino",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2153,7 +3119,13 @@
         "pokemonId": "816",
         "pokemonNameFr": "Larméléon",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2165,7 +3137,13 @@
         "pokemonId": "906",
         "pokemonNameFr": "Poussacha",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2177,7 +3155,13 @@
         "pokemonId": "909",
         "pokemonNameFr": "Chochodile",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2189,7 +3173,13 @@
         "pokemonId": "912",
         "pokemonNameFr": "Coiffeton",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "23/07/2026 10:00"
@@ -2209,7 +3199,13 @@
         "pokemonId": "791",
         "pokemonNameFr": "Solgaleo",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "22/07/2026 18:00"
@@ -2230,7 +3226,13 @@
         "pokemonId": "88ch",
         "pokemonNameFr": "Tadmorv",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2243,7 +3245,13 @@
         "pokemonId": "20ch",
         "pokemonNameFr": "Rattatac",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2256,7 +3264,13 @@
         "pokemonId": "33ch",
         "pokemonNameFr": "Nidorino",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2269,7 +3283,13 @@
         "pokemonId": "94ch",
         "pokemonNameFr": "Ectoplasma",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2282,7 +3302,13 @@
         "pokemonId": "202ch",
         "pokemonNameFr": "Qulbutoké",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2295,7 +3321,13 @@
         "pokemonId": "25wil",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "21/07/2026 10:00"
@@ -2315,7 +3347,13 @@
         "pokemonId": "1",
         "pokemonNameFr": "Bulbizarre",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2327,7 +3365,13 @@
         "pokemonId": "4",
         "pokemonNameFr": "Salamèche",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2339,7 +3383,13 @@
         "pokemonId": "7",
         "pokemonNameFr": "Carapuce",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2351,7 +3401,13 @@
         "pokemonId": "152",
         "pokemonNameFr": "Germignon",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2363,7 +3419,13 @@
         "pokemonId": "155",
         "pokemonNameFr": "Héricendre",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2375,7 +3437,13 @@
         "pokemonId": "158",
         "pokemonNameFr": "Kaiminus",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2387,7 +3455,13 @@
         "pokemonId": "252",
         "pokemonNameFr": "Arcko",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2399,7 +3473,13 @@
         "pokemonId": "255",
         "pokemonNameFr": "Poussifeu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2411,7 +3491,13 @@
         "pokemonId": "258",
         "pokemonNameFr": "Gobou",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2423,7 +3509,13 @@
         "pokemonId": "387",
         "pokemonNameFr": "Tortipouss",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2435,7 +3527,13 @@
         "pokemonId": "390",
         "pokemonNameFr": "Ouisticram",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2447,7 +3545,13 @@
         "pokemonId": "393",
         "pokemonNameFr": "Tiplouf",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2459,7 +3563,13 @@
         "pokemonId": "495",
         "pokemonNameFr": "Vipélierre",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2471,7 +3581,13 @@
         "pokemonId": "498",
         "pokemonNameFr": "Gruikui",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2483,7 +3599,13 @@
         "pokemonId": "501",
         "pokemonNameFr": "Moustillon",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2495,7 +3617,13 @@
         "pokemonId": "650",
         "pokemonNameFr": "Marisson",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2507,7 +3635,13 @@
         "pokemonId": "653",
         "pokemonNameFr": "Feunnec",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2519,7 +3653,13 @@
         "pokemonId": "656",
         "pokemonNameFr": "Grenousse",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2531,7 +3671,13 @@
         "pokemonId": "722",
         "pokemonNameFr": "Brindibou",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2543,7 +3689,13 @@
         "pokemonId": "725",
         "pokemonNameFr": "Flamiaou",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2555,7 +3707,13 @@
         "pokemonId": "728",
         "pokemonNameFr": "Otaquin",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2567,7 +3725,13 @@
         "pokemonId": "810",
         "pokemonNameFr": "Ouistempo",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2579,7 +3743,13 @@
         "pokemonId": "813",
         "pokemonNameFr": "Flambino",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2591,7 +3761,13 @@
         "pokemonId": "816",
         "pokemonNameFr": "Larméléon",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2603,7 +3779,13 @@
         "pokemonId": "906",
         "pokemonNameFr": "Poussacha",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2615,7 +3797,13 @@
         "pokemonId": "909",
         "pokemonNameFr": "Chochodile",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2627,7 +3815,13 @@
         "pokemonId": "912",
         "pokemonNameFr": "Coiffeton",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "21/07/2026 10:00"
@@ -2648,7 +3842,13 @@
         "pokemonId": "25wil",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "21/07/2026 10:00"
@@ -2668,7 +3868,13 @@
         "pokemonId": "568",
         "pokemonNameFr": "Miamiasme",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "20/07/2026 06:00"
@@ -2688,7 +3894,13 @@
         "pokemonId": "26megx",
         "pokemonNameFr": "Méga-Raichu X",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2700,7 +3912,13 @@
         "pokemonId": "26megy",
         "pokemonNameFr": "Méga-Raichu Y",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "18/07/2026 14:00"
@@ -2721,7 +3939,13 @@
         "pokemonId": "25fl",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2734,7 +3958,13 @@
         "pokemonId": "25cf",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2747,7 +3977,13 @@
         "pokemonId": "25ga",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2760,7 +3996,13 @@
         "pokemonId": "25na",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2773,7 +4015,13 @@
         "pokemonId": "25fl2",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2786,7 +4034,13 @@
         "pokemonId": "25ba5",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2799,7 +4053,13 @@
         "pokemonId": "25sol",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2812,7 +4072,13 @@
         "pokemonId": "25lun",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2825,7 +4091,13 @@
         "pokemonId": "25gflr",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2838,7 +4110,13 @@
         "pokemonId": "25gfgb",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2851,7 +4129,13 @@
         "pokemonId": "25gflj",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2864,7 +4148,13 @@
         "pokemonId": "25sa2",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2877,7 +4167,13 @@
         "pokemonId": "25wc",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2890,7 +4186,13 @@
         "pokemonId": "25gfmr",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2903,7 +4205,13 @@
         "pokemonId": "25gfmb",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2916,7 +4224,13 @@
         "pokemonId": "25gfmj",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2929,7 +4243,13 @@
         "pokemonId": "25cvi",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2942,7 +4262,13 @@
         "pokemonId": "25wc2",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2955,7 +4281,13 @@
         "pokemonId": "25wc3",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2968,7 +4300,13 @@
         "pokemonId": "25wc4",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2981,7 +4319,13 @@
         "pokemonId": "25ech",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -2994,7 +4338,13 @@
         "pokemonId": "25gtcr",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3007,7 +4357,13 @@
         "pokemonId": "25gtvr",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3020,7 +4376,13 @@
         "pokemonId": "25gtcb",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3033,7 +4395,13 @@
         "pokemonId": "25gtvb",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3046,7 +4414,13 @@
         "pokemonId": "25cr",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3059,7 +4433,13 @@
         "pokemonId": "25c2r",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "18/07/2026 10:00"
@@ -3080,7 +4460,13 @@
         "pokemonId": "25no",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3093,7 +4479,13 @@
         "pokemonId": "25no4",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3106,7 +4498,13 @@
         "pokemonId": "25ch2",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3119,7 +4517,13 @@
         "pokemonId": "25cja",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3132,7 +4536,13 @@
         "pokemonId": "25no3",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3145,7 +4555,13 @@
         "pokemonId": "25no2",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3158,7 +4574,13 @@
         "pokemonId": "25ba",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3171,7 +4593,13 @@
         "pokemonId": "25cro",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3184,7 +4612,13 @@
         "pokemonId": "25gfgb",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3197,7 +4631,13 @@
         "pokemonId": "25gflr",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3210,7 +4650,13 @@
         "pokemonId": "25gflj",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": true
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3223,7 +4669,13 @@
         "pokemonId": "25gfmb",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3236,7 +4688,13 @@
         "pokemonId": "25gfmr",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3249,7 +4707,13 @@
         "pokemonId": "25gfmj",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3262,7 +4726,13 @@
         "pokemonId": "25sa2",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3275,7 +4745,13 @@
         "pokemonId": "25wc4",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3288,7 +4764,13 @@
         "pokemonId": "25cvi",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3301,7 +4783,13 @@
         "pokemonId": "25wc",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3314,7 +4802,13 @@
         "pokemonId": "25wc2",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3327,7 +4821,13 @@
         "pokemonId": "25wc3",
         "pokemonNameFr": "Pikachu",
         "raid": true,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3340,7 +4840,13 @@
         "pokemonId": "25gbb",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3353,7 +4859,13 @@
         "pokemonId": "25bon",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3366,7 +4878,13 @@
         "pokemonId": "25gab",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3379,7 +4897,13 @@
         "pokemonId": "25bjn",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3392,7 +4916,13 @@
         "pokemonId": "25gar",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3405,7 +4935,13 @@
         "pokemonId": "25ban",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3418,7 +4954,13 @@
         "pokemonId": "25gbr",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       },
       {
         "combatDynamax": false,
@@ -3431,9 +4973,511 @@
         "pokemonId": "25gf2",
         "pokemonNameFr": "Pikachu",
         "raid": false,
-        "sauvage": false
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
       }
     ],
     "startDate": "15/07/2026 10:00"
+  },
+  {
+    "endDate": "24/08/2026 20:00",
+    "id": "19fa9c6f-c0be-4358-9221-e1062ed4e468",
+    "name": "Ultra Bonus Festival Aquatique",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "costumeName": "Écharpe",
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "131np",
+        "pokemonNameFr": "Lokhlass",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "costumeName": "Bouée",
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "54bo",
+        "pokemonNameFr": "Psykokwak",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "54",
+        "pokemonNameFr": "Psykokwak",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "72",
+        "pokemonNameFr": "Tentacool",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "118",
+        "pokemonNameFr": "Poissirène",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "129",
+        "pokemonNameFr": "Magicarpe",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "130",
+        "pokemonNameFr": "Léviator",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "183",
+        "pokemonNameFr": "Marill",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "298",
+        "pokemonNameFr": "Azurill",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "320",
+        "pokemonNameFr": "Wailmer",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "341",
+        "pokemonNameFr": "Écrapince",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "349",
+        "pokemonNameFr": "Barpau",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "366",
+        "pokemonNameFr": "Coquiperl",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "458",
+        "pokemonNameFr": "Babimanta",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "503h",
+        "pokemonNameFr": "Clamiral d\u0027Hisui",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "580",
+        "pokemonNameFr": "Couaneton",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "592",
+        "pokemonNameFr": "Viskuse",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "747",
+        "pokemonNameFr": "Vorastérie",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "751",
+        "pokemonNameFr": "Araqua",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "767",
+        "pokemonNameFr": "Sovkipou",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": true,
+        "photobomb": false,
+        "pokemonId": "845",
+        "pokemonNameFr": "Nigosier",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": true
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "846",
+        "pokemonNameFr": "Embrochet",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": true,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "960",
+        "pokemonNameFr": "Taupikeau",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "977",
+        "pokemonNameFr": "Oyacata",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "978ra",
+        "pokemonNameFr": "Nigirigon Forme Raide",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "978co",
+        "pokemonNameFr": "Nigirigon Forme Courbée",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "978af",
+        "pokemonNameFr": "Nigirigon Forme Affalée",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "18/08/2026 10:00"
   }
 ]
