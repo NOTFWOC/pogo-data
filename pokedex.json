@@ -113288,7 +113288,7 @@
             "type": "COMBAT"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 118,
         "baseDefense": 72,
