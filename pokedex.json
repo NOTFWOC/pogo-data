@@ -39198,7 +39198,7 @@
         "baseDefense": 207,
         "baseStamina": 137,
         "descriptionDex": "Kapoera tournoie à toute vitesse sur sa tête, tout en donnant des coups de pied. Cette technique combine des attaques offensives et défensives. Ce Pokémon se déplace plus vite sur la tête qu’en marchant.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "236",
@@ -56489,7 +56489,7 @@
         "genericName": "Groudon",
         "heightM": 3.51,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1492876590235914290/image-270.png?ex\u003d69ecbf2b\u0026is\u003d69eb6dab\u0026hm\u003dc1cd62d60ff01ba31916f2ed931b365a1f42e2bd75eefdb36e315b2794716324\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1536087700728193034/image-220.png?ex\u003d6a8bece6\u0026is\u003d6a8a9b66\u0026hm\u003d796419fcb53a6064ab0ea0971157bf35b1417933d359730e6852bf13f6b051ae"
         },
         "nameFormEng": "Groudon",
         "nameFormFr": "Groudon",
@@ -68236,7 +68236,7 @@
         "genericName": "Créhelf",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940339180703744/image-274.png?ex\u003d6a7250c4\u0026is\u003d6a70ff44\u0026hm\u003dcdaafbdfe9cf952109e27faebd35f22a5c95ea2663e78c6683547241502af444\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1533940339180703744/image-274.png?ex\u003d6a8c0604\u0026is\u003d6a8ab484\u0026hm\u003d9af736c203e272d29887f38668404373f4ff73b2bfe63db768eaf618f2120543"
         },
         "nameFormEng": "Uxie",
         "nameFormFr": "Créhelf",
@@ -68315,7 +68315,7 @@
         "genericName": "Créfollet",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940338778177636/image-263.png?ex\u003d6a7250c3\u0026is\u003d6a70ff43\u0026hm\u003d59f1eed9334c612f801e44a9a81a1c309b09ee86db1a18d83f52cbfe346c6272\u0026"
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1533940338778177636/image-263.png?ex\u003d6a8c0603\u0026is\u003d6a8ab483\u0026hm\u003d7c92a5a4d387292f1a28eba8c6b0584cb19ea2e514b5c2613d2ca288ede299a2\u0026\u003d"
         },
         "nameFormEng": "Mesprit",
         "nameFormFr": "Créfollet",
@@ -68394,7 +68394,7 @@
         "genericName": "Créfadet",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940338266210416/image-364.png?ex\u003d6a7250c3\u0026is\u003d6a70ff43\u0026hm\u003da7e4717c7b2e509f1abf7354478ccf55ba7daff676ff545694130b0065e6b9a5\u0026"
+          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940338266210416/image-364.png?ex\u003d6a8c0603\u0026is\u003d6a8ab483\u0026hm\u003d097f83936408c42457ccab600b34f7d3b8714a840b3a8f11cdd88026d7aec5a5"
         },
         "nameFormEng": "Azelf",
         "nameFormFr": "Créfadet",
@@ -68955,7 +68955,7 @@
         "genericName": "Giratina",
         "heightM": 4.5,
         "infographicData": {
-          "imgShadowInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940339771969546/image-237.png?ex\u003d6a7250c4\u0026is\u003d6a70ff44\u0026hm\u003d95be7ffc8ffc37bf86c2a68254bb229af700f3747d4b31162b41aae1d466bc6c\u0026"
+          "imgShadowInfografic": "https://media.discordapp.net/attachments/753217293756137542/1533940339771969546/image-237.png?ex\u003d6a8c0604\u0026is\u003d6a8ab484\u0026hm\u003d522b6cbbf7894679e4c0a2a58600a588e26eccf0bc84483330a9091239c633c6"
         },
         "nameFormEng": "Giratina Altered Forme",
         "nameFormFr": "Giratina Forme Alternative",
@@ -108382,6 +108382,9 @@
         },
         "genericName": "Lunala",
         "heightM": 4.0,
+        "infographicData": {
+          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1538486489984270386/image-135.png?ex\u003d6a8c1532\u0026is\u003d6a8ac3b2\u0026hm\u003d56436ff2da29a3316929567a968a030625b153c0b006dd544825c415bdf375be"
+        },
         "nameFormEng": "Lunala",
         "nameFormFr": "Lunala",
         "region": "ALOLA",
@@ -111846,6 +111849,12 @@
             "legacy": false,
             "name": "Câlinerie",
             "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Vent Glace",
+            "type": "GLACE"
           }
         ],
         "avalaibleInPogo": true,
