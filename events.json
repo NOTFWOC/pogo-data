@@ -406,6 +406,68 @@
     "startDate": "28/08/2026 10:00"
   },
   {
+    "endDate": "26/08/2026 19:00",
+    "id": "ddb7d6a1-1f95-48bb-8e0b-b4b1ad8e0025",
+    "name": "Heure légendaire Régi",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "377",
+        "pokemonNameFr": "Regirock",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "378",
+        "pokemonNameFr": "Regice",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "379",
+        "pokemonNameFr": "Registeel",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "26/08/2026 18:00"
+  },
+  {
     "endDate": "28/09/2026 10:00",
     "id": "5371dbc3-c72a-4a3e-b715-d2efb157694b",
     "name": "Célébration des Championnats du Monde 2026",
@@ -6298,5 +6360,31 @@
       }
     ],
     "startDate": "15/07/2026 10:00"
+  },
+  {
+    "endDate": "27/08/2026 19:00",
+    "id": "1fb128f2-a68a-4970-a2e7-c8a175d2bb30",
+    "name": "Heure vedette Férosinge",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "56",
+        "pokemonNameFr": "Férosinge",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "27/08/2026 18:00"
   }
 ]
