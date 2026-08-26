@@ -58181,6 +58181,10 @@
           {
             "id": "398",
             "stadeEvo": 3
+          },
+          {
+            "id": "398meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -58288,6 +58292,10 @@
           {
             "id": "398",
             "stadeEvo": 3
+          },
+          {
+            "id": "398meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -58381,6 +58389,14 @@
         "baseStamina": 198,
         "descriptionDex": "Lorsque Étourvol évolue en Étouraptor, il quitte son groupe pour vivre seul. Ses ailes sont très développées.",
         "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            "Mega-Staraptor"
+          ],
+          "namesFr": [
+            "Méga-Étouraptor"
+          ]
+        },
         "familyMembers": [
           {
             "id": "396",
@@ -58393,6 +58409,10 @@
           {
             "id": "398",
             "stadeEvo": 3
+          },
+          {
+            "id": "398meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -58412,6 +58432,100 @@
         "typeA": "NORMAL",
         "typeB": "VOL",
         "uniqueCode": "398",
+        "weightKg": 24.9
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Cru-Ailes",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vive-Attaque",
+            "type": "NORMAL"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Jet de Sable",
+            "type": "SOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rapace",
+            "type": "VOL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Canicule",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Close Combat",
+            "type": "COMBAT"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vol",
+            "type": "VOL"
+          },
+          {
+            "charged": false,
+            "legacy": true,
+            "name": "Tornade",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 234,
+        "baseDefense": 140,
+        "baseStamina": 198,
+        "descriptionDex": "Ses prouesses en vol sont incomparables. Il peut traverser le ciel sans effort en portant un Steelix de plus de 400 kg.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "396",
+            "stadeEvo": 1
+          },
+          {
+            "id": "397",
+            "stadeEvo": 2
+          },
+          {
+            "id": "398",
+            "stadeEvo": 3
+          },
+          {
+            "id": "398meg",
+            "stadeEvo": 4
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm398.fMEGA.s.icon.png",
+          "male": "pm398.fMEGA.icon.png"
+        },
+        "genericName": "Méga-Étouraptor",
+        "heightM": 1.2,
+        "nameFormEng": "Mega-Staraptor",
+        "nameFormFr": "Méga-Étouraptor",
+        "region": "SINNOH",
+        "shadow": false,
+        "stadeEvo": 4,
+        "tradable": false,
+        "typeA": "NORMAL",
+        "typeB": "VOL",
+        "uniqueCode": "398meg",
         "weightKg": 24.9
       }
     ],
@@ -82502,6 +82616,10 @@
           {
             "id": "609",
             "stadeEvo": 3
+          },
+          {
+            "id": "609meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -82595,6 +82713,10 @@
           {
             "id": "609",
             "stadeEvo": 3
+          },
+          {
+            "id": "609meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -82686,6 +82808,14 @@
         "baseStamina": 155,
         "descriptionDex": "Les âmes consumées par ses flammes étranges sont condamnées à l’errance pour l’éternité.",
         "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            "Mega-Chandelure"
+          ],
+          "namesFr": [
+            "Méga-Lugulabre"
+          ]
+        },
         "familyMembers": [
           {
             "id": "607",
@@ -82698,6 +82828,10 @@
           {
             "id": "609",
             "stadeEvo": 3
+          },
+          {
+            "id": "609meg",
+            "stadeEvo": 4
           }
         ],
         "formImages": {
@@ -82715,6 +82849,100 @@
         "typeA": "SPECTRE",
         "typeB": "FEU",
         "uniqueCode": "609",
+        "weightKg": 34.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Danse Flammes",
+            "type": "FEU"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Calcination",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éco-Sphère",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ball’Ombre",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Surchauffe",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Nitrocharge",
+            "type": "FEU"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Esprit Frappeur",
+            "type": "SPECTRE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 271,
+        "baseDefense": 182,
+        "baseStamina": 155,
+        "descriptionDex": "Ce Pokémon aspire la rancune et la convertit en puissance. L’un de ses yeux est une fenêtre reliant notre monde à l’au-delà.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "607",
+            "stadeEvo": 1
+          },
+          {
+            "id": "608",
+            "stadeEvo": 2
+          },
+          {
+            "id": "609",
+            "stadeEvo": 3
+          },
+          {
+            "id": "609meg",
+            "stadeEvo": 4
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm609.fMEGA.s.icon.png",
+          "male": "pm609.fMEGA.icon.png"
+        },
+        "genericName": "Méga-Lugulabre",
+        "heightM": 1.0,
+        "nameFormEng": "Mega-Chandelure",
+        "nameFormFr": "Méga-Lugulabre",
+        "region": "UNYS",
+        "shadow": false,
+        "stadeEvo": 4,
+        "tradable": false,
+        "typeA": "SPECTRE",
+        "typeB": "FEU",
+        "uniqueCode": "609meg",
         "weightKg": 34.3
       }
     ],
@@ -113192,7 +113420,7 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "DIVE",
+            "name": "Plongée",
             "type": "EAU"
           },
           {
@@ -121959,6 +122187,176 @@
     "femalePercent": 0.5,
     "id": "941",
     "kmBuddyDistance": 1,
+    "legendary": false,
+    "malePercent": 0.5,
+    "mythic": false,
+    "ultraBeast": false
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Aboiement",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mâchouille",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Représailles",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tunnel",
+            "type": "SOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 140,
+        "baseDefense": 108,
+        "baseStamina": 155,
+        "descriptionDex": "Il affiche toujours un air renfrogné pour qu’on le prenne au sérieux, mais même les enfants en pleurs éclatent de rire lorsqu’ils voient sa tête.",
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            "Mabosstiff"
+          ],
+          "namesFr": [
+            "Dogrino"
+          ]
+        },
+        "familyMembers": [
+          {
+            "id": "942",
+            "stadeEvo": 1
+          },
+          {
+            "id": "943",
+            "stadeEvo": 2
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm942.s.icon.png",
+          "male": "pm942.icon.png"
+        },
+        "genericName": "Grondogue",
+        "heightM": 0.5,
+        "nameFormEng": "Maschiff",
+        "nameFormFr": "Grondogue",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "TENEBRES",
+        "typeB": "AAUCUN",
+        "uniqueCode": "942",
+        "weightKg": 16.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "familyId": "FAMILY_MASCHIFF",
+    "femalePercent": 0.5,
+    "id": "942",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "malePercent": 0.5,
+    "mythic": false,
+    "ultraBeast": false
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Aboiement",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Morsure",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mâchouille",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Représailles",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tunnel",
+            "type": "SOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 230,
+        "baseDefense": 168,
+        "baseStamina": 190,
+        "descriptionDex": "Ce Pokémon emmagasine de l’énergie dans ses grandes bajoues. Il la libère ensuite d’un coup pour balayer ses adversaires au loin.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "942",
+            "stadeEvo": 1
+          },
+          {
+            "id": "943",
+            "stadeEvo": 2
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm943.s.icon.png",
+          "male": "pm943.icon.png"
+        },
+        "genericName": "Dogrino",
+        "heightM": 1.1,
+        "nameFormEng": "Mabosstiff",
+        "nameFormFr": "Dogrino",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 2,
+        "tradable": false,
+        "typeA": "TENEBRES",
+        "typeB": "AAUCUN",
+        "uniqueCode": "943",
+        "weightKg": 61.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "familyId": "FAMILY_MASCHIFF",
+    "femalePercent": 0.5,
+    "id": "943",
+    "kmBuddyDistance": 3,
     "legendary": false,
     "malePercent": 0.5,
     "mythic": false,
