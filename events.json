@@ -44,7 +44,7 @@
         "combatDynamax": false,
         "costumeName": "Championnats du Monde Pokémon 2026",
         "encens": false,
-        "etudeTerrain": false,
+        "etudeTerrain": true,
         "etudePonctuelle": false,
         "oeuf": false,
         "photobomb": false,
