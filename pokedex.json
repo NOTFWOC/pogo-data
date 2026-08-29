@@ -6204,26 +6204,8 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fWCS_2026.s.icon.png",
-              "male": "pm25.fWCS_2026.icon.png"
-            },
-            "costumeName": "Championnats du Monde Pokémon 2026",
-            "costumeShiny": true,
-            "familyMembers": [
-              {
-                "id": "25wc5",
-                "stadeEvo": 2
-              }
-            ],
-            "firstAppearanceDate": "25/08/2026",
-            "pokedexOrder": 94,
-            "uniqueCode": "25wc5"
-          },
-          {
-            "avalaibleInPogo": true,
-            "costumeImages": {
-              "maleshiny": "pm25.fPXP_2026.s.icon.png",
-              "male": "pm25.fPXP_2026.icon.png"
+              "male": "pm25.fPXP_2026.icon.png",
+              "maleshiny": "pm25.fPXP_2026.s.icon.png"
             },
             "costumeName": "Combinaison spatiale Cosmog",
             "costumeShiny": true,
@@ -6234,8 +6216,26 @@
               }
             ],
             "firstAppearanceDate": "25/08/2026",
-            "pokedexOrder": 95,
+            "pokedexOrder": 94,
             "uniqueCode": "25cos"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "male": "pm25.fWCS_2026.icon.png",
+              "maleshiny": "pm25.fWCS_2026.s.icon.png"
+            },
+            "costumeName": "Championnats du Monde Pokémon 2026",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "25wc5",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "25/08/2026",
+            "pokedexOrder": 95,
+            "uniqueCode": "25wc5"
           }
         ],
         "a_pokeAttackDatas": [
