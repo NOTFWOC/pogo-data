@@ -87889,8 +87889,8 @@
             "type": "PLANTE"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 201,
         "baseDefense": 204,
         "baseStamina": 204,
@@ -88316,8 +88316,8 @@
             "type": "FEU"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 230,
         "baseDefense": 189,
         "baseStamina": 181,
@@ -88800,8 +88800,8 @@
             "type": "EAU"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 223,
         "baseDefense": 152,
         "baseStamina": 176,
@@ -118423,7 +118423,8 @@
           }
         ],
         "formImages": {
-          "male": "pm905.fINCARNATE.icon.png"
+          "male": "pm905.fINCARNATE.icon.png",
+          "maleshiny": "pm905.fINCARNATE.s.icon.png"
         },
         "genericName": "Amovénus",
         "heightM": 1.6,
@@ -118498,7 +118499,8 @@
           }
         ],
         "formImages": {
-          "male": "pm905.fTHERIAN.icon.png"
+          "male": "pm905.fTHERIAN.icon.png",
+          "maleshiny": "pm905.fTHERIAN.s.icon.png"
         },
         "genericName": "Amovénus",
         "heightM": 1.6,
@@ -122218,8 +122220,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Représailles",
-            "type": "TENEBRES"
+            "name": "Psycho-Croc",
+            "type": "PSY"
           },
           {
             "charged": true,
@@ -122307,8 +122309,8 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Représailles",
-            "type": "TENEBRES"
+            "name": "Psycho-Croc",
+            "type": "PSY"
           },
           {
             "charged": true,
