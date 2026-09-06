@@ -122230,7 +122230,7 @@
             "type": "SOL"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 140,
         "baseDefense": 108,
@@ -122319,7 +122319,7 @@
             "type": "SOL"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 230,
         "baseDefense": 168,
@@ -124144,7 +124144,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 227,
         "baseDefense": 145,
         "baseStamina": 193,
