@@ -1,5 +1,31 @@
 [
   {
+    "endDate": "12/09/2026 17:00",
+    "id": "a3985110-26a1-41fd-8fff-20e7412b5e0a",
+    "name": "Community Day Classique Griknot",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "443",
+        "pokemonNameFr": "Griknot",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "12/09/2026 14:00"
+  },
+  {
     "endDate": "14/09/2026 20:00",
     "id": "e510c41c-adad-4e3d-af22-5b152754e49b",
     "name": "Horde Méga (Partie 2)",
@@ -531,7 +557,7 @@
     "name": "Lundynamax Tarsal",
     "pokemons": [
       {
-        "combatDynamax": false,
+        "combatDynamax": true,
         "encens": false,
         "etudeTerrain": false,
         "etudePonctuelle": false,
@@ -540,7 +566,7 @@
         "pokemonId": "280",
         "pokemonNameFr": "Tarsal",
         "raid": false,
-        "sauvage": true,
+        "sauvage": false,
         "leurre": false,
         "leurreGlacial": false,
         "leurreMagnetique": false,
@@ -6544,31 +6570,5 @@
       }
     ],
     "startDate": "06/08/2026 00:00"
-  },
-  {
-    "endDate": "12/09/2026 17:00",
-    "id": "a3985110-26a1-41fd-8fff-20e7412b5e0a",
-    "name": "Community Day Classique Griknot",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": true,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "443",
-        "pokemonNameFr": "Griknot",
-        "raid": false,
-        "sauvage": true,
-        "leurre": false,
-        "leurreGlacial": false,
-        "leurreMagnetique": false,
-        "leurreMoussu": false,
-        "leurrePluvieux": false,
-        "pvp": false
-      }
-    ],
-    "startDate": "12/09/2026 14:00"
   }
 ]
