@@ -6236,6 +6236,26 @@
             "firstAppearanceDate": "25/08/2026",
             "pokedexOrder": 95,
             "uniqueCode": "25wc5"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm25.fANNIVERSARY_2026_MALAYSIA_01.s.icon.png",
+              "female": "pm25.fANNIVERSARY_2026_MALAYSIA_01.g2.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_MALAYSIA_01.g2.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_MALAYSIA_01.icon.png"
+            },
+            "costumeName": "PokéXciting Turquoise",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "25tur",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "12/09/2026",
+            "pokedexOrder": 96,
+            "uniqueCode": "25tur"
           }
         ],
         "a_pokeAttackDatas": [
