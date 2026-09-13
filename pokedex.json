@@ -751,6 +751,32 @@
             "firstAppearanceDate": "17/10/2019",
             "pokedexOrder": 2,
             "uniqueCode": "4ha"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm4.fGOGGLES_2026.s.icon.png",
+              "male": "pm4.fGOGGLES_2026.icon.png"
+            },
+            "costumeName": "Lunettes de Friede",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "4lun",
+                "stadeEvo": 1
+              },
+              {
+                "id": "5lun",
+                "stadeEvo": 2
+              },
+              {
+                "id": "6lun",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "16/09/2026",
+            "pokedexOrder": 3,
+            "uniqueCode": "4lun"
           }
         ],
         "a_pokeAttackDatas": [
@@ -905,6 +931,32 @@
             "firstAppearanceDate": "25/07/2020",
             "pokedexOrder": 1,
             "uniqueCode": "5gf"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm5.fGOGGLES_2026.s.icon.png",
+              "male": "pm5.fGOGGLES_2026.icon.png"
+            },
+            "costumeName": "Lunettes de Friede",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "4lun",
+                "stadeEvo": 1
+              },
+              {
+                "id": "5lun",
+                "stadeEvo": 2
+              },
+              {
+                "id": "6lun",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "16/09/2026",
+            "pokedexOrder": 2,
+            "uniqueCode": "5lun"
           }
         ],
         "a_pokeAttackDatas": [
@@ -1082,6 +1134,32 @@
             "firstAppearanceDate": "25/03/2020",
             "pokedexOrder": 2,
             "uniqueCode": "6cl"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm6.fGOGGLES_2026.s.icon.png",
+              "male": "pm6.fGOGGLES_2026.icon.png"
+            },
+            "costumeName": "Lunettes de Friede",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "4lun",
+                "stadeEvo": 1
+              },
+              {
+                "id": "5lun",
+                "stadeEvo": 2
+              },
+              {
+                "id": "6lun",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "16/09/2026",
+            "pokedexOrder": 3,
+            "uniqueCode": "6lun"
           }
         ],
         "a_pokeAttackDatas": [
@@ -19308,7 +19386,7 @@
         "baseDefense": 127,
         "baseStamina": 190,
         "descriptionDex": "Rhinocorne charge droit devant lui, détruisant tout sur son passage. Il ne s’arrête jamais, même lorsqu’il charge un bloc d’acier. Malgré tout, il sent la douleur le lendemain.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Rhydon"
@@ -19415,7 +19493,7 @@
         "baseDefense": 171,
         "baseStamina": 233,
         "descriptionDex": "La corne de Rhinoféros peut même casser du diamant brut. Et avec un simple coup de queue, il peut détruire un bâtiment. La peau de ce Pokémon est incroyablement dure. Un boulet de canon ne lui ferait même pas une égratignure.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Rhyperior"
@@ -58506,8 +58584,8 @@
             "type": "VOL"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 234,
         "baseDefense": 140,
         "baseStamina": 198,
@@ -65813,7 +65891,7 @@
         "baseDefense": 190,
         "baseStamina": 251,
         "descriptionDex": "Il bande ses muscles pour projeter des pierres ou des Racaillou depuis le creux de ses paumes.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "111",
