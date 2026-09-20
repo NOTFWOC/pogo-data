@@ -29,7 +29,7 @@
   },
   {
     "energyDeltaPVE": -50,
-    "energyDeltaPVP": -50,
+    "energyDeltaPVP": -45,
     "id": 16,
     "nameEng": "Dark Pulse",
     "nameFr": "Vibrobscur",
@@ -311,7 +311,7 @@
     "nameFr": "Crochet Venin",
     "nianticID": "POISON_FANG",
     "powerPVE": 30,
-    "powerPVP": 45,
+    "powerPVP": 50,
     "type": "POISON"
   },
   {
@@ -339,13 +339,13 @@
       }
     },
     "energyDeltaPVE": -33,
-    "energyDeltaPVP": -40,
+    "energyDeltaPVP": -50,
     "id": 53,
     "nameEng": "Bubble Beam",
     "nameFr": "Bulles d’O",
     "nianticID": "BUBBLE_BEAM",
     "powerPVE": 45,
-    "powerPVP": 25,
+    "powerPVP": 50,
     "type": "EAU"
   },
   {
@@ -519,12 +519,12 @@
     "nameFr": "Ball’Ombre",
     "nianticID": "SHADOW_BALL",
     "powerPVE": 100,
-    "powerPVP": 100,
+    "powerPVP": 90,
     "type": "SPECTRE"
   },
   {
     "energyDeltaPVE": -33,
-    "energyDeltaPVP": -45,
+    "energyDeltaPVP": -40,
     "id": 72,
     "nameEng": "Magnet Bomb",
     "nameFr": "Bombe Aimant",
@@ -541,7 +541,7 @@
     "nameFr": "Tête de Fer",
     "nianticID": "IRON_HEAD",
     "powerPVE": 60,
-    "powerPVP": 70,
+    "powerPVP": 85,
     "type": "ACIER"
   },
   {
@@ -639,6 +639,12 @@
     "type": "FEE"
   },
   {
+    "buffData": {
+      "chance": 100,
+      "hm_effect": {
+        "Défense attaquant": 1
+      }
+    },
     "energyDeltaPVE": -50,
     "energyDeltaPVP": -55,
     "id": 85,
@@ -646,7 +652,7 @@
     "nameFr": "Vampibaiser",
     "nianticID": "DRAINING_KISS",
     "powerPVE": 60,
-    "powerPVP": 60,
+    "powerPVP": 80,
     "type": "FEE"
   },
   {
@@ -668,13 +674,13 @@
       }
     },
     "energyDeltaPVE": -100,
-    "energyDeltaPVP": -60,
+    "energyDeltaPVP": -50,
     "id": 87,
     "nameEng": "Moonblast",
     "nameFr": "Pouvoir Lunaire",
     "nianticID": "MOONBLAST",
     "powerPVE": 130,
-    "powerPVP": 110,
+    "powerPVP": 90,
     "type": "FEE"
   },
   {
@@ -751,19 +757,19 @@
   },
   {
     "buffData": {
-      "chance": 50,
+      "chance": 100,
       "hm_effect": {
         "Défense cible": -1
       }
     },
     "energyDeltaPVE": -50,
-    "energyDeltaPVP": -45,
+    "energyDeltaPVP": -55,
     "id": 95,
     "nameEng": "Bulldoze",
     "nameFr": "Piétisol",
     "nianticID": "BULLDOZE",
     "powerPVE": 80,
-    "powerPVP": 45,
+    "powerPVP": 80,
     "type": "SOL"
   },
   {
@@ -847,13 +853,13 @@
   },
   {
     "energyDeltaPVE": -50,
-    "energyDeltaPVP": -50,
+    "energyDeltaPVP": -60,
     "id": 104,
     "nameEng": "Brine",
     "nameFr": "Saumure",
     "nianticID": "BRINE",
     "powerPVE": 65,
-    "powerPVP": 60,
+    "powerPVP": 100,
     "type": "EAU"
   },
   {
@@ -997,19 +1003,19 @@
   },
   {
     "buffData": {
-      "chance": 30,
+      "chance": 12,
       "hm_effect": {
         "Attaque attaquant": 1
       }
     },
     "energyDeltaPVE": -50,
-    "energyDeltaPVP": -35,
+    "energyDeltaPVP": -40,
     "id": 121,
     "nameEng": "Air Cutter",
     "nameFr": "Tranch’Air",
     "nianticID": "AIR_CUTTER",
     "powerPVE": 55,
-    "powerPVP": 45,
+    "powerPVP": 60,
     "type": "VOL"
   },
   {
@@ -1086,13 +1092,13 @@
   },
   {
     "energyDeltaPVE": -33,
-    "energyDeltaPVP": -35,
+    "energyDeltaPVP": -40,
     "id": 131,
     "nameEng": "Body Slam",
     "nameFr": "Plaquage",
     "nianticID": "BODY_SLAM",
     "powerPVE": 50,
-    "powerPVP": 55,
+    "powerPVP": 65,
     "type": "NORMAL"
   },
   {
@@ -1191,7 +1197,7 @@
     "nameFr": "Morsure",
     "nianticID": "BITE_FAST",
     "powerPVE": 6,
-    "powerPVP": 4,
+    "powerPVP": 2,
     "type": "TENEBRES"
   },
   {
@@ -1246,7 +1252,7 @@
     "nameFr": "Balayage",
     "nianticID": "LOW_KICK_FAST",
     "powerPVE": 5,
-    "powerPVP": 5,
+    "powerPVP": 6,
     "type": "COMBAT"
   },
   {
@@ -1383,13 +1389,13 @@
   },
   {
     "energyDeltaPVE": 4,
-    "energyDeltaPVP": 2,
+    "energyDeltaPVP": 4,
     "id": 220,
     "nameEng": "Scratch",
     "nameFr": "Griffe",
     "nianticID": "SCRATCH_FAST",
     "powerPVE": 6,
-    "powerPVP": 4,
+    "powerPVP": 3,
     "type": "NORMAL"
   },
   {
@@ -1714,7 +1720,7 @@
     "nameFr": "Rayon Chargé",
     "nianticID": "CHARGE_BEAM_FAST",
     "powerPVE": 7,
-    "powerPVP": 5,
+    "powerPVP": 6,
     "type": "ELECTRIK"
   },
   {
@@ -1831,13 +1837,13 @@
       }
     },
     "energyDeltaPVE": -33,
-    "energyDeltaPVP": -40,
+    "energyDeltaPVP": -45,
     "id": 258,
     "nameEng": "Sand Tomb",
     "nameFr": "Tourbi-Sable",
     "nianticID": "SAND_TOMB",
     "powerPVE": 60,
-    "powerPVP": 40,
+    "powerPVP": 55,
     "type": "SOL"
   },
   {
@@ -1859,7 +1865,7 @@
     "nameFr": "Harcèlement",
     "nianticID": "INFESTATION_FAST",
     "powerPVE": 9,
-    "powerPVP": 6,
+    "powerPVP": 10,
     "type": "INSECTE"
   },
   {
@@ -2048,13 +2054,13 @@
   },
   {
     "energyDeltaPVE": -50,
-    "energyDeltaPVP": -55,
+    "energyDeltaPVP": -45,
     "id": 276,
     "nameEng": "Mirror Coat",
     "nameFr": "Voile Miroir",
     "nianticID": "MIRROR_COAT",
     "powerPVE": 60,
-    "powerPVP": 60,
+    "powerPVP": 75,
     "type": "PSY"
   },
   {
@@ -2120,13 +2126,13 @@
   },
   {
     "energyDeltaPVE": 8,
-    "energyDeltaPVP": 8,
+    "energyDeltaPVP": 9,
     "id": 282,
     "nameEng": "Take Down",
     "nameFr": "Bélier",
     "nianticID": "TAKE_DOWN_FAST",
     "powerPVE": 7,
-    "powerPVP": 5,
+    "powerPVP": 14,
     "type": "NORMAL"
   },
   {
@@ -2197,14 +2203,14 @@
         "Attaque attaquant": -2
       }
     },
-    "energyDeltaPVE": -50,
+    "energyDeltaPVE": -33,
     "energyDeltaPVP": -35,
     "id": 288,
     "nameEng": "Psycho Boost",
     "nameFr": "Psycho-Boost",
     "nianticID": "PSYCHO_BOOST",
-    "powerPVE": 70,
-    "powerPVP": 70,
+    "powerPVE": 130,
+    "powerPVP": 85,
     "type": "PSY"
   },
   {
@@ -2432,7 +2438,7 @@
     "nameFr": "Furie-Bond",
     "nianticID": "LUNGE",
     "powerPVE": 55,
-    "powerPVP": 60,
+    "powerPVP": 70,
     "type": "INSECTE"
   },
   {
@@ -2596,7 +2602,7 @@
   },
   {
     "energyDeltaPVE": -33,
-    "energyDeltaPVP": -40,
+    "energyDeltaPVP": -35,
     "id": 317,
     "nameEng": "Blaze Kick",
     "nameFr": "Pied Brûleur",
@@ -3245,7 +3251,7 @@
   },
   {
     "energyDeltaPVE": -100,
-    "energyDeltaPVP": -90,
+    "energyDeltaPVP": -65,
     "id": 371,
     "nameEng": "Shadow Force",
     "nameFr": "Revenant",
@@ -3317,7 +3323,7 @@
   },
   {
     "energyDeltaPVE": -100,
-    "energyDeltaPVP": -60,
+    "energyDeltaPVP": -55,
     "id": 377,
     "nameEng": "High Horsepower",
     "nameFr": "Cavalerie Lourde",
@@ -3379,7 +3385,7 @@
     "nameFr": "Écrous d’Poing",
     "nianticID": "DOUBLE_IRON_BASH",
     "powerPVE": 70,
-    "powerPVP": 55,
+    "powerPVP": 70,
     "type": "ACIER"
   },
   {
@@ -3799,13 +3805,13 @@
       }
     },
     "energyDeltaPVE": -50,
-    "energyDeltaPVP": -35,
+    "energyDeltaPVP": -40,
     "id": 464,
     "nameEng": "Rage Fist",
     "nameFr": "Poing de Colère",
     "nianticID": "RAGE_FIST",
     "powerPVE": 100,
-    "powerPVP": 50,
+    "powerPVP": 55,
     "type": "SPECTRE"
   },
   {

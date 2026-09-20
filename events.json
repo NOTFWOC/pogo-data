@@ -1,5 +1,171 @@
 [
   {
+    "endDate": "24/09/2026 19:00",
+    "id": "bc6695f0-f5a2-4710-b455-81fa03a8082b",
+    "name": "Heure vedette Rattata",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "19",
+        "pokemonNameFr": "Rattata",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "24/09/2026 18:00"
+  },
+  {
+    "endDate": "28/09/2026 20:00",
+    "id": "b4c9fb67-c6e0-49af-91ae-59d615934107",
+    "name": "Rotation des raids légendaires",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "795",
+        "pokemonNameFr": "Cancrelove",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "23/09/2026 06:00"
+  },
+  {
+    "endDate": "28/09/2026 20:00",
+    "id": "7669c52b-e139-4b87-8b71-052f3ee60714",
+    "name": "Rotation des raids méga-raids",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "687meg",
+        "pokemonNameFr": "Méga-Sepiatroce",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "23/09/2026 06:00"
+  },
+  {
+    "endDate": "21/09/2026 21:00",
+    "id": "ebab15a1-5379-4d5c-906c-d60af2a6f256",
+    "name": "Lundynamax Artikodin, Électhor et Sulfura",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "144",
+        "pokemonNameFr": "Artikodin",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "145",
+        "pokemonNameFr": "Électhor",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "146",
+        "pokemonNameFr": "Sulfura",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "21/09/2026 06:00"
+  },
+  {
+    "endDate": "19/09/2026 17:00",
+    "id": "22dee838-6a96-48e6-b691-a99b8d64a331",
+    "name": "Journée de Super Méga Raid Étouraptor",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "398meg",
+        "pokemonNameFr": "Méga-Étouraptor",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "19/09/2026 14:00"
+  },
+  {
     "endDate": "17/09/2026 19:00",
     "id": "33abae70-c3d9-494d-80aa-044f3dfbbb7f",
     "name": "Heure vedette Salamèche lunettes de Friede",
@@ -5549,21 +5715,57 @@
     "startDate": "16/08/2026 14:00"
   },
   {
-    "endDate": "19/09/2026 17:00",
-    "id": "22dee838-6a96-48e6-b691-a99b8d64a331",
-    "name": "Journée de Super Méga Raid Étouraptor",
+    "endDate": "26/09/2026 20:00",
+    "id": "bd846b82-123d-4568-a32a-e05133358476",
+    "name": "Journée Maîtrise de capture Brocélôme",
     "pokemons": [
       {
         "combatDynamax": false,
         "encens": false,
-        "etudeTerrain": false,
+        "etudeTerrain": true,
         "etudePonctuelle": false,
         "oeuf": false,
         "photobomb": false,
-        "pokemonId": "398meg",
-        "pokemonNameFr": "Méga-Étouraptor",
-        "raid": true,
-        "sauvage": false,
+        "pokemonId": "420",
+        "pokemonNameFr": "Ceribou",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "425",
+        "pokemonNameFr": "Baudrive",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": true,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "708",
+        "pokemonNameFr": "Brocélôme",
+        "raid": false,
+        "sauvage": true,
         "leurre": false,
         "leurreGlacial": false,
         "leurreMagnetique": false,
@@ -5572,6 +5774,6 @@
         "pvp": false
       }
     ],
-    "startDate": "19/09/2026 14:00"
+    "startDate": "26/09/2026 10:00"
   }
 ]
