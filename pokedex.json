@@ -113332,7 +113332,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 71,
         "baseDefense": 116,
         "baseStamina": 120,
@@ -113443,7 +113443,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 214,
         "baseDefense": 144,
         "baseStamina": 172,
@@ -113542,7 +113542,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 178,
         "baseDefense": 146,
         "baseStamina": 242,
@@ -126159,7 +126159,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 173,
         "baseDefense": 184,
         "baseStamina": 190,
@@ -126578,7 +126578,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 216,
         "baseDefense": 186,
         "baseStamina": 235,
