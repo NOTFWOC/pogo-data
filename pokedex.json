@@ -6346,6 +6346,42 @@
             "firstAppearanceDate": "12/09/2026",
             "pokedexOrder": 96,
             "uniqueCode": "25tur"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm25.fK_2026_A_01.s.icon.png",
+              "male": "pm25.fK_2026_A_01.icon.png"
+            },
+            "costumeName": "Hanbok orange",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "25han",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "24/09/2026",
+            "pokedexOrder": 97,
+            "uniqueCode": "25han"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm25.fGLASS_HELMET_2026.s.icon.png",
+              "male": "pm25.fGLASS_HELMET_2026.icon.png"
+            },
+            "costumeName": "Astronaute",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "25ast",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "04/10/2026",
+            "pokedexOrder": 98,
+            "uniqueCode": "25ast"
           }
         ],
         "a_pokeAttackDatas": [
