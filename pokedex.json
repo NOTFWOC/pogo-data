@@ -6350,6 +6350,66 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
+              "maleshiny": "pm25.fANNIVERSARY_2026_TAIWAN_01.s.icon.png",
+              "female": "pm25.fANNIVERSARY_2026_TAIWAN_01.g2.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_TAIWAN_01.g2.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_TAIWAN_01.icon.png"
+            },
+            "costumeName": "PokéXciting Rose",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "25ros",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "10/10/2026",
+            "pokedexOrder": 97,
+            "uniqueCode": "25ros"
+          },
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm25.fANNIVERSARY_2026_SINGAPORE_01.s.icon.png",
+              "female": "pm25.fANNIVERSARY_2026_SINGAPORE_01.g2.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_SINGAPORE_01.g2.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_SINGAPORE_01.icon.png"
+            },
+            "costumeName": "PokéXciting Bleu",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "25ble",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "07/10/2026",
+            "pokedexOrder": 98,
+            "uniqueCode": "25ble"
+          },
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.s.icon.png",
+              "female": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.icon.png"
+            },
+            "costumeName": "PokéXciting Rouge",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "25rou",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "07/11/2026",
+            "pokedexOrder": 99,
+            "uniqueCode": "25rou"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
               "maleshiny": "pm25.fK_2026_A_01.s.icon.png",
               "male": "pm25.fK_2026_A_01.icon.png"
             },
@@ -6362,7 +6422,7 @@
               }
             ],
             "firstAppearanceDate": "24/09/2026",
-            "pokedexOrder": 97,
+            "pokedexOrder": 100,
             "uniqueCode": "25han"
           },
           {
@@ -6380,7 +6440,7 @@
               }
             ],
             "firstAppearanceDate": "04/10/2026",
-            "pokedexOrder": 98,
+            "pokedexOrder": 101,
             "uniqueCode": "25ast"
           }
         ],
@@ -122987,6 +123047,176 @@
     "femalePercent": 0.5,
     "id": "945",
     "kmBuddyDistance": 3,
+    "legendary": false,
+    "malePercent": 0.5,
+    "mythic": false,
+    "ultraBeast": false
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Étonnement",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Portée",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mégafouet",
+            "type": "PLANTE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 121,
+        "baseDefense": 64,
+        "baseStamina": 120,
+        "descriptionDex": "Ce Pokémon est né lorsque, portée par le vent, une âme incapable de trouver le repos s’est retrouvée empêtrée dans des herbes sèches.",
+        "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            "Brambleghast"
+          ],
+          "namesFr": [
+            "Virevorreur"
+          ]
+        },
+        "familyMembers": [
+          {
+            "id": "946",
+            "stadeEvo": 1
+          },
+          {
+            "id": "947",
+            "stadeEvo": 2
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm946.s.icon.png",
+          "male": "pm946.icon.png"
+        },
+        "genericName": "Virovent",
+        "heightM": 0.6,
+        "nameFormEng": "Bramblin",
+        "nameFormFr": "Virovent",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "PLANTE",
+        "typeB": "SPECTRE",
+        "uniqueCode": "946",
+        "weightKg": 0.6
+      }
+    ],
+    "candyToEvolve": 0,
+    "familyId": "FAMILY_BRAMBLIN",
+    "femalePercent": 0.5,
+    "id": "946",
+    "kmBuddyDistance": 5,
+    "legendary": false,
+    "malePercent": 0.5,
+    "mythic": false,
+    "ultraBeast": false
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Châtiment",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Balle Graine",
+            "type": "PLANTE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Portée",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ombre Nocturne",
+            "type": "SPECTRE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Mégafouet",
+            "type": "PLANTE"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 228,
+        "baseDefense": 144,
+        "baseStamina": 146,
+        "descriptionDex": "Il déplie ses branches pour gober ses proies. Une fois qu’il a absorbé la quantité d’énergie vitale qu’il souhaitait, il les recrache.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "946",
+            "stadeEvo": 1
+          },
+          {
+            "id": "947",
+            "stadeEvo": 2
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm947.s.icon.png",
+          "male": "pm947.icon.png"
+        },
+        "genericName": "Virevorreur",
+        "heightM": 1.2,
+        "nameFormEng": "Brambleghast",
+        "nameFormFr": "Virevorreur",
+        "region": "PALDEA",
+        "shadow": false,
+        "stadeEvo": 2,
+        "tradable": false,
+        "typeA": "PLANTE",
+        "typeB": "SPECTRE",
+        "uniqueCode": "947",
+        "weightKg": 6.0
+      }
+    ],
+    "candyToEvolve": 0,
+    "familyId": "FAMILY_BRAMBLIN",
+    "femalePercent": 0.5,
+    "id": "947",
+    "kmBuddyDistance": 5,
     "legendary": false,
     "malePercent": 0.5,
     "mythic": false,
