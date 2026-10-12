@@ -123088,7 +123088,7 @@
             "type": "PLANTE"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 121,
         "baseDefense": 64,
@@ -123177,7 +123177,7 @@
             "type": "PLANTE"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 228,
         "baseDefense": 144,
