@@ -6330,10 +6330,10 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fANNIVERSARY_2026_MALAYSIA_01.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_MALAYSIA_01.icon.png",
               "female": "pm25.fANNIVERSARY_2026_MALAYSIA_01.g2.icon.png",
-              "femaleshiny": "pm25.fANNIVERSARY_2026_MALAYSIA_01.g2.s.icon.png",
-              "male": "pm25.fANNIVERSARY_2026_MALAYSIA_01.icon.png"
+              "maleshiny": "pm25.fANNIVERSARY_2026_MALAYSIA_01.s.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_MALAYSIA_01.g2.s.icon.png"
             },
             "costumeName": "PokéXciting Turquoise",
             "costumeShiny": true,
@@ -6350,10 +6350,10 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fANNIVERSARY_2026_TAIWAN_01.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_TAIWAN_01.icon.png",
               "female": "pm25.fANNIVERSARY_2026_TAIWAN_01.g2.icon.png",
-              "femaleshiny": "pm25.fANNIVERSARY_2026_TAIWAN_01.g2.s.icon.png",
-              "male": "pm25.fANNIVERSARY_2026_TAIWAN_01.icon.png"
+              "maleshiny": "pm25.fANNIVERSARY_2026_TAIWAN_01.s.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_TAIWAN_01.g2.s.icon.png"
             },
             "costumeName": "PokéXciting Rose",
             "costumeShiny": true,
@@ -6368,15 +6368,15 @@
             "uniqueCode": "25ros"
           },
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fANNIVERSARY_2026_SINGAPORE_01.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_SINGAPORE_01.icon.png",
               "female": "pm25.fANNIVERSARY_2026_SINGAPORE_01.g2.icon.png",
-              "femaleshiny": "pm25.fANNIVERSARY_2026_SINGAPORE_01.g2.s.icon.png",
-              "male": "pm25.fANNIVERSARY_2026_SINGAPORE_01.icon.png"
+              "maleshiny": "pm25.fANNIVERSARY_2026_SINGAPORE_01.s.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_SINGAPORE_01.g2.s.icon.png"
             },
             "costumeName": "PokéXciting Bleu",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "25ble",
@@ -6390,10 +6390,10 @@
           {
             "avalaibleInPogo": false,
             "costumeImages": {
-              "maleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.icon.png",
               "female": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.icon.png",
-              "femaleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.s.icon.png",
-              "male": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.icon.png"
+              "maleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.s.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.s.icon.png"
             },
             "costumeName": "PokéXciting Rouge",
             "costumeShiny": false,
@@ -6410,8 +6410,8 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fK_2026_A_01.s.icon.png",
-              "male": "pm25.fK_2026_A_01.icon.png"
+              "male": "pm25.fK_2026_A_01.icon.png",
+              "maleshiny": "pm25.fK_2026_A_01.s.icon.png"
             },
             "costumeName": "Hanbok orange",
             "costumeShiny": true,
@@ -6428,8 +6428,8 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fGLASS_HELMET_2026.s.icon.png",
-              "male": "pm25.fGLASS_HELMET_2026.icon.png"
+              "male": "pm25.fGLASS_HELMET_2026.icon.png",
+              "maleshiny": "pm25.fGLASS_HELMET_2026.s.icon.png"
             },
             "costumeName": "Astronaute",
             "costumeShiny": true,
@@ -79162,6 +79162,12 @@
             "legacy": false,
             "name": "Ombre Nocturne",
             "type": "SPECTRE"
+          },
+          {
+            "charged": false,
+            "legacy": true,
+            "name": "Coup Bas",
+            "type": "TENEBRES"
           }
         ],
         "avalaibleInPogo": true,
@@ -117075,6 +117081,70 @@
         "typeA": "ACIER",
         "typeB": "DRAGON",
         "uniqueCode": "884",
+        "weightKg": 40.0
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Draco-Queue",
+            "type": "DRAGON"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Griffe Acier",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Luminocanon",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Draco-Griffe",
+            "type": "DRAGON"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Ultralaser",
+            "type": "NORMAL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 239,
+        "baseDefense": 185,
+        "baseStamina": 172,
+        "descriptionDex": "Il est devenu aussi immense qu’un gratte-ciel. L’énergie qui afflue dans son corps le fait briller par endroits.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "884gig",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm884.fGIGANTAMAX.s.icon.png",
+          "male": "pm884.fGIGANTAMAX.icon.png"
+        },
+        "genericName": "Duralugon Gigamax",
+        "heightM": 1.8,
+        "nameFormEng": "Gigantamax Duraludon",
+        "nameFormFr": "Duralugon Gigamax",
+        "region": "GALAR",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ACIER",
+        "typeB": "DRAGON",
+        "uniqueCode": "884gig",
         "weightKg": 40.0
       }
     ],
