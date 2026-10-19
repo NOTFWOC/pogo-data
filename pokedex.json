@@ -6442,6 +6442,26 @@
             "firstAppearanceDate": "04/10/2026",
             "pokedexOrder": 101,
             "uniqueCode": "25ast"
+          },
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm25.fHALLOWEEN_2026.s.icon.png",
+              "female": "pm25.fHALLOWEEN_2026.g2.icon.png",
+              "femaleshiny": "pm25.fHALLOWEEN_2026.g2.s.icon.png",
+              "male": "pm25.fHALLOWEEN_2026.icon.png"
+            },
+            "costumeName": "Chapeau et une pèlerine",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "25h26",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 102,
+            "uniqueCode": "25h26"
           }
         ],
         "a_pokeAttackDatas": [
@@ -9496,7 +9516,36 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm41.fHALLOWEEN_2026_01.s.icon.png",
+              "female": "pm41.fHALLOWEEN_2026_01.g2.icon.png",
+              "femaleshiny": "pm41.fHALLOWEEN_2026_01.g2.s.icon.png",
+              "male": "pm41.fHALLOWEEN_2026_01.icon.png"
+            },
+            "costumeName": "Haut de forme",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "41hal",
+                "stadeEvo": 1
+              },
+              {
+                "id": "42hal",
+                "stadeEvo": 2
+              },
+              {
+                "id": "169hal",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "41hal"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -9597,7 +9646,36 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm42.fHALLOWEEN_2026_01.s.icon.png",
+              "female": "pm42.fHALLOWEEN_2026_01.g2.icon.png",
+              "femaleshiny": "pm42.fHALLOWEEN_2026_01.g2.s.icon.png",
+              "male": "pm42.fHALLOWEEN_2026_01.icon.png"
+            },
+            "costumeName": "Haut de forme",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "41hal",
+                "stadeEvo": 1
+              },
+              {
+                "id": "42hal",
+                "stadeEvo": 2
+              },
+              {
+                "id": "169hal",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "42hal"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -28404,7 +28482,34 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm169.fHALLOWEEN_2026_01.s.icon.png",
+              "male": "pm169.fHALLOWEEN_2026_01.icon.png"
+            },
+            "costumeName": "Haut de forme",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "41hal",
+                "stadeEvo": 1
+              },
+              {
+                "id": "42hal",
+                "stadeEvo": 2
+              },
+              {
+                "id": "169hal",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "169hal"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -35693,7 +35798,7 @@
         "baseDefense": 146,
         "baseStamina": 146,
         "descriptionDex": "Farfuret grimpe aux arbres en enfonçant ses griffes crochues dans l’écorce. Ce Pokémon cherche les nids qui ne sont pas surveillés et vole les œufs pour les manger pendant que les parents sont partis.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Weavile"
@@ -65877,7 +65982,7 @@
         "baseDefense": 171,
         "baseStamina": 172,
         "descriptionDex": "Il est devenu assez sournois pour ne plus avoir à se battre pour ses proies. Quiconque entre en contact avec ses griffes souffrira de gelures.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "215",
@@ -107492,6 +107597,466 @@
           {
             "charged": false,
             "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 218,
+        "baseDefense": 131,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774rou",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fRED.s.icon.png",
+          "male": "pm774.fRED.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior red",
+        "nameFormFr": "Météno rouge",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774rou",
+        "weightKg": 0.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 218,
+        "baseDefense": 131,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774ora",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fORANGE.s.icon.png",
+          "male": "pm774.fORANGE.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior orange",
+        "nameFormFr": "Météno orange",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774ora",
+        "weightKg": 0.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 116,
+        "baseDefense": 194,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774jau",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fYELLOW.s.icon.png",
+          "male": "pm774.fYELLOW.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior yellow",
+        "nameFormFr": "Météno jaune",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774jau",
+        "weightKg": 0.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 218,
+        "baseDefense": 131,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774gre",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fGREEN.s.icon.png",
+          "male": "pm774.fGREEN.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior green",
+        "nameFormFr": "Météno vert",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774gre",
+        "weightKg": 0.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 218,
+        "baseDefense": 131,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774ble",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fBLUE.s.icon.png",
+          "male": "pm774.fBLUE.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior blue",
+        "nameFormFr": "Météno bleu",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774ble",
+        "weightKg": 0.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 218,
+        "baseDefense": 131,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774ind",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fINDIGO.s.icon.png",
+          "male": "pm774.fINDIGO.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior indigo",
+        "nameFormFr": "Météno indigo",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774ind",
+        "weightKg": 0.3
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Bélier",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Rayon Gemme",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Antique",
+            "type": "ROCHE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Acrobatie",
+            "type": "VOL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 116,
+        "baseDefense": 194,
+        "baseStamina": 155,
+        "descriptionDex": "Météno se présente sous cette forme quand il perd sa carapace. La couleur de son noyau varie en fonction des composants de sa nourriture.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "774vio",
+            "stadeEvo": 1
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm774.fVIOLET.s.icon.png",
+          "male": "pm774.fVIOLET.icon.png"
+        },
+        "genericName": "Météno",
+        "heightM": 0.3,
+        "nameFormEng": "Minior violet",
+        "nameFormFr": "Météno violet",
+        "region": "ALOLA",
+        "shadow": false,
+        "stadeEvo": 1,
+        "tradable": false,
+        "typeA": "ROCHE",
+        "typeB": "VOL",
+        "uniqueCode": "774vio",
+        "weightKg": 0.3
+      }
+    ],
+    "candyToEvolve": 0,
+    "familyId": "FAMILY_MINIOR",
+    "genderlessPercent": 1.0,
+    "id": "774",
+    "kmBuddyDistance": 3,
+    "legendary": false,
+    "mythic": false,
+    "ultraBeast": false
+  },
+  {
+    "a_formDatas": [
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Roulade",
+            "type": "ROCHE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
             "name": "Bâillement",
             "type": "NORMAL"
           },
@@ -114918,7 +115483,30 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "male": "pm854.fP_HALLOWEEN_2026_01.icon.png",
+              "maleshiny": "pm854.fP_HALLOWEEN_2026_01.s.icon.png"
+            },
+            "costumeName": "Noeud",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "854cno",
+                "stadeEvo": 1
+              },
+              {
+                "id": "855cno",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "854cno"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -114994,7 +115582,30 @@
         "weightKg": 0.2
       },
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm854.fA_HALLOWEEN_2026_01.s.icon.png",
+              "male": "pm854.fA_HALLOWEEN_2026_01.icon.png"
+            },
+            "costumeName": "Noeud",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "854ano",
+                "stadeEvo": 1
+              },
+              {
+                "id": "855ano",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "854ano"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -115082,7 +115693,30 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "male": "pm855.fP_HALLOWEEN_2026_01.icon.png",
+              "maleshiny": "pm855.fP_HALLOWEEN_2026_01.s.icon.png"
+            },
+            "costumeName": "Noeud",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "854cno",
+                "stadeEvo": 1
+              },
+              {
+                "id": "855cno",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "855cno"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -115156,7 +115790,30 @@
         "weightKg": 0.4
       },
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm855.fA_HALLOWEEN_2026_01.s.icon.png",
+              "male": "pm855.fA_HALLOWEEN_2026_01.icon.png"
+            },
+            "costumeName": "Noeud",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "854ano",
+                "stadeEvo": 1
+              },
+              {
+                "id": "855ano",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "27/10/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "855ano"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
