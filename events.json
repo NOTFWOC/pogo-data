@@ -1,5 +1,153 @@
 [
   {
+    "endDate": "24/10/2026 17:00",
+    "id": "3c18298a-12ba-4916-8c98-f8e5b1ca5208",
+    "name": "Journée Combats Max Créfollet Dynamax",
+    "pokemons": [
+      {
+        "combatDynamax": true,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "481",
+        "pokemonNameFr": "Créfollet",
+        "raid": false,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "24/10/2026 14:00"
+  },
+  {
+    "endDate": "22/10/2026 19:00",
+    "id": "8aace860-8df0-4acd-958d-b3628eb1c626",
+    "name": "Heure vedette Spododo",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "755",
+        "pokemonNameFr": "Spododo",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "22/10/2026 18:00"
+  },
+  {
+    "endDate": "27/10/2026 20:00",
+    "id": "902754e2-fd53-44f4-806f-18be780ad418",
+    "name": "Rotation des raids légendaires",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "484",
+        "pokemonNameFr": "Palkia",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "21/10/2026 06:00"
+  },
+  {
+    "endDate": "27/10/2026 20:00",
+    "id": "45ddec58-d5e7-42f9-9c54-ea41e0c542da",
+    "name": "Rotation des raids méga-raids",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "6megy",
+        "pokemonNameFr": "Méga-Dracaufeu Y",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "6megx",
+        "pokemonNameFr": "Méga-Dracaufeu X",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "21/10/2026 06:00"
+  },
+  {
+    "endDate": "19/10/2026 23:59",
+    "id": "f4710817-bae2-4da3-b71c-1876429d330b",
+    "name": "Pluie de Météno : Orionides",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "774gre",
+        "pokemonNameFr": "Météno vert",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "19/10/2026 17:00"
+  },
+  {
     "endDate": "19/10/2026 21:00",
     "id": "f366d0fc-617a-4e31-a7cd-9679ae9cc5ca",
     "name": "Lundynamax Farfuret",
@@ -1200,32 +1348,6 @@
     "startDate": "21/09/2026 06:00"
   },
   {
-    "endDate": "19/09/2026 17:00",
-    "id": "22dee838-6a96-48e6-b691-a99b8d64a331",
-    "name": "Journée de Super Méga Raid Étouraptor",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "398meg",
-        "pokemonNameFr": "Méga-Étouraptor",
-        "raid": true,
-        "sauvage": false,
-        "leurre": false,
-        "leurreGlacial": false,
-        "leurreMagnetique": false,
-        "leurreMoussu": false,
-        "leurrePluvieux": false,
-        "pvp": false
-      }
-    ],
-    "startDate": "19/09/2026 14:00"
-  },
-  {
     "endDate": "22/09/2026 20:00",
     "id": "435026bf-8eb3-4407-ba36-1b64960e7146",
     "name": "Célébration pour la série Pokémon Horizons",
@@ -1529,31 +1651,5 @@
       }
     ],
     "startDate": "09/09/2026 06:00"
-  },
-  {
-    "endDate": "19/10/2026 23:59",
-    "id": "f4710817-bae2-4da3-b71c-1876429d330b",
-    "name": "Pluie de Météno : Orionides",
-    "pokemons": [
-      {
-        "combatDynamax": false,
-        "encens": false,
-        "etudeTerrain": false,
-        "etudePonctuelle": false,
-        "oeuf": false,
-        "photobomb": false,
-        "pokemonId": "774gre",
-        "pokemonNameFr": "Météno vert",
-        "raid": false,
-        "sauvage": true,
-        "leurre": false,
-        "leurreGlacial": false,
-        "leurreMagnetique": false,
-        "leurreMoussu": false,
-        "leurrePluvieux": false,
-        "pvp": false
-      }
-    ],
-    "startDate": "19/10/2026 17:00"
   }
 ]
