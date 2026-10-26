@@ -6444,15 +6444,15 @@
             "uniqueCode": "25ast"
           },
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fHALLOWEEN_2026.s.icon.png",
+              "male": "pm25.fHALLOWEEN_2026.icon.png",
               "female": "pm25.fHALLOWEEN_2026.g2.icon.png",
-              "femaleshiny": "pm25.fHALLOWEEN_2026.g2.s.icon.png",
-              "male": "pm25.fHALLOWEEN_2026.icon.png"
+              "maleshiny": "pm25.fHALLOWEEN_2026.s.icon.png",
+              "femaleshiny": "pm25.fHALLOWEEN_2026.g2.s.icon.png"
             },
             "costumeName": "Chapeau et une pèlerine",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "25h26",
@@ -9518,15 +9518,15 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm41.fHALLOWEEN_2026_01.s.icon.png",
+              "male": "pm41.fHALLOWEEN_2026_01.icon.png",
               "female": "pm41.fHALLOWEEN_2026_01.g2.icon.png",
-              "femaleshiny": "pm41.fHALLOWEEN_2026_01.g2.s.icon.png",
-              "male": "pm41.fHALLOWEEN_2026_01.icon.png"
+              "maleshiny": "pm41.fHALLOWEEN_2026_01.s.icon.png",
+              "femaleshiny": "pm41.fHALLOWEEN_2026_01.g2.s.icon.png"
             },
             "costumeName": "Haut de forme",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "41hal",
@@ -9648,15 +9648,15 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm42.fHALLOWEEN_2026_01.s.icon.png",
+              "male": "pm42.fHALLOWEEN_2026_01.icon.png",
               "female": "pm42.fHALLOWEEN_2026_01.g2.icon.png",
-              "femaleshiny": "pm42.fHALLOWEEN_2026_01.g2.s.icon.png",
-              "male": "pm42.fHALLOWEEN_2026_01.icon.png"
+              "maleshiny": "pm42.fHALLOWEEN_2026_01.s.icon.png",
+              "femaleshiny": "pm42.fHALLOWEEN_2026_01.g2.s.icon.png"
             },
             "costumeName": "Haut de forme",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "41hal",
@@ -28484,13 +28484,13 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm169.fHALLOWEEN_2026_01.s.icon.png",
-              "male": "pm169.fHALLOWEEN_2026_01.icon.png"
+              "male": "pm169.fHALLOWEEN_2026_01.icon.png",
+              "maleshiny": "pm169.fHALLOWEEN_2026_01.s.icon.png"
             },
             "costumeName": "Haut de forme",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "41hal",
@@ -68851,7 +68851,7 @@
         "baseDefense": 270,
         "baseStamina": 181,
         "descriptionDex": "On dit que sa venue a fourni aux humains le bon sens nécessaire pour améliorer leur existence.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "480",
@@ -68930,7 +68930,7 @@
         "baseDefense": 212,
         "baseStamina": 190,
         "descriptionDex": "Il dort au fond d’un lac. On dit que son esprit abandonne son corps pour voler à sa surface.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "481",
@@ -69009,7 +69009,7 @@
         "baseDefense": 151,
         "baseStamina": 181,
         "descriptionDex": "On raconte que Créhelf, Créfollet et Créfadet proviennent du même Œuf.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "482",
@@ -115485,13 +115485,13 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
               "male": "pm854.fP_HALLOWEEN_2026_01.icon.png",
               "maleshiny": "pm854.fP_HALLOWEEN_2026_01.s.icon.png"
             },
             "costumeName": "Noeud",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "854cno",
@@ -115584,13 +115584,13 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm854.fA_HALLOWEEN_2026_01.s.icon.png",
-              "male": "pm854.fA_HALLOWEEN_2026_01.icon.png"
+              "male": "pm854.fA_HALLOWEEN_2026_01.icon.png",
+              "maleshiny": "pm854.fA_HALLOWEEN_2026_01.s.icon.png"
             },
             "costumeName": "Noeud",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "854ano",
@@ -115695,13 +115695,13 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
               "male": "pm855.fP_HALLOWEEN_2026_01.icon.png",
               "maleshiny": "pm855.fP_HALLOWEEN_2026_01.s.icon.png"
             },
             "costumeName": "Noeud",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "854cno",
@@ -115792,13 +115792,13 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm855.fA_HALLOWEEN_2026_01.s.icon.png",
-              "male": "pm855.fA_HALLOWEEN_2026_01.icon.png"
+              "male": "pm855.fA_HALLOWEEN_2026_01.icon.png",
+              "maleshiny": "pm855.fA_HALLOWEEN_2026_01.s.icon.png"
             },
             "costumeName": "Noeud",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "854ano",
