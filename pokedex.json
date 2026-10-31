@@ -13101,7 +13101,26 @@
   {
     "a_formDatas": [
       {
-        "a_costumeData": [],
+        "a_costumeData": [
+          {
+            "avalaibleInPogo": false,
+            "costumeImages": {
+              "maleshiny": "pm68.fWILDAREA_2026_01.s.icon.png",
+              "male": "pm68.fWILDAREA_2026_01.icon.png"
+            },
+            "costumeName": "Veste Moderne",
+            "costumeShiny": false,
+            "familyMembers": [
+              {
+                "id": "68ves",
+                "stadeEvo": 3
+              }
+            ],
+            "firstAppearanceDate": "06/11/2026",
+            "pokedexOrder": 0,
+            "uniqueCode": "68ves"
+          }
+        ],
         "a_pokeAttackDatas": [
           {
             "charged": false,
@@ -118222,7 +118241,7 @@
         "region": "GALAR",
         "shadow": false,
         "stadeEvo": 1,
-        "tradable": true,
+        "tradable": false,
         "typeA": "FEE",
         "typeB": "ACIER",
         "uniqueCode": "888epe",
@@ -118380,7 +118399,7 @@
         "region": "GALAR",
         "shadow": false,
         "stadeEvo": 1,
-        "tradable": true,
+        "tradable": false,
         "typeA": "COMBAT",
         "typeB": "ACIER",
         "uniqueCode": "889bou",
