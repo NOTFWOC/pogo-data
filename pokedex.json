@@ -13103,13 +13103,13 @@
       {
         "a_costumeData": [
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm68.fWILDAREA_2026_01.s.icon.png",
-              "male": "pm68.fWILDAREA_2026_01.icon.png"
+              "male": "pm68.fWILDAREA_2026_01.icon.png",
+              "maleshiny": "pm68.fWILDAREA_2026_01.s.icon.png"
             },
             "costumeName": "Veste Moderne",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "68ves",
@@ -83491,8 +83491,8 @@
             "type": "SPECTRE"
           }
         ],
-        "avalaibleInPogo": false,
-        "avalaibleShiny": false,
+        "avalaibleInPogo": true,
+        "avalaibleShiny": true,
         "baseAttack": 271,
         "baseDefense": 182,
         "baseStamina": 155,
