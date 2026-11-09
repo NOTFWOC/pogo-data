@@ -4189,5 +4189,16 @@
     "powerPVE": 0,
     "powerPVP": 1,
     "type": "NORMAL"
+  },
+  {
+    "energyDeltaPVE": -50,
+    "energyDeltaPVP": -40,
+    "id": 615,
+    "nameEng": "KOWTOW_CLEAVE",
+    "nameFr": "KOWTOW_CLEAVE",
+    "nianticID": "KOWTOW_CLEAVE",
+    "powerPVE": 85,
+    "powerPVP": 75,
+    "type": "TENEBRES"
   }
 ]

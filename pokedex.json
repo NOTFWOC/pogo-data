@@ -6462,6 +6462,26 @@
             "firstAppearanceDate": "27/10/2026",
             "pokedexOrder": 102,
             "uniqueCode": "25h26"
+          },
+          {
+            "avalaibleInPogo": true,
+            "costumeImages": {
+              "maleshiny": "pm25.fANNIVERSARY_2026_THAILAND_01.s.icon.png",
+              "female": "pm25.fANNIVERSARY_2026_THAILAND_01.g2.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_THAILAND_01.g2.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_THAILAND_01.icon.png"
+            },
+            "costumeName": "PokéXciting Orange",
+            "costumeShiny": true,
+            "familyMembers": [
+              {
+                "id": "25ora",
+                "stadeEvo": 2
+              }
+            ],
+            "firstAppearanceDate": "06/11/2026",
+            "pokedexOrder": 103,
+            "uniqueCode": "25ora"
           }
         ],
         "a_pokeAttackDatas": [
