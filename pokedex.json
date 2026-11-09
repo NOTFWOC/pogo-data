@@ -119086,7 +119086,7 @@
         "baseDefense": 101,
         "baseStamina": 400,
         "descriptionDex": "Une théorie stipule que ses bras ont la forme de la tête d\u0027un Pokémon Dragon des temps anciens, mais aucune preuve ne l\u0027atteste.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "895",
