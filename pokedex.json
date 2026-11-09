@@ -6388,7 +6388,7 @@
             "uniqueCode": "25ble"
           },
           {
-            "avalaibleInPogo": false,
+            "avalaibleInPogo": true,
             "costumeImages": {
               "male": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.icon.png",
               "female": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.icon.png",
@@ -6396,7 +6396,7 @@
               "femaleshiny": "pm25.fANNIVERSARY_2026_PHILIPPINE_01.g2.s.icon.png"
             },
             "costumeName": "PokéXciting Rouge",
-            "costumeShiny": false,
+            "costumeShiny": true,
             "familyMembers": [
               {
                 "id": "25rou",
@@ -6466,10 +6466,10 @@
           {
             "avalaibleInPogo": true,
             "costumeImages": {
-              "maleshiny": "pm25.fANNIVERSARY_2026_THAILAND_01.s.icon.png",
+              "male": "pm25.fANNIVERSARY_2026_THAILAND_01.icon.png",
               "female": "pm25.fANNIVERSARY_2026_THAILAND_01.g2.icon.png",
-              "femaleshiny": "pm25.fANNIVERSARY_2026_THAILAND_01.g2.s.icon.png",
-              "male": "pm25.fANNIVERSARY_2026_THAILAND_01.icon.png"
+              "maleshiny": "pm25.fANNIVERSARY_2026_THAILAND_01.s.icon.png",
+              "femaleshiny": "pm25.fANNIVERSARY_2026_THAILAND_01.g2.s.icon.png"
             },
             "costumeName": "PokéXciting Orange",
             "costumeShiny": true,
@@ -111131,7 +111131,7 @@
         "baseDefense": 99,
         "baseStamina": 130,
         "descriptionDex": "Ce Pokémon fait fondre le fer et les autres métaux contenus dans le sol pour les intégrer à son corps composé d’acier fondu.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Melmetal"
