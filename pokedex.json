@@ -69127,7 +69127,7 @@
         "baseDefense": 211,
         "baseStamina": 205,
         "descriptionDex": "Il peut contrôler le temps. Les mythes de Sinnoh en parlent comme d’une divinité ancienne.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "483",
@@ -69277,7 +69277,7 @@
         "baseDefense": 215,
         "baseStamina": 189,
         "descriptionDex": "Il peut modeler l’espace. Les mythes de Sinnoh en parlent comme d’une divinité ancienne.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "484",
@@ -99913,13 +99913,13 @@
             "type": "NORMAL"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 159,
         "baseDefense": 176,
         "baseStamina": 169,
         "descriptionDex": "Ce Pokémon est de nature plutôt mélancolique. Je spécule que le fer contenu dans les eaux de Hisui a agi sur son mucus épidermique et a changé sa peau en carapace de métal.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Hisuian Goodra"
@@ -99942,7 +99942,7 @@
         "heightM": 0.8,
         "nameFormEng": "Hisuian Sliggoo",
         "nameFormFr": "Colimucus de Hisu",
-        "region": "KALOS",
+        "region": "HISUI",
         "shadow": false,
         "stadeEvo": 2,
         "tradable": true,
@@ -100106,13 +100106,13 @@
             "type": "ELECTRIK"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 220,
         "baseDefense": 242,
         "baseStamina": 207,
         "descriptionDex": "Il peut moduler la rigidité de sa carapace de métal à volonté. Il abhorre la solitude et enrage si un être qu’il affectionne profondément l’abandonne.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "706h",
@@ -117813,7 +117813,7 @@
             "type": "NORMAL"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 239,
         "baseDefense": 185,
@@ -117837,7 +117837,7 @@
         "region": "GALAR",
         "shadow": false,
         "stadeEvo": 1,
-        "tradable": false,
+        "tradable": true,
         "typeA": "ACIER",
         "typeB": "DRAGON",
         "uniqueCode": "884gig",
