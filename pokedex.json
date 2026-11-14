@@ -99867,20 +99867,20 @@
           {
             "charged": false,
             "legacy": false,
-            "name": "Pistolet à O",
-            "type": "EAU"
-          },
-          {
-            "charged": false,
-            "legacy": false,
             "name": "Charge",
             "type": "NORMAL"
           },
           {
             "charged": false,
             "legacy": false,
-            "name": "Draco-Souffle",
-            "type": "DRAGON"
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tacle Lourd",
+            "type": "ACIER"
           },
           {
             "charged": true,
@@ -99897,29 +99897,17 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ocroupi",
-            "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": false,
             "name": "Vibraqua",
             "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Plaquage",
-            "type": "NORMAL"
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
-        "baseAttack": 159,
-        "baseDefense": 176,
-        "baseStamina": 169,
+        "avalaibleShiny": true,
+        "baseAttack": 153,
+        "baseDefense": 190,
+        "baseStamina": 151,
         "descriptionDex": "Ce Pokémon est de nature plutôt mélancolique. Je spécule que le fer contenu dans les eaux de Hisui a agi sur son mucus épidermique et a changé sa peau en carapace de métal.",
-        "dynamax": true,
+        "dynamax": false,
         "evolutionData": {
           "namesEng": [
             "Hisuian Goodra"
@@ -99946,8 +99934,8 @@
         "shadow": false,
         "stadeEvo": 2,
         "tradable": true,
-        "typeA": "DRAGON",
-        "typeB": "AAUCUN",
+        "typeA": "ACIER",
+        "typeB": "DRAGON",
         "uniqueCode": "705h",
         "weightKg": 17.5
       }
@@ -100060,14 +100048,26 @@
           {
             "charged": false,
             "legacy": false,
-            "name": "Pistolet à O",
-            "type": "EAU"
+            "name": "Draco-Queue",
+            "type": "DRAGON"
           },
           {
             "charged": false,
             "legacy": false,
-            "name": "Draco-Souffle",
-            "type": "DRAGON"
+            "name": "Queue de Fer",
+            "type": "ACIER"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Pistolet à O",
+            "type": "EAU"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Tacle Lourd",
+            "type": "ACIER"
           },
           {
             "charged": true,
@@ -100084,35 +100084,17 @@
           {
             "charged": true,
             "legacy": false,
-            "name": "Ocroupi",
+            "name": "Hydrocanon",
             "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Mégafouet",
-            "type": "PLANTE"
-          },
-          {
-            "charged": true,
-            "legacy": false,
-            "name": "Hydro-Queue",
-            "type": "EAU"
-          },
-          {
-            "charged": true,
-            "legacy": true,
-            "name": "Poing Éclair",
-            "type": "ELECTRIK"
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
-        "baseAttack": 220,
-        "baseDefense": 242,
-        "baseStamina": 207,
+        "avalaibleShiny": true,
+        "baseAttack": 211,
+        "baseDefense": 255,
+        "baseStamina": 190,
         "descriptionDex": "Il peut moduler la rigidité de sa carapace de métal à volonté. Il abhorre la solitude et enrage si un être qu’il affectionne profondément l’abandonne.",
-        "dynamax": true,
+        "dynamax": false,
         "familyMembers": [
           {
             "id": "706h",
@@ -100131,8 +100113,8 @@
         "shadow": false,
         "stadeEvo": 3,
         "tradable": true,
-        "typeA": "DRAGON",
-        "typeB": "AAUCUN",
+        "typeA": "ACIER",
+        "typeB": "DRAGON",
         "uniqueCode": "706h",
         "weightKg": 150.5
       }
@@ -111237,7 +111219,7 @@
         "baseDefense": 190,
         "baseStamina": 264,
         "descriptionDex": "Autrefois vénéré pour son aptitude à produire du fer, ce Pokémon a mystérieusement ressuscité après 3000 ans.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "808",
@@ -117814,7 +117796,7 @@
           }
         ],
         "avalaibleInPogo": true,
-        "avalaibleShiny": false,
+        "avalaibleShiny": true,
         "baseAttack": 239,
         "baseDefense": 185,
         "baseStamina": 172,
