@@ -107768,7 +107768,7 @@
             "type": "VOL"
           }
         ],
-        "avalaibleInPogo": false,
+        "avalaibleInPogo": true,
         "avalaibleShiny": false,
         "baseAttack": 116,
         "baseDefense": 194,
