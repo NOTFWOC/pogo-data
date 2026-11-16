@@ -99901,8 +99901,8 @@
             "type": "EAU"
           }
         ],
-        "avalaibleInPogo": true,
-        "avalaibleShiny": true,
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
         "baseAttack": 153,
         "baseDefense": 190,
         "baseStamina": 151,
@@ -100088,8 +100088,8 @@
             "type": "EAU"
           }
         ],
-        "avalaibleInPogo": true,
-        "avalaibleShiny": true,
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
         "baseAttack": 211,
         "baseDefense": 255,
         "baseStamina": 190,
