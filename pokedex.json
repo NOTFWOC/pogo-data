@@ -8680,6 +8680,10 @@
           {
             "id": "36",
             "stadeEvo": 3
+          },
+          {
+            "id": "36meg",
+            "stadeEvo": 3
           }
         ],
         "formImages": {
@@ -8789,6 +8793,14 @@
         "baseStamina": 216,
         "descriptionDex": "Les Mélodelfe se déplacent en sautant doucement, comme s’ils volaient. Leur démarche légère leur permet même de marcher sur l’eau. On raconte qu’ils se promènent sur les lacs, les soirs où la lune est claire.",
         "dynamax": false,
+        "evolutionData": {
+          "namesEng": [
+            "Mega-Clefable"
+          ],
+          "namesFr": [
+            "Méga-Mélodelfe"
+          ]
+        },
         "familyMembers": [
           {
             "id": "173",
@@ -8800,6 +8812,10 @@
           },
           {
             "id": "36",
+            "stadeEvo": 3
+          },
+          {
+            "id": "36meg",
             "stadeEvo": 3
           }
         ],
@@ -8818,6 +8834,118 @@
         "typeA": "FEE",
         "typeB": "AAUCUN",
         "uniqueCode": "36",
+        "weightKg": 40.0
+      },
+      {
+        "a_costumeData": [],
+        "a_pokeAttackDatas": [
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Rayon Chargé",
+            "type": "ELECTRIK"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Psykoud’Boul",
+            "type": "PSY"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Charme",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": false,
+            "name": "Vent Féérique",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Éclat Magique",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Psyko",
+            "type": "PSY"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Pouvoir Lunaire",
+            "type": "FEE"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Poing Météore",
+            "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Météores",
+            "type": "NORMAL"
+          },
+          {
+            "charged": true,
+            "legacy": false,
+            "name": "Vampibaiser",
+            "type": "FEE"
+          },
+          {
+            "charged": false,
+            "legacy": true,
+            "name": "Écras’Face",
+            "type": "NORMAL"
+          }
+        ],
+        "avalaibleInPogo": false,
+        "avalaibleShiny": false,
+        "baseAttack": 178,
+        "baseDefense": 162,
+        "baseStamina": 216,
+        "descriptionDex": "Les Mélodelfe se déplacent en sautant doucement, comme s’ils volaient. Leur démarche légère leur permet même de marcher sur l’eau. On raconte qu’ils se promènent sur les lacs, les soirs où la lune est claire.",
+        "dynamax": false,
+        "familyMembers": [
+          {
+            "id": "173",
+            "stadeEvo": 1
+          },
+          {
+            "id": "35",
+            "stadeEvo": 2
+          },
+          {
+            "id": "36",
+            "stadeEvo": 3
+          },
+          {
+            "id": "36meg",
+            "stadeEvo": 3
+          }
+        ],
+        "formImages": {
+          "maleshiny": "pm36.fMEGA.s.icon.png",
+          "male": "pm36.fMEGA.icon.png"
+        },
+        "genericName": "Méga-Mélodelfe",
+        "heightM": 1.3,
+        "nameFormEng": "Mega-Clefable",
+        "nameFormFr": "Méga-Mélodelfe",
+        "region": "KANTO",
+        "shadow": false,
+        "stadeEvo": 3,
+        "tradable": false,
+        "typeA": "FEE",
+        "typeB": "AAUCUN",
+        "uniqueCode": "36meg",
         "weightKg": 40.0
       }
     ],
@@ -29240,6 +29368,10 @@
           },
           {
             "id": "36",
+            "stadeEvo": 3
+          },
+          {
+            "id": "36meg",
             "stadeEvo": 3
           }
         ],
@@ -66114,6 +66246,12 @@
             "legacy": false,
             "name": "Miroi-Tir",
             "type": "ACIER"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Bombe Aimant",
+            "type": "ACIER"
           }
         ],
         "avalaibleInPogo": true,
@@ -69142,7 +69280,7 @@
         "heightM": 5.4,
         "infographicData": {
           "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1468162769563160738/image-287.png?ex\u003d69d6bbe1\u0026is\u003d69d56a61\u0026hm\u003d0a1fb2bb45f22962d57cf57cd5acf936ab4538cb2063bccdb43e9bc0e2fc8458\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151",
-          "imgShadowInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1513126590282727565/juin_Dialga_obscur_Boss_de_Raid_2026-1.jpg?ex\u003d6a390d73\u0026is\u003d6a37bbf3\u0026hm\u003d1ff235c85df8c04b02b9bb379d9851048584ab29ca1f677c35ac190b5ee0a136\u0026"
+          "imgShadowInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Dialga_obscur.jpg"
         },
         "nameFormEng": "Dialga",
         "nameFormFr": "Dialga",
@@ -86933,7 +87071,7 @@
         "genericName": "Reshiram",
         "heightM": 3.2,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1510678430058811402/juin_Reshiram_Boss_de_Raid_2026-2.jpg?ex\u003d6a38b72c\u0026is\u003d6a3765ac\u0026hm\u003d61f6cc176305a784aad63de96bef5659cae7445d77e953de1b1db786c2073431\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Reshiram_normal.jpg"
         },
         "nameFormEng": "Reshiram",
         "nameFormFr": "Reshiram",
@@ -87024,7 +87162,7 @@
         "genericName": "Zekrom",
         "heightM": 2.9,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1513126589804843208/juin_Zekrom_Boss_de_Raid_2026-1.jpg?ex\u003d6a390d73\u0026is\u003d6a37bbf3\u0026hm\u003df1c30e9791f645721e109b02544e7a62a6e0222f0ff2ceaa73806eca258ce3c3\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Zekrom_normal.jpg"
         },
         "nameFormEng": "Zekrom",
         "nameFormFr": "Zekrom",
@@ -109225,7 +109363,7 @@
         "genericName": "Tokotoro",
         "heightM": 1.9,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1505575047979597946/image-241.png?ex\u003d6a394407\u0026is\u003d6a37f287\u0026hm\u003d2a921dc3152b0da9029033b9a1e1ac7c5218372e7d99ad606a90ef177a5c23d4\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Tokotoro_normal.png"
         },
         "nameFormEng": "Tapu Bulu",
         "nameFormFr": "Tokotoro",
@@ -109316,7 +109454,7 @@
         "genericName": "Tokopisco",
         "heightM": 1.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1508032416193970337/mai_Tokopisco_Boss_de_Raid_2026.jpg?ex\u003d6a38fa21\u0026is\u003d6a37a8a1\u0026hm\u003dcbd7c9769968e894b82e08bd0c9718a964eb998719845f074e093e354ad2302f\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Tokopisco_normal.jpg"
         },
         "nameFormEng": "Tapu Fini",
         "nameFormFr": "Tokopisco",
@@ -110104,7 +110242,7 @@
         "genericName": "Bamboiselle",
         "heightM": 9.2,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1518272812601708604/juin_Bamboiselle_Boss_de_Raid_2026.jpg?ex\u003d6a39513e\u0026is\u003d6a37ffbe\u0026hm\u003daf25f572c58466a14612cdf7b7bd3e0299e0e564fe1ac5779878d806298b1a8a\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Bamboiselle_normal.jpg"
         },
         "nameFormEng": "Celesteela",
         "nameFormFr": "Bamboiselle",
@@ -110201,7 +110339,7 @@
         "genericName": "Katagami",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1518272812228284476/image-330.png?ex\u003d6a39513e\u0026is\u003d6a37ffbe\u0026hm\u003d74d00c098d87a65dfa181f02305e1e4c3aa58048a0b3388b6a4f3343971970b9\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Katagami_normal.png"
         },
         "nameFormEng": "Kartana",
         "nameFormFr": "Katagami",
@@ -110374,7 +110512,7 @@
         "genericName": "Necrozma",
         "heightM": 2.4,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1516042331562967102/image-232-1.png?ex\u003d6a391cf2\u0026is\u003d6a37cb72\u0026hm\u003dafb5bcf51daf6fb28f0db7ceccf7afb8ceea19798702c30ea30bb277393cc61b\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Necrozma_normal.png"
         },
         "nameFormEng": "Necrozma",
         "nameFormFr": "Necrozma",
@@ -117270,7 +117408,7 @@
         "genericName": "Méga-Hexadron",
         "heightM": 3.0,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1505575048780447968/mai_Mega_Hexadron_Boss_de_Raid_2026.jpg?ex\u003d6a394407\u0026is\u003d6a37f287\u0026hm\u003da729156f74a78abfc146a083c9f640c4957d025afc8a59280a6364824c7e8fe1\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/M%C3%A9ga-Hexadron_normal.jpg"
         },
         "nameFormEng": "Mega-Falinks",
         "nameFormFr": "Méga-Hexadron",
