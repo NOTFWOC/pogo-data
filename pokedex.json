@@ -57151,7 +57151,7 @@
         "genericName": "Groudon",
         "heightM": 3.51,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1536087700728193034/image-220.png?ex\u003d6a8bece6\u0026is\u003d6a8a9b66\u0026hm\u003d796419fcb53a6064ab0ea0971157bf35b1417933d359730e6852bf13f6b051ae"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Groudon_normal.png"
         },
         "nameFormEng": "Groudon",
         "nameFormFr": "Groudon",
@@ -69042,7 +69042,7 @@
         "genericName": "Créhelf",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1533940339180703744/image-274.png?ex\u003d6a8c0604\u0026is\u003d6a8ab484\u0026hm\u003d9af736c203e272d29887f38668404373f4ff73b2bfe63db768eaf618f2120543"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Cr%C3%A9helf_normal.png"
         },
         "nameFormEng": "Uxie",
         "nameFormFr": "Créhelf",
@@ -69121,7 +69121,7 @@
         "genericName": "Créfollet",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1533940338778177636/image-263.png?ex\u003d6a8c0603\u0026is\u003d6a8ab483\u0026hm\u003d7c92a5a4d387292f1a28eba8c6b0584cb19ea2e514b5c2613d2ca288ede299a2\u0026\u003d"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Cr%C3%A9follet_normal.png"
         },
         "nameFormEng": "Mesprit",
         "nameFormFr": "Créfollet",
@@ -69200,7 +69200,7 @@
         "genericName": "Créfadet",
         "heightM": 0.3,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1533940338266210416/image-364.png?ex\u003d6a8c0603\u0026is\u003d6a8ab483\u0026hm\u003d097f83936408c42457ccab600b34f7d3b8714a840b3a8f11cdd88026d7aec5a5"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Cr%C3%A9fadet_normal.png"
         },
         "nameFormEng": "Azelf",
         "nameFormFr": "Créfadet",
@@ -69279,7 +69279,7 @@
         "genericName": "Dialga",
         "heightM": 5.4,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1468162769563160738/image-287.png?ex\u003d69d6bbe1\u0026is\u003d69d56a61\u0026hm\u003d0a1fb2bb45f22962d57cf57cd5acf936ab4538cb2063bccdb43e9bc0e2fc8458\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151",
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Dialga_normal.png",
           "imgShadowInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Dialga_obscur.jpg"
         },
         "nameFormEng": "Dialga",
@@ -69429,7 +69429,7 @@
         "genericName": "Palkia",
         "heightM": 4.2,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1468162768900456603/image-158.png?ex\u003d69d6bbe1\u0026is\u003d69d56a61\u0026hm\u003df61c1fd1dbd87c5df671eee5fdbe1b0f3a01f6562d61020a26085fe823ac76bc\u0026\u003d\u0026format\u003dwebp\u0026quality\u003dlossless\u0026width\u003d1151\u0026height\u003d1151"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Palkia_normal.png"
         },
         "nameFormEng": "Palkia",
         "nameFormFr": "Palkia",
@@ -69761,7 +69761,8 @@
         "genericName": "Giratina",
         "heightM": 4.5,
         "infographicData": {
-          "imgShadowInfografic": "https://media.discordapp.net/attachments/753217293756137542/1533940339771969546/image-237.png?ex\u003d6a8c0604\u0026is\u003d6a8ab484\u0026hm\u003d522b6cbbf7894679e4c0a2a58600a588e26eccf0bc84483330a9091239c633c6"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Giratina%20Forme%20Alternative_normal.jpg",
+          "imgShadowInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Giratina%20Forme%20Alternative_obscur.png"
         },
         "nameFormEng": "Giratina Altered Forme",
         "nameFormFr": "Giratina Forme Alternative",
@@ -69833,6 +69834,9 @@
         },
         "genericName": "Giratina",
         "heightM": 6.9,
+        "infographicData": {
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Giratina%20Forme%20Originelle_normal.png"
+        },
         "nameFormEng": "Giratina Origin Forme",
         "nameFormFr": "Giratina Forme Originelle",
         "region": "SINNOH",
@@ -87246,6 +87250,9 @@
         },
         "genericName": "Démétéros",
         "heightM": 1.5,
+        "infographicData": {
+          "imgShadowInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/D%C3%A9m%C3%A9t%C3%A9ros%20Avatar_obscur.jpg"
+        },
         "nameFormEng": "Landorus Incarnate",
         "nameFormFr": "Démétéros Avatar",
         "region": "UNYS",
@@ -87483,6 +87490,9 @@
         },
         "genericName": "Kyurem",
         "heightM": 3.0,
+        "infographicData": {
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Kyurem_normal.jpg"
+        },
         "nameFormEng": "Kyurem",
         "nameFormFr": "Kyurem",
         "region": "UNYS",
@@ -102043,6 +102053,9 @@
         },
         "genericName": "Yveltal",
         "heightM": 5.8,
+        "infographicData": {
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Yveltal_normal.jpg"
+        },
         "nameFormEng": "Yveltal",
         "nameFormFr": "Yveltal",
         "region": "KALOS",
@@ -109708,7 +109721,7 @@
         "genericName": "Solgaleo",
         "heightM": 3.4,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1528456937061224498/juillet_Solgaleo_Boss_de_Raid_2026.jpg?ex\u003d6a5e5df3\u0026is\u003d6a5d0c73\u0026hm\u003d681e176cad9da5938814d6e9d4165efe508df9546b44f40b74f65341d751b286\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Solgaleo_normal.jpg"
         },
         "nameFormEng": "Solgaleo",
         "nameFormFr": "Solgaleo",
@@ -109811,7 +109824,7 @@
         "genericName": "Lunala",
         "heightM": 4.0,
         "infographicData": {
-          "imgInfografic": "https://media.discordapp.net/attachments/753217293756137542/1538486489984270386/image-135.png?ex\u003d6a8c1532\u0026is\u003d6a8ac3b2\u0026hm\u003d56436ff2da29a3316929567a968a030625b153c0b006dd544825c415bdf375be"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Lunala_normal.png"
         },
         "nameFormEng": "Lunala",
         "nameFormFr": "Lunala",
@@ -109987,7 +110000,7 @@
         "genericName": "Mouscoto",
         "heightM": 2.4,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1503044173505237214/image-184.png?ex\u003d6a394978\u0026is\u003d6a37f7f8\u0026hm\u003dd5fd18ff61b0476c2b704b92cb9305926cb9c3622b67d72260a0a4d3b92a83de\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Mouscoto_normal.png"
         },
         "nameFormEng": "Buzzwole",
         "nameFormFr": "Mouscoto",
@@ -110072,7 +110085,7 @@
         "genericName": "Cancrelove",
         "heightM": 1.8,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1503044173119488111/image-211.png?ex\u003d6a394978\u0026is\u003d6a37f7f8\u0026hm\u003d7e8fa9fca5b7ffa8b0b409ffce28bec8cb6ee11dea95865da68f0c7ece7f0102\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Cancrelove_normal.png"
         },
         "nameFormEng": "Pheromosa",
         "nameFormFr": "Cancrelove",
@@ -110157,7 +110170,7 @@
         "genericName": "Câblifère",
         "heightM": 3.8,
         "infographicData": {
-          "imgInfografic": "https://cdn.discordapp.com/attachments/753217293756137542/1503044173929123870/image-187.png?ex\u003d6a394978\u0026is\u003d6a37f7f8\u0026hm\u003d3e40ab8f82d57bb1a6c9ecd7e6c10b6117437d9815447f50b962abc33875571a\u0026"
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/C%C3%A2blif%C3%A8re_normal.png"
         },
         "nameFormEng": "Xurkitree",
         "nameFormFr": "Câblifère",
@@ -118470,6 +118483,9 @@
         },
         "genericName": "Zamazenta",
         "heightM": 2.9,
+        "infographicData": {
+          "imgInfografic": "https://raw.githubusercontent.com/NOTFWOC/pogo-data/master/infographies/Zamazenta%20H%C3%A9ros%20Aguerri_normal.jpg"
+        },
         "nameFormEng": "Zamazenta Hero of Many Battles",
         "nameFormFr": "Zamazenta Héros Aguerri",
         "region": "GALAR",
