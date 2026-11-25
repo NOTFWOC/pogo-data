@@ -1,5 +1,31 @@
 [
   {
+    "endDate": "26/11/2026 19:00",
+    "id": "f3ae6ae1-2a88-49c7-a5ec-aa8d66e7510c",
+    "name": "Heure vedette Sonistrelle",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "714",
+        "pokemonNameFr": "Sonistrelle",
+        "raid": false,
+        "sauvage": true,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "26/11/2026 18:00"
+  },
+  {
     "endDate": "30/11/2026 20:00",
     "id": "2c123c45-4cd7-42ed-b316-03ebd79c4508",
     "name": "Souhaits crépusculaires partie 2",
@@ -282,6 +308,112 @@
       }
     ],
     "startDate": "26/11/2026 10:00"
+  },
+  {
+    "endDate": "01/12/2026 20:00",
+    "id": "7513002d-3a4f-4bba-8149-0038f2ebdb2a",
+    "name": "Rotation des raids légendaires",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "386att",
+        "pokemonNameFr": "Deoxys Forme Attaque",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "386def",
+        "pokemonNameFr": "Deoxys Forme Défense",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "386nor",
+        "pokemonNameFr": "Deoxys Forme Normale",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      },
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "386vit",
+        "pokemonNameFr": "Deoxys Forme Vitesse",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "25/11/2026 06:00"
+  },
+  {
+    "endDate": "01/12/2026 20:00",
+    "id": "fe11ab62-e01a-4dce-93f6-e78a44f84f36",
+    "name": "Rotation des raids méga-raids",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "376meg",
+        "pokemonNameFr": "Méga-Métalosse",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "25/11/2026 06:00"
   },
   {
     "endDate": "26/11/2026 10:00",
@@ -6415,5 +6547,31 @@
       }
     ],
     "startDate": "07/10/2026 06:00"
+  },
+  {
+    "endDate": "28/11/2026 17:00",
+    "id": "3c2e2ba4-2ea0-4e1a-9828-c6ebe65817bf",
+    "name": "Journée de Super Méga-Raids Mélodelfe",
+    "pokemons": [
+      {
+        "combatDynamax": false,
+        "encens": false,
+        "etudeTerrain": false,
+        "etudePonctuelle": false,
+        "oeuf": false,
+        "photobomb": false,
+        "pokemonId": "36meg",
+        "pokemonNameFr": "Méga-Mélodelfe",
+        "raid": true,
+        "sauvage": false,
+        "leurre": false,
+        "leurreGlacial": false,
+        "leurreMagnetique": false,
+        "leurreMoussu": false,
+        "leurrePluvieux": false,
+        "pvp": false
+      }
+    ],
+    "startDate": "28/11/2026 14:00"
   }
 ]

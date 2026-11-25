@@ -97041,7 +97041,7 @@
         "baseDefense": 114,
         "baseStamina": 158,
         "descriptionDex": "Il couvre la source de ses pouvoirs psychiques hors du commun avec ses oreilles afin d\u0027éviter les accidents.",
-        "dynamax": false,
+        "dynamax": true,
         "evolutionData": {
           "namesEng": [
             "Meowstic"
@@ -97130,7 +97130,7 @@
         "baseDefense": 167,
         "baseStamina": 179,
         "descriptionDex": "S\u0027il se sent menacé, il lève les oreilles et déchaîne un pouvoir psychique capable de réduire en miettes un camion de 10 t.",
-        "dynamax": false,
+        "dynamax": true,
         "familyMembers": [
           {
             "id": "677",
@@ -126738,6 +126738,12 @@
             "charged": true,
             "legacy": false,
             "name": "Tricherie",
+            "type": "TENEBRES"
+          },
+          {
+            "charged": true,
+            "legacy": true,
+            "name": "Génusection",
             "type": "TENEBRES"
           }
         ],
