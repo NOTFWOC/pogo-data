@@ -4,5 +4,17 @@
     "field": "avalaibleInPogo",
     "value": true,
     "ts": "2026-11-17T22:33:25.625Z"
+  },
+  {
+    "id": "36meg",
+    "field": "avalaibleInPogo",
+    "value": true,
+    "ts": "2026-11-28T13:42:44.541Z"
+  },
+  {
+    "id": "36meg",
+    "field": "avalaibleShiny",
+    "value": true,
+    "ts": "2026-11-28T13:42:44.541Z"
   }
 ]
